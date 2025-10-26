@@ -1,0 +1,3613 @@
+{
+  "label": "Averi",
+  "entries": [
+    {
+      "id": "Abacus",
+      "name": "Abaco",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Ale, Keg",
+      "name": "Birra, Barilotto",
+      "description": "<p>Capacità 13,5 l. Uno vuoto può essere riempito con 3p</p>"
+    },
+    {
+      "id": "Ale, pint",
+      "name": "Birra, Pinta",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Amulet",
+      "name": "Amuleto",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Animal Trap",
+      "name": "Trappola per Animali",
+      "description": "<p>Usata per catturare piccole prede (vedi @Compendium[wfrp4e-core.skills.os4NKy5Oy6sRt1eh]{Sopravvivere}).</p>"
+    },
+    {
+      "id": "Antitoxin Kit",
+      "name": "Kit Antitossine",
+      "description": "<p>Contiene un coltellino, erbe e una giara di sanguisughe. Superando una Prova di Guarire permette di rimuovere tutte le Condizioni di Avvelenato da un paziente. Il trattamento richiede almeno 2 Round.</p>"
+    },
+    {
+      "id": "Arrow",
+      "name": "Frecce",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Backpack",
+      "name": "Zaino",
+      "description": "<p>Conta come ‘indossato’ se legato sulla schiena.&nbsp;</p>"
+    },
+    {
+      "id": "Ball",
+      "name": "Palla",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Bandage",
+      "name": "Benda",
+      "description": "<p>Superando una <strong>Prova di Guarire</strong> o di <strong>Destrezza</strong> permette di rimuovere 1 <em>Sanguinante.</em></p>"
+    },
+    {
+      "id": "Barrel",
+      "name": "Botte",
+      "description": "<p>Capacità: 145 l.</p>\n<p>&nbsp;</p>"
+    },
+    {
+      "id": "Bastard Sword",
+      "name": "Spada Bastarda",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Baton",
+      "name": "Manganello",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Bedroll",
+      "name": "Sacco a Pelo",
+      "description": "<p>Fornisce +20 alle Prove di Tempra per resistere al freddo mentre si dorme.</p>"
+    },
+    {
+      "id": "Black Lotus",
+      "name": "Loto Nero",
+      "description": "<p>Questa pianta letale cresce solo nelle giungle delle Terre Meridionali e la sua resina viene cosparsa sulle lame. Chi subisce almeno 1 Ferita deve superare una <strong> Prova Difficile (–10) di Tempra</strong> o subisce 2 Condizioni <em>Avvelenato</em>.</p>"
+    },
+    {
+      "id": "Blanket",
+      "name": "Coperta",
+      "description": "<p>Fornisce +20 alle Prove di Tempra per resistere al freddo mentre si dorme.</p>"
+    },
+    {
+      "id": "Blunderbuss",
+      "name": "Trombone",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Boat Hook",
+      "name": "Gaffa",
+      "description": "<p>Asta di legno, munita sulla cima di un ferro a uncino, che fa parte dell’attrezzatura delle imbarcazioni.</p>"
+    },
+    {
+      "id": "Boiled Leather Breastplate",
+      "name": "Pettorale in Cuoio Bollito",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Bolas",
+      "name": "Bolas",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Bolt",
+      "name": "Quadrelli",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Bomb",
+      "name": "Bomba",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Book, Apothecary",
+      "name": "Libro, Apotecario",
+      "description": "<p>Questi libri sono solitamente scritti a mano e contengono ricette e istruzioni su come distillare farmaci. Di solito includono le formule per Tonico Digestivo, Infuso Guaritore e Infuso Vitale (vedere Erbe e Infusi). Le versioni più avanzate comprendono ricette ancora più esotiche.</p>"
+    },
+    {
+      "id": "Book, Art",
+      "name": "Libro, Arte",
+      "description": "<p>Questi testi hanno molte forme, perchè ballate, poemi e altri arrangiamenti sono spesso scritti su fogli volanti. Le opere su porspettiva, forma e stile redatte da celebri artisti, come Leonardo da Miragliano, vengono spesso stampate per il grande publico.&nbsp;</p>"
+    },
+    {
+      "id": "Book, Cryptography",
+      "name": "Libro, Crittografia",
+      "description": "<p>Di solito, un codice può spesso essere riassunto in una o due pagine. Questi libri invece, di solito manoscritti, trattano di come creare o decifrare sistemi matematici, numerologici e polialfabetici.</p>"
+    },
+    {
+      "id": "Book, Engineer",
+      "name": "Libro, Ingegneria",
+      "description": "<p>La maggioranza di questi testi è stampata. L'ingegneria è la scienza più avanzata dell'Impero, grazie alla Scuola Imperiale d'Ingegneria di Altdorf e alla Gilda degli Ingegneri dei Nani. Spesso, i Nani redigono, scrivono (a due o quattro mani)o collaborano alla stesura di questi testi.</p>"
+    },
+    {
+      "id": "Book, Law",
+      "name": "Libro, Legge",
+      "description": "<p>La legge varia molto da zona a zona. Nelle città principali i codici legali vengono riuniti in enormi volumi, mentre nei paesi più piccoli i magistrati devono cavarsela con documenti scritti a mano secoli fa. Questi libri vengono usati da avvocati e magistrati itineranti, che spesso riuniscono in un'unica copertina pagine raccolte e stampate in diverse parti dell'Impero.</p>"
+    },
+    {
+      "id": "Book, Magic",
+      "name": "Libro, Magia",
+      "description": "<p>Di solito, i Grimori vengono scritti a mano dai maghi e sigillati con un lucchetto e, a volte, allarmi e protezioni magiche. Un individuo privo di licenza dei Colleghi che ne porti con sè uno può essere accusato di eresia.</p>"
+    },
+    {
+      "id": "Book, Medicine",
+      "name": "Libro, Medicina",
+      "description": "<p>I testi medici possono essere scritti a mano o stampati, a seconda del prestigio dell'autore. Includono molte illustrazioni dettagliate di autopsie e diagrammi delle procedure.</p>"
+    },
+    {
+      "id": "Book, Religion",
+      "name": "Libro, Religione",
+      "description": "<p>Ci sono testi religiosi di ogni genere nell'Impero, la cui popolazione è famosa per la propria devozione. I più popolari sono molto richiesti e realizzati a basso costo da numerosi stampatori.</p>"
+    },
+    {
+      "id": "Boots",
+      "name": "Stivali",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Bow",
+      "name": "Arco",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Bowl",
+      "name": "Scodella",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Brass Penny",
+      "name": "Penny d'Ottone",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Broom",
+      "name": "Scopa",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Bucket",
+      "name": "Secchio",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Bugman’s XXXXXX Ale, pint",
+      "name": "Birra, Bugman XXXXXX, pinta",
+      "description": "<p>Mercanti di tutto il Vecchio Mondo acquistano questa potente birra Nanica dal famoso birrificio fondato da Josef Burgman e la rivendono nelle grandi città. Un boccale di Burgman's conta come quattro di birra comune ai fini dell'ubriacatura (vedi @UUID[JournalEntry.6zOdTLv3YeYeJ4hR.JournalEntryPage.38Ux3mEWYuQ4heIT]{Reggere Alcolici}), e fornisce immunità alle Prove di Paura per 1d10 ore.</p>"
+    },
+    {
+      "id": "Bullet and Powder",
+      "name": "Pallottole a Polvere",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Candle",
+      "name": "Candela",
+      "description": "<p>Illumina in un raggio di 10 metri.</p>"
+    },
+    {
+      "id": "Canvas Tarp",
+      "name": "Tela Cerata",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Cart",
+      "name": "Carretto",
+      "description": "<p>Richiede un conducente e un animale da tiro.</p>"
+    },
+    {
+      "id": "Cask",
+      "name": "Barile",
+      "description": "<p>Capacità: 45 l.</p>\n<p>&nbsp;</p>"
+    },
+    {
+      "id": "Cavalry Hammer",
+      "name": "Martello da Cavaliere",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Chalk",
+      "name": "Gesso",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Charcoal stick",
+      "name": "Carboncino",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Chicken",
+      "name": "Gallina",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Chisel",
+      "name": "Scalpello",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Cloak",
+      "name": "Mantello",
+      "description": "<p>Protegge dagli elementi.&nbsp;</p>"
+    },
+    {
+      "id": "Clothing",
+      "name": "Abiti",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Coach",
+      "name": "Carrozza",
+      "description": "<p>Di solito ha due conducenti e quattro cavalli.</p>"
+    },
+    {
+      "id": "Coat",
+      "name": "Cappotto",
+      "description": "<p style=\"margin: 0in; font-family: Calibri; font-size: 11.0pt; color: #231f20;\">Protegge dagli elementi e dal freddo estremo; chi è senza un cappotto o altre protezioni simili subisce penalità nel resistere al freddo.</p>"
+    },
+    {
+      "id": "Comb",
+      "name": "Pettine",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Cooking Pot",
+      "name": "Pentola",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Coracle",
+      "name": "Canoa",
+      "description": "<p>Le canoe sono piccole imbarcazioni leggere per una persona, che possono essere trasportate facilmente. Di solito sono fatte di pelli o corteccia tese su una struttura di legno e hanno un solo remo.</p>"
+    },
+    {
+      "id": "Costume",
+      "name": "Costume",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Courtly Garb",
+      "name": "Abito da Corte",
+      "description": "<p>Quest'abito include decorazioni come polsini in merletto, tessuti di qualità eccessiva e scarpini a punta. Durante banchetti e cerimonie anche i servi li indossano, sebbene le loro giacche e corsetti siano decisamente meno ostentati di quelli degli aristocratici e, di conseguenza, costino la metà.&nbsp;</p>"
+    },
+    {
+      "id": "Crossbow",
+      "name": "Balestra",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Crossbow Pistol",
+      "name": "Balestrino",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Crowbar",
+      "name": "Piede di Porco",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Crutch",
+      "name": "Stampella",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Cup",
+      "name": "Tazza",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Cutlery",
+      "name": "Posate",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Dagger",
+      "name": "Pugnale",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Dart",
+      "name": "Dardo",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Davrich Lamp",
+      "name": "Lampada Davrich",
+      "description": "<p>Questa lampada di sicurezza, ideata dal Mastro Ingegnere Davrich Stephansson per i minatori del reikland, emette luce pari a una candela. Quando incontra un grisù (gas esplosivo) si illumina violentemente; dopo [[/r 1d10]] Round incendia il gas, dando però tempo di accorgersene.</p>"
+    },
+    {
+      "id": "Deck of Cards",
+      "name": "Mazzo di Carte",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Destrier",
+      "name": "Destriero",
+      "description": "<p>Un cavallo addestrato per la guerra.</p>"
+    },
+    {
+      "id": "Dice",
+      "name": "Dado",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Digestive Tonic",
+      "name": "Tonico Digestivo",
+      "description": "<p>Fornisce +20 Alle Prove per recuperare da problemi come <em>Dissenteria</em> o <em>Diarrea Rossa</em>.</p>"
+    },
+    {
+      "id": "Disguise Kit",
+      "name": "Kit Camuffamento",
+      "description": "<p>Contiene materiale sufficente a quattro travestimenti (parrucche e trucco) e altri strumenti per alterare l'aspetto quando si usa l'Abilità Intrattenere (Recitare), come cerone, sangue finto e protesi.</p>"
+    },
+    {
+      "id": "Dog collar and lead",
+      "name": "Collare e guinzaglio",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Doll",
+      "name": "Bambola",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Draught Horse",
+      "name": "Cavallo da Tiro",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Ear Pick",
+      "name": "Curette per Orecchie",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Earth Root",
+      "name": "Radice di Terra",
+      "description": "<p>Quest'erba viene ingerita per contrastare i bubboni della Peste Nera (che restano comunque notevoli). Inoltre fornisce +10 a tutte le Prove legate alla malattia. <strong>Dosi</strong>: 1 al giorno.</p>"
+    },
+    {
+      "id": "Elf Arrow",
+      "name": "Freccia Elfica",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Elf Bow",
+      "name": "Arco Elfico",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Engineering Marvel",
+      "name": "Meraviglia Ingegneristica",
+      "description": "<p>Solo i più ricchi possono permettersi di commissionare alla Gilda degli Ingegneri queste opere d'arte. Una Meraviglia permette d'ignorare la perdita di un orecchio, mano, braccio o gamba, rimpiazzato da metallo e congegni a vapore. Se la Locazione rimpiazzata subisce Ferita Critica, il marchingegno smetterà di funzionare e dovrà essere portato a riparare (prezzo minimo, il 10% del costo base, ma può dipendere dalla natura della Ferita Critica).</p>"
+    },
+    {
+      "id": "Eye patch",
+      "name": "Benda sull'Occhio",
+      "description": "<p>Spesso decorata, viene usata per coprire le ferita all'orbita oculare.</p>"
+    },
+    {
+      "id": "Face Powder",
+      "name": "Cipria",
+      "description": "<p></p>"
+    },
+    {
+      "id": "False Eye",
+      "name": "Occhio Finto",
+      "description": "<p>Molto popolare tra i nobili che non apprezzano le semplici bende. Ce ne sono di vari materiali, dal legno al vetro.</p>"
+    },
+    {
+      "id": "False Leg",
+      "name": "Gamba Finta",
+      "description": "<p>&nbsp;</p>\n<p>Una gamba finta (o piede finto, che costa la metà) permette di ignorare 1 punto perdita di Movimento dovuto all'amputazione. Pagando 100 PE è possibile allenarsi a usarla per recuperare un ulteriore punto di Movimento perso. Per altri 200 PE è possibile imparare di nuovo a Schivare. Tuttavia, queste capacità richiedono di non perdere la gamba finta.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>"
+    },
+    {
+      "id": "Faxtoryll",
+      "name": "Fior di Bosco",
+      "description": "<p>Ridotta a unguento, quest'erba agisce da coagulante e rimuove tutte le Condizioni <em>Sanguinante</em> senza bisogno di Prove. <strong>Dosi</strong>: 1 per Ferita Critica.</p>"
+    },
+    {
+      "id": "Fish Hooks",
+      "name": "Ami da Pesca",
+      "description": "<p>Usati per pescare (vedere pag. 129).</p>"
+    },
+    {
+      "id": "Flail",
+      "name": "Flagello",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Flask",
+      "name": "Fiasca",
+      "description": "<p>Capacità: 0,5 l.</p>\n<p>&nbsp;</p>"
+    },
+    {
+      "id": "Flask of Spirits",
+      "name": "Boccetta di Liquore",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Floor Brush",
+      "name": "Spazzolone",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Foil",
+      "name": "Fioretto",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Food, groceries/day",
+      "name": "Provviste, giorno",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Gavel",
+      "name": "Martelletto",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Gilded Nose",
+      "name": "Naso D'oro",
+      "description": "<p>Nonostante molti nasi finti siano di legno o ceramica, vengono quasi sempre indicati come 'nasi d'oro'. Il personaggio ignora la perdita di Socialità causata dalla mancanza del naso.</p>"
+    },
+    {
+      "id": "Gloves",
+      "name": "Guanti",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Gold Crown",
+      "name": "Corona d'Oro",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Grain Flail",
+      "name": "Correggiato",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Grappling Hook",
+      "name": "Rampino",
+      "description": "<p>Insieme con una corda rende rende affrontabili le pareti più impervie.</p>"
+    },
+    {
+      "id": "Great Axe",
+      "name": "Ascia a 2 Mani",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Guild License",
+      "name": "Licenza della Gilda",
+      "description": "<p>Di solito queste licenze sono stampate su una singola pergamena e autenticate con un sigillo ufficiale e la firma di un mastro. Non è possibile acquistarle, ma vengono concesse in accordo con la tradizione e il regolamento di ogni Gilda.</p>"
+    },
+    {
+      "id": "Halberd",
+      "name": "Alabarda",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Hammer",
+      "name": "Martello",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Hand Mirror",
+      "name": "Specchietto",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Hand Weapon",
+      "name": "Arma a una Mano",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Handgun",
+      "name": "Archibugio",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Hat",
+      "name": "Cappello",
+      "description": "<p>Un cappello di alta qualità è un simbolo di status nell'Impero, più è spetacolare meglio è.</p>"
+    },
+    {
+      "id": "Healing Draught",
+      "name": "Infuso Guaritore",
+      "description": "<p>Se il Personaggio ha più di 0 Ferite, bevendolo ne recupera un numero pari al proprio Bonus Resistenza. <strong>Dosi</strong>: 1 per incontro.</p>"
+    },
+    {
+      "id": "Healing Poultice",
+      "name": "Unguento Guaritore",
+      "description": "<p>Questa medicina puzzolente è composta di letame e urina mescolate con erbe comuni, come la Foglia di Sigmar, la Tarrabeth e la Valeriana. Trattare una Ferita Critica con questo medicinale previene le <em> Infezioni Minori.</em></p>"
+    },
+    {
+      "id": "Heartkill",
+      "name": "Ammazzacuore",
+      "description": "<p>Questa sostanza inodore e incolore si ottiene mescolando il veleno dell'Anfisbena (un raro serpente a due teste) con quello di un Jabberslythe. Se ingerita provoca 4 <em> Avvelenato</em>. Resistere richiede una <strong>Prova Difficile (–10) di Tempra.</strong></p>"
+    },
+    {
+      "id": "Heavy Crossbow",
+      "name": "Balestra Pesante",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Hochland Long Rifle",
+      "name": "Moschetto Hochland",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Hoe",
+      "name": "Zappa",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Homing Pigeon",
+      "name": "Piccione Viaggiatore",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Hood",
+      "name": "Cappuccio",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Hook",
+      "name": "Uncino",
+      "description": "<p style=\"margin: 0in; font-family: Calibri; font-size: 11.0pt;\"><span style=\"color: #231f20;\">Gli uncini vengono legati al posto di una mano mancante e si rivelano strumenti molto duttili una volta imparato a d usarli. Il Personaggio può eliminare la penalità di -20 alle attività che richiedono due mani al costo di 100 PE ogni -5 (rimuovendola completamente con 400 PE). </span><strong><span style=\"color: #231f20;\">Appendice</span></strong><span style=\"font-weight: bold; color: #231f20;\">: </span><span style=\"color: #231f20;\">In combattimento un uncino conta come un Pugnale.</span></p>"
+    },
+    {
+      "id": "Hunting Dog",
+      "name": "Cane da Caccia",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Improvised Shot and Powder",
+      "name": "Carica Improvvisata",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Improvised Weapon",
+      "name": "Arma Improvvisata",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Incendiary",
+      "name": "Bomba Incendiaria",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Instrument",
+      "name": "Strumento Musicale",
+      "description": "<p>Esistono molti tipi di strumenti musicali. Il prezzo inidcato è per uno di dimensioni medie (come un mandolino, un corno da cocchiere o un piccolo tamburo). Strumenti piccoli (flauti e tamburelli) costano la metà e hanno Ingombro 0, mentre quelli grandi (arpe, liuti o grossi tamburi), costano il doppio e hanno Ingombro 2.</p>"
+    },
+    {
+      "id": "Javelin",
+      "name": "Giavellotto",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Jewellery",
+      "name": "Gioielli",
+      "description": "<p>Il prezzo dipende dalla fattura e dai materiali impiegati. Di solito un semplice anello metallico senza gemme costa 10 monete del tipo corrispondente (Ottone, Argento od Oro), mentre le collane ne costano 20.</p>"
+    },
+    {
+      "id": "Jug",
+      "name": "Caraffa",
+      "description": "<p>Capacità: 4,5 l.</p>\n<p>&nbsp;</p>"
+    },
+    {
+      "id": "Key",
+      "name": "Chiave",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Knife",
+      "name": "Coltello",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Knife",
+      "name": "Coltello",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Knuckledusters",
+      "name": "Tirapugni",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Lamp Oil",
+      "name": "Olio per Lanterne",
+      "description": "<p>Una fiasca ne contiene abbastanza per 4 ore, che diventano  tenendo la fiamma bassa come quella di una candela.</p>"
+    },
+    {
+      "id": "Lance",
+      "name": "Lancia da Cavaliere",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Lantern",
+      "name": "Lanterna",
+      "description": "<p>Illumina in un raggio di 20 metri.</p>"
+    },
+    {
+      "id": "Lasso",
+      "name": "Lazo",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Lead Bullet",
+      "name": "Proiettili di Piombo",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Leaflet",
+      "name": "Volantino",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Leather Jack",
+      "name": "Giaco di Cuoio",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Leather Jerkin",
+      "name": "Farsetto di Cuoio",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Leather Leggings",
+      "name": "Gambali di Cuoio",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Leather Skullcap",
+      "name": "Elmetto di Cuoio",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Legal Document",
+      "name": "Documento Legale",
+      "description": "<p>Un semplice documento notificato, come una cambiale o una lettera d'intenti.</p>"
+    },
+    {
+      "id": "Light Warhorse",
+      "name": "Cavallo da guerra Leggero",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Lock Picks",
+      "name": "Grimaldelli",
+      "description": "<p>Una serie di piccoli strumenti acuminati, necessari per usare l'Abilità Scassinare senza penalità.&nbsp;</p>"
+    },
+    {
+      "id": "Longbow",
+      "name": "Arco Lungo",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Mad Cap Mushrooms",
+      "name": "Fungo Cappello Matto",
+      "description": "<p>Questi funghi allucinogeni vengono mangiati dai Fanatici Goblin prima della battaglia e provocano una rabbia simile a quella del Berserker, che fornisce +10 Forza, +4 Ferite e il Talento <em>Furia</em>. Al termine dell'effetto il Personaggio perde 1d10 Ferite. Inoltre, se non è un Pelleverde, dovrà superare una <strong>Prova Impegnativa (+0) di Tempra</strong> per non cotrarre un'<em>Infezione Minore</em>. <strong>Durata</strong>: Ha effetto mentre viene masticato e per i 2d10 minuti seguenti.</p>"
+    },
+    {
+      "id": "Mail Chausses",
+      "name": "Gambali di Maglia",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Mail Coat",
+      "name": "Usbergo",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Mail Coif",
+      "name": "Camaglio",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Mail Shirt",
+      "name": "Corpetto di Maglia",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Main Gauche",
+      "name": "Daga Mancina",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Manacles",
+      "name": "Ceppi",
+      "description": "<p>Un prigioniero che tenti di liberarsi subisce 1 Ferita e deve superare una <strong>Prova Molto Ardua (-30) di Forza.</strong></p>"
+    },
+    {
+      "id": "Mandrake Root",
+      "name": "Radice di Mandragola",
+      "description": "<p>Questa pianta cresce sotto le forche, provoca follia e una forte dipendenza. Chi ne fa uso deve superare una <strong>Prova di Volontà</strong> ogni Round per poter effettuare un'Azione o una Manovra (a sua scelta). Inoltre, ha Movimento dimezzato, ma +20 alle Prove di Freddezza. <strong>Durata</strong>: Ha effetto mentre viene masticata e per i 1d10×10 minuti seguenti.</p>"
+    },
+    {
+      "id": "Map",
+      "name": "Mappa",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Mask",
+      "name": "Maschera",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Match",
+      "name": "Fiammifero",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Meal, inn",
+      "name": "Pasto, Locanda",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Military Flail",
+      "name": "Flagello Militare",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Monkey",
+      "name": "Scimmia",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Moonflower",
+      "name": "Fiore Lunare",
+      "description": "<p>E' un tranquillante, e si ricava facendo essiccare un muschio che cresce solo sulle foglie della Foresta di Laurelorn. Gli Elfi lo usano per trattare la Peste Nera, fornendo un bonus di +30 alle Prove per resistere alla malattia (purtroppo funzione solo sugli Elfi). Le altre Specie lo fanno bollire e ne inalano i vapori. Questo richiede una <strong>Prova Molto Ardua (–30) di Volontà</strong> per non cadere <em>Privo di Sensi</em>. Chi ha successo ottine +20 alle Prove di Freddezza e 1 <em>Affaticato</em>. I medici più costosi lo usano come anestetico. <strong>Durata</strong>: 1d10+5 ore.</p>"
+    },
+    {
+      "id": "Mop",
+      "name": "Redazza",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Mule",
+      "name": "Mulo",
+      "description": "<p>Un Mulo addestrato per la guerra.</p>"
+    },
+    {
+      "id": "Nails",
+      "name": "Chiodi",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Nightshade",
+      "name": "Belladonna",
+      "description": "<p>Chi consuma quest'erba cade in un sonno profondo dopo 2-3 ore, a meno che superi una <strong>Prova di Tempra</strong>. L'effetto dura per 1d10+4 ore. <strong>Dosi</strong>: 1 a persona.</p>"
+    },
+    {
+      "id": "Paint Brush",
+      "name": "Pennello",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Pan",
+      "name": "Padella",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Parchment/sheet",
+      "name": "Pergamena, Foglio",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Perfume",
+      "name": "Profumo",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Pestle & Mortar",
+      "name": "Mortaio e Pestello",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Pewter Stein",
+      "name": "Boccale di Peltro",
+      "description": "<p>Tazza/boccale di birra in peltro.</p>\n<p>&nbsp;</p>"
+    },
+    {
+      "id": "Pick",
+      "name": "Piccone",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Pick",
+      "name": "Piccone",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Pike",
+      "name": "Picca",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Pins",
+      "name": "Forcine",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Pipe and Tobacco",
+      "name": "Pipa e Tabacco",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Pistol",
+      "name": "Pistola",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Placard",
+      "name": "Cartello",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Plate",
+      "name": "Piatto",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Plate Bracers",
+      "name": "Bracciali",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Plate Breastplate",
+      "name": "Pettorale",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Plate Helm",
+      "name": "Elmo Chiuso",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Plate Leggings",
+      "name": "Gambali",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Plate Open Helm",
+      "name": "Elmo aperto",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Pole (3 yards)",
+      "name": "Palo (3 metri)",
+      "description": "<p>Un lungo palo usato per governare le chiatte; conta come un @Compendium[wfrp4e-core.trappings.mRU10yAWWWs5WoKt]{Arma Improvvisata}</p>"
+    },
+    {
+      "id": "Pony",
+      "name": "Pony",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Pouch",
+      "name": "Scarsella",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Quarterstaff",
+      "name": "Bastone",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Quill Pen",
+      "name": "Penna d'Oca",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Rags",
+      "name": "Stracci",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Rake",
+      "name": "Rastrello",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Ranald's Delight",
+      "name": "Delizia di Ranald",
+      "description": "<p>E' uno stimolante artificiale, che provoca forte dipendenza, composto di zolfo, mercurio e altri elementi. Inalare la polvere aggiunge +1 Movimento e +1 ad Abilità di Combattimento, Forza, Resistenza, e Agilità per 3 ore. Al termine dell'effetto si subisce -2 Movimento e -20 alle Caratteristiche indicate sopra. <strong>Durata</strong>: 1 giorno.</p>"
+    },
+    {
+      "id": "Rapier",
+      "name": "Stocco",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Rations, 1 day",
+      "name": "Razioni, 1 giorno",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Reading Lens",
+      "name": "Lenti da Lettura",
+      "description": "<p>Queste lenti di vetro forniscono +20 alle Prove di Linguaggio per decifrare caratteri piccoli o poco leggibili e a quelle di Percepire per individuare porte o scomparti segreti.</p>"
+    },
+    {
+      "id": "Religious Symbol",
+      "name": "Simbolo Religioso",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Repeater Handgun",
+      "name": "Archibugio a Ripetizione",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Repeater Pistol",
+      "name": "Pistola a Ripetizione",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Riding Horse",
+      "name": "Cavallo da Galoppo",
+      "description": "<p></p>"
+    },
+    {
+      "id": "River Barge",
+      "name": "Barcone da Fiume",
+      "description": "<p>Richiede un equipaggio di almeno 3 persone.</p>"
+    },
+    {
+      "id": "Robes",
+      "name": "Tunica",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Rock",
+      "name": "Sasso",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Room, common/night",
+      "name": "Stanza comune, notte",
+      "description": "<p>Chi dorme in una stanza comune deve stare attento ai ladri.</p>"
+    },
+    {
+      "id": "Room, private/night",
+      "name": "Stanza privata, notte",
+      "description": "<p>Per due persone. Quelle grandi costano il doppio e hanno quattro letti.</p>"
+    },
+    {
+      "id": "Rope, 10 yards",
+      "name": "Fune, 10 metri",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Row Boat",
+      "name": "Barca a Remi",
+      "description": "<p>Richiede almeno un rematore.</p>"
+    },
+    {
+      "id": "Sack",
+      "name": "Sacco",
+      "description": "<p>Richiede una mano per essere trasportato.</p>"
+    },
+    {
+      "id": "Sack, Large",
+      "name": "Sacco Grande",
+      "description": "<p>Richiede una mano per essere trasportato (due se pieno).</p>"
+    },
+    {
+      "id": "Saddle and Harness",
+      "name": "Sella e Briglie",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Saddlebags",
+      "name": "Borse da Sella",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Salwort",
+      "name": "Salicornia",
+      "description": "<p>Mettendo sotto il naso di una persona un trito di quest'erba, il potente aroma rimuove 1 <em>Stordito</em>. <strong>Dosi</strong>: 1 per incontro.</p>"
+    },
+    {
+      "id": "Saw",
+      "name": "Sega",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Scepter",
+      "name": "Scettro",
+      "description": "<p>I funzionari di grado alto lo portano per indicare la propria posizione.</p>"
+    },
+    {
+      "id": "Scroll Case",
+      "name": "Custodia Pergamene",
+      "description": "<p>Conta come ‘indossata’ se portata su una spalla.</p>"
+    },
+    {
+      "id": "Shield",
+      "name": "Scudo",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Shield (Buckler)",
+      "name": "Brocchiero",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Shield (Large)",
+      "name": "Scudo Grande",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Shoes",
+      "name": "Scarpe",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Shortbow",
+      "name": "Arco Corto",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Sickle",
+      "name": "Falce",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Signet Ring",
+      "name": "Anello con Sigillo",
+      "description": "<p>&nbsp;</p>\n<p>Nobili e funzionari delle Gilde portano anelli d'oro incisi per imprimere il proprio sigillo nella ceralacca.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>"
+    },
+    {
+      "id": "Silver Shilling",
+      "name": "Scellino d'Argento",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Sling",
+      "name": "Frombola",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Sling Bag",
+      "name": "Borsa a Tracolla",
+      "description": "<p>Conta come ‘indossata’ se portata su una spalla.</p>"
+    },
+    {
+      "id": "Small shot and Powder",
+      "name": "Carica a Pallini",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Spade",
+      "name": "Pala",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Spear",
+      "name": "Lancia",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Spike",
+      "name": "Spuntone",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Spirits, pint",
+      "name": "Distillato, pinta",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Spit",
+      "name": "Sputo",
+      "description": "<p>Questo allucinogeno, straordinariamente potente, viene estratto dalle Sanguisughe Camaleonte che infestano le paludi dell'Impero e provoca visioni dei propri desideri più intensi (come un amante perduto, un amico morto o un bambino scomparso). Il nome viene dalla strada, dove è popolare tra i disperati. Una volta consumato bisogna superare una <strong>Prova Molto Ardua (–30) di Resistenza</strong> per non perdersi in una fantasia molto realistica decisa da GM. <strong>Durata</strong>: 1d10 minuti.</p>"
+    },
+    {
+      "id": "Stables/night",
+      "name": "Stallaggio, notte",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Staff Sling",
+      "name": "Frombola a Palo",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Stamp, engraved",
+      "name": "Timbro, inciso",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Stone Bullet",
+      "name": "Sassi",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Storm Lantern",
+      "name": "Lanterna Schermata",
+      "description": "<p>Gli scuri proteggono la fiamma dal vento e permettono di direzionare la luce in un cono di 90&deg o oscurarla completamente. Illumina in un raggio di 20 metri, 30 se direzionata.</p>"
+    },
+    {
+      "id": "Swordbreaker",
+      "name": "Spezzalama",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Tattoo",
+      "name": "Tatuaggio",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Telescope",
+      "name": "Cannocchiale",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Tent",
+      "name": "Tenda",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Throwing Axe",
+      "name": "Ascia da Lancio",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Throwing Knife",
+      "name": "Coltello da Lancio",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Tinderbox",
+      "name": "Acciarino",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Tongs, steel",
+      "name": "Pinza, acciaio",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Trade Tools (Type)",
+      "name": "Arnesi del Mestiere (Tipo)",
+      "description": "<p><strong>Apotecario</strong>: Gli Arnesi includono mortaio e pestello, cucchiai, vasi, bilancia e pesi. Un Laboratorio comprende bruciatori a olio e molti scaffali colmi di ingredienti.</p>\n<p>&nbsp;</p>\n<p><strong>Artigiano</strong>: Ci sono diversi tipi di artigiano.</p>\n<p>Per esempio:</p>\n<ul type=\"disc\">\n<li><strong>Carpentiere</strong>:  Martello, chiodi, sega, metro, gesso e filo a piombo. Il Laboratorio comprende tornii, pialle, morse e una scorta di legname.</li>\n</ul>\n<ul type=\"disc\">\n<li><strong>Incisore</strong>: Bulini, punzoni, cera, acquaforte, martello e scalpello. Nel Laboratorio si trovano inchiostro e torchio da stampa.</li>\n</ul>\n<ul type=\"disc\">\n<li><strong>Fabbro</strong>: Martello, molle, punzoni, chiodaia, punte e trapano. Nel Laboratorio si trovano incudine, fornace, blocco da chiodaia, maglio e lingotti di metallo.</li>\n</ul>\n<p>&nbsp;</p>\n<p>Altri Artigiani includono: Armaioli, Birrai, Bottai, Calligrafi, Candelai, Cartografi, Ciabattini, Conciatori, Costruttori d'Archi, Costruttori di Barche, Cuochi, Filatori, Gioiellieri, Imbalsamatori, Imbianchini, Intagliatori del Legno, Muratori, Orafi, Pellettieri, Sarti, Scalpellini, Soffiatori di Vetro, Tagliatori di Gemme, Vasai e Vignaioli.</p>\n<p>&nbsp;</p>\n<p><strong>Artista</strong>: Pennelli e pigmenti, martello e scalpello, lime e raspe. Il Laboratorio include piedistalli, una scorta di tele, legno, argilla o pietra grezza.</p>\n<p><strong>Ingegnere</strong>: Clessidra, metro, miccia, compasso e riga a T. Nel Laboratorio ci sono pulegge, funi e tavoli di legno.</p>\n<p><strong>Erborista</strong>: Mortaio e pestello, piccoli coltelli, cesoie e guanti. Il Laboratorio comprende rastrelliere da essicazione, filtri, alambicchi, tazze e vasi.</p>\n<p><strong>Navigatore</strong>: Quadrante, astrolabio, mappe, bussola, clessidra e scandaglio. Di solito non ci sono Laboratori.</p>\n<p><strong>Medico</strong>: Aghi, filo da sutura, bende, bisturi, aceto, forcipe e divaricatore. I Laboratori includono tavole anatomiche, altri strumenti assortiti e un tavolo operatorio.&nbsp;</p>"
+    },
+    {
+      "id": "Tweezers",
+      "name": "Pinzette",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Unarmed",
+      "name": "Mani Nude",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Uniform",
+      "name": "Uniforme",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Vitality Draught",
+      "name": "Infuso Vitale",
+      "description": "<p>Bere questo infuso rimuove tutte le Condizioni <em>Affaticato.</em></p>"
+    },
+    {
+      "id": "Wagon",
+      "name": "Carro",
+      "description": "<p>Di solito ha un conducente e due cavalli.</p>"
+    },
+    {
+      "id": "Walking Cane",
+      "name": "Bastone da Passeggio",
+      "description": "<p>Bastoni di legno laccato con puntali metallici sono una status-symbol tra i ricchi.</p>"
+    },
+    {
+      "id": "Warhammer",
+      "name": "Martello da Guerra",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Waterskin",
+      "name": "Otre",
+      "description": "<p>Capacità: 4,5 l. Conta come ‘indossato’ se legato sulla schiena.</p>"
+    },
+    {
+      "id": "Weirdroot",
+      "name": "Radice Stramba",
+      "description": "<p>E' una delle droghe più comuni nelle strade dell'Impero. Masticarla Provoca un senso di euforia e allucinazioni piacevoli, secondo alcuni legate ai Venti della Magia. Fornisce +10 alle Prove di Resistenza e Volontà, ma -10 a quelle di Agilità, Iniziativa e Intelligenza. <strong>Durata</strong>: Ha un effetto mentre viene masticata e per i [[/r 1d10 * 10]] minuti seguenti.</p>"
+    },
+    {
+      "id": "Whip",
+      "name": "Frusta",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Wine & Spirits, drink",
+      "name": "Vini & Liquori, bicchiere",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Wine, bottle",
+      "name": "Vino, bottiglia",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Wooden Teeth",
+      "name": "Denti di Legno",
+      "description": "<p>I denti finti sono spesso magnificamente incisi e dipinti e, a volte, rappresentano un netto miglioramento rispetto agli originali. Il Personaggio ignora le penalità per la perdita dei denti.</p>"
+    },
+    {
+      "id": "Workshop (Type)",
+      "name": "Laboratorio (Tipo)",
+      "description": "<p><strong>Apotecario</strong>: Gli Arnesi includono mortaio e pestello, cucchiai, vasi, bilancia e pesi. Un Laboratorio comprende bruciatori a olio e molti scaffali colmi di ingredienti.</p>\n<p>&nbsp;</p>\n<p><strong>Artigiano</strong>: Ci sono diversi tipi di artigiano.</p>\n<p>Per esempio:</p>\n<ul type=\"disc\">\n<li><strong>Carpentiere</strong>:  Martello, chiodi, sega, metro, gesso e filo a piombo. Il Laboratorio comprende tornii, pialle, morse e una scorta di legname.</li>\n</ul>\n<ul type=\"disc\">\n<li><strong>Incisore</strong>: Bulini, punzoni, cera, acquaforte, martello e scalpello. Nel Laboratorio si trovano inchiostro e torchio da stampa.</li>\n</ul>\n<ul type=\"disc\">\n<li><strong>Fabbro</strong>: Martello, molle, punzoni, chiodaia, punte e trapano. Nel Laboratorio si trovano incudine, fornace, blocco da chiodaia, maglio e lingotti di metallo.</li>\n</ul>\n<p>&nbsp;</p>\n<p>Altri Artigiani includono: Armaioli, Birrai, Bottai, Calligrafi, Candelai, Cartografi, Ciabattini, Conciatori, Costruttori d'Archi, Costruttori di Barche, Cuochi, Filatori, Gioiellieri, Imbalsamatori, Imbianchini, Intagliatori del Legno, Muratori, Orafi, Pellettieri, Sarti, Scalpellini, Soffiatori di Vetro, Tagliatori di Gemme, Vasai e Vignaioli.</p>\n<p>&nbsp;</p>\n<p><strong>Artista</strong>: Pennelli e pigmenti, martello e scalpello, lime e raspe. Il Laboratorio include piedistalli, una scorta di tele, legno, argilla o pietra grezza.</p>\n<p><strong>Ingegnere</strong>: Clessidra, metro, miccia, compasso e riga a T. Nel Laboratorio ci sono pulegge, funi e tavoli di legno.</p>\n<p><strong>Erborista</strong>: Mortaio e pestello, piccoli coltelli, cesoie e guanti. Il Laboratorio comprende rastrelliere da essicazione, filtri, alambicchi, tazze e vasi.</p>\n<p><strong>Navigatore</strong>: Quadrante, astrolabio, mappe, bussola, clessidra e scandaglio. Di solito non ci sono Laboratori.</p>\n<p><strong>Medico</strong>: Aghi, filo da sutura, bende, bisturi, aceto, forcipe e divaricatore. I Laboratori includono tavole anatomiche, altri strumenti assortiti e un tavolo operatorio.&nbsp;</p>"
+    },
+    {
+      "id": "Worms",
+      "name": "Vermi",
+      "description": "<p></p>"
+    },
+    {
+      "id": "Writing Kit",
+      "name": "Occorrente per Scrivere",
+      "description": "<p>Include penne d'oca, calamaio e tampone.</p>"
+    },
+    {
+      "id": "Zweihander",
+      "name": "Zweihander",
+      "description": "<p></p>"
+    }
+  ],
+  "mapping": {
+    "effects": "effects",
+    "gmdescription": "system.gmdescription.value",
+    "symptoms": "system.symptoms.value",
+    "contraction": "system.contraction.value",
+    "permanent": "system.permanent.value",
+    "incubation": "system.incubation.value",
+    "range": "system.range.value",
+    "duration": "system.duration.value",
+    "target": "system.target.value",
+    "wounds": "system.wounds.value",
+    "modifier": "system.modifier.value"
+  },
+  "dependencies": {
+    "glob": "^11.0.3"
+  },
+  "name": "wfrp4e-it-translation-main",
+  "lockfileVersion": 3,
+  "requires": true,
+  "packages": {
+    "": {
+      "dependencies": {
+        "glob": "^11.0.3"
+      }
+    },
+    "node_modules/@isaacs/balanced-match": {
+      "version": "4.0.1",
+      "resolved": "https://registry.npmjs.org/@isaacs/balanced-match/-/balanced-match-4.0.1.tgz",
+      "integrity": "sha512-yzMTt9lEb8Gv7zRioUilSglI0c0smZ9k5D65677DLWLtWJaXIS3CqcGyUFByYKlnUj6TkjLVs54fBl6+TiGQDQ==",
+      "license": "MIT",
+      "engines": {
+        "node": "20 || >=22"
+      }
+    },
+    "node_modules/@isaacs/brace-expansion": {
+      "version": "5.0.0",
+      "resolved": "https://registry.npmjs.org/@isaacs/brace-expansion/-/brace-expansion-5.0.0.tgz",
+      "integrity": "sha512-ZT55BDLV0yv0RBm2czMiZ+SqCGO7AvmOM3G/w2xhVPH+te0aKgFjmBvGlL1dH+ql2tgGO3MVrbb3jCKyvpgnxA==",
+      "license": "MIT",
+      "dependencies": {
+        "@isaacs/balanced-match": "^4.0.1"
+      },
+      "engines": {
+        "node": "20 || >=22"
+      }
+    },
+    "node_modules/@isaacs/cliui": {
+      "version": "8.0.2",
+      "resolved": "https://registry.npmjs.org/@isaacs/cliui/-/cliui-8.0.2.tgz",
+      "integrity": "sha512-O8jcjabXaleOG9DQ0+ARXWZBTfnP4WNAqzuiJK7ll44AmxGKv/J2M4TPjxjY3znBCfvBXFzucm1twdyFybFqEA==",
+      "license": "ISC",
+      "dependencies": {
+        "string-width": "^5.1.2",
+        "string-width-cjs": "npm:string-width@^4.2.0",
+        "strip-ansi": "^7.0.1",
+        "strip-ansi-cjs": "npm:strip-ansi@^6.0.1",
+        "wrap-ansi": "^8.1.0",
+        "wrap-ansi-cjs": "npm:wrap-ansi@^7.0.0"
+      },
+      "engines": {
+        "node": ">=12"
+      }
+    },
+    "node_modules/ansi-regex": {
+      "version": "6.2.2",
+      "resolved": "https://registry.npmjs.org/ansi-regex/-/ansi-regex-6.2.2.tgz",
+      "integrity": "sha512-Bq3SmSpyFHaWjPk8If9yc6svM8c56dB5BAtW4Qbw5jHTwwXXcTLoRMkpDJp6VL0XzlWaCHTXrkFURMYmD0sLqg==",
+      "license": "MIT",
+      "engines": {
+        "node": ">=12"
+      },
+      "funding": {
+        "url": "https://github.com/chalk/ansi-regex?sponsor=1"
+      }
+    },
+    "node_modules/ansi-styles": {
+      "version": "6.2.3",
+      "resolved": "https://registry.npmjs.org/ansi-styles/-/ansi-styles-6.2.3.tgz",
+      "integrity": "sha512-4Dj6M28JB+oAH8kFkTLUo+a2jwOFkuqb3yucU0CANcRRUbxS0cP0nZYCGjcc3BNXwRIsUVmDGgzawme7zvJHvg==",
+      "license": "MIT",
+      "engines": {
+        "node": ">=12"
+      },
+      "funding": {
+        "url": "https://github.com/chalk/ansi-styles?sponsor=1"
+      }
+    },
+    "node_modules/color-convert": {
+      "version": "2.0.1",
+      "resolved": "https://registry.npmjs.org/color-convert/-/color-convert-2.0.1.tgz",
+      "integrity": "sha512-RRECPsj7iu/xb5oKYcsFHSppFNnsj/52OVTRKb4zP5onXwVF3zVmmToNcOfGC+CRDpfK/U584fMg38ZHCaElKQ==",
+      "license": "MIT",
+      "dependencies": {
+        "color-name": "~1.1.4"
+      },
+      "engines": {
+        "node": ">=7.0.0"
+      }
+    },
+    "node_modules/color-name": {
+      "version": "1.1.4",
+      "resolved": "https://registry.npmjs.org/color-name/-/color-name-1.1.4.tgz",
+      "integrity": "sha512-dOy+3AuW3a2wNbZHIuMZpTcgjGuLU/uBL/ubcZF9OXbDo8ff4O8yVp5Bf0efS8uEoYo5q4Fx7dY9OgQGXgAsQA==",
+      "license": "MIT"
+    },
+    "node_modules/cross-spawn": {
+      "version": "7.0.6",
+      "resolved": "https://registry.npmjs.org/cross-spawn/-/cross-spawn-7.0.6.tgz",
+      "integrity": "sha512-uV2QOWP2nWzsy2aMp8aRibhi9dlzF5Hgh5SHaB9OiTGEyDTiJJyx0uy51QXdyWbtAHNua4XJzUKca3OzKUd3vA==",
+      "license": "MIT",
+      "dependencies": {
+        "path-key": "^3.1.0",
+        "shebang-command": "^2.0.0",
+        "which": "^2.0.1"
+      },
+      "engines": {
+        "node": ">= 8"
+      }
+    },
+    "node_modules/eastasianwidth": {
+      "version": "0.2.0",
+      "resolved": "https://registry.npmjs.org/eastasianwidth/-/eastasianwidth-0.2.0.tgz",
+      "integrity": "sha512-I88TYZWc9XiYHRQ4/3c5rjjfgkjhLyW2luGIheGERbNQ6OY7yTybanSpDXZa8y7VUP9YmDcYa+eyq4ca7iLqWA==",
+      "license": "MIT"
+    },
+    "node_modules/emoji-regex": {
+      "version": "9.2.2",
+      "resolved": "https://registry.npmjs.org/emoji-regex/-/emoji-regex-9.2.2.tgz",
+      "integrity": "sha512-L18DaJsXSUk2+42pv8mLs5jJT2hqFkFE4j21wOmgbUqsZ2hL72NsUU785g9RXgo3s0ZNgVl42TiHp3ZtOv/Vyg==",
+      "license": "MIT"
+    },
+    "node_modules/foreground-child": {
+      "version": "3.3.1",
+      "resolved": "https://registry.npmjs.org/foreground-child/-/foreground-child-3.3.1.tgz",
+      "integrity": "sha512-gIXjKqtFuWEgzFRJA9WCQeSJLZDjgJUOMCMzxtvFq/37KojM1BFGufqsCy0r4qSQmYLsZYMeyRqzIWOMup03sw==",
+      "license": "ISC",
+      "dependencies": {
+        "cross-spawn": "^7.0.6",
+        "signal-exit": "^4.0.1"
+      },
+      "engines": {
+        "node": ">=14"
+      },
+      "funding": {
+        "url": "https://github.com/sponsors/isaacs"
+      }
+    },
+    "node_modules/glob": {
+      "version": "11.0.3",
+      "resolved": "https://registry.npmjs.org/glob/-/glob-11.0.3.tgz",
+      "integrity": "sha512-2Nim7dha1KVkaiF4q6Dj+ngPPMdfvLJEOpZk/jKiUAkqKebpGAWQXAq9z1xu9HKu5lWfqw/FASuccEjyznjPaA==",
+      "license": "ISC",
+      "dependencies": {
+        "foreground-child": "^3.3.1",
+        "jackspeak": "^4.1.1",
+        "minimatch": "^10.0.3",
+        "minipass": "^7.1.2",
+        "package-json-from-dist": "^1.0.0",
+        "path-scurry": "^2.0.0"
+      },
+      "bin": {
+        "glob": "dist/esm/bin.mjs"
+      },
+      "engines": {
+        "node": "20 || >=22"
+      },
+      "funding": {
+        "url": "https://github.com/sponsors/isaacs"
+      }
+    },
+    "node_modules/is-fullwidth-code-point": {
+      "version": "3.0.0",
+      "resolved": "https://registry.npmjs.org/is-fullwidth-code-point/-/is-fullwidth-code-point-3.0.0.tgz",
+      "integrity": "sha512-zymm5+u+sCsSWyD9qNaejV3DFvhCKclKdizYaJUuHA83RLjb7nSuGnddCHGv0hk+KY7BMAlsWeK4Ueg6EV6XQg==",
+      "license": "MIT",
+      "engines": {
+        "node": ">=8"
+      }
+    },
+    "node_modules/isexe": {
+      "version": "2.0.0",
+      "resolved": "https://registry.npmjs.org/isexe/-/isexe-2.0.0.tgz",
+      "integrity": "sha512-RHxMLp9lnKHGHRng9QFhRCMbYAcVpn69smSGcq3f36xjgVVWThj4qqLbTLlq7Ssj8B+fIQ1EuCEGI2lKsyQeIw==",
+      "license": "ISC"
+    },
+    "node_modules/jackspeak": {
+      "version": "4.1.1",
+      "resolved": "https://registry.npmjs.org/jackspeak/-/jackspeak-4.1.1.tgz",
+      "integrity": "sha512-zptv57P3GpL+O0I7VdMJNBZCu+BPHVQUk55Ft8/QCJjTVxrnJHuVuX/0Bl2A6/+2oyR/ZMEuFKwmzqqZ/U5nPQ==",
+      "license": "BlueOak-1.0.0",
+      "dependencies": {
+        "@isaacs/cliui": "^8.0.2"
+      },
+      "engines": {
+        "node": "20 || >=22"
+      },
+      "funding": {
+        "url": "https://github.com/sponsors/isaacs"
+      }
+    },
+    "node_modules/lru-cache": {
+      "version": "11.2.2",
+      "resolved": "https://registry.npmjs.org/lru-cache/-/lru-cache-11.2.2.tgz",
+      "integrity": "sha512-F9ODfyqML2coTIsQpSkRHnLSZMtkU8Q+mSfcaIyKwy58u+8k5nvAYeiNhsyMARvzNcXJ9QfWVrcPsC9e9rAxtg==",
+      "license": "ISC",
+      "engines": {
+        "node": "20 || >=22"
+      }
+    },
+    "node_modules/minimatch": {
+      "version": "10.0.3",
+      "resolved": "https://registry.npmjs.org/minimatch/-/minimatch-10.0.3.tgz",
+      "integrity": "sha512-IPZ167aShDZZUMdRk66cyQAW3qr0WzbHkPdMYa8bzZhlHhO3jALbKdxcaak7W9FfT2rZNpQuUu4Od7ILEpXSaw==",
+      "license": "ISC",
+      "dependencies": {
+        "@isaacs/brace-expansion": "^5.0.0"
+      },
+      "engines": {
+        "node": "20 || >=22"
+      },
+      "funding": {
+        "url": "https://github.com/sponsors/isaacs"
+      }
+    },
+    "node_modules/minipass": {
+      "version": "7.1.2",
+      "resolved": "https://registry.npmjs.org/minipass/-/minipass-7.1.2.tgz",
+      "integrity": "sha512-qOOzS1cBTWYF4BH8fVePDBOO9iptMnGUEZwNc/cMWnTV2nVLZ7VoNWEPHkYczZA0pdoA7dl6e7FL659nX9S2aw==",
+      "license": "ISC",
+      "engines": {
+        "node": ">=16 || 14 >=14.17"
+      }
+    },
+    "node_modules/package-json-from-dist": {
+      "version": "1.0.1",
+      "resolved": "https://registry.npmjs.org/package-json-from-dist/-/package-json-from-dist-1.0.1.tgz",
+      "integrity": "sha512-UEZIS3/by4OC8vL3P2dTXRETpebLI2NiI5vIrjaD/5UtrkFX/tNbwjTSRAGC/+7CAo2pIcBaRgWmcBBHcsaCIw==",
+      "license": "BlueOak-1.0.0"
+    },
+    "node_modules/path-key": {
+      "version": "3.1.1",
+      "resolved": "https://registry.npmjs.org/path-key/-/path-key-3.1.1.tgz",
+      "integrity": "sha512-ojmeN0qd+y0jszEtoY48r0Peq5dwMEkIlCOu6Q5f41lfkswXuKtYrhgoTpLnyIcHm24Uhqx+5Tqm2InSwLhE6Q==",
+      "license": "MIT",
+      "engines": {
+        "node": ">=8"
+      }
+    },
+    "node_modules/path-scurry": {
+      "version": "2.0.0",
+      "resolved": "https://registry.npmjs.org/path-scurry/-/path-scurry-2.0.0.tgz",
+      "integrity": "sha512-ypGJsmGtdXUOeM5u93TyeIEfEhM6s+ljAhrk5vAvSx8uyY/02OvrZnA0YNGUrPXfpJMgI1ODd3nwz8Npx4O4cg==",
+      "license": "BlueOak-1.0.0",
+      "dependencies": {
+        "lru-cache": "^11.0.0",
+        "minipass": "^7.1.2"
+      },
+      "engines": {
+        "node": "20 || >=22"
+      },
+      "funding": {
+        "url": "https://github.com/sponsors/isaacs"
+      }
+    },
+    "node_modules/shebang-command": {
+      "version": "2.0.0",
+      "resolved": "https://registry.npmjs.org/shebang-command/-/shebang-command-2.0.0.tgz",
+      "integrity": "sha512-kHxr2zZpYtdmrN1qDjrrX/Z1rR1kG8Dx+gkpK1G4eXmvXswmcE1hTWBWYUzlraYw1/yZp6YuDY77YtvbN0dmDA==",
+      "license": "MIT",
+      "dependencies": {
+        "shebang-regex": "^3.0.0"
+      },
+      "engines": {
+        "node": ">=8"
+      }
+    },
+    "node_modules/shebang-regex": {
+      "version": "3.0.0",
+      "resolved": "https://registry.npmjs.org/shebang-regex/-/shebang-regex-3.0.0.tgz",
+      "integrity": "sha512-7++dFhtcx3353uBaq8DDR4NuxBetBzC7ZQOhmTQInHEd6bSrXdiEyzCvG07Z44UYdLShWUyXt5M/yhz8ekcb1A==",
+      "license": "MIT",
+      "engines": {
+        "node": ">=8"
+      }
+    },
+    "node_modules/signal-exit": {
+      "version": "4.1.0",
+      "resolved": "https://registry.npmjs.org/signal-exit/-/signal-exit-4.1.0.tgz",
+      "integrity": "sha512-bzyZ1e88w9O1iNJbKnOlvYTrWPDl46O1bG0D3XInv+9tkPrxrN8jUUTiFlDkkmKWgn1M6CfIA13SuGqOa9Korw==",
+      "license": "ISC",
+      "engines": {
+        "node": ">=14"
+      },
+      "funding": {
+        "url": "https://github.com/sponsors/isaacs"
+      }
+    },
+    "node_modules/string-width": {
+      "version": "5.1.2",
+      "resolved": "https://registry.npmjs.org/string-width/-/string-width-5.1.2.tgz",
+      "integrity": "sha512-HnLOCR3vjcY8beoNLtcjZ5/nxn2afmME6lhrDrebokqMap+XbeW8n9TXpPDOqdGK5qcI3oT0GKTW6wC7EMiVqA==",
+      "license": "MIT",
+      "dependencies": {
+        "eastasianwidth": "^0.2.0",
+        "emoji-regex": "^9.2.2",
+        "strip-ansi": "^7.0.1"
+      },
+      "engines": {
+        "node": ">=12"
+      },
+      "funding": {
+        "url": "https://github.com/sponsors/sindresorhus"
+      }
+    },
+    "node_modules/string-width-cjs": {
+      "name": "string-width",
+      "version": "4.2.3",
+      "resolved": "https://registry.npmjs.org/string-width/-/string-width-4.2.3.tgz",
+      "integrity": "sha512-wKyQRQpjJ0sIp62ErSZdGsjMJWsap5oRNihHhu6G7JVO/9jIB6UyevL+tXuOqrng8j/cxKTWyWUwvSTriiZz/g==",
+      "license": "MIT",
+      "dependencies": {
+        "emoji-regex": "^8.0.0",
+        "is-fullwidth-code-point": "^3.0.0",
+        "strip-ansi": "^6.0.1"
+      },
+      "engines": {
+        "node": ">=8"
+      }
+    },
+    "node_modules/string-width-cjs/node_modules/ansi-regex": {
+      "version": "5.0.1",
+      "resolved": "https://registry.npmjs.org/ansi-regex/-/ansi-regex-5.0.1.tgz",
+      "integrity": "sha512-quJQXlTSUGL2LH9SUXo8VwsY4soanhgo6LNSm84E1LBcE8s3O0wpdiRzyR9z/ZZJMlMWv37qOOb9pdJlMUEKFQ==",
+      "license": "MIT",
+      "engines": {
+        "node": ">=8"
+      }
+    },
+    "node_modules/string-width-cjs/node_modules/emoji-regex": {
+      "version": "8.0.0",
+      "resolved": "https://registry.npmjs.org/emoji-regex/-/emoji-regex-8.0.0.tgz",
+      "integrity": "sha512-MSjYzcWNOA0ewAHpz0MxpYFvwg6yjy1NG3xteoqz644VCo/RPgnr1/GGt+ic3iJTzQ8Eu3TdM14SawnVUmGE6A==",
+      "license": "MIT"
+    },
+    "node_modules/string-width-cjs/node_modules/strip-ansi": {
+      "version": "6.0.1",
+      "resolved": "https://registry.npmjs.org/strip-ansi/-/strip-ansi-6.0.1.tgz",
+      "integrity": "sha512-Y38VPSHcqkFrCpFnQ9vuSXmquuv5oXOKpGeT6aGrr3o3Gc9AlVa6JBfUSOCnbxGGZF+/0ooI7KrPuUSztUdU5A==",
+      "license": "MIT",
+      "dependencies": {
+        "ansi-regex": "^5.0.1"
+      },
+      "engines": {
+        "node": ">=8"
+      }
+    },
+    "node_modules/strip-ansi": {
+      "version": "7.1.2",
+      "resolved": "https://registry.npmjs.org/strip-ansi/-/strip-ansi-7.1.2.tgz",
+      "integrity": "sha512-gmBGslpoQJtgnMAvOVqGZpEz9dyoKTCzy2nfz/n8aIFhN/jCE/rCmcxabB6jOOHV+0WNnylOxaxBQPSvcWklhA==",
+      "license": "MIT",
+      "dependencies": {
+        "ansi-regex": "^6.0.1"
+      },
+      "engines": {
+        "node": ">=12"
+      },
+      "funding": {
+        "url": "https://github.com/chalk/strip-ansi?sponsor=1"
+      }
+    },
+    "node_modules/strip-ansi-cjs": {
+      "name": "strip-ansi",
+      "version": "6.0.1",
+      "resolved": "https://registry.npmjs.org/strip-ansi/-/strip-ansi-6.0.1.tgz",
+      "integrity": "sha512-Y38VPSHcqkFrCpFnQ9vuSXmquuv5oXOKpGeT6aGrr3o3Gc9AlVa6JBfUSOCnbxGGZF+/0ooI7KrPuUSztUdU5A==",
+      "license": "MIT",
+      "dependencies": {
+        "ansi-regex": "^5.0.1"
+      },
+      "engines": {
+        "node": ">=8"
+      }
+    },
+    "node_modules/strip-ansi-cjs/node_modules/ansi-regex": {
+      "version": "5.0.1",
+      "resolved": "https://registry.npmjs.org/ansi-regex/-/ansi-regex-5.0.1.tgz",
+      "integrity": "sha512-quJQXlTSUGL2LH9SUXo8VwsY4soanhgo6LNSm84E1LBcE8s3O0wpdiRzyR9z/ZZJMlMWv37qOOb9pdJlMUEKFQ==",
+      "license": "MIT",
+      "engines": {
+        "node": ">=8"
+      }
+    },
+    "node_modules/which": {
+      "version": "2.0.2",
+      "resolved": "https://registry.npmjs.org/which/-/which-2.0.2.tgz",
+      "integrity": "sha512-BLI3Tl1TW3Pvl70l3yq3Y64i+awpwXqsGBYWkkqMtnbXgrMD+yj7rhW0kuEDxzJaYXGjEW5ogapKNMEKNMjibA==",
+      "license": "ISC",
+      "dependencies": {
+        "isexe": "^2.0.0"
+      },
+      "bin": {
+        "node-which": "bin/node-which"
+      },
+      "engines": {
+        "node": ">= 8"
+      }
+    },
+    "node_modules/wrap-ansi": {
+      "version": "8.1.0",
+      "resolved": "https://registry.npmjs.org/wrap-ansi/-/wrap-ansi-8.1.0.tgz",
+      "integrity": "sha512-si7QWI6zUMq56bESFvagtmzMdGOtoxfR+Sez11Mobfc7tm+VkUckk9bW2UeffTGVUbOksxmSw0AA2gs8g71NCQ==",
+      "license": "MIT",
+      "dependencies": {
+        "ansi-styles": "^6.1.0",
+        "string-width": "^5.0.1",
+        "strip-ansi": "^7.0.1"
+      },
+      "engines": {
+        "node": ">=12"
+      },
+      "funding": {
+        "url": "https://github.com/chalk/wrap-ansi?sponsor=1"
+      }
+    },
+    "node_modules/wrap-ansi-cjs": {
+      "name": "wrap-ansi",
+      "version": "7.0.0",
+      "resolved": "https://registry.npmjs.org/wrap-ansi/-/wrap-ansi-7.0.0.tgz",
+      "integrity": "sha512-YVGIj2kamLSTxw6NsZjoBxfSwsn0ycdesmc4p+Q21c5zPuZ1pl+NfxVdxPtdHvmNVOQ6XSYG4AUtyt/Fi7D16Q==",
+      "license": "MIT",
+      "dependencies": {
+        "ansi-styles": "^4.0.0",
+        "string-width": "^4.1.0",
+        "strip-ansi": "^6.0.0"
+      },
+      "engines": {
+        "node": ">=10"
+      },
+      "funding": {
+        "url": "https://github.com/chalk/wrap-ansi?sponsor=1"
+      }
+    },
+    "node_modules/wrap-ansi-cjs/node_modules/ansi-regex": {
+      "version": "5.0.1",
+      "resolved": "https://registry.npmjs.org/ansi-regex/-/ansi-regex-5.0.1.tgz",
+      "integrity": "sha512-quJQXlTSUGL2LH9SUXo8VwsY4soanhgo6LNSm84E1LBcE8s3O0wpdiRzyR9z/ZZJMlMWv37qOOb9pdJlMUEKFQ==",
+      "license": "MIT",
+      "engines": {
+        "node": ">=8"
+      }
+    },
+    "node_modules/wrap-ansi-cjs/node_modules/ansi-styles": {
+      "version": "4.3.0",
+      "resolved": "https://registry.npmjs.org/ansi-styles/-/ansi-styles-4.3.0.tgz",
+      "integrity": "sha512-zbB9rCJAT1rbjiVDb2hqKFHNYLxgtk8NURxZ3IZwD3F6NtxbXZQCnnSi1Lkx+IDohdPlFp222wVALIheZJQSEg==",
+      "license": "MIT",
+      "dependencies": {
+        "color-convert": "^2.0.1"
+      },
+      "engines": {
+        "node": ">=8"
+      },
+      "funding": {
+        "url": "https://github.com/chalk/ansi-styles?sponsor=1"
+      }
+    },
+    "node_modules/wrap-ansi-cjs/node_modules/emoji-regex": {
+      "version": "8.0.0",
+      "resolved": "https://registry.npmjs.org/emoji-regex/-/emoji-regex-8.0.0.tgz",
+      "integrity": "sha512-MSjYzcWNOA0ewAHpz0MxpYFvwg6yjy1NG3xteoqz644VCo/RPgnr1/GGt+ic3iJTzQ8Eu3TdM14SawnVUmGE6A==",
+      "license": "MIT"
+    },
+    "node_modules/wrap-ansi-cjs/node_modules/string-width": {
+      "version": "4.2.3",
+      "resolved": "https://registry.npmjs.org/string-width/-/string-width-4.2.3.tgz",
+      "integrity": "sha512-wKyQRQpjJ0sIp62ErSZdGsjMJWsap5oRNihHhu6G7JVO/9jIB6UyevL+tXuOqrng8j/cxKTWyWUwvSTriiZz/g==",
+      "license": "MIT",
+      "dependencies": {
+        "emoji-regex": "^8.0.0",
+        "is-fullwidth-code-point": "^3.0.0",
+        "strip-ansi": "^6.0.1"
+      },
+      "engines": {
+        "node": ">=8"
+      }
+    },
+    "node_modules/wrap-ansi-cjs/node_modules/strip-ansi": {
+      "version": "6.0.1",
+      "resolved": "https://registry.npmjs.org/strip-ansi/-/strip-ansi-6.0.1.tgz",
+      "integrity": "sha512-Y38VPSHcqkFrCpFnQ9vuSXmquuv5oXOKpGeT6aGrr3o3Gc9AlVa6JBfUSOCnbxGGZF+/0ooI7KrPuUSztUdU5A==",
+      "license": "MIT",
+      "dependencies": {
+        "ansi-regex": "^5.0.1"
+      },
+      "engines": {
+        "node": ">=8"
+      }
+    }
+  },
+  "id": "wfrp4e-it-translation",
+  "title": "WFRP4e Italian Translation",
+  "description": "Add Italian language to the Warhammer Fantasy Roleplay 4th edition System for FoundryVTT.",
+  "version": "1.1.3",
+  "compatibility": {
+    "minimum": 10,
+    "verified": "10.291"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "wfrp4e",
+        "type": "system",
+        "manifest": "https://github.com/moo-man/WFRP4e-FoundryVTT/releases/latest/download/system.json"
+      }
+    ],
+    "requires": [
+      {
+        "id": "babele",
+        "type": "module",
+        "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json",
+        "compatibility": {
+          "verified": "2.3.4"
+        }
+      },
+      {
+        "id": "wfrp4e-core",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Heyrold",
+      "discord": "Heyrold#4406",
+      "flags": {}
+    }
+  ],
+  "esmodules": [
+    "babele-register.js"
+  ],
+  "scripts": [],
+  "styles": [],
+  "packs": [],
+  "languages": [
+    {
+      "lang": "it",
+      "name": "Italian",
+      "path": "it.json"
+    }
+  ],
+  "url": "https://github.com/heyrold73/wfrp4e-it-translation",
+  "manifest": "https://github.com/heyrold73/wfrp4e-it-translation/releases/latest/download/module.json",
+  "download": "https://github.com/heyrold73/wfrp4e-it-translation/releases/latest/download/module.zip",
+  "WFRP4E.system.title": "Warhammer Fantasy Roleplay 4a Edizione",
+  "WFRP4E.system.description": "Un sistema completo per giocare a 'Un tetro mondo di perigliose avventure' di Warhammer Fantasy Roleplay nella piattaforma Foundry VTT.",
+  "ACTOR.TypeCharacter": "Personaggio Giocante",
+  "ACTOR.TypeNpc": "Personaggio non Giocante",
+  "ACTOR.TypeCreature": "Creatura",
+  "ACTOR.TypeVehicle": "Veicolo",
+  "ITEM.TypeAmmunition": "Munizioni",
+  "ITEM.TypeArmour": "Armatura",
+  "ITEM.TypeCareer": "Carriera",
+  "ITEM.TypeContainer": "Contenitore",
+  "ITEM.TypeCritical": "Critico",
+  "ITEM.TypeDisease": "Malattia",
+  "ITEM.TypeInjury": "Lesione",
+  "ITEM.TypeMoney": "Soldi",
+  "ITEM.TypeMutation": "Mutazione",
+  "ITEM.TypePrayer": "Preghiera",
+  "Targets": "Bersagli",
+  "ITEM.TypePsychology": "Psicologia",
+  "ITEM.TypeTalent": "Talento",
+  "ITEM.TypeTrapping": "Averi",
+  "Trapping": "Averi",
+  "ITEM.TypeSkill": "Abilità",
+  "ITEM.TypeSpell": "Incantesimo",
+  "ITEM.TypeTrait": "Tratto",
+  "ITEM.TypeWeapon": "Arma",
+  "Weapon": "Arma",
+  "Melee": "Mischia",
+  "Ranged": "A Distanza",
+  "comma separated": "separato da virgola",
+  "ITEM.TypeExtendedtest": "Prova Estesa",
+  "ITEM.TypeCargo": "Carico",
+  "ITEM.TypeVehiclemod": "Modifica del veicolo",
+  "ITEM.Sell": "Vendere",
+  "Import Results": "Importa Risultati",
+  "ITEM.Import": "Sei sicuro di voler importare il risultato della tua domanda?<br>({number} elementi)",
+  "WFRP4e House Rules": "WFRP4e House Rules",
+  "WFRP4e Homebrew": "WFRP4e Homebrew",
+  "Homebrew Settings": "Impostazioni Homebrew",
+  "Settings for common homebrew/house rules": "Impostazioni per comuni homebrew/house rules.",
+  "SETTINGS.InitRule": "Regole di Iniziativa",
+  "SETTINGS.InitHint": "Configurare quale metodo è usato per determinare chi muove prima in combattimento.",
+  "SETTINGS.InitDefault": "Default (Dalla più alta alla più bassa Iniziativa, in caso di pareggio Agilità)",
+  "SETTINGS.InitSL": "Tira un test di Iniziativa, l'LS più alto inizia prima",
+  "SETTINGS.InitD10": "Tira un d10 e aggiungi l'Iniziativa, il valore più alto inizia prima",
+  "SETTINGS.InitD10Agi": "Tira un d10, aggiungi i Bonus Iniziativa e Agilità, il valore più alto inizia prima",
+  "SETTINGS.CapAdvIB": "Imposta il valore massimo di Vantaggio come Bonus Iniziativa",
+  "SETTINGS.CapAdvIBHint": "Imposta il valore massimo di Vantaggio come Bonus Iniziativa del personaggio.",
+  "SETTINGS.FastSL": "LS Rapido",
+  "SETTINGS.FastSLHint": "Determinare LS con la regola opzionale: LS Rapido come descritto a pag.152.",
+  "SETTINGS.TestsAbove100": "Test sopra il 100%",
+  "SETTINGS.TestsAbove100Hint": "Usa la regola opzionale: Prove oltre 100% come descritto a pag.151. In caso di successo si ottiene +1 LS per ogni 10 pieno oltre 100%.",
+  "SETTINGS.CriticalsFumblesAllTests": "Critici e Disastri su tutti i Test",
+  "SETTINGS.CriticalsFumblesAllTestsHint": "Lanciare un doppio su qualsiasi test si traduce in un successo/fallimento eccezionale.",
+  "SETTINGS.ExtendedTests": "Prove Prolungate e 0 LS",
+  "SETTINGS.ExtendedTestsHint": "Ottenere +0 o -0 LS in una Prova Prolungata non modifica il totale. Durante una Prova Prolungata ogni successo aggiunge un minimo di +1 LS e un fallimento -1 LS (pag.155).",
+  "SETTINGS.ChannelingNegativeSL": "Canalizzazione Magica e LS Negativo",
+  "SETTINGS.ChannelingNegativeSLHint": "Tirare un LS negativo sulla canalizzazione si traduce in un +0, assicurando che non venga preso alcun progresso dal tentativo di canalizzazione.",
+  "SETTINGS.TestDialogAutoPopulate": "Finestra di Dialogo Test con informazioni auto impostate",
+  "SETTINGS.TestDialogAutoPopulateHint": "Questa impostazione inserisce automaticamente le informazioni nella finestra di Dialogo Test. Alcuni esempi includono: se si è in possesso di armi difensive  si riempiono automaticamente 'Bonus LS' nelle finestre di dialogo dei tiri per le armi da mischia. Ciò si verifica solo se non è il turno del personaggio. Anche quando brandisci un'Arma Accurata o Imprecisa (al turno del personaggio).",
+  "SETTINGS.TestDialogDefaultDifficulty": "Difficoltà predefinita del test al di fuori del combattimento",
+  "SETTINGS.TestDialogDefaultDifficultyHint": "Imposta la difficoltà Test predefinita su Media se non c'è combattimento. Al di fuori del combattimento, o se non selezionata, la difficoltà predefinita è Impegnativa. In ogni caso, questo può essere ignorato nella finestra di dialogo.",
+  "SETTINGS.NpcAverageChar": "Imposta le caratteristiche medie dei PNG",
+  "SETTINGS.NpcAverageCharHint": "L'immissione di un valore di specie riconosciuto per un PNG imposta automaticamente le loro caratteristiche sul valore medio per la specie.",
+  "SETTINGS.PartialChannelling": "Canalizzazione Parziale",
+  "SETTINGS.PartialChannellingHint": "Una regola comune che migliora la flessibilità della Canalizzazione. Invece di richiedere all'LS di raggiungere il VL dell'incantesimo, puoi invece lanciare in qualsiasi momento con il VL ridotto dell'LS guadagnato finora.",
+  "SETTINGS.RoundSummary": "Visualizza riepilogo round",
+  "SETTINGS.RoundSummaryHint": "Quando un round finisce, mostra tutti i combattenti con le loro Condizioni.",
+  "SETTINGS.StatusTurnStart": "Mostra lo stato dei combattenti ad inizio turno",
+  "SETTINGS.StatusTurnStartHint": "Quando un Combattente inizia il suo turno, viene mostrato il suo stato (Condizioni e Modificatori). Questo messaggio di stato è identico a quello mostrato facendo clic con il tasto destro del mouse sul combattente.",
+  "SETTINGS.FocusTurnStart": "Quando un round finisce, mostra tutti i combattenti con le loro Condizioni.",
+  "SETTINGS.FocusTurnStartHint": "Quando un round finisce, mostra tutti i combattenti con le loro Condizioni.",
+  "SETTINGS.HideTestData": "Nascondi i dati del test",
+  "SETTINGS.HideTestDataHint": "Le schede nella chat dei test del GM non mostrano ai giocatori dati PNG sensibili.",
+  "SETTINGS.ManualChatCards": "Schede chat manuali",
+  "SETTINGS.ManualChatCardsHint": "Mostra il risultato del tiro vuoto da compilare se si usano dadi fisici.",
+  "SETTINGS.PlayerBrowser": "Accesso del giocatore al browser",
+  "SETTINGS.PlayerBrowserHint": "Consenti ai giocatori di accedere al browser degli oggetti.",
+  "SETTINGS.AdvantageBonus": "Bonus Vantaggio",
+  "SETTINGS.AdvantageBonusHint": "Configura il bonus che il vantaggio offre.",
+  "SETTINGS.DangerousCrits": "Ferite Critiche",
+  "SETTINGS.DangerousCritsHint": "Se un personaggio viene ridotto a meno di 0 ferite, se il numero di ferite negative è maggiore del BR del personaggio, si subisce una Ferita Critica.",
+  "SETTINGS.DangerousCritsMod": "Modificatore alle Ferite Critiche",
+  "SETTINGS.DangerousCritsModHint": "L'importo per cui modificare il Colpo Critico.",
+  "SETTINGS.WeaponLength": "Lunghezza dell'arma",
+  "SETTINGS.WeaponLengthHint": "Usa la lunghezza dell'arma per applicare i modificatori come descritto dalla regola a pagina 297.",
+  "SETTINGS.SoundEffects": "Effetti sonori",
+  "SETTINGS.SoundEffectsHint": "Aggiungi effetti sonori al contesto delle varie azioni.",
+  "SETTINGS.CustomCursor": "Cursore di Warhammer",
+  "SETTINGS.CustomCursorHint": "Usa un cursore di Warhammer stilizzato (aggiorna per applicare).",
+  "SETTINGS.AutoFillAdv": "Riempimento automatico di Vantaggio",
+  "SETTINGS.AutoFillAdvHint": "Riempi automaticamente la casella 'modificatore' nella finestra di dialogo di lancio con il bonus dato dal Vantaggio. Disabilitalo se la regola del Vantaggio viene utilizzata in modo diverso.",
+  "SETTINGS.LimitEquippedWeapons": "Limite Armi Equipaggiate",
+  "SETTINGS.LimitEquippedWeaponsHint": "Limita il numero di armi equipaggiate: consenti di equipaggiare solo 1 arma a due mani o 2 armi a una mano.",
+  "SETTINGS.ThrowMoney": "Getta soldi",
+  "SETTINGS.ThrowMoneyHint": "(Richiede Dice So Nice) Lancia monete quando viene utilizzato il sistema di pagamento/credito.",
+  "SETTINGS.RangeAutoCalculation": "Calcolo Automatico del Modificatore di Intervallo",
+  "SETTINGS.RangeAutoCalculationHint": "Precompila la finestra di dialogo del lancio con un modificatore basato sulla distanza tra i token.",
+  "SETTINGS.PlayerExperienceEditing": "Modifica dell'Esperienza del Giocatore",
+  "SETTINGS.PlayerExperienceEditingHint": "Allows players to manually edit their experience point values.",
+  "SETTINGS.UnofficialGrimoire": "Grimorio di Magia non ufficiale",
+  "SETTINGS.UnofficialGrimoireHint": "Regole ispirate ad un Grimorio non ufficiale, per i dettagli si prega di controllare su Wiki: <a href='https://github.com/moo-man/WFRP4e-FoundryVTT/wiki/Homebrew-Rules#magic-insiperd-by-unofficial-grimoire'>qui</a>",
+  "SETTINGS.UseGroupAdvantage": "Usa il Vantaggio di Gruppo",
+  "SETTINGS.UseGroupAdvantageHint": "Raggruppa il vantaggio del giocatore e del nemico insieme (come descritto in Up in Arms). Per associare un attore al gruppo 'Giocatori', l'attore deve essere di proprietà di un giocatore o avere una disposizione token 'Amichevole', altrimenti deve essere nel gruppo 'Nemico'.",
+  "Configure": "Configura",
+  "SETTINGS.TABLE_species": "Specie",
+  "SETTINGS.TABLE_minormis": "Incidente Magico Minore",
+  "SETTINGS.TABLE_majormis": "Incidente Magico Maggiore",
+  "SETTINGS.TABLE_mutatephys": "Corruzione Fisica",
+  "SETTINGS.TABLE_mutatemental": "Corruzione Mentale",
+  "SETTINGS.TABLE_oops": "Oops!",
+  "SETTINGS.TABLE_wrath": "Ira degli Dei",
+  "SETTINGS.TABLE_doom": "Predestinazione",
+  "SETTINGS.TABLE_critarm": "Colpo Critico - Braccio",
+  "SETTINGS.TABLE_critleg": "Colpo Critico - Gamba",
+  "SETTINGS.TABLE_crithead": "Colpo Critico - Testa",
+  "SETTINGS.TABLE_critbody": "Colpo Critico - Torso",
+  "SETTINGS.Moo": "Moo Man's House Rules",
+  "SETTINGS.MooHint": "Assorted mechanics change that I believe have potential to improve the game. Note that the ones listed here are not an exhaustive list of the house rules I use, but only those that can be applied in code.<br><br>For the entire list, please see the <a href='https://github.com/moo-man/WFRP4e-FoundryVTT/wiki/Homebrew-Rules'>Wiki Page.</a><br>Note that these rules are generally all meant to be used together.<br>Feedback is always appreciated. Please use the <a href='https://github.com/moo-man/WFRP4e-FoundryVTT/discussions/categories/moo-s-house-rules'>Github Discussion Board</a> for discussion of the mechanics.",
+  "SETTINGS.MooAdvantage": "Advantage",
+  "SETTINGS.MooAdvantageHint": "Instead of +10 per Advantage, you gain +1 SL per Advantage <b>on successful tests</b>",
+  "SETTINGS.MooDifficulty": "Difficulty Options",
+  "SETTINGS.MooDifficultyHint": "Makes the Difficulty options symmetric",
+  "SETTINGS.MooCritsFumbles": "MooCritsFumbles",
+  "SETTINGS.MooCritsFumblesHint": "MooCritsFumblesHint",
+  "SETTINGS.MooConditions": "Condition Changes",
+  "SETTINGS.MooConditionsHint": "Changes to various condition texts",
+  "SETTINGS.MooConditionTriggers": "Condition Triggers",
+  "SETTINGS.MooConditionTriggersHint": "Conditions activate at the end of the character's turn, instead of the end of the round.",
+  "SETTINGS.MooCritModifiers": "Critical Table Modifiers",
+  "SETTINGS.MooCritMOdifiersHint": "When you take Damage past 0 Wounds, Add or Subtract 10 from the Critical Hit Table for every point of Damage difference from your Toughness Bonus.<br><br>Ex. I have 4 Wounds left, 50 Toughness. I take 12 Damage. That would go 8 past 0. With a TB of 5, that would result in a +30 to the rolled critical.<br><br>Ex. I have 4 Wounds left, 50 Toughness, I take 5 Damage. That would go 1 past 0. With a TB of 5, that would result in a -40 to the rolled critical.",
+  "SETTINGS.MooSLDamage": "Opposed Damage Calculation",
+  "SETTINGS.MooSLDamageHint": "Opposed Damage calculation is based only on the attacker's SL, instead of the difference between attacker and defender",
+  "SETTINGS.MooRangedDamage": "Ranged Damage Modification",
+  "SETTINGS.MooRangedDamageHint": "Damage from ranged weapons is now subtracted by the tens digit of any modifier in a test. +20 = -2 Damage, -30 = +3 Damage",
+  "SETTINGS.MooMagicAdvantage": "Magic Advantage Changes",
+  "SETTINGS.MooMagicAdvantageHint": "Advantage Applies to Channelling and not Casting. You still gain advantage from casting.",
+  "SETTINGS.MooOvercasting": "Overcasting Spenditure",
+  "SETTINGS.MooOvercastingHint": "Overcasting 'spends' the SL used, so if the spell does damage, for each Overcast used, the spell does –2 Damage, and is easier to oppose",
+  "SETTINGS.MooCatastrophicMiscasts": "Catastrophic Miscasts",
+  "SETTINGS.MooCatastrophicMiscastsHint": "Adds the Catastrophic Miscasts table and alters the existing tables. Additionally, Rolling 100 on a Cast or Channelling test increases your miscast level by 1",
+  "SETTINGS.MooCriticalChannelling": "Critical Channelling",
+  "SETTINGS.MooCriticalChannellingHint": "If you successfully cast a spell from a Critical Channell, you add +SL equal to the spell's CN. These SL cannot be used to Overcast, only the SL generated in the test. If you fail the Casting Test, you miscast, or increase your miscast by 1.",
+  "SETTINGS.MooCastAfterChannelling": "Casting after Channelling",
+  "SETTINGS.MooCastAfterChannellingHint": "When casting a channelled spell, a failed casting counts as an interruption. You can keep the SLs channeled if this test is passed.",
+  "SETTINGS.MooPenetrating": "Penetrating Values",
+  "SETTINGS.MooPenetratingHint": "Give the option for Penetrating to have a value associated with it, Penetrating X - where the weapon ignores X AP (if none specified, defaults to Penetrating 2)",
+  "SETTINGS.MooQualities": "New Qualities",
+  "SETTINGS.MooQualitiesHint": "Adds the 'Simple' and 'Momentum' Quality",
+  "SETTINGS.MooShieldAP": "Shield AP",
+  "SETTINGS.MooShieldAPHint": "Shield AP and Critical Mitigation (see below) is only applied if you succeed your defensive test.",
+  "SETTINGS.MooCriticalMitigation": "Critical Mitigation",
+  "SETTINGS.MooCriticalMitigationHint": "(Instead of Deflection) Upon suffering a Critical Hit, for each AP in the location, the Critical Wound roll is reduced by 10. If the resulting roll is negative, no Critical Wound is received. After the Critical Wound is resolved, the outermost layer of armor is damaged, its AP reduced by 1. This only applies if the attacker targets.",
+  "SETTINGS.MooRangeBands": "Range Band Modifiers",
+  "SETTINGS.MooRangeBandsHint": "Range Weapons have an Optimal range, corresponding to a range band. Targeting a creature not within this range receives penalties based on how many steps away. See the wiki above for more details.",
+  "SETTINGS.MooSizeDamage": "Size and Damage calculations",
+  "SETTINGS.MooSizeDamageHint": "Damage bonuses are based on absolute size, instead of relative size (see wiki page linked above)",
+  "SETTINGS.MooHomebrewItems": "Item Changes",
+  "SETTINGS.MooHomebrewItemHint": "Changes (including application of above rules) various items. See the wiki page linked above. **Warning: Recommended only with a new game and most above rules included**",
+  "SETTINGS.useWoMOvercast": "Use Winds of Magic Overcast Rules",
+  "SETTINGS.useWoMOvercastHint": "Use the overcasting mechanics provided in the Winds of Magic supplement, described on page 23.",
+  "MOO.Prone": "<br><br><b>Moo's House Rule</b>: You are considered one range band farther away when determining ranged attacks.",
+  "MOO.Broken": "You are terrified, defeated, panicked, or otherwise convinced you are going to die. On your turn, your Move and Action must be used to run away as fast as possible until you are in a good hiding place beyond the sight of any enemy; then you can use your Action on a Skill that allows you to hide more effectively. You also receive a penalty of –10 to all Tests not involving running and hiding.<br><br>You cannot Test to rally from being Broken if you are Engaged with an enemy. If you are unengaged, at the end of each Round, you may attempt a Cool Test to remove a Broken Condition, with each SL removing an extra Broken Condition, and the Difficulty determined by the circumstances you currently find yourself: it is much easier to rally when hiding behind a barrel down an alleyway far from danger (Average +20) than it is when three steps from a slavering Daemon screaming for your blood (Very Hard –30).<br><br>If you spend a full Round in hiding out of line-of-sight of any enemy, you remove 1 Broken Condition.<br><br><strike>Once all Broken Conditions are removed, gain 1 Fatigued Condition</strike>.",
+  "MOO.Bleeding": "You are bleeding badly. Lose 1 Wound at the end of every Round, ignoring all modifiers. Further, suffer a penalty of –10 to any Tests to resist Festering Wounds, Minor Infection, or Blood Rot. If you reach 0 Wounds, immediately make the Endurance Test to stay standing (with a -10 penalty for each Bleeding Condition), otherwise you fall @Condition[Unconscious], and you must remake this test every time you take damage from Bleeding. If you are at 0 Wounds, regardless of if you are unconscious or not, at the end of Round, you have a 10% chance of dying per Bleeding Condition you have; so, if you had 3 Bleeding Conditions, you would die from blood loss on a roll of 0–30. If a double is scored on this roll, your wound clots a little: lose 1 Bleeding. You cannot regain consciousness until all Bleeding Conditions are removed (see Injury)<br><br>A Bleeding Condition can be removed with: a successful Heal Test, with each SL removing an extra Bleeding Condition; or with any spell or prayer that heals Wounds, with one Condition removed per Wound healed.<br><br>Once all Bleeding Conditions are removed, gain one @Condition[Fatigued] Condition.",
+  "MOO.Penetrating": "The weapon is highly effective at penetrating armor. It ignores (Rating) AP.",
+  "MOO.Simple": "Simple weapons can be used with Melee (Basic) with no penalty.",
+  "MOO.Momentum": "These weapons are hefty and require momentum to bring fully to bear. They gain the specified properties when the wielder has Advantage.",
+  "MOO.Items": "Homebrew item changes have been applied to the compendium. See console for details.",
+  "MOO.CriticalChanelling": "Critical Channelling SL Bonus",
+  "MOO.FailedCast": "Failure to Cast while Channelling counts as an interruption.",
+  "SHEET.Close": "Chiudi",
+  "SHEET.Configure": "Configura Scheda",
+  "SHEET.Token": "Configura Token",
+  "SHEET.Import": "Importa",
+  "SHEET.Post": "Pubblica in chat",
+  "SHEET.NestedWarning": "Impossibile aggiungere il contenitore oltre il quarto contenitore nidificato.",
+  "SHEET.LocationWarning": "Rimuovere il contenitore prima di modificarne la posizione",
+  "SHEET.SkillMissingWarning": "Tu non hai questa abilità",
+  "SHEET.NonCurrentCareer": "Non è la tua Carriera corrente",
+  "SHEET.AddSkillTitle": "Aggiungi Abilità di Carriera",
+  "SHEET.AddSkillPrompt": "Vuoi aggiungere questa Abilità?",
+  "SHEET.AddTalentTitle": "Aggiungi Talento di Carriera",
+  "SHEET.AddTalentPrompt": "Vuoi aggiungere questo Talento? (Costa 100 XP)",
+  "SHEET.RefundXPTitle": "Rimborsare PE",
+  "SHEET.RefundXPPrompt": "Vuoi rimborsare l'esperienza?",
+  "SHEET.CareerSkill": "Cambia Abilità di Carriera",
+  "SHEET.CareerSkillPrompt": "Stai cambiando la specializzazione di un'abilità nella tua carriera attuale. Vuoi applicare questa modifica anche alla carriera?",
+  "SHEET.CareerSkillNotif": "Cambiare {oldname} con {newname} in {career}",
+  "SHEET.SortItems": "Ordina Articoli",
+  "SHEET.ArmourDamaged": "Armatura Danneggiata di 1",
+  "SHEET.ArmourRepaired": "Armatura Riparata di 1",
+  "SHEET.ThrowingAmmoError": "Il Gruppo Munizioni da Lancio è destinato ad altre armi che utilizzano Armi da Lancio come munizioni. Le stesse Armi da Lancio generalmente usano la categoria Nessuno.",
+  "LOG.MemorizedSpell": "Memorizzato {name}",
+  "LOG.GainPrayer": "Guadagnato {name}",
+  "LOG.CareerChange": "Cambio di Carriera: {career}",
+  "SHEET.MeleeWeaponHeader": "Arma/i da mischia",
+  "SHEET.RangedWeaponHeader": "Arma/i a distanza",
+  "SHEET.ArmourAP": "PA Armatura",
+  "SHEET.ArmourPenalties": "Penalità Armatura",
+  "SHEET.ShieldAP": "PA Scudo",
+  "SHEET.TB": "Bonus Resistenza",
+  "SHEET.CreateItem": "Crea Oggetti",
+  "SHEET.PostItem": "Pubblica Oggetti in chat",
+  "SHEET.EditItem": "Modifica Oggetti",
+  "SHEET.Dropdown": "Dropdown Oggetti",
+  "SHEET.DeleteItem": "Cancella Oggetti",
+  "SHEET.RemoveItem": "Rimuovi Oggetti",
+  "SHEET.EncCount": "Livello d'Ingombro",
+  "SHEET.MaxEnc": "Massimo Ingombro",
+  "SHEET.VeryEnc": "Molto Ingombrante",
+  "SHEET.Encumbered": "Ingombro",
+  "SHEET.UnEnc": "Senza restrizioni: nessun modificatore",
+  "SHEET.EncAbbrev": "Ing.",
+  "SHEET.QtyAbbrev": "Q.tà",
+  "SHEET.CountEncOn": "Clicca per non calcolare l'Ingombro in questo contenitore (Come un Carretto)",
+  "SHEET.CountEncOff": "Clicca per calcolare l'Ingombro in questo contenitore (Come uno Zaino che stai portando)",
+  "SHEET.CountEncTT": "Aggiungi questo ingombro all'ingombro del personaggio (deseleziona se non portato in giro, ad es. un carrello)",
+  "SHEET.PettySpell": "Incantesimo Minore",
+  "SHEET.LoreSpell": "Incantesimo del Sapere",
+  "SHEET.CN": "Valore di Lancio",
+  "SHEET.SL": "Livelli di successo canalizzati",
+  "SHEET.CareerToolTip": "Segna una carriera come 'Attuale' per popolare questa zona",
+  "SHEET.CharAbbrev": "Carat.",
+  "SHEET.AdvAbbrev": "Vant.",
+  "SHEET.BonusChar": "Il bonus della caratteristica selezionata viene aggiunto alla valutazione",
+  "SHEET.Offhand": "Improvvisata",
+  "Off-hand": "Improvvisata",
+  "Loaded": "Caricata",
+  "SHEET.Qualities": "Q:",
+  "SHEET.Flaws": "D:",
+  "SHEET.WeaponDamage": "Danni all'Arma",
+  "SHEET.ArmourCurrent": "Attuale",
+  "SHEET.ArmourMax": "Massimo",
+  "SHEET.NewExtendedTest": "Nuova Prova Estesa",
+  "SHEET.NewTrapping": "Nuovi Averi",
+  "SHEET.NewCritical": "Nuovo Critico",
+  "SHEET.NewInjury": "Nuovo Infortunio",
+  "SHEET.DoesDamage": "Fa Danni",
+  "SHEET.DamageValue": "Valore del Danno",
+  "SHEET.Dismount": "Smontare",
+  "SHEET.RemoveMount": "Rimuovi il Supporto",
+  "SHEET.RemoveAttacker": "Rimuovi Attaccante",
+  "ACTOR.BasicSkillsTitle": "Aggiungi Abilità di Base",
+  "ACTOR.BasicSkillsPrompt": "Aggiungi Abilità di Base?",
+  "ACTOR.PreparationError": "Si è verificato un errore durante la preparazione dei dati del personaggio: ",
+  "ACTOR.AddBasicSkills": "Aggiungi Abilità Base",
+  "ACTOR.ImportStatBlock": "Importa Blocco Statistiche",
+  "ACTOR.SpentExp": "Hai speso {amount} Esperienza per {reason}",
+  "ACTOR.AdvancementError": "Non posso permettermi di {action} {item}, non ho abbastanza Esperienza disponibile",
+  "ACTOR.ErrorImprove": "ottimizzare",
+  "ACTOR.ErrorAdd": "inserisci",
+  "ACTOR.ClearMount": "Pulisci Supporto",
+  "ITEM.PenniesValue": "Valore (in p)",
+  "ITEM.MeleeDamage": "Danno corpo a corpo",
+  "ITEM.RangedDamage": "Danno a distanza",
+  "ITEM.TwoHanded": "Due Mani",
+  "ITEM.WeaponDamaged": "L'Arma è danneggiata da",
+  "ITEM.ShieldDamaged": "<b>Danneggiato</b> - PA Ridotto da",
+  "ITEM.TrappingType": "Categoria",
+  "ITEM.MutationType": "Tipo di Mutazione",
+  "ITEM.CountOwnerEnc": "Conteggia l'Ingombro del Proprietario?",
+  "ITEM.ArmourType": "Tipo di Armatura",
+  "ITEM.AmmunitionType": "Tipo di Munizioni",
+  "ITEM.AmmunitionGroup": "Gruppo di Munizioni",
+  "ITEM.ConsumesAmmo": "Consuma Munizioni",
+  "ITEM.ConsumeAmmoTT": "Se selezionato e Gruppo di Munizioni è 'Nessuno', la quantità dell'articolo verrà consumata.",
+  "ITEM.CountEnc": "Cont. Ing.",
+  "ITEM.SkillModifier": "Modificatore di Abilità?",
+  "ITEM.SkillModifierTT": "Mostra il modificatore nella casella 'Penalità' delle Abilità",
+  "ITEM.PrayerType": "Tipo di Preghiera",
+  "ITEM.TalentMax": "Talento Massimo",
+  "ITEM.TalentTests": "Prova di Talento",
+  "ITEM.IsGrouped": "È Raggruppato",
+  "ITEM.CostModifier": "Modificatore Costo PE",
+  "ITEM.CostModifierTT": "Applica un modificatore al costo in PE quando avanzi in questa abilità",
+  "ITEM.ReloadingWeapon": "Ricarica {weapon}",
+  "ITEM.Reloading": "Ricarica",
+  "ITEM.CreateReloadTest": "Creato Prova Prolungata per Ricarica {weapon}",
+  "ITEM.ReloadError": "Impossibile trovare Prova Prolungata per Ricarica associata",
+  "ITEM.ReloadFinish": "Prova Prolungata per Ricarica Finita",
+  "ITEM.VehicleMod": "Modifica",
+  "ITEM.ModeOverride": "Sostituisci Modalità",
+  "ITEM.ModeOverrideTT": "Generalmente un'arma viene determinata per essere da Mischia o a Distanza in base al Gruppo di Armi. Questo può essere ignorato qui.",
+  "ITEM.CargoType": "Tipo di carico",
+  "ITEM.UnitPrice": "Prezzo unitario",
+  "ITEM.CargoQuality": "Qualità",
+  "ITEM.Origin": "Origine",
+  "ITEM.OptimalRange": "Portata Ottimale",
+  "as weapon": "come arma",
+  "half weapon": "mezza arma",
+  "third weapon": "terza arma",
+  "quarter weapon": "arma da un quarto",
+  "twice weapon": "due volte l'arma",
+  "Basic": "Base",
+  "Advanced": "Avanzata",
+  "Qualities": "Qualità",
+  "Flaws": "Difetti",
+  "Location": "Locazione",
+  "Penalty": "Penalità",
+  "Penalties": "Penalità",
+  "PenaltyHint": "Separati da virgola se multipli (-20 Nascondersi, -10 Percepire)",
+  "Max": "Massimale",
+  "Tests": "Prova",
+  "Specification": "Specificazione",
+  "Price": "Prezzo",
+  "Encumbrance": "Ingombro",
+  "Availability": "Disponibilità",
+  "Special": "Speciale",
+  "Special Ammo": "Munizioni Speciali",
+  "Specialization": "Specializzazione",
+  "Reach": "Portata",
+  "Contraction": "Contagio",
+  "Incubation": "Incubazione",
+  "Duration": "Durata",
+  "Symptoms": "Sintomi",
+  "Permanent": "Permanente",
+  "Status": "Status",
+  "Status Tier": "Livello di Status",
+  "Status Standing": "Status Attuale",
+  "Class": "Classe",
+  "Group": "Gruppo",
+  "Personal Details": "Dettagli Personali",
+  "Characteristics": "Caratteristiche",
+  "Characteristic": "Caratteristica",
+  "Main": "Principale",
+  "Skills": "Abilità",
+  "Skill": "Abilità",
+  "Skill Type": "Prove",
+  "Talents": "Talenti",
+  "Talent": "Talento",
+  "Times Taken": "Times Taken",
+  "Combat": "Combattimento",
+  "Magic": "Magia",
+  "Religion": "Religione",
+  "Trappings": "Averi",
+  "Notes": "Note",
+  "Income": "Reddito",
+  "Wounds": "Ferite",
+  "RestRecover": "Riposa e recupera le ferite",
+  "Modifier": "Modificatore",
+  "Modifiers": "Modificatori",
+  "Range": "Gittata",
+  "Target": "Bersaglio",
+  "Damage": "Danno",
+  "Ammunition": "Munizioni",
+  "Magic Missile": "Missile Magico",
+  "Lore": "Sapere",
+  "Lore Effect": "Effetto Del Sapere",
+  "SPELL.Lore": "Sapere:",
+  "CN": "VL",
+  "SL": "LS",
+  "SuccessLevels": "LS",
+  "Wearable": "Indossabile",
+  "Choose": "Scegliere",
+  "Roll": "Tiro",
+  "Advantage": "Vantaggio",
+  "None": "Nessuna",
+  "NoneAmmo": "Nessuna",
+  "Free": "Gratuito",
+  "Armour": "Armatura",
+  "Mutation": "Mutazione",
+  "Mutations": "Mutazioni",
+  "Injury": "Lesione",
+  "Injuries": "Lesioni",
+  "Criticals": "Critici",
+  "Equipped": "Equipaggiato",
+  "Worn": "Indossato",
+  "Blessing": "Benedizione",
+  "Miracle": "Miracolo",
+  "Physical": "Fisica",
+  "Mental": "Mentale",
+  "Success": "Successo",
+  "Cast": "Lancio",
+  "Channel": "Incanalare",
+  "Test": "Prova",
+  "SkillTest": "Prova {skill}",
+  "CharTest": "Prova {char}",
+  "WeaponTest": "Prova dell'Arma",
+  "CastingTest": "Prova di Lancio",
+  "ChannellingTest": "Prova di Incanalare",
+  "PrayerTest": "Prova di Preghiera",
+  "Opposed": "Contrapposto",
+  "Failure": "Fallimento",
+  "Astounding": "Incredibile",
+  "Impressive": "Impressionante",
+  "Marginal": "Marginale",
+  "Critical": "Critico",
+  "Critical Wound": "Ferita critica",
+  "Critical Wounds": "Ferite critiche",
+  "Experience": "Esperienza",
+  "Spent": "Spesa",
+  "Corruption": "Corruzione",
+  "Fumble": "Disastro",
+  "Misfire": "Cilecca",
+  "Unopposed": "Non Contrapposto",
+  "Head": "Testa",
+  "Body": "Corpo",
+  "Right Arm": "Braccio Destro",
+  "Left Arm": "Braccio Sinistro",
+  "Right Leg": "Gamba Destra",
+  "Left Leg": "Gamba Sinistra",
+  "Arms": "Braccia",
+  "Legs": "Gambe",
+  "Spell": "Incantesimo",
+  "Total": "Totale",
+  "Carries": "Carico",
+  "Memorized": "Memorizzato",
+  "Initial": "Iniziale",
+  "Advances": "Avanzamenti",
+  "Current": "Attuale",
+  "Complete": "Completo",
+  "Movement": "Movimento",
+  "Move": "Movimento",
+  "Walk": "Camminata",
+  "Run": "Corsa",
+  "Swim": "Nuotare",
+  "Fortune": "Fortuna",
+  "Fate": "Fato",
+  "Resolve": "Risolutezza",
+  "Resilience": "Resilienza",
+  "Career": "Carriera",
+  "Careers": "Carriere",
+  "Level": "Livello",
+  "Biography": "Biografia",
+  "Personal Ambitions": "Ambizioni Personali",
+  "Party Ambitions": "Ambizioni del Gruppo",
+  "Short Term": "Breve Termine",
+  "Long Term": "Lungo Termine",
+  "Motivation": "Motivazione",
+  "Psychology": "Psicologia",
+  "Disease": "Malattia",
+  "Diseases": "Malattie",
+  "GM Notes": "Note del GM",
+  "Blessed By": "Benedetto da",
+  "Sin": "Peccato",
+  "Species": "Specie",
+  "Subspecies": "Sottospecie",
+  "Gender": "Razza",
+  "Career Level": "Livello di Carriera",
+  "Career Group": "Gruppo di Carriera",
+  "Career Class": "Classe",
+  "Career Tier": "Sentiero",
+  "Earning Skill": "Guadagnare Abilità",
+  "Age": "Età",
+  "CharacterHeight": "Altezza",
+  "Weight": "Peso",
+  "Hair Colour": "Capelli",
+  "Eye Colour": "Occhi",
+  "Distinguishing Mark": "Segni Particolari",
+  "Star Sign": "Segno Zodiacale",
+  "Basic Skills": "Abilità Base",
+  "Grouped & Advanced Skills": "Abilità Avanzate e di Gruppo",
+  "Creature Traits": "Tratti delle Creature",
+  "Creature Trait": "Tratto della Creatura",
+  "Creature Overview": "Panoramica della Creatura",
+  "Trained Skills": "Abilità Conosciute",
+  "Traits": "Tratti",
+  "Randomize Attributes": "Attributi Casuali",
+  "RANDOMIZER.C": "C",
+  "RANDOMIZER.S": "F",
+  "RANDOMIZER.T": "R",
+  "Character Name": "Nome del personaggio",
+  "Extra": "Aggiuntivo",
+  "Exp": "Esperienza",
+  "Details": "Dettagli",
+  "Attributes": "Attributi",
+  "Reroll": "Ritirare",
+  "Description": "Descrizione",
+  "Overcast": "Eccesso di Lancio",
+  "Other": "Altro",
+  "Category": "Categoria",
+  "God": "Divinità",
+  "Value": "Valore",
+  "AoE": "AdE",
+  "Radius": "Raggio",
+  "Extendable Duration": "Durata Estendibile",
+  "ExtDurHint": "Quando l'incantesimo dovrebbe terminare, puoi effettuare una Prova di Volontà per estendere la Durata di +1 round.",
+  "Rollable": "Tirabile",
+  "Roll Characteristics": "Caratteristiche di Tiro",
+  "Bonus Characteristic": "Bonus Caratteristica",
+  "Weapon Group": "Gruppo Arma",
+  "Type": "Tipo",
+  "Container": "Contenitore",
+  "Money": "Soldi",
+  "Prayer": "Preghiera",
+  "Trait": "Tratto",
+  "Protects": "Proteggere",
+  "AllowXPSpending": "Forzare Indicatore d'Avanzamento",
+  "TooltipAllowXPSpending": "Mostra l'indicatore di avanzamento indipendentemente dalla carriera, che ti consentirà di automatizzare l'esperienza spesa.",
+  "TooltipSkillModifier": "Aggiungi un bonus o una penalità arbitrari per l'abilità.",
+  "Extended Test": "Prova Prolungata",
+  "Extended Tests": "Prove Prolungate",
+  "Target SL": "LS Bersaglio",
+  "Hide Test": "Nascondi Prova",
+  "Hide Progress": "Nascondi Progressi",
+  "Negative SL Possible": "Possibile LS negativo",
+  "Failing Decreases Progress": "Il Fallimento Riduce i Progressi",
+  "Effects": "Effetti",
+  "Mount": "Supporto",
+  "Corruption&Mutation": "Corruzione & Mutazioni",
+  "Social Group": "Gruppo Sociale",
+  "the associated Threat": "la Minaccia associata",
+  "Sense": "Senso",
+  "the Terrain": "il Terreno",
+  "chosen Lore": "Sapere prescelto",
+  "Charging": "Carica",
+  "Players": "Giocatori",
+  "Enemies": "Nemici",
+  "BROWSER.Button": "Browser Articoli",
+  "BROWSER.ItemCategories": "Categorie di Articoli",
+  "BROWSER.IncludeWorld": "Includere oggetti del mondo?",
+  "BROWSER.FilterOptions": "Opzioni Filtro",
+  "BROWSER.ModifiesDamage": "Modifica i danni",
+  "BROWSER.ModifiesRange": "Modifica la portata",
+  "BROWSER.ItemList": "Lista articoli",
+  "BROWSER.LoadingBrowser": "Caricamento del browser...",
+  "On Completion": "Al Termine",
+  "ExtendedTest.None": "Nessuno",
+  "ExtendedTest.Reset": "Ripristina",
+  "ExtendedTest.Remove": "Rimuovere",
+  "Completed": "Completato",
+  "ExtendedError1": "Inserisci un numero intero positivo per l'obiettivo della Prova Prolungata",
+  "ExtendedError2": "Impossibile trovare caratteristiche o abilità da abbinare: {name}",
+  "XP": "PE",
+  "EXP": "ESP",
+  "CHARGEN.Title": "Generazione del Personaggio",
+  "CHARGEN.Stages": "Fasi",
+  "CHARGEN.StageSpecies": "Specie",
+  "CHARGEN.StageCareer": "Carriera",
+  "CHARGEN.StageAttributes": "Attributi",
+  "CHARGEN.StageSkillsTalents": "Abilità & Talenti",
+  "CHARGEN.StageTrappings": "Averi",
+  "CHARGEN.StageDetails": "Aggiunta Dettagli",
+  "CHARGEN.StageTitle.Species": "Determina la tua Specie",
+  "CHARGEN.StageTitle.Career": "Tira per una Carriera",
+  "CHARGEN.StageTitle.Attributes": "Determina gli attributi",
+  "CHARGEN.StageTitle.SkillsTalents": "Abilità e Talenti Avanzati dalla tua Specie e Carriera",
+  "CHARGEN.StageTitle.Trappings": "Ottieni Averi dalla tua Carriera",
+  "CHARGEN.StageTitle.Details": "Inserisci i dettagli del tuo personaggio",
+  "CHARGEN.Species.SelectSpecies": "Seleziona una Specie",
+  "CHARGEN.Species.SelectSubSpecies": "Seleziona una Sottospecie",
+  "CHARGEN.Species.NoSubspecies": "Nessuna Sottospecie disponibile",
+  "CHARGEN.Species.ChooseSpecies": "In alternativa, scegli una Specie per nessuna Esperienza bonus",
+  "CHARGEN.Career.ChooseCareer": "Scegliere {name}",
+  "CHARGEN.Career.ReplacementsAvailable": "Sostituzioni disponibili",
+  "CHARGEN.Career.ReplacementsAvailableDescription": "In base alle carriere ottenute, sono disponibili queste opzioni alternative",
+  "CHARGEN.Career.RollAgain": "Tira ancora per altre due scelte per meno PE",
+  "CHARGEN.Career.KeepRolling": "Continua a tirare (nessuna esperienza extra)",
+  "CHARGEN.Career.DragDrop": "In alternativa, sostituisci un oggetto carriera per usare invece quella carriera (per nessuna esperienza extra)",
+  "CHARGEN.Attributes.Reroll": "Ritira",
+  "CHARGEN.Attributes.Allocate": "Assegna",
+  "CHARGEN.Attributes.Rearrange": "Riorganizzare",
+  "CHARGEN.Attributes.Allocation": "Assegnazione",
+  "CHARGEN.Attributes.NotHappy": "Non sei contento di questi numeri?",
+  "CHARGEN.Attributes.Instructions": "sposta tra loro i valori tirati per riorganizzare le statistiche (ma così facendo ottieni meno PE). Oppure puoi rilanciare e non ricevere PE. In alternativa, assegna 100 punti come desideri (per nessun PE).",
+  "CHARGEN.Attributes.AllocationPoints": "Assegna 100 Punti alle caratteristiche (min. 4, max: 18)",
+  "CHARGEN.Attributes.AllocationSpent": "Hai speso {spent}",
+  "CHARGEN.Attributes.ExtraPoints": "Assegna punti extra ({points} rimanenti)",
+  "CHARGEN.Attributes.CharacteristicAdvances": "Assegna 5 Avanzamenti alle caratteristiche della tua Carriera",
+  "CHARGEN.SkillsTalents.SkillAdvances": "Scegli 3 Abilità a cui assegnare 5 Avanzamenti e altre 3 a cui assegnare 3 Avanzamenti.",
+  "CHARGEN.SkillsTalents.NumAdvances": "{num} Avanzamenti",
+  "CHARGEN.SkillsTalents.SpeciesTalents": "Scegli e Tira i talenti della specie",
+  "CHARGEN.SkillsTalents.RandomTalents": "Tira {count} Talenti Casuali",
+  "CHARGEN.SkillsTalents.CareerSkills": "Assegna 40 punti alle Abilità di Carriera ({points} rimasti)",
+  "CHARGEN.SkillsTalents.CareerTalent": "Scegli 1 Talento Carriera",
+  "CHARGEN.Trappings.ClassTrappings": "Averi di Classe",
+  "CHARGEN.Trappings.CareerTrappings": "Averi di Carriera",
+  "CHARGEN.Trappings.MissingTrappings": "Averi Mancanti",
+  "CHARGEN.Trappings.MissingTrappingsDescription": "<p>Questi averi non sono stati trovati, puoi scegliere di tenerli come caselle vuote o rimuoverli. <strong>Nota: </strong> si consiglia di rimuovere gli averi che esistono ma non sono stati trovati e di aggiungerli manualmente (tramite Averi Aggiunti di seguito)</p><p><strong>ad es.</strong> Rimuovi la <em>balestra e i 12 dardi mancanti</em> e aggiungi gli oggetti balestra e dardi</p>",
+  "CHARGEN.Trappings.AddedTrappings": "Averi Aggiunti",
+  "CHARGEN.Trappings.DragDrop": "Trascina e rilascia qualsiasi altro avere",
+  "CHARGEN.Trappings.Keep": "Mantenere",
+  "CHARGEN.Trappings.Remove": "Rimuovere",
+  "CHARGEN.Details.ShortTermAmbitions": "Ambizione a Breve Termine",
+  "CHARGEN.Details.LongTermAmbitions": "Ambizione a Lungo Termine",
+  "CHARGEN.Details.Eyes": "Occhi",
+  "CHARGEN.Details.Hair": "Capelli",
+  "CHARGEN.Message.Start": "<p><b>{user}</b> ha iniziato la generazione del personaggio!</p>",
+  "CHARGEN.Message.Rolled": "<p>Tirato: <b>{rolled}</b>!</p>",
+  "CHARGEN.Message.Chosen": "<p>Scegli: <b>{chosen}</b>!</p>",
+  "CHARGEN.Message.RolledCharacteristics": "<p>Caratteristiche Tirate</p>",
+  "CHARGEN.Message.ReRolledCharacteristics": "<p>Caratteristiche Ritirate</p>",
+  "CHARGEN.Message.SwappedCharacteristics": "<p>Scambiata {ch1} con {ch2}</p>",
+  "CHARGEN.Message.AllocateCharacteristics": "<p>Iniziata l'assegnazione delle caratteristiche</p>",
+  "CHARGEN.Message.Created": "<p><b>{name}</b> creato!",
+  "CHARGEN.NoGMWarning": "Per creare un personaggio è necessario che un GM abbia effettuato l'accesso o che i giocatori ricevano l'autorizzazione 'Crea nuovi attori'",
+  "CHARGEN.ERROR.StageStart": "Impossibile iniziare questa Fase: devi prima completare {stage}",
+  "CHARGEN.ERROR.StageAlreadySubmitted": "La Fase è già stata inviata e non può essere inviata di nuovo",
+  "CHARGEN.ERROR.SpeciesSubmit": "Devi tirare o selezionare una Specie per inviare questa Fase",
+  "CHARGEN.ERROR.CareerSubmit": "Devi tirare o selezionare una Carriera per inviare questa Fase",
+  "CHARGEN.ERROR.MetaAllocation": "L'assegnazione dei punti non deve superare quelli Extra",
+  "CHARGEN.ERROR.CharacteristicAllocation": "I Punti Caratteristica assegnati non devono superare i 100",
+  "CHARGEN.ERROR.CharacteristicAllocationBounds": "Non è possibile assegnarne meno di 4 o più di 18 in una singola caratteristica",
+  "CHARGEN.ERROR.CharacteristicAdvances": "Gli Avanzamenti di Caratteristica non devono superare 5",
+  "CHARGEN.ERROR.SpeciesSkillAdvancements": "Non può superare le 3 Abilità Avanzate",
+  "CHARGEN.ERROR.SpeciesTalentsNotRolled": "Talenti Casuali non lanciati",
+  "CHARGEN.ERROR.SpeciesTalentsNotChosen": "Scegli tra i Talenti di Specie disponibili",
+  "CHARGEN.ERROR.CareerTalentNotChosen": "Scegli un Talento di Carriera",
+  "CHARGEN.ERROR.CareerSkillAllocation": "Non si possono assegnare più di 40 punti alle Abilità di Carriera",
+  "CHARGEN.ERROR.CareerSkillAllocationBounds": "Non si possono assegnare più di 10 punti ad una singola Abilità",
+  "CHARGEN.ERROR.ClassTrappingsNotFound": "Averi di Classe per {class} non trovati",
+  "CHARGEN.ERROR.Create": "Errore durante la creazione dell'attore: {error}",
+  "CHARGEN.ERROR.CareerItem": "Impossibile trovare l'Oggetto Carriera di livello 1: {career}",
+  "CHARGEN.ERROR.CareerItems": "Impossibile trovare {num} elementi carriera (su {careers})",
+  "CHARGEN.ERROR.SpeciesTable": "Impossibile trovare la Tabella delle Specie",
+  "DIALOG.CastOrChannel": "Prova di Lancio o Incanalare",
+  "DIALOG.CastChannel": "Lanciare o incanalare questo incantesimo?",
+  "DIALOG.ChannelSkill": "Abilità di incanalare",
+  "DIALOG.MalignantInf": "Influenza maligna",
+  "DIALOG.MalignantInfTT": "Incidente Magico sui tiri delle unità che includono 8",
+  "DIALOG.ChannelUntilReady": "Incanalare fino a quando non è pronto",
+  "DIALOG.ChannelUntilReadyToolTip": "La canalizzazione di questo incantesimo continuerà fino al successo o ad un Incidente Magico",
+  "Delete Confirmation": "Elimina conferma",
+  "DIALOG.DeleteItem": "Sei sicuro di voler eliminare questo articolo?",
+  "DIALOG.SLBonus": "Bonus LS",
+  "DIALOG.SuccessBonus": "Bonus di successo",
+  "DIALOG.TalentBonus": "Bonus Talento",
+  "DIALOG.Bonuses": "Bonus",
+  "DIALOG.Details": "Dettagli",
+  "DIALOG.SLBonusTT": "LS che viene sempre aggiunto o sottratto (ad es.Difensivo)",
+  "DIALOG.SuccessBonusTT": "LS applicato solo in caso di successo (ad es. Talenti)",
+  "DIALOG.BonusTT": "Elenco dei potenziali bonus",
+  "DIALOG.RollMode": "Modalità di Tiro",
+  "DIALOG.Extensions": "Estensioni",
+  "DIALOG.CastSkill": "Abilità di lancio",
+  "DIALOG.HitLocation": "Includere un tiro sulla tabella delle posizioni dei colpi",
+  "DIALOG.TableModifier": "Modificatore di tabella",
+  "DIALOG.Min1": "Minimo 1",
+  "DIALOG.Charging": "Carica",
+  "DIALOG.TableLookup": "Ricerca tabella",
+  "DIALOG.DualWielding": "Doppia Impugnatura",
+  "DIALOG.BeginCharacterCreation": "Inizia la creazione del personaggio?",
+  "DIALOG.DifficultyStep": "Passo Difficoltà",
+  "DIALOG.AdvantageUpdate": "Vantaggio dell'Attore Aggiornato",
+  "DIALOG.MutateTitle": "Dissoluzione del Corpo e della Mente - {test} Prova",
+  "DIALOG.CorruptionTitle": "Influenza Corruttrice",
+  "DIALOG.CorruptionContent": "In che modo {name} resiste a questa Corruzione?",
+  "DIALOG.CorruptionTestTitle": "Influenza Corruttrice - {test} Prova",
+  "DIALOG.VehicleActorSelect": "Seleziona l'Attore per usare l'arma",
+  "DIALOG.ActorSelection": "Seleziona un Attore",
+  "DIALOG.ShowTable": "Visibilità del Tavolo",
+  "DIALOG.ShowTableHint": "Mostra la tabella ai giocatori nella barra laterale e nel menu /tavolo",
+  "Show": "Mostra",
+  "Hide": "Nascondi",
+  "ExpChange": "Modifica Esperienza",
+  "ExpChangeHint": "Ragione per Modif. Esperienza?",
+  "RevertExperience": "Ripristina Esperienza",
+  "DIALOG.RevertExperience": "Ripristina Punti Esperienza?",
+  "DIALOG.UseIngredient": "Scegli come utilizzare l'ingrediente (se disponibile)",
+  "DIALOG.UseIngredientTooltip": "You may focus your magic through an appropriate material component before discharging your spell. Ingredients react differently depending on how you funnel your magic through them. Before you cast or channel, you must choose whether to use the ingredient for Power or Control. Ingredients are consumed even when the spell fails. <br/> Power Ingredient: When used during a Channelling Test, a power ingredient doubles the number of SL aquired on success (see overchannelling). When used during a Casting Test, a power ingredient allows you to reverse the dice and choose the result for your Casting Test. However, if the units die after reverse of your Casting Test exceeds your Willpower Bonus, the energy exceeds your grasp and you unleash a Minor Miscast. <br/> Control Ingredient: When used during a Channelling or Casting Test, a control ingredient acts as a target for out-of-control magic. Reduce the severity of one suffered Miscast by one table: ie, from Catastrophic to Major, Major to Minor, or Minor to none.",
+  "DIALOG.OverchannellingTooltip": "When you are Channelling, you are presumed to vent any excess SL beyond that which would reduce the spell’s CN to 0 harmlessly. After the Test is rolled, you may choose instead to keep the excess magical energy that you have gathered and apply it to Overcasting once the spell is cast. (Example: Bianca channels a spell with a CN of 3 and scores 7 SL; she chooses to bank the extra 4 SL for Overcasting effects once the spell is cast.) But this extra power is not without its cost. If the casting Test fails, you lose all channelled energy and suffer a Minor Miscast. Further, you count any double or any roll ending in a 0 over your channelling or Language (Magick) Skill as a Fumble (so, 00, 99, 90, 88, etc) and any Critical or Fumble on these Tests is a Major Miscast instead. ",
+  "DIALOG.Quickcasting": "Lancio Rapido",
+  "DIALOG.QuickcastingTooltip": "If you forfeit your Move and all Free Actions, you may use your Turn to quickly Channel and Cast in the same Action. Because you are rushing, increase the severity of any suffered Miscast by one table (ie, from Minor to Major or Major to Catastrophic). ",
+  "DIALOG.EnterQuantity": "Enter Quantity?",
+  "DIALOG.PostQuantity": "Post Quantity",
+  "DIALOG.ItemQuantity": "Item Quantity",
+  "DIALOG.QuantityHint": "Item Quantity is the quantity of items in each post.<br>Total quantity reduced will be Post Quantity X Item Quantity<br>Selecting Infinite will not reduce your quantity",
+  "Post": "Post",
+  "DIALOG.MemorizeSpell": "Memorize Spell",
+  "DIALOG.MemorizeSpellContent": "Memorizing this spell will cost {xp} XP.",
+  "DIALOG.Advancement": "Advancement Cost",
+  "DIALOG.AdvancementContent": "Confirm or edit the cost of this advancement",
+  "DIALOG.GainPrayer": "Gain Miracle",
+  "DIALOG.GainPrayerContent": "Gaining this miracle will cost {xp} XP.",
+  "CHAT.Quickcasting": "Lancio Rapido",
+  "CHAT.CareerChoose": "Scegli la tua Carriera",
+  "CHAT.DamageError": "Errore nel calcolo del danno:",
+  "CHAT.DamageAppliedError": "Nessun valore di danno. Assicurati che l'attaccante stia usando un oggetto che causa danni, come un'arma.",
+  "CHAT.DamageAppliedErrorTiring": "Non è possibile automatizzare il danno (probabilmente a causa di Stanchezza o l'arma/il tratto non è impostato correttamente)",
+  "CHAT.DamageApplied": "Danno applicato",
+  "CHAT.ApplyDamageBasic": "@DAMAGE danno applicato a <b>{name}</b>",
+  "CHAT.DamageShield": "Scudo",
+  "CHAT.CriticalsNullified": "Critici annullati",
+  "CHAT.DamageAP": "Danneggia 1 PA",
+  "CHAT.ScatterTarget": "B",
+  "CHAT.ScatterNote": "Nota: la distanza non può essere superiore alla metà della distanza tra te e il bersaglio",
+  "CHAT.ScatterYou": "Ai tuoi piedi",
+  "CHAT.ScatterThem": "Ai suoi piedi",
+  "Overcasts": "Overcasts",
+  "CHAT.OvercastReset": "Overcast Reset",
+  "CHAT.ChooseFrom": "Scegli da",
+  "CHAT.MustChoose": "Deve scegliere",
+  "CHAT.CritCast": "Se l'incantesimo causa danni, infligge a",
+  "CHAT.TotalPower": "L'incantesimo viene lanciato, indipendentemente dal suo VL e dal risultato di LS, ma può essere dissolto",
+  "CHAT.UnstoppableForce": "Se l'incantesimo viene lanciato con successo, non può essere dissolto.",
+  "CHAT.ColumnPrompt": "Seleziona una colonna su cui scorrere",
+  "CHAT.CriticalWoundsApplied": "Ferite applicate a",
+  "CHAT.OpposedWonAgainst": "vinto contro",
+  "CHAT.By": "di",
+  "CHAT.EditItem": "Edit Item",
+  "CHAT.Haggle": "Mercanteggiare",
+  "CHAT.HaggleHint": "Cambia prezzo del prodotto di +/-10%",
+  "CHAT.CorruptingInfluence": "Corrupting Influence",
+  "CHAT.Resist": "Resist",
+  "CHAT.ContextualMenu": "Su questa scheda potrebbe essere disponibile un menu contestuale (click destro)",
+  "CHAT.EditTest": "Modifica Prova",
+  "CHAT.OpposedTest": "Prova Contrapposta",
+  "CHAT.RemovedConditions": "Rimuovi una Condizione <b>{condition}</b> da <b>{name}</b>",
+  "CHAT.AutoWitchcraftMiscast": "Witchcraft - Automatically roll on the Minor Miscast table",
+  "CHAT.WitchcraftMiscast": "Witchcraft - Gain 1 Corruption if rolling on Miscast",
+  "CHAT.MalignantInfluence": "Miscast due to Malignant Influence",
+  "CHAT.PowerIngredientMiscast": "Miscast due to usage of Power Ingredient - number 8 in reversed roll.",
+  "CHAT.ChannellingMiscast": "Casting failed after Channelling",
+  "CHAT.OverchannellingMiscast": "Miscast due to Overchannelling",
+  "CHAT.FumbleMiscast": "Miscast due to Fumble",
+  "CHAT.TotalPowerMiscast": "Miscast due to Full Power",
+  "CHAT.CritCastMiscast": "Miscast due to Critical Success",
+  "CHAT.CritChannelMiscast": "Miscast due to Critical Channel Success",
+  "Size": "Size",
+  "CHAT.CausesFear": "<b>{actor}</b> causes {fear} to {target}<br>",
+  "CHAT.Fear": "Fear",
+  "CHAT.FearReminder": "These actors are currently subject to <b>Fear</b> and can perform a Test to overcome it.",
+  "CHAT.InjuryFinish": "{injury} duration complete.",
+  "CHAT.InjuryError": "Cannot decrement {injury} as it is not a number.",
+  "Minor Infections": "Minor Infections",
+  "CHAT.InfectionReminder": "These actors have received Critical Wounds and needs to succeed a <b>Very Easy (+60) Endurance Test</b> or gain a @Compendium[wfrp4e-core.diseases.1hQuVFZt9QnnbWzg]{Minor Infection}.",
+  "CHAT.DiseaseIncubation": "{disease} incubation finished.",
+  "CHAT.DiseaseDuration": " Duration of {duration} {unit} has begun.",
+  "CHAT.DiseaseDurationError": " Error ocurred when rolling for duration.",
+  "CHAT.DiseaseFinish": "{disease} duration finished.",
+  "CHAT.LingeringExtended": "  Lingering: Duration extended by {roll} days.",
+  "CHAT.LingeringFestering": " Lingering: developed a Festering Wound.",
+  "CHAT.LingeringRot": " Lingering: developed Blood Rot.",
+  "CHAT.ApplyTT": "GMs: Select tokens to apply to.\nPlayers: Applies to assigned character",
+  "CHAT.Terror": "Terror",
+  "CHAT.Apply": "Applicare",
+  "CHAT.ApplyError": "You may not apply this effect.",
+  "CHAT.EditError": "You do not have permission to edit this Chat Message",
+  "CHAT.Experience": "Experience Award",
+  "CHAT.EndCombat": "End Of Combat Reminders",
+  "CHAT.Receive": "Receive",
+  "CHAT.PostError": "You must specify a positive integer.",
+  "CHAT.PostMoreThanHave": "Cannot post more than you have.",
+  "CHAT.PostQuantityReduced": "Quantity reduced by {num}",
+  "CHAT.ExpReceived": "Received <b>{amount}</b> experience for <b>{reason}</b>",
+  "CHAT.DiseasesRules": "<br>Refer to the diseases for their Contraction Rules",
+  "CHAT.CorruptionTest": "<br><b>Click a corruption link to prompt a test for Corruption</b>",
+  "CHAT.CorruptionFail": "<b>{name}</b> gains {number} Corruption.",
+  "CHAT.DissolutionTitle": "Dissolution of Body and Mind",
+  "CHAT.Dissolution": "As corruption ravages your soul, the warping breath of Chaos whispers within, either fanning your flesh into a fresh, new form, or fracturing your psyche with exquisite knowledge it can never unlearn.",
+  "CHAT.CorruptionLoses": "<b>{name}</b> loses {number} Corruption.",
+  "CHAT.CorruptionReroll": "<b>{name}</b> rerolled corruption, with the new result their corruption changes by {number}.",
+  "CHAT.MutateTable": "Roll on a Corruption Table:",
+  "CHAT.MutateSuccess": "You have managed to hold off your corruption. For now.",
+  "CHAT.TestModifiers.WeaponLength": "-10 Penalità a <b>{attacker}</b> per avere l'arma più corta.",
+  "CHAT.TestModifiers.FastWeapon": "-10 Penalità a <b>{defender}</b> per essersi difeso da un'arma veloce.",
+  "CHAT.TestModifiers.DefendingLarger": "Penalità LS per aver parato una creatura più grande.",
+  "CHAT.TestModifiers.AttackingLarger": "Attaccare una creatura più grande.",
+  "CHAT.TestModifiers.ShootingSizeModifier": "Tiro ad un bersaglio {size}.",
+  "CHAT.TestModifiers.FinalModifiersTitle": "<b>Modificatori Finali</b>:",
+  "CHAT.TestModifiers.FinalModifiers": "{target} Bersaglio, {sl}LS a <b>{name}</b>",
+  "CHAT.TestModifiers.AttackerMountLarger": "Bonus for attacking from a larger mount.",
+  "CHAT.TestModifiers.DefenderMountLarger": "Penalty for attacking the rider of a larger mount.",
+  "CHAT.TestModifiers.SlowDefend": "Attacker has Slow Weapon",
+  "CHAT.TestModifiers.WrapDefend": "Attacker has Wrap Weapon",
+  "CHAT.CommandLine.Help.Commands": "Tabelle,Condizioni, Generatore Personaggi,Generatore Nome,Test disponibilità, Pagamento,Credito,Corruzione,Viaggio,Esperienza",
+  "CHAT.CommandLine.Help.Label.Command": "Comando",
+  "CHAT.CommandLine.Help.Label.Example": "Esempio",
+  "CHAT.CommandLine.Help.Label.Note": "Nota",
+  "CHAT.CommandLine.Help.Tables.Title": "Tabelle",
+  "CHAT.CommandLine.Help.Tables.Usage.Command": "/table <table-name> <column> <modifier>",
+  "CHAT.CommandLine.Help.Tables.Usage.Example": "<br>/table critarm +20<br>/table carriera umano",
+  "CHAT.CommandLine.Help.Tables.Usage.Note": "/table <anything-unrecognized> aprirà il menu della guida della tabella",
+  "CHAT.CommandLine.Help.Conditions.Title": "Condizioni",
+  "CHAT.CommandLine.Help.Conditions.Usage.Command": "/cond <condition-name>",
+  "CHAT.CommandLine.Help.Conditions.Usage.Example": "<br>/cond ablaze<br>/cond privo di sensi",
+  "CHAT.CommandLine.Help.Conditions.Usage.Note": "corrisponderà alla condizione di ortografia più vicina e la visualizzerà (es. / cond abl == / cond ablaze)",
+  "CHAT.CommandLine.Help.Properties.Title": "Item Properties",
+  "CHAT.CommandLine.Help.Properties.Usage.Command": "/prop <property-name>",
+  "CHAT.CommandLine.Help.Properties.Usage.Example": "<br>/prop impact<br>/prop shoddy",
+  "CHAT.CommandLine.Help.Properties.Usage.Note": "will match the closest spelling condition and display it (eg. /prop acc == /prop accurate)",
+  "CHAT.CommandLine.Help.CharacterGeneration.Title": "Generazione del personaggio",
+  "CHAT.CommandLine.Help.CharacterGeneration.Usage.Command": "/char",
+  "CHAT.CommandLine.Help.CharacterGeneration.Usage.Example": "/char",
+  "CHAT.CommandLine.Help.CharacterGeneration.Usage.Note": "Inizia la generazione del personaggio",
+  "CHAT.CommandLine.Help.NameGeneration.Title": "Generatore di nomi",
+  "CHAT.CommandLine.Help.NameGeneration.Usage.Command": "/name",
+  "CHAT.CommandLine.Help.NameGeneration.Usage.Example": "<br>/name dwarf<br>/name helf male<br>/name welf female",
+  "CHAT.CommandLine.Help.NameGeneration.Usage.Note": "Genera un nome in chat (accessibile anche facendo clic sull'etichetta <Nome> su un PNG o una scheda creatura)",
+  "CHAT.CommandLine.Help.AvailabilityTest.Title": "Test di disponibilità",
+  "CHAT.CommandLine.Help.AvailabilityTest.Usage.Command": "/avail",
+  "CHAT.CommandLine.Help.AvailabilityTest.Usage.Example": "<br>/avail town common<br>/avail city exotic",
+  "CHAT.CommandLine.Help.AvailabilityTest.Usage.Note": "esegue un test di disponibilità per determinare la disponibilità e lo stock di un articolo.",
+  "CHAT.CommandLine.Help.Pay.Title": "pagare",
+  "CHAT.CommandLine.Help.Pay.Usage.Command": "/pay",
+  "CHAT.CommandLine.Help.Pay.Usage.Example": "<br>/pay 3gc2bp<br>/pay 10bp450ss",
+  "CHAT.CommandLine.Help.Pay.Usage.Note": "Se questo comando viene inviato dal GM, creerà invece una chat card in cui ai giocatori viene offerto di pagare per l'importo inserito dal GM.",
+  "CHAT.CommandLine.Help.Credit.Title": "Credito",
+  "CHAT.CommandLine.Help.Credit.Usage.Command": "/credit",
+  "CHAT.CommandLine.Help.Credit.Usage.Example": "<br>/credit 3gc2bp<br>/credit 10bp450ss each<br>/credit 1bp420ss John<br>/credit 1gc12ss Kastor Lieberung",
+  "CHAT.CommandLine.Help.Credit.Usage.Note": "This command is GM only. An amount of money entered by the GM will be sent to actors/players, with the following options: <ul><li><strong>/credit amount split (default)</strong>: Display as chat card for all users, with a button for them to receive payment. Example: /credit 12gc2bp</li><li><strong>/credit amount player_name</strong>: Display a chat card for the designated player only.</li><li><strong>/credit amount actor_name </strong>: Automatically adds money to the designated actor. Only a part of the actor name can be used, so if the actor's name is Kastor Lieberung, then you can write /credit 12ss kastor.</li></ul>",
+  "CHAT.CommandLine.Help.Corruption.Title": "Corruption",
+  "CHAT.CommandLine.Help.Corruption.Usage.Command": "/corruption",
+  "CHAT.CommandLine.Help.Corruption.Usage.Example": "<br>/corruption minor<br>/corruption moderate",
+  "CHAT.CommandLine.Help.Corruption.Usage.Note": "Use this to prompt your players to roll against corrupting influences.",
+  "CHAT.CommandLine.Help.Exp.Title": "Experience",
+  "CHAT.CommandLine.Help.Exp.Usage.Command": "/exp",
+  "CHAT.CommandLine.Help.Exp.Usage.Example": "<br>/exp 50<br>/exp 100 Defeating the boss",
+  "CHAT.CommandLine.Help.Exp.Usage.Note": "Use this to reward exp to your players. Their exp log will automatically be filled out with the reason given.",
+  "CHAT.CommandLine.Help.Travel.Title": "Travel",
+  "CHAT.CommandLine.Help.Travel.Usage.Command": "/travel",
+  "CHAT.CommandLine.Help.Travel.Usage.Example": "<br>/travel<br>/travel Altdorf Kemperbad",
+  "CHAT.CommandLine.Help.Travel.Usage.Note": "Based off of the <a href='http://www.gitzmansgallery.com/docs/Travel%20Distances%20in%20the%20Empire.pdf'>Travel Distances in the Empire</a> PDF.",
+  "CHAT.CommandLine.Help.Link": "Consulta il <a href={link}> Wiki </a> per ulteriori informazioni sulle funzionalità di questo sistema",
+  "Commands": "Commandi",
+  "Error.SpeciesSkills": "Impossibile aggiungere abilità per le specie",
+  "Error.SpeciesTalents": "Impossibile aggiungere talenti per le specie",
+  "Error.CriticalWound": "Errore durante l'applicazione del valore delle ferite",
+  "Error.DamageCalc": "Errore nel calcolo del danno",
+  "Error.Opposed": "Impossibile completare il test opposto",
+  "Error.MacroItemMissing": "Il tuo attore controllato non ha un oggetto denominato",
+  "Error.NoAmmo": "Niente munizioni!",
+  "ErrorNotLoaded": "Not Loaded - Reloading",
+  "ErrorLimitedWeapons": "You can't equip any more weapons.",
+  "ErrorDamagePermission": "You do not have permission to apply damage to this actor.",
+  "ErrorTokenMount": "Token mounts require you to be viewing the scene with the mount.",
+  "ErrorMountNotFound": "Error retrieving mount. Try removing the mount.",
+  "ErrorCharAssigned": "No character assigned. See the player configuration menu to assign a character.",
+  "ErrorMoneyConvert": "Need both source and destination money types to convert.",
+  "ErrorTarget": "Select a target to apply the effect.",
+  "ErrorExp": "Target tokens to give experience to.",
+  "ErrorMultExp": "already received this reward.",
+  "WarnUnlinkedMount": "An unlinked mount on a linked actor is not recommended.",
+  "ErrorCorruption": "Invalid Corruption Type",
+  "INCOME.YouEarn": "Tu guadagni",
+  "INCOME.Failure": "Hai avuto una ottimana molto brutta e non guadagni nulla (o ti hanno rubato i soldi o qualche incidente simile).",
+  "ROLL.CastingSuccess": "Lancio con Successo",
+  "ROLL.CastingFailed": "Lancio Fallito",
+  "ROLL.ChannelFailed": "Incanalare Fallito",
+  "ROLL.ChannelSuccess": "Incanalare con Successo",
+  "ROLL.TotalPower": "Potere totale",
+  "ROLL.UnstoppableForce": "Forza inarrestabile",
+  "ROLL.CritCast": "Lancio Critico",
+  "ROLL.CritChannel": "Incanalare Critico",
+  "ROLL.MinorMis": "Incidente Magico Minore",
+  "ROLL.MajorMis": "Incidente Magico Maggiore",
+  "ROLL.CatastrophicMis": "Incidente Magico Catastrofico",
+  "ROLL.PrayRefused": "Preghiera rifiutata",
+  "ROLL.PrayGranted": "Preghiera concessa",
+  "ROLL.Wrath": "Ira degli dei",
+  "ROLL.CancelOppose": "Prova Contrapposta annullata",
+  "ROLL.HitLocation": "Zona Colpita",
+  "ROLL.OpposedStart": "ha iniziato una Prova Contrapposta!",
+  "ROLL.Targeting": "<b>{attacker}</b> sta prendendo di mira <b>{defender}</b>",
+  "ROLL.MisfireText1": "La tua arma esplode! Prendi",
+  "ROLL.MisfireText2": "danno al tuo braccio principale.",
+  "ROLL.Reverse": "Tiro Invertito",
+  "ROLL.AstoundingSuccess": "Successo Incredidile",
+  "ROLL.ImpressiveSuccess": "Successo Impressionante",
+  "ROLL.Success": "Successo",
+  "ROLL.MarginalSuccess": "Successo Marginale",
+  "ROLL.AstoundingFailure": "Fallimento Incredibile",
+  "ROLL.ImpressiveFailure": "Fallimento Impressionante",
+  "ROLL.Failure": "Fallimento",
+  "ROLL.MarginalFailure": "Fallimento Marginale",
+  "ROLL.SizeCausedSuccess": "I modificatori di taglia hanno avuto successo: LS diventa +0",
+  "ROLL.HitAnotherEngagedTarget": "<b>Ops! Colpisci il bersaglio sbagliato, scegli un Personaggio ingaggiato a caso e applica il danno normale</b>",
+  "ROLL.CalledShot": "Colpo Mirato",
+  "WFRP4E.Reach.Personal": "Personale",
+  "WFRP4E.Reach.VShort": "Molto Corta",
+  "WFRP4E.Reach.Short": "Corta",
+  "WFRP4E.Reach.Average": "Media",
+  "WFRP4E.Reach.Long": "Lunga",
+  "WFRP4E.Reach.VLong": "Molto Lunga",
+  "WFRP4E.Reach.Massive": "Enorme",
+  "WFRP4E.ArmourType.SLeather": "Cuoio Morbido",
+  "WFRP4E.ArmourType.BLeather": "Cuoio Bollito",
+  "WFRP4E.ArmourType.Mail": "Maglia",
+  "WFRP4E.ArmourType.Plate": "Piastre",
+  "WFRP4E.ArmourType.Other": "Altro",
+  "WFRP4E.Availability.Special": "Speciale",
+  "WFRP4E.Availability.Common": "Comune",
+  "WFRP4E.Availability.Scarce": "Scarso",
+  "WFRP4E.Availability.Rare": "Raro",
+  "WFRP4E.Availability.Exotic": "Esotico",
+  "MARKET.Village": "Villaggio",
+  "MARKET.Town": "Paese",
+  "MARKET.City": "Città",
+  "MARKET.AvailabilityTest": "Prova di Disponibilità",
+  "MARKET.AvailWrongCommand": "Parametri sbagliati. Parametri attesi: <br> Dimensione dell'insediamento [Villaggio, Paese, Città] <br> Rarità [Comune, Scarsa, Rara, Esotica] <br> (opz.) Modificatore al tiro",
+  "MARKET.AvailCommandExample": "Esempio: /avail villaggio raro 10",
+  "MARKET.SettlementSize": "Tipo di insediamento:",
+  "MARKET.Rarity": "Rarità:",
+  "MARKET.InStock": "Disponibile:",
+  "MARKET.QuantityAvailable": "Quantità disponibile:",
+  "MARKET.RollForAvailability": "Tiro per disponibilità",
+  "MARKET.SelectSettlementSize": "Seleziona la dimensione dell'insediamento:",
+  "MARKET.PayForItem": "pagare",
+  "MARKET.ReceiveCredit": "Ricevere",
+  "MARKET.Exchange": "Unifica (Minor numero di monete)",
+  "MARKET.Abbrev.GC": "CO",
+  "MARKET.Abbrev.SS": "S",
+  "MARKET.Abbrev.BP": "P",
+  "MARKET.PayCommand": "Risposta di pagamento",
+  "MARKET.PayRequest": "Richiesta di pagamento",
+  "MARKET.CreditCommand": "Risposta di credito",
+  "MARKET.CreditRequest": "Richiesta di credito",
+  "MARKET.d": "d",
+  "MARKET.CreditCommandNotAllowed": "Solo i GM possono usare questo comando.",
+  "MARKET.PaidBy": "Pagato da:",
+  "MARKET.ReceivedBy": "Ricevuto da:",
+  "MARKET.MoneyTransactionWrongCommand": "Sintassi sbagliata. Si prega di formattare il comando come nei seguenti esempi:",
+  "MARKET.PayCommandExample": "/pay 3Co2p<br>/pay 450p<br>/pay 2s12p4Co",
+  "MARKET.CreditCommandExample": "/credit 3Co2p<br>/credit 450p circa<br>/credit 2s12p4Co suddiviso",
+  "MARKET.CantFindMoneyItems": "Errore. Non riesco a trovare gli oggetti denaro (CO/P/S) nell'inventario del personaggio.",
+  "MARKET.NotEnoughMoney": "Questo personaggio non ha abbastanza soldi per pagarlo.<br>",
+  "MARKET.MoneyNeeded": "Soldi necessari:",
+  "MARKET.MoneyAvailable": "Denaro disponibile:",
+  "MARKET.Paid": "<b>Pagamento completato:</b> {number1} CO {number2} S {number3} P",
+  "MARKET.Credit": "<b>Credito completato:</b> {number1} CO {number2} S {number3} P",
+  "MARKET.RequestMessageForSplitCredit": "La quantità di denaro {initialAmount} verrà condivisa tra i giocatori di {activePlayerNumber} per un risultato di:",
+  "MARKET.RequestMessageForEachCredit": "L'importo totale del denaro {initialAmount} verrà assegnato a ciascuno dei giocatori {activePlayerNumber} per un risultato di:",
+  "MARKET.NoPlayers": "Nessun giocatore attivo nella sessione di gioco.",
+  "MARKET.NoMatchingPlayer": "Nessun nome giocatore corrispondente trovato.",
+  "MARKET.CreditToUser": "L'importo di denaro {initialAmount} viene inviato all'utente {userName}.",
+  "MARKET.NotifyNoActor": "No Character is selected or associated with the current user",
+  "MARKET.NotifyUserMustBePlayer": "Must be a player to click on PAY",
+  "MARKET.ItemAdded": "{item} added to {actor}",
+  "Post Quantity": "Post Quantity",
+  "WFRP4E.TrappingType.Weapon": "Armi",
+  "WFRP4E.TrappingType.Armour": "Armature",
+  "WFRP4E.TrappingType.Money": "Soldi",
+  "WFRP4E.TrappingType.Ammunition": "Munizioni",
+  "WFRP4E.TrappingType.Container": "Contenitori",
+  "WFRP4E.TrappingType.ClothingAccessories": "Abiti e Accessori",
+  "WFRP4E.TrappingType.FoodDrink": "Cibo e bevande",
+  "WFRP4E.TrappingType.ToolsKits": "Strumenti e Kit",
+  "WFRP4E.TrappingType.BooksDocuments": "Libri e Documenti",
+  "WFRP4E.TrappingType.TradeTools": "Arnesi del Mestiere e Laboratori",
+  "WFRP4E.TrappingType.DrugsPoisonsHerbsDraughts": "Droghe, Veleni, Erbe e Infusi",
+  "WFRP4E.TrappingType.Ingredient": "Ingrediente",
+  "WFRP4E.TrappingType.Ingredients": "Ingredienti",
+  "WFRP4E.TrappingType.Misc": "Oggetti Vari",
+  "WFRP4E.TrappingType.Cargo": "Carico",
+  "SECTION.Passengers": "Passeggeri",
+  "WFRP4E.EncumbrancePenalties.Encumbered": "–1 Movimento (minimo 3), –10 Agilità, +1 Affaticato",
+  "WFRP4E.EncumbrancePenalties.VeryEnc": "–2 Movimento (minimo 2), –20 Agilità (minimo 10), +2 Affaticato",
+  "WFRP4E.EncumbrancePenalties.MaxEnc": "Immobilizzato",
+  "WFRP4E.ConditionName.Ablaze": "In Fiamme",
+  "WFRP4E.ConditionName.Bleeding": "Sanguinante",
+  "WFRP4E.ConditionName.Blinded": "Accecato",
+  "WFRP4E.ConditionName.Broken": "Atterrito",
+  "WFRP4E.ConditionName.Deafened": "Assordato",
+  "WFRP4E.ConditionName.Entangled": "Afferrato",
+  "WFRP4E.ConditionName.Fatigued": "Affaticato",
+  "WFRP4E.ConditionName.Poisoned": "Avvelenato",
+  "WFRP4E.ConditionName.Prone": "Prono",
+  "WFRP4E.ConditionName.Stunned": "Stordito",
+  "WFRP4E.ConditionName.Surprised": "Sorpreso",
+  "WFRP4E.ConditionName.Unconscious": "Privo di Sensi",
+  "WFRP4E.ConditionName.Grappling": "Lotta",
+  "WFRP4E.ConditionName.Fear": "Paura",
+  "WFRP4E.ConditionName.Engaged": "Ingaggiato",
+  "WFRP4E.ConditionName.Dead": "Morte",
+  "WFRP4E.LocationsTable": "Locazione Colpita",
+  "WFRP4E.Locations.head": "Testa",
+  "WFRP4E.Locations.body": "Torso",
+  "WFRP4E.Locations.rArm": "Braccio Destro",
+  "WFRP4E.Locations.lArm": "Braccio Sinistro",
+  "WFRP4E.Locations.rLeg": "Gamba Destra",
+  "WFRP4E.Locations.lLeg": "Gamba Sinistra",
+  "WFRP4E.Locations.arm": "Braccio",
+  "WFRP4E.Locations.leg": "Gamba",
+  "WFRP4E.ScatterTable": "Scatter",
+  "WFRP4E.Scatter.TopLeft": "Top Left",
+  "WFRP4E.Scatter.TopMiddle": "Top Middle",
+  "WFRP4E.Scatter.TopRight": "Top Right",
+  "WFRP4E.Scatter.CenterLeft": "Center Left",
+  "WFRP4E.Scatter.CenterRight": "Center Right",
+  "WFRP4E.Scatter.BottomLeft": "Bottom Left",
+  "WFRP4E.Scatter.BottomMiddle": "Bottom Middle",
+  "WFRP4E.Scatter.BottomRight": "Bottom Right",
+  "WFRP4E.Scatter.AtYourFeet": "At your feet",
+  "WFRP4E.Scatter.AtTargetFeet": "At the target's feet",
+  "WFRP4E.MagicLores.petty": "Petty",
+  "WFRP4E.MagicLores.beasts": "Beasts",
+  "WFRP4E.MagicLores.death": "Death",
+  "WFRP4E.MagicLores.fire": "Fire",
+  "WFRP4E.MagicLores.heavens": "Heavens",
+  "WFRP4E.MagicLores.metal": "Metal",
+  "WFRP4E.MagicLores.life": "Life",
+  "WFRP4E.MagicLores.light": "Light",
+  "WFRP4E.MagicLores.shadow": "Shadow",
+  "WFRP4E.MagicLores.hedgecraft": "Hedgecraft",
+  "WFRP4E.MagicLores.witchcraft": "Witchcraft",
+  "WFRP4E.MagicLores.daemonology": "Daemonology",
+  "WFRP4E.MagicLores.necromancy": "Necromancy",
+  "WFRP4E.MagicLores.undivided": "Undivided",
+  "WFRP4E.MagicLores.nurgle": "Nurgle",
+  "WFRP4E.MagicLores.slaanesh": "Slaanesh",
+  "WFRP4E.MagicLores.tzeentch": "Tzeentch",
+  "WFRP4E.MagicWind.petty": "Nessuno",
+  "WFRP4E.MagicWind.beasts": "Ghur",
+  "WFRP4E.MagicWind.death": "Shyish",
+  "WFRP4E.MagicWind.fire": "Aqshy",
+  "WFRP4E.MagicWind.heavens": "Azyr",
+  "WFRP4E.MagicWind.metal": "Chamon",
+  "WFRP4E.MagicWind.life": "Ghyran",
+  "WFRP4E.MagicWind.light": "Hysh",
+  "WFRP4E.MagicWind.shadow": "Ulgu",
+  "WFRP4E.MagicWind.hedgecraft": "Nessuno",
+  "WFRP4E.MagicWind.witchcraft": "Nessuno",
+  "WFRP4E.MagicWind.daemonology": "Dhar",
+  "WFRP4E.MagicWind.necromancy": "Dhar",
+  "WFRP4E.MagicWind.undivided": "Dhar",
+  "WFRP4E.MagicWind.nurgle": "Dhar",
+  "WFRP4E.MagicWind.slaanesh": "Dhar",
+  "WFRP4E.MagicWind.tzeentch": "Dhar",
+  "WFRP4E.prayerTypes.blessing": "Benedizione",
+  "WFRP4E.prayerTypes.miracle": "Miracolo",
+  "WFRP4E.mutationTypes.physical": "Fisica",
+  "WFRP4E.mutationTypes.mental": "Mentale",
+  "WFRP4E.hitLocationTables.hitloc": "Standard",
+  "WFRP4E.hitLocationTables.snake": "Snake-Like",
+  "WFRP4E.hitLocationTables.spider": "Spider-Like",
+  "WFRP4E.effectApplication.actor": "Actor",
+  "WFRP4E.effectApplication.item": "Item",
+  "WFRP4E.effectApplication.equipped": "When Item equipped",
+  "WFRP4E.effectApplication.apply": "Apply with targeting",
+  "WFRP4E.effectApplication.damage": "Apply when Item applies damage",
+  "WFRP4E.applyScope.actor": "Actor",
+  "WFRP4E.applyScope.item": "Item",
+  "CONDITION.Apply": "Apply {condition}",
+  "CONDITION.ApplyError": "You cannot apply condition effects to this actor",
+  "Formula": "Formula",
+  "BleedUnc": "<b>{name}</b> falls unconscious!",
+  "BleedRoll": "Bleeding Roll",
+  "Rolled": "Rolled",
+  "BleedFail": "<b>{name}</b> dies from blood loss!",
+  "BleedCrit": "<b>{name}'s</b> blood clots a little and loses 1 Bleeding Condition",
+  "TookDamage": "Took {damage} damage",
+  "Wounds Healed": "Ferite Guarite",
+  "ITEM.LoreEffectPlaceholder": "Ignora l'effetto del Sapere predefinito",
+  "ITEM.ChannelOverride": "Ignora canalizzazione",
+  "ITEM.ChannelPlaceholder": "Ignora l'abilità di Canalizzazione predefinita da utilizzare.",
+  "Casting Number": "Valore di Lancio",
+  "ITEM.DefaultDifficulty": "Difficoltà predefinita",
+  "ITEM.Progress": "Progresso",
+  "ITEM.DiceRoll": "Tiro di Dado",
+  "ITEM.AddSL": "Aggiungere LS",
+  "ITEM.ValuePerOvercast": "Valore Sovracc.",
+  "ITEM.ExtraOvercasting": "Benefici Opz. Sovraccarico",
+  "Label": "Etichetta",
+  "ITEM.SkillOverride": "Sostit. Abilità",
+  "ITEM.CastSkillOverride": "Sostit. Abilità di lancio",
+  "ITEM.AttackType": "Tipo di Attacco",
+  "CHAR.WS": "Abilità di Combattimento",
+  "CHAR.BS": "Abilità Balistica",
+  "CHAR.S": "Forza",
+  "CHAR.T": "Resistenza",
+  "CHAR.I": "Iniziativa",
+  "CHAR.Ag": "Agilità",
+  "CHAR.Dex": "Destrezza",
+  "CHAR.Int": "Intelligenza",
+  "CHAR.WP": "Volontà",
+  "CHAR.Fel": "Socialità",
+  "CHARAbbrev.WS": "AC",
+  "CHARAbbrev.BS": "AB",
+  "CHARAbbrev.S": "F",
+  "CHARAbbrev.T": "R",
+  "CHARAbbrev.I": "I",
+  "CHARAbbrev.Ag": "Agi",
+  "CHARAbbrev.Dex": "Des",
+  "CHARAbbrev.Int": "Int",
+  "CHARAbbrev.WP": "Vol",
+  "CHARAbbrev.Fel": "Soc",
+  "CHARBonus.WS": "Bonus Abilità di Combattimento",
+  "CHARBonus.BS": "Bonus Abilità Balistica",
+  "CHARBonus.S": "Bonus Forza",
+  "CHARBonus.T": "Bonus Resistenza",
+  "CHARBonus.I": "Bonus Iniziativa",
+  "CHARBonus.Ag": "Bonus Agilità",
+  "CHARBonus.Dex": "Bonus Destrezza",
+  "CHARBonus.Int": "Bonus Intelligenza",
+  "CHARBonus.WP": "Bonus Volontà",
+  "CHARBonus.Fel": "Bonus Socialità",
+  "Bonus": "Bonus",
+  "ToughnessDesc": "Resistenza",
+  "TBRed": "BR",
+  "NAME.Armour": "Armatura",
+  "NAME.Hardy": "Ardito",
+  "NAME.Small": "Piccolo",
+  "NAME.Mindless": "Insensato",
+  "NAME.Construct": "Costruire",
+  "NAME.Swarm": "Sciame",
+  "NAME.Size": "Taglia",
+  "NAME.Ward": "Ward",
+  "NAME.TraitWeapon": "Weapon",
+  "NAME.TraitRanged": "Ranged",
+  "NAME.TraitArmour": "Armour",
+  "NAME.Unstable": "Unstable",
+  "NAME.Infighter": "In-fighter",
+  "NAME.DeadeyeShot": "Deadeye Shot",
+  "NAME.StrikeToStun": "Strike to Stun",
+  "SPEC.Tiny": "Minuscola",
+  "SPEC.Little": "Minuta",
+  "SPEC.Small": "Piccola",
+  "SPEC.Average": "Media",
+  "SPEC.Large": "Grande",
+  "SPEC.Enormous": "Enorme",
+  "SPEC.Monstrous": "Mostruosa",
+  "NAME.BP": "Penny d'ottone",
+  "NAME.SS": "Scellino d'argento",
+  "NAME.GC": "Corona d'oro",
+  "NAME.BPPlural": "Penny d'ottone",
+  "NAME.SSPlural": "Scellini d'argento",
+  "NAME.GCPlural": "Corone d'oro",
+  "TIER.Gold": "Oro",
+  "TIER.Silver": "Argento",
+  "TIER.Brass": "Bronzo",
+  "TABLE.ConvertTable": "Convert to WFRP4e Table",
+  "TABLE.Lookup": "Lookup: ",
+  "TABLE.Cancel": "Roll: {result} - canceled",
+  "TABLE.Key": "Chiave Tabella",
+  "TABLE.Column": "Colonna Tabella",
+  "NAME.Pray": "Pregare",
+  "NAME.Language": "Linguaggio",
+  "SPEC.Magick": "Magia",
+  "NAME.Channelling": "Canalizzazione",
+  "NAME.Melee": "Mischia",
+  "NAME.MeleeBrawling": "Mischia (Rissa)",
+  "NAME.Ranged": "Distanza",
+  "NAME.Endurance": "Tempra",
+  "NAME.Cool": "Freddezza",
+  "NAME.Dodge": "Schivare",
+  "NAME.Stride": "Passo",
+  "NAME.Unarmed": "Disarmato",
+  "NAME.Stomp": "Calpestare",
+  "NAME.Improvised": "Arma Improvvisata",
+  "NAME.Fear": "Paura",
+  "NAME.Terror": "Terrore",
+  "NAME.ID": "Dizione Istintiva",
+  "NAME.AA": "Sintonia Aethyrica",
+  "NAME.SMB": "Colpo Poderoso",
+  "NAME.AS": "Tiro Accurato",
+  "NAME.Robust": "Robusto",
+  "NAME.PS": "Anima Pura",
+  "NAME.StrongBack": "Spalle Forti",
+  "NAME.Sturdy": "Vigoroso",
+  "NAME.ConsumeAlcohol": "Bere Alcolici",
+  "NAME.Stealth": "Nascondersi",
+  "NAME.PickLock": "Scassinare",
+  "NAME.Champion": "Campione",
+  "NAME.Riposte": "Replicare",
+  "NAME.Ambi": "Ambidestro",
+  "NAME.Resolute": "Risoluto",
+  "NAME.DualWielder": "Stile a Doppia Arma",
+  "NAME.Trickriding": "Volteggio in Sella",
+  "NAME.Corruption": "Corruzione",
+  "NAME.Infected": "Infetto",
+  "NAME.Disease": "Malattia",
+  "NAME.Daemonic": "Demoniaco",
+  "NAME.Undead": "Non-morto",
+  "NAME.Slayer": "Sventratore",
+  "NAME.Doomed": "Predestinato",
+  "NAME.Etiquette": "Etichetta",
+  "NAME.Resistance": "Resistente",
+  "NAME.AcuteSense": "Senso Acuto",
+  "NAME.Strider": "Passo Lungo",
+  "NAME.Savant": "Genio",
+  "NAME.Art": "Arte",
+  "NAME.Athletics": "Atletica",
+  "NAME.Bribery": "Corrompere",
+  "NAME.Charm": "Affascinare",
+  "NAME.CharmAnimal": "Domare Animali",
+  "NAME.Climb": "Arrampicarsi",
+  "NAME.Drive": "Condurre Carri",
+  "NAME.Entertain": "Intrattenere",
+  "NAME.Gamble": "Giocare d’Azzardo",
+  "NAME.Gossip": "Pettegolezzi",
+  "NAME.Haggle": "Mercanteggiare",
+  "NAME.Intimidate": "Intimidire",
+  "NAME.Intuition": "Intuire",
+  "NAME.Leadership": "Comandare",
+  "NAME.Navigation": "Orientarsi",
+  "NAME.OutdoorSurvival": "Sopravvivere",
+  "NAME.Perception": "Percepire",
+  "NAME.Ride": "Cavalcare",
+  "NAME.Row": "Remare",
+  "NAME.AnimalCare": "Allevare",
+  "NAME.AnimalTraining": "Addestrare",
+  "NAME.Evaluate": "Valutare",
+  "NAME.Heal": "Guarire",
+  "NAME.Lore": "Conoscenza",
+  "NAME.Perform": "Esibirsi",
+  "NAME.Play": "Suonare",
+  "NAME.Research": "Ricercare",
+  "NAME.Sail": "Navigare",
+  "NAME.SecretSigns": "Segni Segreti",
+  "NAME.SetTrap": "Piazzare Trappole",
+  "NAME.SleightOfHand": "Rapidità di Mano",
+  "NAME.Swim": "Nuotare",
+  "NAME.Track": "Seguire Tracce",
+  "NAME.Trade": "Mestiere",
+  "NAME.Luck": "Fortunato",
+  "NAME.NightVision": "Vista Notturna",
+  "NAME.StrongMinded": "Determinato",
+  "NAME.DarkVision": "Visione Oscura",
+  "SPEC.Basic": "Armi Base",
+  "SPEC.Cavalry": "Armi da Cavalleria",
+  "SPEC.Fencing": "Scherma",
+  "SPEC.Brawling": "Mani Nude",
+  "SPEC.Flail": "Flagelli",
+  "SPEC.Parry": "Armi Difensive",
+  "SPEC.Polearm": "Armi in Asta",
+  "SPEC.TwoHanded": "Armi a Due Mani",
+  "SPEC.Blackpowder": "Armi da Fuoco",
+  "SPEC.Bow": "Archi",
+  "SPEC.Crossbow": "Balestre",
+  "SPEC.Entangling": "Armi Intralcianti",
+  "SPEC.Engineering": "Armi Sperimentali",
+  "SPEC.Explosives": "Armi Esplosive",
+  "SPEC.Sling": "Frombole",
+  "SPEC.Throwing": "Armi da Lancio",
+  "SPEC.Vehicle": "Veicolo",
+  "SHEET.DupPrompt": "Vuoi duplicare questo oggetto?",
+  "SHEET.DupTitle": "Duplica oggetto",
+  "SHEET.SplitPrompt": "Please enter the amount to to split off",
+  "SHEET.SplitTitle": "Split Item",
+  "Split": "Split",
+  "Invalid Quantity": "Invalid Quantity",
+  "SHEET.SwitchToSkills": "Switch To Skills",
+  "SHEET.SwitchToExtendedTests": "Switch To Extended Tests",
+  "SHEET.TemporaryEffects": "Effetti Temporanei",
+  "SHEET.PassiveEffects": "Effetti Passivi",
+  "SHEET.DisabledEffects": "Effetti Disabilitanti",
+  "SHEET.AppliedEffects": "Effetti Applicati",
+  "SHEET.Source": "Fonte",
+  "SHEET.AdvanceDiseases": "Malattie Avanzate",
+  "SHEET.ApplyToTarget": "Applica al Bersaglio",
+  "SHEET.Target": "Bersaglio",
+  "SHEET.ToggleEffect": "Effetto Attivo",
+  "SHEET.Additional": "Aggiuntivo",
+  "SHEET.ApplyEffect": "Applica {effect}",
+  "SHEET.InvokeEffect": "Evocare {effect}",
+  "SHEET.ExpChange": "Spesa/Totale Variazione",
+  "Reason": "Motivo",
+  "SHEET.TotalSpentExp": "Valore Speso/Totale",
+  "SHEET.CharacteristicCurrent": "Attuale",
+  "SHEET.ExperienceCurrent": "Attuale",
+  "SHEET.CareerCurrent": "Attuale",
+  "New": "Nuova",
+  "SHEET.ToggleTraits": "Attiva/Disattiva i Tratti della Creatura",
+  "SHEET.Unarmed": "Disarmato",
+  "SHEET.Dodge": "Schivare",
+  "SHEET.Improvised": "Improvvisata",
+  "SHEET.Stomp": "Calpestare",
+  "DISEASE.IncubationFinished": "{disease} incubation finished. ",
+  "ERROR.ParseDisease": "Could not parse disease roll",
+  "ERROR.ParseInjury": "Could not parse injury roll",
+  "ERROR.ParseSpell": "Error: could not parse spell damage. See console for details",
+  "ERROR.Parser": "Could not find {name}",
+  "ERROR.NoSkill": "Could not find skill (or specialization of) {skill} in compendum or world",
+  "ERROR.NoTalent": "Could not find talent (or specialization of) {talent} in compendum or world",
+  "ERROR.SpellLore": "You cannot edit a spell's lore while it is owned by an actor",
+  "ERROR.AddEffect": "Foundry does not currently support adding Active Effects to Owned Items. Use a world item instead.",
+  "ERROR.EditEffect": "Foundry does not currently support editing Active Effects to Owned Items. Use a world item instead.",
+  "ERROR.Column": "Must specify column to roll on",
+  "ERROR.Table": "Table not found. If this is a table from an official module, please import it from the Compendium.",
+  "ERROR.Found": "{name} could not be found",
+  "ERROR.Species": "Could not find species {name}",
+  "ERROR.Experience": "Experience values must be numeric.",
+  "ERROR.ID": "ID for {name} already exists in collection. This Document has been given a unique ID.",
+  "ERROR.Opposed": "Need both attacker and defender test to compute opposed result",
+  "WARNING.Target": "Select a target to apply the effect.",
+  "WARNING.ActorTest": "Actor Test classes are no longer used. Please call `roll()` on the test object directly",
+  "APPLYREQUESTGM": "Apply Effect request sent to GM",
+  "APPLYREQUESTOWNER": "Apply Effect command sent to owner",
+  "EFFECT.Applied": "{name} applied to",
+  "ERROR.EFFECT": "Error when running effect {effect}, please see the console (F12)",
+  "SinReduced": "Sin reduced by 1",
+  "TargetingCancelled": "Targeting canceled: Already opposing a test",
+  "ERROR.Property": "WFRP4e Rolls must specify the item property",
+  "ERROR.Speaker": "WFRP4e Rolls must specify a speaker",
+  "GroupAdvantageNoCombatant": "This actor must be part of a Combat in order to update group advantage.",
+  "AutoFillAdvantageDisabled": "'Auto Fill Advantage' setting disabled",
+  "GroupAdvantageUpdated": "Group Advantage Updated. Players: {players} | Enemies: {enemies}",
+  "ERROR.PrayerAoEOvercast": "Prayer AoEs cannot be overcast",
+  "ERROR.EffectNotFound": "Effect not found on Test Item",
+  "Item Properties": "Proprietà Oggetto",
+  "PROPERTY.Accurate": "Accurata",
+  "PROPERTY.Blackpowder": "Polvere Nera",
+  "PROPERTY.Blast": "Esplosione",
+  "PROPERTY.Damaging": "Dannosa",
+  "PROPERTY.Defensive": "Difensiva",
+  "PROPERTY.Distract": "Distraente",
+  "PROPERTY.Entangle": "Intrappolante",
+  "PROPERTY.Fast": "Rapida",
+  "PROPERTY.Hack": "Mozzare",
+  "PROPERTY.Impact": "Impatto",
+  "PROPERTY.Impale": "Trafiggere",
+  "PROPERTY.Penetrating": "Penetrante",
+  "PROPERTY.Pistol": "Pistola",
+  "PROPERTY.Precise": "Precisa",
+  "PROPERTY.Pummel": "Percuotere",
+  "PROPERTY.Repeater": "Ripetizione",
+  "PROPERTY.Shield": "Scudo",
+  "PROPERTY.TrapBlade": "Intrappola-Lama",
+  "PROPERTY.Unbreakable": "Infrangibile",
+  "PROPERTY.Wrap": "Avvolgente",
+  "PROPERTY.Dangerous": "Pericolosa",
+  "PROPERTY.Imprecise": "Imprecisa",
+  "PROPERTY.Reload": "Ricarica",
+  "PROPERTY.Slow": "Lenta",
+  "PROPERTY.Tiring": "Faticosa",
+  "PROPERTY.Undamaging": "Inoffensiva",
+  "PROPERTY.Ugly": "Brutto",
+  "PROPERTY.Shoddy": "Scadente",
+  "PROPERTY.Unreliable": "Inaffidabile",
+  "PROPERTY.Bulky": "Voluminoso",
+  "PROPERTY.Durable": "Durevole",
+  "PROPERTY.Fine": "Bello",
+  "PROPERTY.Lightweight": "Leggero",
+  "PROPERTY.Practical": "Pratico",
+  "PROPERTY.Unbalanced": "Unbalanced",
+  "PROPERTY.Custom": "Custom",
+  "PROPERTY.CustomHint": "FORMAT - {type} 1: {type} 1 Description | {type} 2 (Rating) : {type} 2 Description | etc.",
+  "Simple": "Simple",
+  "Momentum": "Momentum",
+  "PROPERTY.Flexible": "Flessibile",
+  "PROPERTY.Impenetrable": "Impenetrabile",
+  "PROPERTY.Partial": "Parziale",
+  "PROPERTY.Weakpoints": "Punto Debole",
+  "WFRP4E.BPandEng": "Armi da Fuoco e Armi Sperimentali",
+  "WFRP4E.Bow": "Archi",
+  "WFRP4E.Crossbow": "Balestre",
+  "WFRP4E.Sling": "Frombole",
+  "WFRP4E.Vehicle": "Veicolo",
+  "ITEM.IsSpec": "Hai la specializzazione",
+  "ITEM.NoSpec": "Nessuna specializzazione",
+  "Instant": "Immediato",
+  "AP": "PA",
+  "Scatter": "Seminare",
+  "yard": "metro",
+  "yards": "metri",
+  "Ammo": "Muniz.",
+  "yds": "mt.",
+  "NAME.CombatReflexes": "Riflessi di combattimento",
+  "FORTUNE.Use": "Punto Fortuna utilizzato",
+  "FORTUNE.UsageRerollText": "{carattere} ha utilizzato un punto Fortuna per ripetere un test fallito.",
+  "FORTUNE.PointsRemaining": "Punti fortuna rimanenti:",
+  "FORTUNE.UsageAddSLText": "{character} ha utilizzato un punto Fortuna per aggiungere +1 LS. Il test è stato aggiornato.",
+  "DARKDEAL.Use": "Accetta un Patto Oscuro",
+  "DARKDEAL.UsageText": "{character} ha preso un Patto Oscuro e gli è stato concesso un rilancio per +1 alla corruzione.",
+  "OPPOSED.DefenderWins": "<b>{defender}</b> vince contro <b>{attacker}</b> di {SL} LS",
+  "OPPOSED.AttackerWins": "<b>{attacker}</b> vince contro <b>{defender}</b> di {SL} LS",
+  "ROLL.Misfire": "<b>Cilecca:</b> la tua arma esplode! Subisci {damage} danni al tuo braccio principale.",
+  "OPPOSED.FailedRanged": "<b>Test non riuscito</b>: perde automaticamente le Prove Contrapposte",
+  "OPPOSED.Daemonic": "<b>Daemonic</b>: Hit Ignored (Rolled {roll})",
+  "OPPOSED.DaemonicRoll": "<b>Daemonic Roll</b>: {roll}",
+  "OPPOSED.Ward": "<b>Ward</b>: Hit Ignored (Rolled {roll})",
+  "OPPOSED.WardRoll": "<b>Ward Roll</b>: {roll}",
+  "CHATOPT.ApplyDamage": "Applicare danni",
+  "CHATOPT.ApplyDamageNoAP": "Applicare danni (Ignora PA)",
+  "CHATOPT.ApplyDamageNoTB": "Applicare danni (Ignora BR)",
+  "CHATOPT.ApplyDamageNoTBAP": "Applicare danni (Ignora BR e PA)",
+  "CHATOPT.UseFortuneReroll": "Usa un punto Fortuna per ripetere il tiro",
+  "CHATOPT.UseFortuneSL": "Usa un punto Fortuna per aumentare di +1 LS",
+  "CHATOPT.DarkDeal": "Accetta un Patto Oscuro per ritirare (+1 Corruzione)",
+  "CHATOPT.OpposeTarget": "Contrapposto col Bersaglio",
+  "CHATOPT.CompleteUnopposed": "Complete All Unopposed",
+  "CHATOPT.ApplyAllDamage": "Apply All Damage",
+  "CHATOPT.Reroll": "Reroll",
+  "TRAVEL.TravelMessageBase": "Da <b>{from}</b> a <b>{to}</b> : ",
+  "TRAVEL.TravelMessageRoad": "<br><b>Road</b> : {road_distance} miles<br>&nbsp;&nbsp;By Coach : {road_days} days, danger is {road_danger_string}<br>&nbsp;&nbsp;By Heavy Horse : {road_horse_heavy_days} days, danger is {road_danger_string}<br>&nbsp;&nbsp;By Fast Horse : {road_horse_fast_days} days, danger is {road_danger_string}<br>&nbsp;&nbsp;On Foot : {road_feet_days} days, danger is {road_danger_feet_string}",
+  "TRAVEL.TravelMessageRiver": "<br><b>River</b> : {river_distance} miles<br>&nbsp;&nbsp;By Boat : {river_days} days, danger is {river_danger_string}",
+  "TRAVEL.TravelMessageSea": "<br><b>Sea</b> : {sea_distance} miles<br>&nbsp;&nbsp;By Boat : {sea_days} days, danger is {sea_danger_string}",
+  "TRAVEL.TownPrompt": "Select a destination town",
+  "TRAVEL.TownOriginPrompt": "Select a departure town",
+  "TRAVEL.DangerVeryLow": "Very Low",
+  "TRAVEL.DangerLow": "Low",
+  "TRAVEL.DangerMedium": "Medium",
+  "TRAVEL.DangerHigh": "High",
+  "TRAVEL.DangerVeryHigh": "Very High",
+  "TRAVEL.Helper": "The distances are based on the document <i>Travel Distances in the Empire</i>, by <i>Jackdays</i>. The distances has been reviewed according to medieval historical documents about travelling. The direction of rivers flow has been also taken into account.<br><b>Usage</b> : <b>/travel town</b> or <b>/travel town1 town2</b> or <b>/travel</b>",
+  "Cargo": "Cargo",
+  "Cost": "Cost",
+  "Length": "Length",
+  "VEHICLE.yd": "yd",
+  "Motive Power": "Motive Power",
+  "VEHICLE.ModEncumbranceTT": "Encumbrance from Modifications: {amt}",
+  "VEHICLE.CarryEncumbranceTT": "Encumbrance from Cargo: {amt}",
+  "VEHICLE.CrewRoles": "Crew Roles",
+  "VEHICLE.Skill": "Skill",
+  "VEHICLE.Modifications": "Vehicle Modifications",
+  "VEHICLE.ModType": "Modification Type",
+  "VEHICLE.TestNotFound": "Skill or Characteristic Not Found.",
+  "VEHICLE.TestNotPermitted": "You don't have permission to perform this test.",
+  "VEHICLE.NoActor": "Please assign an actor to the role.",
+  "VEHICLE.RoleTest": "Role Test",
+  "VEHICLE.RoleTestLabel": "Test Label",
+  "VEHICLE.EnterRoleName": "Enter Role Name",
+  "VEHICLE.Handling": "Vehicle Handling",
+  "VEHICLE.HandlingTT": "Count this role's test as a Vehicle Handling test",
+  "VEHICLE.CantUseActor": "You do not have permission to perform tests with this actor.",
+  "VEHICLE.NoActorOnBoard": "Your assigned character isn't in the vehicle.",
+  "Vehicle Settings": "Vehicle Settings",
+  "NewRole": "New Role",
+  "Add Encumbrance for Actors": "Add Encumbrance for Actors",
+  "Submit": "Invia",
+  "Confirm": "Conferma",
+  "Actor Settings": "Actor Settings",
+  "CONFIGURE.CalcTokenSize": "Auto-calculate Token Size",
+  "CONFIGURE.CalcRun": "Auto-calculate Run Speed",
+  "CONFIGURE.CalcWalk": "Auto-calculate Walk Speed",
+  "CONFIGURE.CalcWounds": "Auto-calculate Wounds",
+  "CONFIGURE.CalcCritWounds": "Auto-calculate Critical Wounds",
+  "CONFIGURE.CalcCorruption": "Auto-calculate Corruption",
+  "CONFIGURE.CalcMaxEnc": "Auto-calculate max Encumbrance",
+  "CONFIGURE.EquipPoints": "Equip Points - Limits equipped weapons",
+  "CONFIGURE.AddActorEncumbrance": "Add Encumbrance for Actors",
+  "BUTTON.PostBug": "Segnalare un Problema",
+  "BUTTON.CharacterCreation": "Creazione Personaggio",
+  "CAREER.LeaveComplete": "Leaving a Complete Career",
+  "CAREER.LeaveIncomplete": "Leaving an Incomplete Career",
+  "CAREER.DifferentClass": "Entering a different Class",
+  "CAREERAdvHint": "<p>Do you want to apply this career's advancement to the actor?",
+  "CAREERAdv": "Career Advancement",
+  "CAREER.AddSkillError": "Something went wrong when adding skill {skill}: {error}",
+  "CAREER.AddTalentError": "Something went wrong when adding talent {talent}: {error}",
+  "CAREER.Loading": "Loading Careers",
+  "EFFECT.TabWFRP": "WFRP",
+  "EFFECT.EffectType": "Effect Type",
+  "EFFECT.EffectApplication": "Effect Application",
+  "EFFECT.PreventDuplicate": "Prevent Duplicate Effects",
+  "EFFECT.DodgeMount": "Dodging on a Mount",
+  "EFFECT.HideEffect": "Hide From Players",
+  "EFFECT.SystemEffects": "Effetti di Sistema",
+  "EFFECT.SelectEffect": "Seleziona Effetto",
+  "EFFECT.Tooltip": "Effetti che influenzano i valori della finestra di dialogo",
+  "EFFECT.Target": "Bersaglio: ",
+  "EFFECT.ReduceQuantityOption": "Reduce Quantity On Use",
+  "EFFECT.QuantityError": "Insufficient Quantity",
+  "New Effect": "New Effect",
+  "EFFECT.Prevent": "Prevented adding {name} effect: Effect already exists",
+  "EFFECT.TestsToAffect": "Tests to affect",
+  "EFFECT.TheSourceOfFear": "the source of fear",
+  "EFFECT.Encumbrance": "Ingombro",
+  "EFFECT.ColdExposure": "Esposizione al Freddo",
+  "EFFECT.HeatExposure": "Esposizione al Calore",
+  "EFFECT.Thirst": "Sete",
+  "EFFECT.Starvation": "Fame",
+  "EFFECT.Infighting": "Lotte Intestine",
+  "EFFECT.OnDefensive": "Sulla Defensiva [Nome Abilità]",
+  "EFFECT.DualWielder": "Stile a Doppia Arma",
+  "EFFECT.ConsumeAlcohol": "Reggere Alcolici",
+  "EFFECT.MarienburghersCourage": "Coraggio Marienburghese",
+  "EFFECT.TestsRelatedToHearing": "Tests related to hearing",
+  "EFFECT.TestsRelatedToMovementOfAnyKind": "Tests related to movement of any kind",
+  "EFFECT.TestsRelatedToSight": "Tests related to sight",
+  "EFFECT.ShooterEngaged": "Shooter is engaged in melee - no range modifiers",
+  "EFFECT.ShootingAtEngagedTarget": "Target engaged in melee",
+  "WFRP4E.MountButtonNotify": "The left-side actor ({mounter}) has mounted the right-side actor ({mountee})",
+  "MountError": "You can only mount creatures of a larger or equal size.",
+  "Minor": "Minore",
+  "Moderate": "Moderato",
+  "Major": "Maggiore",
+  "Quantity": "Quantità",
+  "Infinite": "Infinita",
+  "IngredientNone": "None",
+  "IngredientPower": "Power",
+  "IngredientControl": "Control",
+  "ConsumedIngredient": "<p>Ingredient consumed</p>",
+  "Overchannelling": "Overchannelling",
+  "CondStatus": "Status",
+  "CondRound": "- Round {round}",
+  "Hit Location Table": "Tabella Locazioni",
+  "Human": "Umano",
+  "Dwarf": "Nano",
+  "Halfling": "Halfling",
+  "High Elf": "Alto Elfo",
+  "Wood Elf": "Elfo Silvano",
+  "Difficulty": "Difficoltà",
+  "DIFFICULTY.VEasy": "Molto Facile (+60)",
+  "DIFFICULTY.Easy": "Facile (+40)",
+  "DIFFICULTY.Average": "Media (+20)",
+  "DIFFICULTY.Challenging": "Impegnativa (+0)",
+  "DIFFICULTY.Difficult": "Difficile (-10)",
+  "DIFFICULTY.Hard": "Ardua (-20)",
+  "DIFFICULTY.VHard": "Molto Ardua (-30)",
+  "DIFFICULTY.Futile": "Futile (-40)",
+  "DIFFICULTY.Impossible": "Impossibile (-50)",
+  "DIFFICULTY.MooVEasy": "Molto Facile (+40)",
+  "DIFFICULTY.MooEasy": "Facile (+30)",
+  "DIFFICULTY.MooDifficult": "Difficile (-20)",
+  "DIFFICULTY.MooHard": "Ardua (-30)",
+  "DIFFICULTY.MooVHard": "Molto Ardua (-40)",
+  "DIFFICULTY.MooFutile": "Futile (-50)",
+  "DIFFICULTY.MooImpossible": "Impossibile (-60)",
+  "Point Blank": "a Bruciapelo",
+  "Short Range": "Gittata Corta",
+  "Normal": "Normale",
+  "Long Range": "Gittata Lunga",
+  "Extreme": "Estrema",
+  "Career Selector": "Career Selector",
+  "SHEET.NoCareers": "No Careers Found",
+  "Exp Cost": "Exp Cost",
+  "Select": "Select",
+  "Species Characteristics": "Caratteristiche della Specie",
+  "SpecChar": "<p>Vuoi applicare le caratteristiche di questa specie al personaggio?",
+  "Stat Block Parser": "Stat Block Parser",
+  "Possessions": "Possessions",
+  "Days": "giorni",
+  "Hours": "ore",
+  "Minutes": "minuti",
+  "Treatment": "Cura",
+  "Rounds": "round",
+  "Morrslieb - Currently On ": "Morrslieb - Attualmente attivato",
+  "Morrslieb - Currently Off": "Morrslieb - Attualmente disattivato",
+  "Mask": "Mask",
+  "Unmask": "Unmask",
+  "Domain": "Domain",
+  "BUGREPORT.Contact": "Contact Info",
+  "BUGREPORT.ContactPlaceholder": "Discord Tag or Email.",
+  "BUGREPORT.DescriptionPlaceholder": "What happened, how to reproduce, etc.",
+  "BUGREPORT.MatchingGrudges": "Has your grudge already been recorded?",
+  "BUGREPORT.Warning": "<b>Be aware</b>: This information is posted on the GitHub issues page, which is public, so Discord tag is preferred. Otherwise, contact me (<a href='mailto:russellt@cubicle7games.com'>Moo Man</a>) directly.",
+  "BUGREPORT.Updated": "<p>All WFRP4e packages up to date!</p>",
+  "BUGREPORT.NotUpdated": "<p>The Following WFRP4e packages are not up to date</p>",
+  "BUGREPORT.ManyModules": "You have non-WFRP4e modules activated, perhaps one of them is interfering?",
+  "GrudgePost": "The Longbeards have received your Grudge! See the console for a link.",
+  "GrudgeError": "The Longbeards grumble and refuse your submission. Please see console for details.",
+  "Something went wrong": "Something went wrong",
+  "BugReport.ErrorForm": "Please fill out the form",
+  "BugReport.ErrorName1": "Please include your Discord tag or email in the Name section.",
+  "BugReport.ErrorName2": "Discord Tag or email is required in the name section.",
+  "UpdaterTitle1": "Update",
+  "UpdaterTitle2": "Content",
+  "Updater1": "This process will import new documents and overwrite previously imported documents with their content from the Compendium.",
+  "Updater2": "THIS MEANS ANY CHANGES YOU'VE MADE WILL BE OVERWRITTEN.",
+  "Updater3": "Only use this if you've initialized this module previously.",
+  "UPDATER.OverwriteActors": "Overwrite Actors",
+  "UPDATER.OverwriteItems": "Overwrite Items",
+  "UPDATER.OverwriteTables": "Overwrite Tables",
+  "UPDATER.OverwriteJournals": "Overwrite Journals",
+  "UPDATER.OverwriteScenes": "Overwrite Scenes",
+  "UPDATER.Exclude": "Exclude Name Changes",
+  "UPDATER.ExcludeHint": "Checking this will not update documents if their names have been changed",
+  "UPDATER.Error": "You can only update if you've initialized this module at least once.",
+  "UPDATER.Notification": "Created {created} and updated {updated} documents from {name} - {version}",
+  "WFRP4e Content Setup": "WFRP4e Content Setup",
+  "Setup": "Setup",
+  "WFRP4e Content Initialization": "WFRP4e Content Initialization",
+  "Initialization": "Initialization",
+  "Import or update the content from the WFRP4e Core Module": "Import or update the content from the WFRP4e Core Module",
+  "WFRP4E.GroupDescription.Cavalry": "Le Armi da Cavalleria sono progettate per l’uso in sella. Quando il combattente è appiedato le Armi da Cavalleria a due mani contano come Armi a due Mani, mentre quella a una mano sono inutilizzabili.",
+  "WFRP4E.GroupDescription.Flail": "Un Personaggio privo dell’Abilità relativa aggiunge il Difetto Pericoloso a tutti i Flagelli, oltre a ignorarne le Qualità.",
+  "WFRP4E.GroupDescription.Parry": "Tutte le armi a una mano con la Qualità Difensiva possono essere usate con Mischia (Armi Difensive). Usare queste armi nella mano secondaria per Opporsi a un attacco non subisce il normale -20 (vedere pag. 161).",
+  "WFRP4E.GroupDescription.Blackpowder": "Un personaggio con Mira (Armi Sperimentali) può usare le Armi da Fuoco senza penalità. Quando un Personaggio usa Armi da Fuoco, Sperimentali o Esplosive, e tira un Disastro che è anche pari (come 88 o 00), l'arma fa Cilecca e gli esplode in mano. Il personaggio subisce il Danno pieno al Braccio Primario usando il dado delle unità come LS. L'arma è ovviamente distrutta.",
+  "WFRP4E.GroupDescription.Crossbow": "Le Balestre sono relativamente semplici da usare. Puoi effettuare una Prova Mira (Balestre) usando la tua Abilità Balistica. Così facendo, però, l’arma non beneficerà delle proprie Qualità, pur conservandone i Difetti.",
+  "WFRP4E.GroupDescription.Engineering": "Un Personaggio con Mira (Armi da Fuoco) può utilizzare anche le Armi Sperimentali, ma non beneficerà delle loro Qualità, pur subendone i Difetti. Quando un Personaggio usa Armi da Fuoco, Sperimentali o Esplosive, e tira un Disastro che è anche pari (come 88 o 00), l'arma fa Cilecca e gli esplode in mano. Il personaggio subisce il Danno pieno al Braccio Primario usando il dado delle unità come LS. L'arma è ovviamente distrutta.",
+  "WFRP4E.GroupDescription.Explosives": "Un personaggio con Mira (Armi Sperimentali) può usare gli Esplosivi senza penalità. Quando un Personaggio usa Armi da Fuoco, Sperimentali o Esplosive, e tira un Disastro che è anche pari (come 88 o 00), l'arma fa Cilecca e gli esplode in mano. Il personaggio subisce il Danno pieno al Braccio Primario usando il dado delle unità come LS. L'arma è ovviamente distrutta.",
+  "WFRP4E.GroupDescription.Throwing": "Le Armi da Lancio sono relativamente semplici da usare. Puoi effettuare una Prova Mira (Armi da Lancio) usando la tua Abilità Balistica. Così facendo, però, l’arma non beneficerà delle proprie Qualità, pur conservandone i Difetti.",
+  "WFRP4E.Reach.PersonalDescription": "mani, piedi, a volte la testa e tutto ciò che vi è attaccato.",
+  "WFRP4E.Reach.VShortDescription": "fino a 30cm.",
+  "WFRP4E.Reach.ShortDescription": "fino a 60cm.",
+  "WFRP4E.Reach.AverageDescription": "fino a 90cm.",
+  "WFRP4E.Reach.LongDescription": "fino a 180cm.",
+  "WFRP4E.Reach.VLongDescription": "fino a 3m di lunghezza; può Ingaggiare nemici fino a 4m di distanza invece di 2.",
+  "WFRP4E.Reach.MassiveDescription": "oltre 3m di lunghezza; può Ingaggiare nemici fino a 6m di distanza invece di 2.",
+  "WFRP4E.Properties.Accurate": "Queste armi a distanza sono facili da usare e conferiscono +10 alle Prove per colpire.",
+  "WFRP4E.Properties.Blackpowder": "L’esplosione della polvere da sparo seguita da fumo e confusione può essere terrificante. Chi è bersaglio di un’arma a Polvere Nera deve superare una <strong>Prova Media (+20) di Freddezza</strong> o subire 1 Atterrito, anche se il colpo lo manca.",
+  "WFRP4E.Properties.Blast": "Tutti i Personaggi entro (Grado) metri dal bersaglio subiscono Danni pari a LS + Danno dell’Arma e tutte le Condizioni inflitte dal colpo originale.",
+  "WFRP4E.Properties.Damage": "Un’arma Dannosa può usare il valore del dado delle unità o il LS per determinare il Danno inflitto di un colpo andato a segno. Per esempio, un tiro per colpire riuscito di 34 su 52, potrà usare il normale +2 LS o il 4 delle unità. Le armi Inoffensive non possono mai essere Dannose (il Difetto ha la precedenza).",
+  "WFRP4E.Properties.Defensive": "Le armi Difensive sono progettate per parare gli attacchi. Chi ne impugna una ottiene +1 LS alle Prove Contrapposte di Mischia per bloccare un attacco.",
+  "WFRP4E.Properties.Distract": "Queste armi possono essere usate per spingere indietro il nemico grazie alla loro struttura simile a una frusta. Invece di causare Danno, un’arma Distraente può essere usata per spingere indietro un avversario di 1 metro per LS.",
+  "WFRP4E.Properties.Entangle": "Queste armi si avviluppano, bloccando i movimenti. Un avversario colpito con un’arma Intrappolante subisce una Condizione <em>Afferrato</em> con Forza pari a quella dell’attaccante. Finché l’avversario rimane <em>Afferrato</em> non è possibile usare l’arma per altri scopi. L’attaccante può lasciarlo libero in qualsiasi momento desideri.",
+  "WFRP4E.Properties.Fast": "Le armi Rapide sono pensate per colpire così velocemente che l’avversario sarà infilzato ancor prima di tentare la parata. Un’arma Rapida può essere usata per attaccare ignorando il normale Ordine d’Iniziativa, colpendo per primi, per ultimi o quando si desidera. Inoltre, le Prove di Mischia per difendersi da un’arma Rapida subiscono un -10; altre Abilità ignorano questo modificatore. Due avversari con armi Rapide sono costretti ad agire in Ordine d’Iniziativa. Le armi Lente non possono mai essere Rapide (il Difetto ha la precedenza).",
+  "WFRP4E.Properties.Hack": "Queste armi hanno lame pesanti pensate per sfondare le armature con grande facilità. L’armatura o scudo di chi viene colpito subisce 1 Danno, oltre a ogni altro effetto.",
+  "WFRP4E.Properties.Impact": "Alcune armi sono enormi o progettate per causare terribili ferite. Un colpo a segno somma il valore del dado delle unità al Danno inflitto. Le armi Inoffensive non possono mai avere Impatto (il Difetto ha la precedenza).",
+  "WFRP4E.Properties.Impale": "Le armi con Trafiggere possono uccidere con un singolo colpo netto. Causano un Critico con risultati divisibili per 10 (10, 20, 30, ecc.) oltre ai doppi. Se l’effetto viene causato da un’arma a distanza, il proiettile si è incuneato in profondità. Frecce e quadrelli possono essere rimossi con una <strong>Prova Impegnativa (+0) di Guarire</strong>, mentre le pallottole richiedono un chirurgo (vedere il Talento <em>Chirurgia</em> nel <strong>Capitolo 4: Abilità e Talenti</strong>). Per ogni freccia, quadrello o proiettile in corpo sarà impossibile guarire 1 Ferita.",
+  "WFRP4E.Properties.Penetrating": "Queste armi sono perfette per superare le armature: ignorano i PA delle corazze non in metallo e riducono le altre di 1.",
+  "WFRP4E.Properties.Pistol": "Quest’arma può essere impiegata anche in mischia.",
+  "WFRP4E.Properties.Precise": "Quest’arma è molto precisa e ottiene +1 LS a tutte le Prove d’attacco che ottengono un successo.",
+  "WFRP4E.Properties.Pummel": "Le armi con Percuotere sono ottime per stendere gli avversari senza ucciderli. Un colpo alla Testa con una di esse permette di effettuare una <strong>Prova Contrapposta Forza/Tempra</strong>. Se l’attaccante vince il bersaglio subisce 1 <em>Stordito</em>.",
+  "WFRP4E.Properties.Repeater": "Quest’arma può scaricare (Grado) colpi, ricaricandosi automaticamente dopo ogni sparo. Quando il caricatore è vuoto bisognerà ricaricarla secondo le normali regole.",
+  "WFRP4E.Properties.Shield": "Se si usa quest’arma per bloccare un attacco si ottengono (Grado) Punti Armatura in tutte le Locazioni. Inoltre, uno Scudo di Grado 2 o più può essere usato per Contrastare i proiettili sparati da avversari visibili.",
+  "WFRP4E.Properties.Trapblade": "Alcune armi sono progettate per intrappolare quelle altrui o persino spezzarle. Se si ottiene un Critico mentre ci si difende da una lama, si può decidere di intrappolarla, invece di causare una Ferita Critica. In questo caso, si effettua una <strong>Prova Contrapposta di Forza</strong>, aggiungendo il LS della precedente Prova di Mischia. In caso di successo l’avversario lascia la presa. Un Successo Incredibile permette di spezzare la lama, a meno che questa possieda la Qualità <em>Infrangibile</em>. In caso di fallimento lo scontro continua normalmente.",
+  "WFRP4E.Properties.Unbreakable": "Quest’arma è di squisita manifattura o costruita con un materiale molto robusto. Non può essere rotta, non si corrode né perde il filo.",
+  "WFRP4E.Properties.Wrap": "Di solito, le armi con Avvolgente hanno catene con pesi, il che le rende difficili da parare. Le Prove di Mischia per bloccarne una subiscono -1 LS, perché il peso supera scudi e lame.",
+  "WFRP4E.Properties.Flexible": "Le armature Flessibili possono essere indossate sotto altre prive di questa Qualità. Benefici e penalità sono cumulativi.",
+  "WFRP4E.Properties.Impenetrable": "Quest’armatura è particolarmente resistente e la maggior parte degli attacchi semplicemente non può penetrarla. Tutte le Ferite Critiche causate da tiri per colpire dispari (come 11 o 33) vengono ignorate.",
+  "WFRP4E.Properties.Durable": "Un oggetto con questa Qualità è stato attentamente costruito con materiali robusti e può subire Danni pari al grado di Durevole prima di incorrere in penalità (vedere Danneggiare Armi e Danneggiare Armature, pag. 296 e 299). Inoltre, ottiene un tiro salvezza di 9+ su [[/r 1d10]] contro rotture istantanee (per esempio uno Spezzalama, pag. 298). Questa Qualità può essere comprata più volte e ogni acquisto migliora il tiro salvezza di 1 (da 9+ a 8+, ecc.).",
+  "WFRP4E.Properties.Fine": "L’oggetto è stato realizzato con cura per essere piacevole alla vista. È un segno di status e questa Qualità può essere applicata più volte, rendendolo sempre più spettacolare.",
+  "WFRP4E.Properties.Lightweight": "L’oggetto è stato astutamente progettato per essere facile da trasportare. Ridurre l’Ingombro di 1.",
+  "WFRP4E.Properties.Practical": "Questa Qualità identifica oggetti dal carattere prettamente utilitaristico. Le prove fallite con tali oggetti sono modificate di +1 LS. Se si tratta di un pezzo di armatura le penalità collegate sono ridotte di un livello (per esempio, da -30 a -20).",
+  "WFRP4E.Properties.Dangerous": "Alcune armi sono capaci di ferire chi le impugna tanto quanto i nemici. Un fallimento con 9 o 10 sul dado delle unità diventerà un Disastro (vedere Capitolo 5: Regole).",
+  "WFRP4E.Properties.Imprecise": "Le armi imprecise sono difficili da maneggiare, scomode o con una pessima resa. Subiscono -1 LS alle Prove di attacco. Le armi Imprecise non possono mai essere Precise (il Difetto ha la precedenza).",
+  "WFRP4E.Properties.Reload": "Quest’arma richiede tempo per essere ricaricata e per riuscirci è necessario superare una Prova Prolungata di Mira ottenendo (Grado) LS. Se si viene interrotti bisogna ricominciare da capo.",
+  "WFRP4E.Properties.Slow": "Un’arma lenta è pesante, sgraziata e difficile da usare bene. Chi ne impiega una attacca sempre per ultimo durante un Round a prescindere dall’Ordine d’Iniziativa. Inoltre, gli avversari hanno +1 LS per difendersi da questi colpi.",
+  "WFRP4E.Properties.Tiring": "Queste armi sono faticose da manovrare e beneficiano delle loro Qualità Dannosa e Impatto solo nel Turno in cui si Carica.<br><br><b>Nota:</b> Questo cambia il Danno mostrato nella chat card:<br> Danno 'Non in Carica' | 'Carica'.",
+  "WFRP4E.Properties.Undamaging": "Alcune armi non sono molto efficaci contro le armature. I PA vengono raddoppiati contro di esse e, inoltre, non infliggono il minimo di 1 Ferita per colpo a segno.",
+  "WFRP4E.Properties.Partial": "Quest’armatura non copre completamente la Locazione. I risultati pari sul tiro per colpire o i Critici ignorano i PA di una protezione Parziale.",
+  "WFRP4E.Properties.Weakpoints": "Quest’armatura ha piccole falle in cui un avversario abbastanza abile o fortunato può far penetrare una lama. Se l’arma dell’avversario ha la Qualità <em>Trafiggere</em> e se il colpo è un Critico, i PA di questa protezione vengono ignorati.",
+  "WFRP4E.Properties.Ugly": "L’oggetto è stato realizzato senza nessuna cura per l’estetica e attira molte critiche. Le Prove di socialità collegate possono subire una penalità di -10.",
+  "WFRP4E.Properties.Shoddy": "L’oggetto è stato realizzato da un dilettante o un truffatore e si romperà in caso venga usato in una Prova fallita con un doppio. Le Armature <em>Scadenti</em> si spezzano, se la Locazione subisce un Colpo Critico.",
+  "WFRP4E.Properties.Unreliable": "A causa della scarsa attenzione alla funzionalità, le Prove fallite con questo oggetto subiscono un ulteriore -1 LS. Le penalità delle armature <em>Inaffidabili</em> sono raddoppiate.",
+  "WFRP4E.Properties.Bulky": "L’oggetto è ingombrante e mal realizzato. L’Ingombro viene incrementato di 1 (gli oggetti piccoli non possono avere questo difetto). Abiti e armature <em>Voluminosi</em> contano per Ingombro 1 anche quando vengono indossati e le loro penalità per l’<em>Affaticamento</em> sono raddoppiate.",
+  "WFRP4E.LoreDescription.Beasts": "Ogni volta che un Mago lancia con successo un Incantesimo del Sapere delle Bestie ottiene anche il Tratto @Compendium[wfrp4e-core.traits.pTorrE0l3VybAbtn]{Paura (1)} per i prossimi [[/r 1d10]] Round.",
+  "WFRP4E.LoreDescription.Death": "Chi viene colpito da un Incantesimo del Sapere della Morte è prosciugato della vita; il Mago può assegnare a piacere 1 @Condition[Affaticato] a ogni bersaglio vivente affetto dagli Incantesimi di questo Sapere. E' possibile accumulare solo un <em>Affaticato</em> alla volta in questo modo.",
+  "WFRP4E.LoreDescription.Fire": "Il Mago può causare, a piacere, 1 @Condition[In Fiamme] a tutti i bersagli, a meno che non possiedano a propria volta il Talento <em>Magia Arcana (Fuoco)</em>. Inoltre, ogni condizione <em>In Fiamme</em> entro un numero di metri pari al suo Bonus Volontà dal Mago gli conferisce +10 alle Prove di Lancio o Incanalare legate ad <em>Aqshy</em>.",
+  "WFRP4E.LoreDescription.Heavens": "Gli Incantesimi che causano Danni ignorano le armature metalliche e si scaricano contro tutti i bersagli entro 2m, eccetto chi possiede il Talento <em>Magia Arcana (Cieli)</em>,causando Danni pari al Bonus Volontà, come un <em>proiettile magico</em>.",
+  "WFRP4E.LoreDescription.Metal": "Gli effetti che causano Danno ignorano le armature metalliche e provocano Danni aggiuntivi pari ai Punti Armatura metallici della Locazione. Per esempio, se un braccio protetto da 2 PA di maglia di ferro venisse colpito subirebbe +2 Danni, ignorando la protezione.",
+  "WFRP4E.LoreDescription.Life": "Un Druido riceve +10 alle Prove di Lancio e Incanalare quando si trova in un ambiente selvaggio. I bersagli viventi - come quelli privi dei tratti @Compendium[wfrp4e-core.traits.v3uzEthcq0JRar0J]{Demoniaco} o @Compendium[wfrp4e-core.traits.PFTD9gDvRWW9uh5g]{Non Morto} — di un Incantesimo della Vita rimuovono tutte le Condizioni @Condition[Affaticato] e @Condition[Sanguinante] mentre la forza vitale li avvolge. I @Compendium[wfrp4e-core.traits.PFTD9gDvRWW9uh5g]{Non Morto}, invece, subiscono Danni aggiuntivi pari al Bonus Volontà del Mago, ignorando il Bonus Resistenza e l’Armatura.",
+  "WFRP4E.LoreDescription.Light": "Il Mago può infliggere a piacere 1 @Condition[Accecato] a uno o più bersagli, che non possiedano il Talento <em>Magia Arcana (Luce)</em>. I bersagli con i Tratti @Compendium[wfrp4e-core.traits.v3uzEthcq0JRar0J]{Demoniaco} o @Compendium[wfrp4e-core.traits.PFTD9gDvRWW9uh5g]{Non Morto} subiscono Danni aggiuntivi pari al Bonus Intelligenza del Mago, ignorando il Bonus Resistenza e l’Armatura.",
+  "WFRP4E.LoreDescription.Shadow": "Tutti gli effetti che infliggono Danno ignorano i punti Armatura non magici.",
+  "WFRP4E.LoreDescription.Hedgecraft": "Questi Incantesimi, a causa delle antiche tradizioni e delle credenze a essi collegate, non possono essere lanciati senza ingredienti, che sono parte essenziale del procedimento.<br><br>Per fortuna, si tratta, di solito, di erbe e piante facili da trovare ai margini degli insediamenti. Effettuando una Prova di Conoscenza (Erbe) per trovare erbe e piante, il Mago ottiene 1+LS ingredienti, oppure può acquistarli a 5 penny l’uno.",
+  "WFRP4E.LoreDescription.Witchcraft": "Ogni volta che un praticante di Stregoneria tira sulla Tabella degli Incidenti Magici ottiene anche 1 Punto Corruzione. D’altro canto può causare 1 @Condition[Sanguinante] a chiunque sia bersaglio di un Incantesimo di questo Sapere. Infine, ogni tentativo di Lanciare o Incanalare questi Incantesimi senza usare ingredienti richiede un tiro sulla @Table[minormis]{Minor Miscast table}, ma l’ingrediente non fornirà alcuna protezione in caso di un Disastro. Per fortuna, questi materiali sono comuni ed economici, di solito pezzi di piccoli animali. Il prezzo è il VL dell’Incantesimo in penny (invece che in scellini). In alternativa, una Strega può usare l’Abilità Sopravvivere per ottenere 1+LS ingredienti (vedere Raccogliere Cibo ed Erbe, pag. 129).",
+  "WFRP4E.Conditions.Ablaze": "Il Personaggio ha preso fuoco! Di solito ciò accade solo se si indossano abiti infiammabili, ma alcuni effetti magici o divini possono incendiare anche sostanze non combustibili. Alla fine di ogni Round, il Personaggio subisce [[/r 1d10]] Ferite, ridotte dal Bonus Resistenza e dai Punti Armatura della Locazione meno protetta (minimo 1). Ogni Condizione <em>In Fiamme</em> aggiuntiva aumenta il Danno di +1 (3 <em>In Fiamme</em> causano 1d10+2). Superando una <b>Prova di Atletica</b> si rimuove un <em>In Fiamme</em>, più un altro per ogni LS. La Difficoltà è in base alle circostanze: è più semplice soffocare il fuoco rotolandosi nella sabbia che in una cucina piena di olio.",
+  "WFRP4E.Conditions.Bleeding": "Il Personaggio sanguina copiosamente. Alla fine di ogni Round perde 1 Ferita ignorando ogni modificatore. Inoltre subisce -10 alle Prove per resistere a @Compendium[wfrp4e-core.diseases.kKccDTGzWzSXCBOb]{Ferite Infette}, @Compendium[wfrp4e-core.diseases.1hQuVFZt9QnnbWzg]{Infezione Minore}, o @Compendium[wfrp4e-core.diseases.M8XyRs9DN12XsFTQ]{Sangue Marcio}. Chi arriva a 0 Ferite non ne subisce altre, ma sviene (diventando @Condition[Privo di Sensi]). Alla fine di ogni Round avrà una probabilità di morire del 10% per Sanguinante. Per esempio, 3 Sanguinante vuol dire che morirà con un tiro di 0-30. Se si ottiene un doppio la ferita si richiude un po’, cancellando un Sanguinante. Non si può riprendere conoscenza prima di avere rimosso tutti i Sanguinante (vedere @JournalEntry[Ssod4QuBdyMS6F79]{Chirurgia}).<br><br>Superando una <strong>Prova di Guarire</strong> si rimuove un Sanguinante, più un altro per ogni LS. In alternativa, incantesimi o preghiere di guarigione rimuovono un Sanguinante per Ferita risanata. Una volta che tutti i Sanguinante sono rimossi, il Personaggio subisce una Condizione @Condition[Affaticato].",
+  "WFRP4E.Conditions.Blinded": "Il Personaggio non riesce a vedere, forse a causa di un lampo di luce o di un liquido spruzzato sul viso. Subisce -10 in tutte le Prove che coinvolgono la vista e tutti gli avversari in mischia hanno +10 per colpirlo.<br><br>Alla fine di ogni Round viene rimosso un Accecato.",
+  "WFRP4E.Conditions.Broken": "Il Personaggio è spaventato, in preda al panico o convinto di stare per morire. Nel proprio Turno deve usare Manovra e Azione per scappare il più velocemente possibile finché non trova un rifugio sicuro lontano dalla vista dei nemici; quindi dovrà usare Azione e Abilità per nascondersi al meglio. Inoltre subisce una penalità di -10 in tutte le Prove eccetto correre e nascondersi.<br><br>Alla fine di ogni Round, il Personaggio può tentare una <strong>Prova di Freddezza</strong> per rimuovere un <em>Atterrito</em>, più un altro per ogni LS, a meno che non sia Ingaggiato (vedere pag. 159). La Difficoltà dipende dalle circostanze: è più facile riprendersi mentre si è nascosti in un vicolo (Media +20), che a tre passi da un Demone urlante (Molto Ardua -30).<br><br>Passare un intero Round nascosto e non in vista del nemico rimuove un <em>Atterrito</em>.<br><br>Una volta che tutti gli <em>Atterrito</em> sono rimossi, il Personaggio subisce una Condizione @Condition[Affaticato].",
+  "WFRP4E.Conditions.Deafened": "Che sia a causa di un rumore forte o di un colpo alla testa, il Personaggio non riesce a sentire bene. Subisce un -10 in tutte le Prove che coinvolgono l’udito e gli avversari hanno +10 se lo attaccano in mischia sui fianchi o alle spalle (questo bonus non è cumulativo in caso di Condizioni multiple). Alla fine di ogni Round viene rimosso un <em>Assordato</em>, spesso sostituito da un fischio all’orecchio.",
+  "WFRP4E.Conditions.Entangled": "Il Personaggio è bloccato da qualcosa che limita i movimenti (come corde, ragnatele o un nemico muscoloso). Perde la Manovra nel suo turno e ha una penalità di -10 in tutte le azioni che richiedono movimento (compresa la Lotta; pag. 163). Come Azione può tentare una <strong>Prova di Forza Contrapposta</strong> per rimuovere un <em>Afferrato</em>, più un altro per ogni LS.",
+  "WFRP4E.Conditions.Fatigued": "Il Personaggio è esausto, stressato e bisognoso di riposo. Subisce -10 in tutte le Prove. Di solito, rimuovere <em>Affaticato</em> richiede riposo, una magia o un effetto divino. La Condizione può essere semplicemente frutto del trasportare troppe cose (vedere @JournalEntry[lQc8iNlz738dJaeJ]{Ingombro}), per cui è sufficiente abbandonarne alcune per recuperare.",
+  "WFRP4E.Conditions.Poisoned": "Il Personaggio è vittima di un veleno o tossina. La Difficoltà delle Prove per sanarlo dipende dalla sostanza. Alla fine di ogni Round la vittima subisce 1 Ferita ignorando tutti i modificatori; inoltre ha -10 in tutte le Prove.<br><br>Se arriva a 0 Ferite mentre è <em>Avvelenato</em>, il Personaggio non potrà guarire finché tutte queste Condizioni non saranno rimosse. Se cade <em>Privo di Sensi</em> mentre è <em>Avvelenato</em> dovrà superare una <strong>Prova di Tempra</strong> dopo un numero di Round pari al suo Bonus Resistenza o morire orribilmente. Per maggiori informazioni vedere @JournalEntry[Ssod4QuBdyMS6F79]{Chirurgia}.<br><br>Alla fine di ogni Round può tentare una <strong>Prova di Tempra</strong> per rimuovere un <em>Avvelenato</em>, più un altro per ogni LS. Una <strong>Prova di Guarire</strong> può avere lo stesso effetto. Una volta che tutti gli <em>Avvelenato</em> sono rimossi, il Personaggio subisce una Condizione @Condition[Affaticato].",
+  "WFRP4E.Conditions.Prone": "Il Personaggio è caduto a terra, forse perché non ha più Ferite, è inciampato o è stato colpito da qualcosa di piuttosto grande. Nel suo Turno può usare la Manovra solo per rialzarsi o strisciare di metà del suo Movimento in metri (Nota: chi ha 0 Ferite può solo strisciare). Subisce una penalità di -20 in tutte le Prove che richiedono di muoversi e gli avversari in mischia hanno +20 per colpirlo.<br><br>A differenza di altre Condizioni, <em>Prono</em> non è cumulativo e viene recuperato rialzandosi.",
+  "WFRP4E.Conditions.Stunned": "Il Personaggio è stato colpito in testa o è confuso, probabilmente gli fischiano le orecchie ed è disorientato.<br><br>Non può compiere Azioni, ma può Manovrare di metà del suo normale Movimento. Può difendersi nelle Prove Contrapposte, eccetto quelle di Linguaggio (Magico). Subisce -10 in tutte le Prove e chi lo attacca in mischia ottiene +1 Vantaggio prima di tirare per colpire.<br><br>Alla fine di ogni Round può tentare una <strong>Prova Impegnativa (+0) di Tempra</strong> per rimuovere uno Stordito, più un altro per ogni LS.<br><br>Una volta che tutti gli <em>Stordito</em> sono rimossi, il Personaggio subisce una Condizione @Condition[Affaticato].",
+  "WFRP4E.Conditions.Surprised": "Il Personaggio è stato colto di sorpresa. Non può compiere né Azione né Manovra nel proprio Turno, né difendersi nelle Prove Contrapposte. Gli avversari che lo attaccano in mischia hanno +20 per colpirlo.<br><br><em>Sorpreso</em> non è cumulativo, anche contro più avversari in un Round.<br><br>Alla fine del Round, o dopo il primo attacco subito, non è più <em>Sorpreso</em>.",
+  "WFRP4E.Conditions.Unconscious": "Il Personaggio è svenuto, addormentato o comunque inerme. Non può fare nulla nel proprio Turno ed è ignaro di cosa gli accade intorno. Chi lo attacca ottiene i benefici di <strong>Non Fallirò!</strong> (pag. 171) senza spendere Punti Resilienza. In alternativa, se il GM preferisce, l’attacco lo uccide sul colpo. Gli attacchi a distanza a Bruciapelo hanno lo stesso effetto.<br><br>La Condizione <em>Privo di Sensi</em> non è cumulativa, anche se viene subita più volte in un Round.<br><br>Come riprendere i sensi dipende dalle circostanze. Per maggiori informazioni vedere @JournalEntry[Ssod4QuBdyMS6F79]{Chirurgia}. Chi spende un Punto Risolutezza per recuperare ma è ancora vittima dell’effetto originale subirà un altro Privo di Sensi alla fine del Round. Una volta ripreso, il Personaggio subisce le Condizioni @Condition[Prono] e @Condition[Affaticato].",
+  "WFRP4E.Conditions.Grappling": "Chi inizia il proprio Turno in Lotta può liberarsi se ha più Vantaggio dell’avversario e non viene considerato Ingaggiato ai fini della Manovra; altrimenti deve effettuare una <strong>Prova Contrapposta di Forza</strong> come Azione. Se vince, può scegliere una delle seguenti opzioni:<br><ul><li>Infliggere BF+LS Danni, usando la Prova di Forza per determinare la Locazione colpita. I Punti Armatura vengono ignorati, dato che l’attacco è una chiave articolare.</li><li>Imporre una Condizione @Condition[Afferrato] all’avversario o rimuoverla da se stesso (@Condition[Afferrato]), in più se ne può rimuovere un’altra per ogni LS di cui si è vinta la Prova.</li></ul><br><br>Chi perde la Prova Contrapposta si dibatte senza risultati e conferisce +1 Vantaggio all’avversario.<br><br>I Personaggi non in Lotta hanno +20 per colpire il contendente con meno Vantaggio e +10 contro quello con maggior Vantaggio.",
+  "WFRP4E.Conditions.Fear": "Chi è vittima di Paura subisce -1 LS in tutte le Prove legate alla fonte. Non ci si può avvicinare ad essa senza superare una <strong>Prova Impegnativa (+0) di Freddezza</strong>. Se, invece, è la fonte ad avvicinarsi, è necessario superare una <strong>Prova Impegnativa (+0) di Freddezza</strong> per non subire 1 @Condition[Atterrito].",
+  "WFRP4E.Conditions.Engaged": "Quando si attacca o si viene attaccati in mischia, il Personaggio si considera Ingaggiato. Questo significa che sta affrontando un nemico e alcune regole speciali (dovute a Talenti, Incantesimi, ecc.) potrebbero attivarsi. Se due avversari non si attaccano per un Round intero non si considerano più Ingaggiati.",
+  "WFRP4E.SymptomDescriptions.Blight": "Tossine mortali invadono il sangue del Personaggio, che è pericolosamente vicino al Portale di Morr. Ogni giorno deve superare una <strong>Prova Molto Facile (+60) di Tempra</strong> per non spirare (di solito nel sonno, durante un eccesso di febbre o in agonia). Se il sintomo è indicato come (Moderato) la <strong>Prova è Facile (+40)</strong>, se è (Severo) sarà <strong>Media (+20)</strong>.",
+  "WFRP4E.SymptomDescriptions.Buboes": "Il Personaggio presenta rigonfiamenti dei linfonodi, di solito a inguine, ascelle o collo. Sono molto dolorosi, puzzolenti, disgustosi e possono secernere sangue o pus. Alcuni li considerano segni del favore del Signore della Pestilenza e credono che nascondano futuri piccoli Demoni. È pratica comune inciderli per svuotarli, spesso causando @Compendium[wfrp4e-core.diseases.kKccDTGzWzSXCBOb]{Ferite Purulente}nel processo.\n\nIl Personaggio subisce una penalità di -10 in tutte le Prove fisiche e, se il bubbone è visibile o maleodorante, anche a quelle di Socialità.",
+  "WFRP4E.SymptomDescriptions.Convulsions": "L’infezione causa spasmi o tremiti periodici, come se il corpo fosse una marionetta.\n\nIl Personaggio subisce una penalità di -10 in tutte le Prove fisiche, mentre il corpo si muove senza controllo. Se le Convulsioni sono indicate come (Moderate) la penalità diventa -20; se sono (Severe) è necessario legare il paziente, rendendolo inerme, per evitare che si ferisca da solo.",
+  "WFRP4E.SymptomDescriptions.CoughsandSneezes": "Il Personaggio tossisce e starnutisce, spandendo bacilli e infettando con la propria malattia coloro che si trovano intorno a lui. Tutti coloro che si trovano nello stesso ambiente sono esposti al contagio e devono effettuare una Prova una volta per ora, o per frazione di ora, per non contrarre la malattia di cui il Personaggio è portatore.",
+  "WFRP4E.SymptomDescriptions.Fever": "Il Personaggio suda, ha la temperatura alta e una brutta cera. Subisce una penalità di -10 in tutte le Prove fisiche e di Socialità. Se la Febbre è (Severa) sarà completamente inerme, subendo la Condizione @Condition[Privo di Sensi], anche se la spesa di 1 Punto Risolutezza può renderlo cosciente per pochi minuti.",
+  "WFRP4E.SymptomDescriptions.Flux": "Dopo una serie di borbottii, il Personaggio, pallido e stanco, deve correre di nuovo alla latrina. Ha certamente avuto giorni migliori. Questa situazione si può verificare in qualsiasi momento e ci si aspetta che il Giocatore inserisca queste fermate essenziali nella storia. Inoltre, il GM può imporre la necessità di evacuare una volta per sessione. Il Personaggio ha un numero di Round pari al proprio Bonus Resistenza per trovare un luogo adatto; che lo raggiunga o meno finirà per svuotarsi in modo spettacolare. Se la Diarrea è (Moderata) il GM può imporre il bisogno 2 volte a sessione; se è (Grave) 3 volte e il Personaggio subisce una Ferita ogni volta, mentre espelle sangue e resta disidratato. ",
+  "WFRP4E.SymptomDescriptions.Gangrene": "La carne del Personaggio diventa nera, terribilmente infetta e non ha intenzione di migliorare. Tirare un 1d100 per determinare la @Table[hitloc] (vedere <strong>Combattimento</strong>). Se il risultato è Torso, fortunatamente, la Cancrena non si è radicata; la Testa indica che ha colpito il naso; il Braccio le dita; la Gamba i piedi. Ogni giorno bisogna effettuare una <strong>Prova Media (+20) di Tempra</strong>. Un successo la tiene a bada, un fallimento la fa peggiorare. Chi accumula più fallimenti del proprio Bonus Resistenza perde l’uso della zona colpita, come se fosse Amputata (vedere <strong>Ferite Critiche</strong>). Mentre si è affetti dalla Cancrena si subisce un -10 in tutte le Prove di Socialità e gli effetti del Sintomo <em>Lesioni</em>. Inoltre, finché il tessuto necrotizzato non viene rimosso, si subisce il Sintomo <em>Consunzione</em> anche se l’infezione originale è stata debellata.",
+  "WFRP4E.SymptomDescriptions.Lingering": "Alcune infezioni si rifiutano di sparire e possono peggiorare facilmente. Quando la malattia ha termine, il Personaggio deve superare una Prova di Tempra con la Difficoltà indicata (per esempio, Media o Facile). Se ottiene un Fallimento Marginale, il male perdura per altri [[/r 1d10]] giorni, un Fallimento (-2) gli causa una @Compendium[wfrp4e-core.diseases.kKccDTGzWzSXCBOb]{Ferita Purulenta}; un Fallimento Incredibile (-6) il @Compendium[wfrp4e-core.diseases.M8XyRs9DN12XsFTQ]{Sangue Marcio}.",
+  "WFRP4E.SymptomDescriptions.Malaise": "Il Personaggio non si sente affatto bene, è stanco e ha difficoltà a concentrarsi. Subisce 1 @Condition[Affaticato] che può essere rimosso solo guarendo dalla malattia.",
+  "WFRP4E.SymptomDescriptions.Nausea": "Il Personaggio si sente male e potrebbe vomitare se fa movimenti bruschi. Ogni volta che fallisce una Prova che richiede movimento, finisce per vomitare. Mentre rigetta o ha i conati subisce 1 @Condition[Stordito].",
+  "WFRP4E.SymptomDescriptions.Pox": "Il Personaggio è coperto di pustole, infiammazioni e orrende eruzioni cutanee che non lo rendono certo più attraente. La Vescicole sono prima di tutto un problema estetico, che penalizza di -10 le Prove di Socialità. Inoltre, bisogna ricordarsi di interpretare il continuo grattarsi; chi si vuole trattenere deve superare una <strong>Prova Media (+20) di Freddezza</strong>. Quando il sintomo termina effettuare una <strong>Prova Media (+20) di Freddezza</strong>, in caso di fallimento invertire il risultato e la Locazione (vedere <strong>Combattimento</strong>) indicata avrà una cicatrice permanente, perché il troppo grattarsi l’ha fatta guarire male. Se si tratta della testa, si perde 1 punto di Socialità.",
+  "WFRP4E.SymptomDescriptions.Wounded": "Il Personaggio ha una ferita aperta che non guarisce a causa di un’infezione. Ogni Lesione accumulata rende impossibile guarire 1 delle proprie Ferite, che rimane aperta e dolente, mentre secerne pus. Ogni giorno bisogna superare una <strong>Prova Facile (+20) di Tempra</strong> per non sviluppare una <em>Ferita Purulenta</em> (se non se ne ha già una).",
+  "WFRP4E.SymptomDescriptions.Delirium": "Il Personaggio alterna momenti di chiarezza con improvvisi scoppi di follia, allucinazioni e terrore. Ogni ora deve effettuare una <strong>Prova Impegnativa (+0) di Volontà</strong> e consultare la tabella @Table[delirium].",
+  "WFRP4E.SymptomDescriptions.Swelling": "Gonfiore Una parte del corpo del Personaggio si gonfia fino a molte volte le sue normali dimensioni, diventando quasi inutilizzabile e di colore rosso acceso o porpora. Di solito la parte gonfia è stata ferita o morsa, o è il punto da cui una malattia o infezione è entrata nel corpo.<br><br><b>Testa</b>: Gli occhi e la lingua si gonfiano, le guance diventano livide e la mascella è bloccata aperta. Mangiare è impossibile, ma si possono ingerire liquidi in piccole quantità. La Difficoltà di tutte le Prove che richiedono di parlare aumenta di 3 gradi.<br><b>Braccio</b>:Braccio e mano si gonfiano, la spalla e il gomito sono bloccati e la mano è inutilizzabile. Per la durata dell’effetto, l’arto conta come @Compendium[wfrp4e-core.injuries.MnMZv7ZXoRqoH9dS]{Amputato}(WFRP, pag. 180).<br><b>Torso</b>: L’intero corpo si gonfia, al punto che è impossibile indossare degli abiti. La Difficoltà di tutte le Prove che richiedono movimento è aumentata di 3 gradi.<br><b>Gamba</b>: La gamba si gonfia in modo grottesco, diventando tutta grossa come la coscia. Il piede è quasi indistinguibile. Per la durata dell’effetto, l’arto conta come @Compendium[wfrp4e-core.injuries.k00PimCWkff11IA0]{Amputato}(WFRP, pag. 180).",
+  "WFRP4E.SymptomTreatment.Blight": "nessuna efficace.",
+  "WFRP4E.SymptomTreatment.Buboes": "una Prova di Guarire con Chirurgia permette di incidere un bubbone e togliere la penalità. In caso di fallimento si subisce una <em>Ferita Purulenta</em>. Una volta fatto, bisogna superare una <strong>Prova Difficile (-10) di Tempra</strong> ogni giorno o altri bubboni si formeranno al posto del primo.",
+  "WFRP4E.SymptomTreatment.Convulsions": "alcune erbe rare e preparati alchemici possono attenuare questo sintomo per un giorno, abbassandolo da (Severo) a (Moderato), oppure da (Moderato) a normale. Chi ha l’Abilità Mestiere (Apotecario) e gli ingredienti giusti (che costano fino a 10 scellini a dose) può realizzare questi composti. La medicina già pronta è Rara, di solito genuina (80%) e costa 1 corona per dose, cosa che la pone fuori dalla portata della maggior parte dei cittadini imperiali.",
+  "WFRP4E.SymptomTreatment.CoughsandSneezes": "nessuna efficace.",
+  "WFRP4E.SymptomTreatment.Fever": "ci sono molti rimedi in commercio, spesso disgustosi, che raramente funzionano (solo il 10% è genuino) e costano da pochi penny a diversi scellini. Superare una Prova di Guarire serve a poco, giusto a capire quanto durerà la febbre. Le cure genuine rimuovono la Febbre (non quella Severa) se il paziente supera una <strong>Prova Impegnativa (+0) di Tempra</strong>.",
+  "WFRP4E.SymptomTreatment.Flux": "le cure autentiche sono rare (10% di quelle in commercio), ma molti apotecari ed erboristi giurano che le loro sono infallibili. I prezzi variano, in base alla località, da pochi penny a una borsa d’argento. Una cura efficace permette di trattenersi per un numero di ore pari al proprio Bonus Resistenza.",
+  "WFRP4E.SymptomTreatment.Gangrene": "l’unica alternativa efficace è l’amputazione.",
+  "WFRP4E.SymptomTreatment.Lingering": "ci sono molte cure per le infezioni persistenti, anche piuttosto economiche, appena uno scellino. Purtroppo, sono quasi tutte fasulle o basate su idee sbagliate. Solo il 10% delle cure acquistate sono efficaci e permettono di evitare la <strong>Prova di Tempra</strong>, se somministrate il giorno corretto determinato da una <strong>Prova di Guarire</strong>.",
+  "WFRP4E.SymptomTreatment.Malaise": "le medicine per il Malessere costano da qualche penny a pochi scellini. Se sono genuine (75%) permettono di effettuare una <strong>Prova Impegnativa (+0) di Tempra</strong> per ignorare i sintomi per 1 giorno.",
+  "WFRP4E.SymptomTreatment.Nausea": "i rimedi per la Nausea sono Comuni, di solito genuini (60%) e costano una trentina di penny. Se sono autentici, superare una <strong>Prova Impegnativa (+0) di Tempra</strong> permette di ignorare la Nausea per un numero di ore pari al proprio Bonus Resistenza.",
+  "WFRP4E.SymptomTreatment.Pox": "le Vescicole sono molto comuni e così sono i rimedi, di solito creme e oli. I templi maggiori di Shallya hanno spesso una scorta di crema gratuita (anche se ci aspettano degli oboli), apotecari ed erboristi vendono rimedi a poco prezzo (6-7 penny per ottimana di trattamento e efficaci al 90%). Sgradevole a vedersi, una crema applicata sulla parte interessata porta la Difficoltà delle Prove per non grattarsi a Molto Facile (+60).",
+  "WFRP4E.SymptomTreatment.Wounded": "superare una <strong>Prova di Guarire</strong> quotidiana assicura che la <em>Lesione</em> rimanga pulita e permette di evitare la <strong>Prova di Tempra</strong>.",
+  "WFRP4E.SymptomTreatment.Delirium": "Alcuni luminari trattano il Delirio come se fosse parte di una febbre e prescrivono le stesse terapie. Questi rimedi costano da pochi penny a qualche scellino e il 10% sono anche efficaci.<br><br>Con la medicina giusta e superando una <strong>Prova Impegnativa (+0) di Guarire</strong> le allucinazioni sono sopite per [[/r 1d10]] ore.<br><br>È anche pratica comune sedare i pazienti deliranti, usando sostanze quali il Fiore Lunare o la Belladonna, così che possano riposare finché la malattia non è passata. L’effetto equivale a costringerli al Sonno Irregolare finché non recuperano o muoiono.",
+  "WFRP4E.SymptomTreatment.Swelling": "La maggior parte dei trattamenti richiede di immergere la parte o l’intero corpo in acqua gelida per ridurre l’infiammazione. Ciò consente di far diminuire il gonfiore per <b>[[/r 2d10]]</b> ore, ottenendo almeno <strong>+3 LS</strong> in una <strong>Prova Prolungata Ardua (-20) di Tempra</strong>. Ogni tiro richiede un’ora e il paziente subisce +1 <em>Affaticato</em> per ogni Prova effettuata.<br><br>Altri medici preferiscono effettuare un salasso, con un bisturi o con le sanguisughe. Accumulando almeno <strong>+4 LS</strong> in una <strong>Prova Prolungata di Guarire</strong> usando degli Arnesi da Medico il gonfiore viene ridotto per un numero di ore pari a ([[/r 1d10]] + il Bonus Resistenza del paziente. Ogni prova ha una Difficoltà base <strong>Impossibile (-50)</strong> e richiede mezz’ora.",
+  "ClassTrappings.Academics": "Abiti, Borsello, Pugnale, Borsa a Tracolla con Occorrente per Scrivere e 1d10 fogli di Pergamena",
+  "ClassTrappings.Burghers": "Abiti, Borsello, Cappa, Cappello, Pugnale, Borsa a Tracolla con il Pranzo",
+  "ClassTrappings.Courtiers": "Abiti Eleganti, Pugnale, Borsello con Pinzette, Curette per Orecchie e Pettine",
+  "ClassTrappings.Peasants": "Abiti, Borsello, Cappa, Pugnale, Borsa a Tracolla con Razioni (1 giorno)",
+  "ClassTrappings.Rangers": "Abiti, Borsello, Cappa, Pugnale, Zaino con Acciarino, Coperta, Razioni (1 giorno)",
+  "ClassTrappings.Riverfolk": "Abiti, Borsello, Cappa, Pugnale, Borsa a Tracolla con Bottiglia di Alcolico",
+  "ClassTrappings.Rogues": "Abiti, Pugnale, Borsa a Tracolla con 2 Candele, 1d10 Fiammiferi, Cappuccio o Maschera",
+  "ClassTrappings.Warriors": "Abiti, Arma a Una Mano, Borsello, Pugnale",
+  "Roll Characteristic": "Caratteristiche di Tiro",
+  "license": "MIT",
+  "repository": "chalk/wrap-ansi",
+  "funding": "https://github.com/chalk/wrap-ansi?sponsor=1",
+  "author": {
+    "name": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "https://sindresorhus.com"
+  },
+  "type": "module",
+  "exports": {
+    "types": "./index.d.ts",
+    "default": "./index.js"
+  },
+  "engines": {
+    "node": ">=12"
+  },
+  "files": [
+    "index.js",
+    "index.d.ts"
+  ],
+  "keywords": [
+    "wrap",
+    "break",
+    "wordwrap",
+    "wordbreak",
+    "linewrap",
+    "ansi",
+    "styles",
+    "color",
+    "colour",
+    "colors",
+    "terminal",
+    "console",
+    "cli",
+    "string",
+    "tty",
+    "escape",
+    "formatting",
+    "rgb",
+    "256",
+    "shell",
+    "xterm",
+    "log",
+    "logging",
+    "command-line",
+    "text"
+  ],
+  "devDependencies": {
+    "ava": "^3.15.0",
+    "chalk": "^4.1.2",
+    "coveralls": "^3.1.1",
+    "has-ansi": "^5.0.1",
+    "nyc": "^15.1.0",
+    "tsd": "^0.25.0",
+    "xo": "^0.44.0"
+  },
+  "main": "which.js",
+  "bin": {
+    "node-which": "./bin/node-which"
+  },
+  "tap": {
+    "check-coverage": true
+  },
+  "types": "./index.d.ts",
+  "sideEffects": false,
+  "module": "./dist/mjs/index.js",
+  "browser": "./dist/mjs/browser.js",
+  "prettier": {
+    "semi": false,
+    "printWidth": 75,
+    "tabWidth": 2,
+    "useTabs": false,
+    "singleQuote": true,
+    "jsxSingleQuote": false,
+    "bracketSameLine": true,
+    "arrowParens": "avoid",
+    "endOfLine": "lf"
+  },
+  "tshy": {
+    "selfLink": false,
+    "exports": {
+      "./package.json": "./package.json",
+      ".": "./src/index.ts"
+    }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "bugs": {
+    "url": "https://github.com/isaacs/isexe/issues"
+  },
+  "homepage": "https://github.com/isaacs/isexe#readme",
+  "husky": {
+    "hooks": {
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS",
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "*.js": [
+      "eslint --fix",
+      "git add"
+    ]
+  },
+  "commitlint": {
+    "extends": [
+      "@commitlint/config-conventional"
+    ]
+  },
+  "xo": {
+    "rules": {
+      "default-case": 0,
+      "no-inline-comments": 0,
+      "operator-linebreak": 0
+    }
+  },
+  "standard": {
+    "ignore": [
+      "**/example/**"
+    ],
+    "globals": [
+      "it"
+    ]
+  }
+}
