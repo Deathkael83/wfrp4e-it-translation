@@ -1151,7 +1151,7 @@ Hooks.once('init', () => {
 		Babele.get().register({
 			module: 'wfrp4e-it-translation',
 			lang: 'it',
-			dir: 'compendium',
+			dir: 'lang',
 		});
 
 		Babele.get().registerConverters({
