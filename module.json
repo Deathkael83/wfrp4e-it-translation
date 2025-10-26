@@ -2,11 +2,12 @@
   "id": "wfrp4e-it-translation",
   "name": "wfrp4e-it-translation",
   "title": "WFRP4e Italian Translation",
-  "description": "Add Italian language to the Warhammer Fantasy Roleplay 4th edition System for FoundryVTT.",
-  "version": "1.1.3",
+  "description": "Traduzione italiana aggiornata del sistema Warhammer Fantasy Roleplay 4ª Edizione per Foundry VTT.",
+  "version": "2.0.0",
   "compatibility": {
-    "minimum": 10,
-    "verified": "10.291"
+    "minimum": "12",
+    "verified": "13",
+    "maximum": "13"
   },
   "relationships": {
     "systems": [
@@ -24,18 +25,13 @@
         "compatibility": {
           "verified": "2.3.4"
         }
-      },
-      {
-        "id": "wfrp4e-core",
-        "type": "module",
-        "compatibility": {}
       }
     ]
   },
   "authors": [
     {
-      "name": "Heyrold",
-      "discord": "Heyrold#4406",
+      "name": "Deathkael83",
+      "discord": "Deathkael83",
       "flags": {}
     }
   ],
@@ -47,12 +43,32 @@
   "languages": [
     {
       "lang": "it",
-      "name": "Italian",
-      "path": "it.json"
+      "name": "Italiano (Base)",
+      "path": "lang/it.json"
+    },
+    {
+      "lang": "it",
+      "name": "Italiano — Core Actors",
+      "path": "lang/it-wfrp4e-core-actors.json"
+    },
+    {
+      "lang": "it",
+      "name": "Italiano — Core Items",
+      "path": "lang/it-wfrp4e-core-items.json"
+    },
+    {
+      "lang": "it",
+      "name": "Italiano — Core Journals",
+      "path": "lang/it-wfrp4e-core-journals.json"
+    },
+    {
+      "lang": "it",
+      "name": "Italiano — Core Tables",
+      "path": "lang/it-wfrp4e-core-tables.json"
     }
   ],
 
-  "url": "https://github.com/heyrold73/wfrp4e-it-translation",
-  "manifest": "https://github.com/heyrold73/wfrp4e-it-translation/releases/latest/download/module.json",
-  "download": "https://github.com/heyrold73/wfrp4e-it-translation/releases/latest/download/module.zip"
+  "url": "https://github.com/Deathkael83/wfrp4e-it-translation",
+  "manifest": "https://github.com/Deathkael83/wfrp4e-it-translation/releases/latest/download/module.json",
+  "download": "https://github.com/Deathkael83/wfrp4e-it-translation/releases/latest/download/module.zip"
 }
