@@ -1,3 +1,22 @@
+Hooks.once("init", () => {
+  const babele = game.babele || (typeof Babele !== "undefined" ? Babele.get() : null);
+  if (!babele) { console.warn("Babele non trovato"); return; }
+
+  babele.register({
+    module: "wfrp4e-it-translation",
+    lang: "it",
+    dir: "compendium"
+  });
+
+  babele.registerConverters({
+    convertSkills: (values) => values.map(s => skills[s] ?? s),
+    convertTalents: (values) => values.map(t => talents[t] ?? t),
+    convertTrappings: (values) => values.map(x => trappings[x] ?? x)
+  });
+
+  console.log("WFRP IT: Babele registrato.");
+});
+
 var skills = {
 	'Animal Care': 'Allevare',
 	'Animal Training ( )': 'Addestrare ( )',
@@ -1151,7 +1170,7 @@ Hooks.once('init', () => {
 		Babele.get().register({
 			module: 'wfrp4e-it-translation',
 			lang: 'it',
-			dir: 'lang',
+			dir: 'compendium',
 		});
 
 		Babele.get().registerConverters({
