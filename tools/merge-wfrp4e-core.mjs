@@ -1,38 +1,78 @@
 // tools/merge-wfrp4e-core.mjs
 // --------------------------------------------------------------
-// MERGE TRADUZIONI WFRP4e → 4 COMPENDI CORE
-// - Input:  vecchi JSON in Compendium/ (anche sottocartelle)
-// - Skeleton: tools/it-skeleton.json (generato dalla macro)
-// - Output: lang/it-wfrp4e-core-*.json (+ it.json base)
-// Requisiti: Node 20+ (meglio 22), npm i glob
+// MERGE TRADUZIONI WFRP4e → 4 PACK FINALI (actors/items/journals/tables)
+// - Legge: Compendium/**/*.json (anche sottocartelle, case-insensitive)
+// - Legge anche JSON “generici” fuori da Compendium (es. it.json base)
+// - Rimappa docId usando tools/it-skeleton.json (macro forzata sui 4 pack)
+// - Risolve automaticamente i conflitti con una policy (Opzione A)
+// - Scrive: lang/it.json + lang/it-wfrp4e-core-{actors|items|journals|tables}.json
+// Requisiti: Node 20+ (meglio 22)  |  npm i glob
 // --------------------------------------------------------------
 
 import fs from "fs";
 import path from "path";
 import { glob } from "glob";
 
+// =============== CONFLICT POLICY (Opzione A) ==================
+// Scegli la policy: "preferFirst", "preferLast", "preferCore", "preferLongest"
+const RESOLUTION = "preferCore";
+
+// Ordine di priorità per "preferCore": la regex più in alto vince.
+// (Modifica/aggiungi se hai altre famiglie di file)
+const FILE_PRIORITY = [
+  /Compendium[\\/].*wfrp4e-core/i,   // Core batte tutto
+  /Compendium[\\/].*wfrp4e/i,       // poi altri wfrp4e
+  /Compendium[\\/].*starter-set/i,  // poi Starter Set
+  /Compendium[\\/].*rnhd/i          // poi RNHD
+];
+
+// Normalizza stringhe per evitare falsi conflitti (spazi, CRLF, ecc.)
+function norm(v) {
+  return String(v ?? "")
+    .replace(/\r\n/g, "\n")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+// ===============================================================
+
 // ---------- CONFIG ----------
-const INPUT_DIRS = [
-  "Compendium/**/*.json",
+const COMPENDIUM_PATTERNS = [
   "Compendium/*.json",
-  "compendium/**/*.json",
-  "compendium/*.json"
+  "Compendium/**/*.json",
+  "compendium/*.json",
+  "compendium/**/*.json"
+];
+
+// JSON generici (fuori da Compendium) come il tuo it.json base
+const GENERIC_PATTERNS = [
+  "*.json",
+  "**/*.json",
+  "!Compendium/**",
+  "!compendium/**",
+  "!lang/**",
+  "!tools/**",
+  "!node_modules/**",
+  "!package*.json"
 ];
 
 const OUTPUT_DIR = "lang";
 const SKELETON = "tools/it-skeleton.json";
 const LOCALE = "it";
-const TARGET_PACKAGE = "wfrp4e-core"; // prefisso reale dei 4 pack nuovi
+const TARGET_PACKAGE = "wfrp4e-core"; // prefisso reale dei 4 pack finali
 
-// Mappa dei VECCHI pack → categoria logica target
-// La categoria NON è il nome del compendio: serve per smistare.
-// Poi convertirò categoria → vero nome pack (actors/items/journals/tables).
+// VECCHI pack → PACK FINALE (actors | items | journals | tables)
 const PACK_MAP = {
-  // Bestiario/Attori
-  "bestiary": "bestiary",
-  "wfrp4e-core.bestiary": "bestiary",
+  // Bestiario → ACTORS
+  "bestiary": "actors",
+  "actors": "actors",
+  "creatures": "actors",
+  "npcs": "actors",
+  "wfrp4e-core.bestiary": "actors",
+  "wfrp4e-core.actors": "actors",
+  "wfrp4e.bestiary": "actors",
+  "wfrp4e.actors": "actors",
 
-  // Oggetti/Abilities ecc. confluiscono in "items"
+  // Oggetti/abilità → ITEMS
   "items": "items",
   "talents": "items",
   "traits": "items",
@@ -50,7 +90,7 @@ const PACK_MAP = {
   "wfrp4e-core.trappings": "items",
   "wfrp4e-core.skills": "items",
 
-  // Journals/regole/testo vario
+  // Testi/regole → JOURNALS
   "journals": "journals",
   "journal-entries": "journals",
   "careers": "journals",
@@ -64,20 +104,11 @@ const PACK_MAP = {
   "wfrp4e-core.diseases": "journals",
   "wfrp4e-core.psychologies": "journals",
 
-  // Tabelle/critici ecc.
+  // Tabelle/critici → TABLES
   "tables": "tables",
   "criticals": "tables",
   "wfrp4e-core.tables": "tables",
   "wfrp4e-core.criticals": "tables"
-};
-
-// Categoria logica → vero nome pack dei 4 finali
-// Qui si decide come scrivere la chiave finale.
-const TARGET_TO_PACK = {
-  bestiary: "actors",
-  items: "items",
-  journals: "journals",
-  tables: "tables"
 };
 
 // ---------- UTIL ----------
@@ -86,23 +117,21 @@ function ensureDir(d) {
 }
 
 function parseCompKey(key) {
-  // Atteso: Compendium.<package>.<pack>.<docId>.<campo>
+  // Atteso: Compendium.<package>.<pack>.<docId>.<field>
   const m = key.match(/^Compendium\.([^.\s]+)\.([^.\s]+)\.([^.\s]+)\.(.+)$/);
   if (!m) return null;
   const [, pkg, pack, id, tail] = m;
   return { pkg, pack, id, tail };
 }
 
-// Carica lo skeleton e crea una mappa:
-// "<package>.<pack>" -> Map<nomeDocumento, docId>
+function loadJSON(p) {
+  try { return JSON.parse(fs.readFileSync(p, "utf8")); }
+  catch (e) { console.error(`ERRORE JSON in ${p}: ${e.message}`); process.exit(3); }
+}
+
+// Skeleton: "<package>.<pack>" -> Map<nome, docId>
 function loadSkeleton(pth) {
-  let raw;
-  try {
-    raw = JSON.parse(fs.readFileSync(pth, "utf8"));
-  } catch (e) {
-    console.error(`ERRORE: impossibile leggere ${pth}: ${e.message}`);
-    process.exit(1);
-  }
+  const raw = loadJSON(pth);
   const nameToId = {};
   for (const [k, v] of Object.entries(raw)) {
     const p = parseCompKey(k);
@@ -113,99 +142,207 @@ function loadSkeleton(pth) {
   return nameToId;
 }
 
+// Calcola punteggio priorità per "preferCore"
+function priorityScore(srcPath) {
+  for (let i = 0; i < FILE_PRIORITY.length; i++) {
+    if (FILE_PRIORITY[i].test(srcPath)) return 100 - i;
+  }
+  return -1; // bassa priorità se non matcha nulla
+}
+
 // ---------- MAIN ----------
 async function main() {
   ensureDir(OUTPUT_DIR);
 
-  // 1) Skeleton: serve per rimappare docId tramite NOME sui 4 pack finali
+  // 1) Skeleton per rimappare docId via NOME nei 4 pack finali
   const nameToId = loadSkeleton(SKELETON);
 
-  // 2) Trova tutti i JSON d’ingresso, ricorsivamente e ignorando case
-  const filesSet = new Set();
-  for (const pat of INPUT_DIRS) {
-    const found = await glob(pat, { nocase: true });
-    for (const f of found) filesSet.add(f);
+  // 2) Raccogli tutti i JSON (compendium + generici)
+  const set = new Set();
+
+  for (const pat of COMPENDIUM_PATTERNS) {
+    for (const f of await glob(pat, { nocase: true })) set.add(f);
   }
-  const files = [...filesSet];
-  console.log(`Scansione input: trovati ${files.length} file JSON.`);
+  for (const pat of GENERIC_PATTERNS) {
+    for (const f of await glob(pat, { nocase: true })) set.add(f);
+  }
+
+  // Escludi skeleton e output
+  set.delete(SKELETON);
+  for (const f of [...set]) {
+    if (f.startsWith(`${OUTPUT_DIR}/`) || f.startsWith(`${OUTPUT_DIR}\\`)) set.delete(f);
+  }
+
+  const files = [...set];
+  console.log(`Input JSON totali: ${files.length}`);
   if (!files.length) {
-    console.error("Nessun file JSON trovato sotto Compendium/ o compendium/.");
+    console.error("Nessun file JSON trovato (controlla percorsi/pattern).");
     process.exit(2);
   }
 
-  // 3) Bucket di output
-  const out = { bestiary: {}, items: {}, journals: {}, tables: {}, base: {} };
-  const conflicts = [];
+  // 3) Bucket per i 4 pack finali + base
+  const out = {
+    actors:   {},
+    items:    {},
+    journals: {},
+    tables:   {},
+    base:     {}
+  };
+  const conflictsLog = [];        // report dettagliato
+  const srcForKey = new Map();    // tiene memoria del file sorgente per ogni chiave
+  const stats = { actors: 0, items: 0, journals: 0, tables: 0, base: 0 };
 
-  // 4) Elabora ogni file
+  // 4) Elabora
   for (const f of files) {
-    let data;
-    try {
-      data = JSON.parse(fs.readFileSync(f, "utf8"));
-    } catch (e) {
-      console.error(`JSON non valido: ${f} — ${e.message}`);
-      process.exit(3);
-    }
+    const data = loadJSON(f);
 
-    for (const [key, val] of Object.entries(data)) {
+    for (const [key, valRaw] of Object.entries(data)) {
+      const val = valRaw;
       const p = parseCompKey(key);
 
-      // Chiave non-Compendium: resta nel file base (i18n generiche)
+      // Chiave non-Compendium → finisce in base (qui va il tuo it.json generico)
       if (!p) {
-        if (key in out.base && out.base[key] !== val) conflicts.push(key);
-        out.base[key] = val;
+        const existing = out.base[key];
+        if (existing === undefined) {
+          out.base[key] = val;
+          srcForKey.set(key, f);
+          stats.base++;
+        } else if (norm(existing) !== norm(val)) {
+          // conflitto su base: risolviamo secondo policy
+          const oldSrc = srcForKey.get(key);
+          let winner = "old";
+          switch (RESOLUTION) {
+            case "preferLast": winner = "new"; break;
+            case "preferFirst": winner = "old"; break;
+            case "preferLongest":
+              winner = (String(val).length > String(existing).length) ? "new" : "old"; break;
+            case "preferCore":
+            default:
+              winner = (priorityScore(f) > priorityScore(oldSrc)) ? "new" : "old";
+          }
+          if (winner === "new") { out.base[key] = val; srcForKey.set(key, f); }
+          conflictsLog.push({
+            key,
+            kept: winner === "new" ? val : existing,
+            dropped: winner === "new" ? existing : val,
+            keptFrom: winner === "new" ? f : oldSrc,
+            droppedFrom: winner === "new" ? oldSrc : f
+          });
+        }
         continue;
       }
 
-      // Determina la categoria logica target dal pack o dal package.pack
-      const target =
+      // Mappa al pack finale
+      const finalPack =
         PACK_MAP[p.pack] ??
         PACK_MAP[`${p.pkg}.${p.pack}`];
 
-      if (!target) {
-        // Pack sconosciuto: non buttiamo via niente, parcheggia in base
-        if (key in out.base && out.base[key] !== val) conflicts.push(key);
-        out.base[key] = val;
+      if (!finalPack) {
+        // pack sconosciuto: parcheggia in base
+        const existing = out.base[key];
+        if (existing === undefined) {
+          out.base[key] = val;
+          srcForKey.set(key, f);
+          stats.base++;
+        } else if (norm(existing) !== norm(val)) {
+          const oldSrc = srcForKey.get(key);
+          let winner = "old";
+          switch (RESOLUTION) {
+            case "preferLast": winner = "new"; break;
+            case "preferFirst": winner = "old"; break;
+            case "preferLongest":
+              winner = (String(val).length > String(existing).length) ? "new" : "old"; break;
+            case "preferCore":
+            default:
+              winner = (priorityScore(f) > priorityScore(oldSrc)) ? "new" : "old";
+          }
+          if (winner === "new") { out.base[key] = val; srcForKey.set(key, f); }
+          conflictsLog.push({
+            key,
+            kept: winner === "new" ? val : existing,
+            dropped: winner === "new" ? existing : val,
+            keptFrom: winner === "new" ? f : oldSrc,
+            droppedFrom: winner === "new" ? oldSrc : f
+          });
+        }
         continue;
       }
 
-      // Nome vero del pack finale (actors/items/journals/tables)
-      const finalPackName = TARGET_TO_PACK[target];
-      if (!finalPackName) {
-        console.warn(`Categoria senza mapping pack finale: ${target} (chiave ${key})`);
-        continue;
-      }
-
-      // Rimappa docId tramite skeleton, SOLO per le chiavi .name
+      // Rimappa docId via skeleton, SOLO per le chiavi .name
       let newId = p.id;
       if (p.tail === "name") {
-        const skeletonBase = `${TARGET_PACKAGE}.${finalPackName}`;
-        const map = nameToId[skeletonBase];
+        const skelKey = `${TARGET_PACKAGE}.${finalPack}`; // es. wfrp4e-core.actors
+        const map = nameToId[skelKey];
         if (map && map.has(val)) newId = map.get(val);
       }
 
-      // Costruisci la NUOVA chiave nel formato dei 4 pack finali
-      const newKey = `Compendium.${TARGET_PACKAGE}.${finalPackName}.${newId}.${p.tail}`;
+      const newKey = `Compendium.${TARGET_PACKAGE}.${finalPack}.${newId}.${p.tail}`;
 
-      if (newKey in out[target] && out[target][newKey] !== val) conflicts.push(newKey);
-      out[target][newKey] = val;
+      const existing = out[finalPack][newKey];
+      if (existing === undefined) {
+        out[finalPack][newKey] = val;
+        srcForKey.set(newKey, f);
+        stats[finalPack]++;
+      } else if (norm(existing) !== norm(val)) {
+        // conflitto reale → risolvi secondo policy
+        const oldSrc = srcForKey.get(newKey);
+        let winner = "old";
+        switch (RESOLUTION) {
+          case "preferLast": winner = "new"; break;
+          case "preferFirst": winner = "old"; break;
+          case "preferLongest":
+            winner = (String(val).length > String(existing).length) ? "new" : "old"; break;
+          case "preferCore":
+          default:
+            winner = (priorityScore(f) > priorityScore(oldSrc)) ? "new" : "old";
+        }
+        if (winner === "new") { out[finalPack][newKey] = val; srcForKey.set(newKey, f); }
+        conflictsLog.push({
+          key: newKey,
+          kept: winner === "new" ? val : existing,
+          dropped: winner === "new" ? existing : val,
+          keptFrom: winner === "new" ? f : oldSrc,
+          droppedFrom: winner === "new" ? oldSrc : f
+        });
+      }
     }
   }
 
-  // 5) Scrivi output
-  for (const [cat, obj] of Object.entries(out)) {
-    const file = cat === "base"
-      ? `${LOCALE}.json`
-      : `${LOCALE}-${TARGET_PACKAGE}-${cat}.json`; // cat usata solo nel nome file
-    fs.writeFileSync(path.join(OUTPUT_DIR, file), JSON.stringify(obj, null, 2), "utf8");
-    console.log(`Scritto ${path.join(OUTPUT_DIR, file)} — ${Object.keys(obj).length} chiavi`);
+  // 5) Scrivi i 5 file finali (base + 4 pack)
+  const outputs = [
+    ["base",     `${LOCALE}.json`],
+    ["actors",   `${LOCALE}-${TARGET_PACKAGE}-actors.json`],
+    ["items",    `${LOCALE}-${TARGET_PACKAGE}-items.json`],
+    ["journals", `${LOCALE}-${TARGET_PACKAGE}-journals.json`],
+    ["tables",   `${LOCALE}-${TARGET_PACKAGE}-tables.json`]
+  ];
+
+  for (const [bucket, fname] of outputs) {
+    fs.writeFileSync(path.join(OUTPUT_DIR, fname), JSON.stringify(out[bucket], null, 2), "utf8");
+    console.log(`Scritto ${path.join(OUTPUT_DIR, fname)} — ${Object.keys(out[bucket]).length} chiavi`);
   }
 
-  if (conflicts.length) {
-    console.warn(`Conflitti trovati: ${conflicts.length}. Decidi quale traduzione tenere e rilancia.`);
+  // Report dei conflitti risolti (per audit)
+  if (conflictsLog.length) {
+    const rows = [
+      "key;keptFrom;droppedFrom;kept;dropped",
+      ...conflictsLog.map(r =>
+        [
+          r.key,
+          r.keptFrom,
+          r.droppedFrom,
+          String(r.kept).replace(/;/g, ","),
+          String(r.dropped).replace(/;/g, ",")
+        ].join(";")
+      )
+    ].join("\n");
+    fs.writeFileSync("tools/conflicts-report.csv", rows, "utf8");
+    console.warn(`Conflitti risolti: ${conflictsLog.length}. Vedi tools/conflicts-report.csv`);
   } else {
-    console.log("Merge completato senza conflitti. Miracolo raro.");
+    console.log("Nessun conflitto dopo la policy. Miracolo raro.");
   }
+
+  console.log("Instradamento completato.", JSON.stringify(stats));
 }
 
 await main();
