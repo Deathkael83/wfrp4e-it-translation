@@ -1817,8 +1817,17 @@
     {
       "id": "Arterial Damage",
       "name": "Arteria Danneggiata (Torso)",
-      "description": "<p>Causa 4 @Condition[Bleeding]. Senza una @UUID[JournalEntry.NS3YGlJQxwTggjRX.JournalEntryPage.WCivInLZrqEtZzF4#surgery]{Chirurgia}, ogni ulteriore colpo al torso causerà 2 @Condition[Sanguinante].</p>",
+      "description": "<p>Causa 4 @Condition[Sanguinante]. Senza una @UUID[JournalEntry.NS3YGlJQxwTggjRX.JournalEntryPage.WCivInLZrqEtZzF4#surgery]{Chirurgia}, ogni ulteriore colpo al torso causerà 2 @Condition[Sanguinante].</p>",
       "location": "Torso"
+      "effects": [
+        {
+          "flags": {
+            "wfrp4e": { "trigger": "endRound", "value": 4 },
+            "core": { "statusId": "bleeding" }
+          },
+          "icon": "systems/wfrp4e/icons/conditions/bleeding.png",
+          "label": "Sanguinante"
+        },
     }
   ]
 }
