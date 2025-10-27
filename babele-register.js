@@ -5,7 +5,7 @@ Hooks.once("init", () => {
   babele.register({
     module: "wfrp4e-it-translation",
     lang: "it",
-    dir: "compendium"
+    dir: "lang"
   });
 
   babele.registerConverters({
