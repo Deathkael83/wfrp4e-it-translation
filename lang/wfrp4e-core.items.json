@@ -1833,9 +1833,7 @@
           "flags": {
             "wfrp4e": {
               "effectTrigger": "takeDamage",
-              "effectApplication": "actor",
-              "script": "if (args.opposedTest.result.hitloc.value == \"body\")\n    args.actor.addCondition(\"bleeding\", 2)"
-            },
+              "effectApplication": "actor"}
           },
           "transfer": false,
           "changes": [],
