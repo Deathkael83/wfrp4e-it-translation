@@ -1820,7 +1820,7 @@
       "effects": [
         {
           "flags": {
-            "wfrp4e": { "effectTigger": "endRound", "value": 4 },
+            "wfrp4e": { "tigger": "endRound", "value": 4 },
             "core": { "statusId": "bleeding" }
           },
           "transfer": false,
