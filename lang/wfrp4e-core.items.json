@@ -1819,9 +1819,10 @@
       "description": "<p>Causa 4 @Condition[Sanguinante]. Senza una @UUID[JournalEntry.NS3YGlJQxwTggjRX.JournalEntryPage.WCivInLZrqEtZzF4#surgery]{Chirurgia}, ogni ulteriore colpo al torso causerà 2 @Condition[Sanguinante].</p>",
       "effects": [
         {
+          "_id": "sgBDLL1iLenHJ5um",
           "flags": {
             "wfrp4e": {
-              "effectTrigger": "endRound",
+              "EffectTrigger": "endRound",
               "value": 4
             },
             "core": { "statusId": "bleeding" }
