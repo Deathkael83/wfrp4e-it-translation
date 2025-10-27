@@ -1819,15 +1819,33 @@
       "name": "Arteria Danneggiata (Torso)",
       "description": "<p>Causa 4 @Condition[Sanguinante]. Senza una @UUID[JournalEntry.NS3YGlJQxwTggjRX.JournalEntryPage.WCivInLZrqEtZzF4#surgery]{Chirurgia}, ogni ulteriore colpo al torso causerà 2 @Condition[Sanguinante].</p>",
       "location": "Torso"
-      "effects": [
-        {
-          "flags": {
-            "wfrp4e": { "trigger": "endRound", "value": 4 },
-            "core": { "statusId": "bleeding" }
-          },
-          "icon": "systems/wfrp4e/icons/conditions/bleeding.png",
-          "label": "Sanguinante"
-        },
+  "effects": [
+    {
+      "label": "Sanguinante",
+      "icon": "systems/wfrp4e/icons/conditions/bleeding.png",
+      "transfer": false,
+      "changes": [],
+      "duration": {},
+      "flags": {
+        "core": { "statusId": "bleeding" },
+        "wfrp4e": { "effectTrigger": "endRound", "value": 4 }
+      }
+    },
+    {
+      "label": "Arteria Danneggiata (Torso)",
+      "icon": "modules/wfrp4e-core/icons/injuries/tornbody.png",
+      "transfer": false,
+      "changes": [],
+      "duration": {},
+      "flags": {
+        "wfrp4e": {
+          "effectTrigger": "takeDamage",
+          "effectApplication": "actor",
+          "script": "if (args?.opposedTest?.result?.hitloc?.value === 'body' || args?.opposedTest?.result?.hitloc?.key === 'body') { args.actor.addCondition('bleeding', 2); }"
+        }
+      }
+    }
+  ]
     }
   ]
 }
