@@ -1828,19 +1828,8 @@
           "duration": {},
           "icon": "systems/wfrp4e/icons/conditions/bleeding.png",
           "label": "Sanguinante"
-        },
-        {
-          "flags": {
-            "wfrp4e": {
-              "effectTrigger": "takeDamage",
-              "effectApplication": "actor"}
-          },
-          "transfer": false,
-          "changes": [],
-          "duration": {},
-          "icon": "modules/wfrp4e-core/icons/injuries/tornbody.png",
-          "label": "Arteria Danneggiata (Torso)"
         }
+
       ],
       "location": "Torso"
     }
