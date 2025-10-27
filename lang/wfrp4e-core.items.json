@@ -1823,6 +1823,9 @@
             "wfrp4e": { "effectTigger": "endRound", "value": 4 },
             "core": { "statusId": "bleeding" }
           },
+          "transfer": false,
+          "changes": [],
+          "duration": {},
           "icon": "systems/wfrp4e/icons/conditions/bleeding.png",
           "label": "Sanguinante"
         },
@@ -1832,8 +1835,11 @@
               "effectTrigger": "takeDamage",
               "effectApplication": "actor",
               "script": "if (args.opposedTest.result.hitloc.value == \"body\")\n    args.actor.addCondition(\"bleeding\", 2)"
-            }
+            },
           },
+          "transfer": false,
+          "changes": [],
+          "duration": {},
           "icon": "modules/wfrp4e-core/icons/injuries/tornbody.png",
           "label": "Arteria Danneggiata (Torso)"
         }
