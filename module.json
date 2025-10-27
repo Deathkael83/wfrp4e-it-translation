@@ -49,22 +49,22 @@
     {
       "lang": "it",
       "name": "Italiano — Core Actors",
-      "path": "lang/it-wfrp4e-core-actors.json"
+      "path": "lang/it-wfrp4e-core.actors.json"
     },
     {
       "lang": "it",
       "name": "Italiano — Core Items",
-      "path": "lang/it-wfrp4e-core-items.json"
+      "path": "lang/it-wfrp4e-core.items.json"
     },
     {
       "lang": "it",
       "name": "Italiano — Core Journals",
-      "path": "lang/it-wfrp4e-core-journals.json"
+      "path": "lang/it-wfrp4e-core.journals.json"
     },
     {
       "lang": "it",
       "name": "Italiano — Core Tables",
-      "path": "lang/it-wfrp4e-core-tables.json"
+      "path": "lang/it-wfrp4e-core.tables.json"
     }
   ],
 
