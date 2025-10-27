@@ -1821,7 +1821,7 @@
         {
           "flags": {
             "wfrp4e": {
-              "EffectTrigger": "endRound",
+              "effectTrigger": "endRound",
               "value": 4
             },
             "core": { "statusId": "bleeding" }
