@@ -1371,3 +1371,44 @@ Hooks.once('setup', () => {
 		Guerrieri: 'Abiti, Arma a Una Mano, Borsello, Pugnale',
 	};
 });
+
+// === Rinomina visivamente gli effetti in italiano ===
+// Non altera i documenti originali, serve solo per l'interfaccia
+Hooks.on("renderItemSheet", (app, html, data) => {
+  try {
+    const i = app.object;
+    if (!i?.effects?.size) return;
+
+    // Mappa inglese -> italiano (aggiungi altri se vuoi)
+    const map = new Map([
+		["Ablaze", "In Fiamme"],
+		["Bleeding", "Sanguinante"],
+		["Blinded", "Accecato"],
+		["Broken", "Atterrito"],
+		["Deafened", "Assordato"],
+		["Entangled", "Afferrato"],
+		["Fatigued", "Affaticato"],
+		["Poisoned", "Avvelenato"],
+		["Prone", "Prono"],
+		["Stunned", "Stordito"],
+		["Surprised", "Sorpreso"],
+		["Unconscious", "Privo di Sensi"],
+		["Grappling", "Lotta"],
+		["Fear", "Paura"],
+		["Engaged", "Ingaggiato"],
+		["Dead", "Morte"]
+    ]);
+
+    for (const ef of i.effects) {
+      const newName = map.get(ef.name);
+      if (!newName) continue;
+
+      // Cambia solo il testo nel foglio, non nei dati
+      const row = html.find(`.item-effects .effect[data-effect-id="${ef.id}"]`);
+      row.find(".effect-name").text(newName);
+    }
+  } catch (e) {
+    console.warn("Effect label localization preview failed:", e);
+  }
+});
+
