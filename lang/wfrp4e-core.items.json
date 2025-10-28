@@ -14,8 +14,7 @@
     "trappings": {
       "path": "system.trappings",
       "converter": "convertTrappings"
-    },
-    "effects": "effects",
+    },    
     "location": "system.location.value",
     "wounds": "system.wounds.value"
   },
