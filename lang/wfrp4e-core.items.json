@@ -17,9 +17,7 @@
     },
     "location": "system.location.value",
     "wounds": "system.wounds.value",
-    "effects": "effects",
     "penalty": "system.penalty.value",
-    "duration": "system.duration.value"
   },
 
   "entries": [
