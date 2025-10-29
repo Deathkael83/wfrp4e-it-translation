@@ -1190,14 +1190,24 @@ Hooks.once('init', () => {
 
 Hooks.once('setup', () => {
 	// Species
-	WFRP4E.species = {
-		human: 'Umano',
-		halfling: 'Halfling',
-		dwarf: 'Nano',
-		gnome: 'Gnomo',
-		helf: 'Alto Elfo',
-		welf: 'Elfo Silvano',
-	};
+    WFRP4E.species = {
+        human: "Human",
+        halfling: "Halfling",
+        dwarf: "Dwarf",
+        gnome: "Gnome",
+        helf: "High Elf",
+        welf: "Wood Elf"
+    };
+
+    // Poi aggiungi le etichette localizzate per l’interfaccia
+    WFRP4E.speciesLocalised = {
+        human: "Umano",
+        halfling: "Halfling",
+        dwarf: "Nano",
+        gnome: "Gnomo",
+        helf: "Alto Elfo",
+        welf: "Elfo Silvano"
+    };
 
 	WFRP4E.subspecies = {
 		human: {
