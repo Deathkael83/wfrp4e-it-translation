@@ -1422,14 +1422,4 @@ Hooks.on("renderItemSheet", (app, html, data) => {
   }
 });
 
-Hooks.once("ready", () => {
-  // Sostituisce i nomi visivi delle specie con la traduzione i18n
-  for (let key in WFRP4E.species) {
-    const translated = game.i18n.localize(`WFRP4E.Species.${key}`);
-    if (translated && translated !== `WFRP4E.Species.${key}`) {
-      WFRP4E.species[key] = translated;
-    }
-  }
-});
-
 
