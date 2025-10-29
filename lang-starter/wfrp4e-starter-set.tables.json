@@ -1,0 +1,93 @@
+{
+  "label": "Tabelle (Starter Set)",
+  "entries": [
+    {
+      "id": "3m4LPj58xoNju80B",
+      "name": "Ferite Critiche - Testa (Starter Set)",
+      "description": "",
+      "results": {
+        "1-10": "Squarcio",
+        "11-20": "Colpo al ventre",
+        "21-30": "Colpo basso!",
+        "31-40": "Fiato mozzo",
+        "41-50": "Livido",
+        "51-60": "Lacerazione",
+        "61-65": "Osso incrinato",
+        "66-70": "Ferita aperta",
+        "71-75": "Taglio doloroso",
+        "76-80": "Osso fratturato",
+        "81-85": "Muscolo strappato",
+        "86-90": "Tendine lesionato",
+        "91-95": "Osso polverizzato",
+        "96-99": "Distrutto",
+        "100-100": "Smembrato"
+      }
+    },
+    {
+      "id": "BlDLji1LeqHOVj8r",
+      "name": "Ferite Critiche - Gambe (Starter Set)",
+      "description": "",
+      "results": {
+        "1-10": "Squarcio",
+        "11-20": "Colpo al ventre",
+        "21-30": "Colpo basso!",
+        "31-40": "Fiato mozzo",
+        "41-50": "Livido",
+        "51-60": "Lacerazione",
+        "61-65": "Osso incrinato",
+        "66-70": "Ferita aperta",
+        "71-75": "Taglio doloroso",
+        "76-80": "Osso fratturato",
+        "81-85": "Muscolo strappato",
+        "86-90": "Tendine lesionato",
+        "91-95": "Osso polverizzato",
+        "96-99": "Distrutto",
+        "100-100": "Smembrato"
+      }
+    },
+    {
+      "id": "yYfGtudjckO3bubF",
+      "name": "Ferite Critiche - Braccia (Starter Set)",
+      "description": "",
+      "results": {
+        "1-10": "Squarcio",
+        "11-20": "Colpo al ventre",
+        "21-30": "Colpo basso!",
+        "31-40": "Fiato mozzo",
+        "41-50": "Livido",
+        "51-60": "Lacerazione",
+        "61-65": "Osso incrinato",
+        "66-70": "Ferita aperta",
+        "71-75": "Taglio doloroso",
+        "76-80": "Osso fratturato",
+        "81-85": "Muscolo strappato",
+        "86-90": "Tendine lesionato",
+        "91-95": "Osso polverizzato",
+        "96-99": "Distrutto",
+        "100-100": "Smembrato"
+      }
+    },
+    {
+      "id": "yvzv7xxQuxX7N16b",
+      "name": "Ferite Critiche - Torso (Starter Set)",
+      "description": "",
+      "results": {
+        "1-10": "Squarcio",
+        "11-20": "Colpo al ventre",
+        "21-30": "Colpo basso!",
+        "31-40": "Fiato mozzo",
+        "41-50": "Livido",
+        "51-60": "Lacerazione",
+        "61-65": "Osso incrinato",
+        "66-70": "Ferita aperta",
+        "71-75": "Taglio doloroso",
+        "76-80": "Osso fratturato",
+        "81-85": "Muscolo strappato",
+        "86-90": "Tendine lesionato",
+        "91-95": "Osso polverizzato",
+        "96-99": "Distrutto",
+        "100-100": "Smembrato"
+      }
+    }
+  ]
+}
