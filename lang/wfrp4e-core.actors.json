@@ -1,0 +1,429 @@
+{
+  "label": "Bestiario (Core)",
+  "mapping": {
+    "name": "name",
+    "species": "system.details.species.value",
+    "gender": "system.details.gender.value",
+    "gmnotes": "system.details.gmnotes.value"
+  },
+  "entries": [
+    {
+      "id": "Basilisk",
+      "name": "Basilischi",
+      "description": "<section id=\"secret-zdzlEp0D0ezaKtyw\" class=\"secret\"><p>Questi rettili con otto zampe sono solitari e sfuggenti. Pare che siano tra le più antiche creature del Caos, talmente piene di odio e veleno da rendere tossica la terra dove camminano. Anche il loro morso è velenoso, ma lo sguardo pietrificante è assai più terribile. Se ne incontrano di rado, ma restano nemici spaventosi. I loro organi e ghiandole sono molto apprezzati da maghi e alchimisti, per cui alcuni cacciatori prestano orecchio a ogni possibile avvistamento nelle selve del @UUID[JournalEntry.ozE2DMCMK64eE5pD.JournalEntryPage.0Cmr0LZ3boLbNt6p]{Vorbergland}, ma pochi fanno ritorno.</p></section>",
+      "species": "Basilisco",
+      "gender": "Varie"
+    },
+    {
+      "id": "Bear",
+      "name": "Orsi",
+      "description": "<section id=\"secret-dK2N4KnI1iBNUe7c\" class=\"secret\"><p>Gli orsi vagano per tutto il Reikland. Di solito sono solitari e schivi, ma diventano aggressivi se feriti oppure se devono difendere i loro cuccioli. Quando il cibo scarseggia si avvicinano a insediamenti o viaggiatori, specie quelli poco attenti alle proprie provviste.</p></section>",
+      "species": "Orso",
+      "gender": "Varie"
+    },
+    {
+      "id": "Black Bella",
+      "name": "Bella la Nera",
+      "description": "<section id=\"secret-MjIx27JoP8lYXwK6\" class=\"secret\"><p>Il marito di Bethilda è stato massacrato dagli Uominibestia che hanno fatto irruzione nel villaggio di Reikherz. Quattro mesi dopo, è stata sfrattata per non aver pagato l'affitto. Disperata, Bethilda si avvicinò a suo cugino, Alwin, un fuorilegge ricercato. Dopo un po' di persuasione, Bethilda si unì alla sua banda di briganti che perseguitavano la strada Karstadt–Siedlung e fu sorpresa da quanto esilarante trovasse la rapina in autostrada. Ora cavalca come Black Bella e si è costruita una reputazione di brutale spietatezza che ora preoccupa profondamente sua cugina.</p></section>",
+      "gender": "Femmina"
+    },
+    {
+      "id": "Bloodletter of Khorne",
+      "name": "Sanguinari di Khorne",
+      "description": "<section id=\"secret-hADj0UTb9AFeUL5y\" class=\"secret\"><p>I Sanguinari, prescelti da Khorne, vanno a caccia per i campi di battaglia del Vecchio Mondo, mietendo teschi e vite in onore del Dio del Sangue. Hanno denti appuntiti come aghi, mostruosi volti cornuti, la pelle rosso sangue dura come bronzo forgiato sull’incudine di una guerra eterna. Ognuno è armato con una Lama Infernale, una spada diabolicamente affilata che gronda sangue e viene maneggiata con assoluta noncuranza, mentre il Demone si gode l’insensato massacro.</p></section>",
+      "species": "Demone",
+      "gender": "???"
+    },
+    {
+      "id": "Boar",
+      "name": "Cinghiali",
+      "description": "<section id=\"secret-0mOdzM97CZBimHFw\" class=\"secret\"><p>I cinghiali sono creature ritrose che rovistano nelle foreste, ma se vengono messi all’angolo si difendono con una tenacia che stupisce gli impreparati. Di solito vanno dai 150 ai 180cm, ma alcuni crescono ancora di più. I più grossi sono molto apprezzati dagli @UUID[Compendium.wfrp4e-core.actors.E7BiDqsB55BrOQut]{Orchi}, che li usano come cavalcature.</p></section>",
+      "species": "Cinghiale",
+      "gender": "Varie"
+    },
+    {
+      "id": "Bog Octopus",
+      "name": "Piovre di Palude",
+      "description": "<section id=\"secret-MIXixnWHdc5yzqhl\" class=\"secret\"><p>Le Piovre di Palude si nascondono nella acque basse e acquitrinose, dove attendono la preda restando perfettamente immobili, percependo le vibrazioni, per poi emergere all’improvviso per afferrarla e annegarla. Di solito sono verdi e marroni, un perfetto camuffamento, dove l’unica cosa che le tradisce sono gli enormi occhi chiari. Spesso, i robusti tentacoli raggiungono i 6m e il corpo 1,8m, ma ci sono racconti di esemplari ben più grandi, specie se hanno molta carne a disposizione.</p></section>",
+      "species": "Piovra di Palude",
+      "gender": "Varie"
+    },
+    {
+      "id": "Bray-Shaman",
+      "name": "Sciamani Bercianti",
+      "description": "<section id=\"secret-eAxmRlZso0kqKsap\" class=\"secret\"><p>Gli Sciamani Bercianti nascono con la capacità istintiva di manipolare il potere del Caos e la usano con terrificante abilità. Sono gli unici tra gli Uominibestia a non doversi mai difendere dal resto del branco, perché nessuno oserebbe toccare lo Sciamano, la cui voce è quella degli Dei Oscuri stessi.</p></section>",
+      "species": "Sciamano Berciante",
+      "gender": "Varie"
+    },
+    {
+      "id": "Cairn Wraith",
+      "name": "Spettri dei Tumuli",
+      "description": "<section id=\"secret-SRisNdSeAF3nCZxk\" class=\"secret\"><p>Gli Spettri dei Tumuli sono spiriti particolarmente potenti, anime di aspiranti Necromanti che hanno tentato di prolungare la propria vita con la magia nera. La grande e malevola forza di volontà che avevano in vita li spinge ora a vendicarsi delle anime dei viventi. Molti infestano i tumuli avvolti dalla nebbia che punteggiano certe zone dell’Impero, come gli infami @UUID[JournalEntry.ozE2DMCMK64eE5pD.JournalEntryPage.mdjl1WxjZLeuSWAN]{Hägercrybs}.</p></section>",
+      "species": "Nonmorto",
+      "gender": "???"
+    },
+    {
+      "id": "Cave Squig",
+      "name": "Squig di Caverna",
+      "description": "<section id=\"secret-oDtCiP01aJblHtLV\" class=\"secret\"><p>Gli Squig sono grosse creature fungoidi, di solito tondeggianti, che vivono nelle profondità delle caverne più buie e umide. Hanno enormi bocche con denti grandi e affilati. I @UUID[Compendium.wfrp4e-core.actors.zzdOpKqBC28J66Mn]{Goblin} li apprezzano per la carne e le pelli, ma anche come animali da guardia o da compagnia.</p></section>"
+    },
+    {
+      "id": "Chaos Warrior",
+      "name": "Guerrieri del Caos",
+      "description": "<section id=\"secret-UmFQtYU7axewKKpu\" class=\"secret\"><p>I Guerrieri del Caos sono colossali bruti, ormai non più Umani, che indossano armature pesanti ricoperte di spine e simboli dei loro dei che fanno bruciare gli occhi. Non rimane più nulla delle loro vecchie vite ed esistono solo per servire i loro oscuri padroni. Molti sono predoni folli delle lontane terre del nord, ma ad alcuni Cultisti gli Dei Oscuri concedono il dono dell’Armatura del Caos, che conferisce grandi poteri ma non può essere rimossa finché restano in vita. Pochi possono dirsi pari in abilità o meglio protetti di questi guerrieri, che vivono vite estremamente lunghe.</p></section>",
+      "species": "???",
+      "gender": "???"
+    },
+    {
+      "id": "Clanrat",
+      "name": "Ratti del Clan",
+      "description": "<section id=\"secret-Y5U5kScxBjhDwZf0\" class=\"secret\"><p>La maggioranza degli Skaven è formata da Ratti del Clan, membri di uno dei molti clan che sono continuamente coinvolti in litigi, intrighi, assassinii e guerre interne. Spesso agiscono secondo gli ordini di Skaven di status superiore, ma sono sempre pronti a colpire alle spalle per ottenere una posizione migliore. Di solito, indossano cuoio ammuffito e abiti lerci, con armature improvvisate fatte di metallo arrugginito. Vengono usati come esploratori e razziatori per recuperare cibo, Warpietra e schiavi.</p></section>",
+      "gender": "Maschio"
+    },
+    {
+      "id": "Crypt Ghoul",
+      "name": "Ghoul delle Cripte",
+      "description": "<section id=\"secret-cSI55YBJfss3QSgb\" class=\"secret\"><p>Tra le creature più patetiche del Vecchio Mondo vi sono i Ghoul, esseri orrendi, sporchi, con pelle itterica e denti gialli, affilati capaci di strappare la carne dalle vittime. Vengono attirati dalle energie di Shyish e Dhar , che li portano a gravitare attorno a cripte, cimiteri e campi di battaglia.</p></section>",
+      "species": "Ghoul",
+      "gender": "???"
+    },
+    {
+      "id": "Cultist",
+      "name": "Cultisti",
+      "description": "<section id=\"secret-njo6IVKU18vA4SxA\" class=\"secret\"><p>Il Caos appare orribile e alieno a chi non è stato toccato dalla sua malizia, ma per gli altri ogni passo verso la dannazione, ogni idea che avvicini al Caos appare non solo logica ma inevitabile. I seguaci più devoti di questi culti proibiti ricevono ‘doni’ dai loro dei: orride mutazioni che li condanneranno a morte, se scoperte da un Cacciatore di Streghe.</p></section>",
+      "species": "Varie",
+      "gender": "Varie"
+    },
+    {
+      "id": "Daemonette of Slaanesh",
+      "name": "Demonette di Slaanesh",
+      "description": "<section id=\"secret-BXyeWId7fp0PJmOI\" class=\"secret\"><p>Come tutte le creature del Principe del Piacere e del Dolore, le Demonette sono allo stesso tempo bellissime e orrende. Possiedono un fascino ultraterreno che travalica i sensi e il raziocinio, rendendo i nemici impotenti e ipnotizzati dalle loro forme mostruose. Hanno la pelle candida, grandi occhi di giaietto, capelli lunghi, spettinati e di colori innaturali e braccia magre che terminano, al posto delle mani, in sinuose chele da granchio.</p></section>",
+      "species": "Demone",
+      "gender": "???"
+    },
+    {
+      "id": "Demigryph",
+      "name": "Semigrifoni",
+      "description": "<section id=\"secret-ltXKkluUM9F2zFRG\" class=\"secret\"><p>I Semigrifoni sono creature forti e dal nobile portamento, con la testa d’aquila e il corpo di leone. Cacciano per le foreste e le pianure dell’Impero, abitualmente da soli, tenendosi lontani dagli insediamenti. Gli ordini cavallereschi più arditi li impiegano come cavalcature. Per alcuni di questi ordini militanti, la cattura di un Semigrifone adulto è un rito di passaggio, dato che tali animali non vengono cresciuti in cattività, a differenza di molti altri tipi di cavalcature mostruose.</p></section>",
+      "species": "Semigrifone",
+      "gender": "Varie"
+    },
+    {
+      "id": "Dieter Käsegeier",
+      "name": "Dieter Käsegeier",
+      "description": "",
+      "gender": "Maschio",
+      "gmnotes": "<p>I suoi numerosi clienti lo considerano un casaro senza pari, ma Dieter preferisce pensare a se stesso come un visionario. Suo padre, suo nonno e così via, per almeno sette generazioni, sono stati tutti coinvolti nella produzione e vendita di formaggi, ma nessuno di loro è degno di nota. Dieter non si sarebbe mai accontentato di fabbricare un formaggio “sufficiente”, così ha iniziato a sperimentare con diversi metodi di preparazione e ingredienti unici, molti dei quali acquistati durante i suoi viaggi avventurosi. Alla fine, tenaci ricerche e continui tentativi lo hanno guidato verso il successo. Le reazioni di Dieter sono ineguagliabili.</p><p>Le persone che lo conoscono scoprono presto che non è solamente un paziente casaro, bensì un uomo ossessionato. Dieter parla a malapena di argomenti che non siano il formaggio: qualsiasi conversazione con lui è zeppa di inevitabili aneddoti sulle sue creazioni. Nel corso degli anni ha aggiunto degli ingredienti insoliti ai suoi formaggi, da numerose spezie a varie birre. Sta esaurendo le sostanze convenzionali per le sue prove, quindi ha deciso di andare oltre e azzardare, utilizzando materiali come cenere, insetti tritati, sangue animale, trucioli di corteccia, moccio di goblin, escrementi e piccole dosi di veleno — ‘<em>Questo formaggio pizzica</em>!’.</p><h4>Dove c’è Volontà, c’è Siero</h4><p>Dove c’è Volontà, c’è Siero Dieter vuole assumere alcuni tipi abili, che pagherà in argento e formaggio prelibato, per aiutarlo a recuperare una peculiare e rara specie di funghi dalle profondità del @UUID[JournalEntry.ozE2DMCMK64eE5pD.JournalEntryPage.UqeZNqbpV8uocCUN]{Reikwald}. Sfortunatamente, la sua fama attira dei criminali che cercano di ucciderlo per rubare i suoi segreti, per non parlare di quella tribù di @UUID[Compendium.wfrp4e-core.actors.zzdOpKqBC28J66Mn]{Goblin} piuttosto aggressiva che considera i funghi una proprietà esclusiva.</p><p>Diverse persone sono scomparse o mutate spontaneamente dopo aver frequentato il negozio di Dieter. L’eccentrico artigiano del formaggio si è forse rivolto agli Antichi per una nuova ispirazione, utilizzando la Mutapietra in polvere nel suo ultimo lotto, o qualche suo rivale lo ha sabotato?</p>"
+    },
+    {
+      "id": "Dire Wolf",
+      "name": "Lupi Zombi",
+      "description": "<section id=\"secret-UXaAD3dsZgu2qEkD\" class=\"secret\"><p>Non sono solo gli Umani a risorgere dalla nuda terra. Nella notte, agli ordini dei propri signori, si aggirano anche macabre parodie di Lupi Giganti, con occhi lucenti e carne che penzola dalla carcassa. Pare che, quando Morrslieb è in plenilunio, infestino la foreste maledette degli @UUID[JournalEntry.ozE2DMCMK64eE5pD.JournalEntryPage.mdjl1WxjZLeuSWAN]{Hägercrybs}, correndo alla ricerca di prede per saziare la loro maledetta fame eterna, guidati da un terribile fiuto per il sangue.</p></section>"
+    },
+    {
+      "id": "Dog",
+      "name": "Cani",
+      "description": "<section id=\"secret-D3VMZDvgXxuda96A\" class=\"secret\"><p>Nel Vecchio Mondo, i cani vengono selezionati per una miriade di scopi. Mentre i cagnolini dei cortigiani di @UUID[JournalEntry.ozE2DMCMK64eE5pD.JournalEntryPage.V6tkgQ9A2skppjyl]{Altdorf} sono pericolosi solo per la dignità di un avventuriero, le specie più grosse, selezionate per la guerra e i combattimenti, sono nemici formidabili.</p></section>",
+      "species": "Cane",
+      "gender": "Varie"
+    },
+    {
+      "id": "Dragon",
+      "name": "Draghi",
+      "description": "<section id=\"secret-KSwR21KkcJ73Jpeh\" class=\"secret\"><p>I Draghi dominavano i cieli ben prima che le specie più antiche camminassero per il Vecchio Mondo. Oggi sono poco più che ombre dei loro avi, ma rimangono tra le creature più potenti dell’Impero. I pochi Draghi Antichi sopravvissuti sono immensi, terrificanti e si risvegliano di rado. Se un drago dovesse infuriarsi contro un gruppo di avventurieri… meglio iniziare a correre.</p></section>",
+      "species": "Drago",
+      "gender": "Varie"
+    },
+    {
+      "id": "Dwarf",
+      "name": "Nano",
+      "description": "<section id=\"secret-h5cBaU8rkw7UFZmU\" class=\"secret\"><p>@UUID[JournalEntry.IQ0PgoJihQltCBUU.JournalEntryPage.l0f11ypRjH9sR48Q#dwarfs]{Nani}</p></section>",
+      "species": "Nano",
+      "gender": "Varie"
+    },
+    {
+      "id": "Fenbeast",
+      "name": "Malabestie",
+      "description": "<section id=\"secret-UotH6C0fP5xmn37q\" class=\"secret\"><p>Create dai maghi da paludi e acquitrini, le Malabestie sono automi, apparentemente privi di mente. Sono vagamente umanoidi e formate da fango, ossa, rami e melma e hanno bisogno di molta magia per restare integre. A volte, vengono create da Maghi di Giada per agire come guardie del corpo o risolvere un compito specifico che richiede forza bruta o uccisioni. In altre occasioni, si formano spontaneamente da pozze fetide dove la magia è stata corrotta. Si dice che il <strong>Collegio di Giada</strong> ad @UUID[JournalEntry.ozE2DMCMK64eE5pD.JournalEntryPage.V6tkgQ9A2skppjyl]{Altdorf} ne abbia diverse, impiegate come uomini di fatica dai Magister anziani e alimentate continuamente dall’opera di dozzine di apprendisti.</p></section>",
+      "species": "Costrutto",
+      "gender": "Varie"
+    },
+    {
+      "id": "Fimir",
+      "name": "Fimir",
+      "description": "<section id=\"secret-ESTE07FU4VXbZtgm\" class=\"secret\"><p>I Fimir sono misteriose creature rettili, con un occhio solo, che si nascondono negli angoli più oscuri degli acquitrini del Reikland. Evitano la luce diretta del sole, uscendo solo all’alba o al tramonto, o quando c’è nebbia, per compiere rapimenti con scopi misteriosi e nefandi. Si dice che conoscano l’arte di evocare e controllare i Demoni e alcune streghe, pazze o disperate, li cercano per apprendere tali arcani maligni. È oggetto di dibattito cosa sia più pericoloso: trattare con i Poteri Perniciosi o con i Fimir? La società di questi esseri è di tipo matriarcale: ogni clan è guidato da una potente strega detta ‘Meargh’, aiutata da diversi incantatori minori, i ‘Dirach’. La maggioranza dei membri del clan sono semplici ‘Shearl’, protetti dalla casta guerriera dei ‘Fimm’, caratterizzati dalle spine ossee sulle code.</p></section>",
+      "species": "Fimir",
+      "gender": "Varie"
+    },
+    {
+      "id": "Fr'hough Mournbreath",
+      "name": "Fr'hough Mournbreath",
+      "description": "<p>Principe Demone di Nurgle. L’obiettivo di tutti i campioni del Caos è l’apoteosi, l’ascensione al rango di Principe Demone per poter servire il proprio padrone in eterno nel Reame del Caos. Queste creature di enorme potere sono avversari terribili persino per i più grandi eroi dell’Impero.</p>",
+      "species": "Principe Demone",
+      "gender": "???"
+    },
+    {
+      "id": "Ghost",
+      "name": "Fantasmi",
+      "description": "<section id=\"secret-9uAOsyYqBzjZwuw2\" class=\"secret\"><p>I Fantasmi sono le anime tormentate di chi è morto con affari in sospeso. Come @UUID[Compendium.wfrp4e-core.actors.Mt5JAoOSaEH1PdcP]{Scheletri} e @UUID[Compendium.wfrp4e-core.actors.T79RqnDOAQLn3I1s]{Zombie}, possono essere evocati da @UUID[Compendium.wfrp4e-core.actors.T5qAtpoKtB8iwTBd]{Vampiri} e Necromanti, oppure infestare aree pregne di Dhar . In circostanze eccezionali, spiriti molto ossessionati possono fuggire dal Reame di Morr per inseguire i propri scopi, ma eventi così straordinari attirano sempre l’attenzione del culto di Morr o dell’Ordine Ametista. Quando vengono evocati, i Fantasmi si riuniscono, formando Armate di Spiriti che appaiono tra i nemici diffondendo tra loro paura.</p></section>",
+      "species": "Nonmorto",
+      "gender": "???"
+    },
+    {
+      "id": "Giant",
+      "name": "Giganti",
+      "description": "<section id=\"secret-O6EcvTeDSGoa2RC2\" class=\"secret\"><p>I Giganti sono creature solitarie che evitano la civiltà. Di solito si trovano sui monti che segnano i confini dell’Impero, nascosti in caverne e rovine dimenticate, talvolta scendono fino a valle per trovare cibo. Sono noti per essere bellicosi e feroci, a causa della stazza, delle razzie di bestiame e dell’essere parte, come schiavi, degli eserciti dei Pelleverde. In realtà, molti sono anime gentili, nonostante il brutto carattere, molto gelose delle propria privacy, ma non ostili. A causa delle loro lunghe vite, si crede che possiedano grandi conoscenze, ma molti di loro sembrano poco lucidi e più interessati all’alcol che a disquisire di storia.</p></section>",
+      "species": "Gigante",
+      "gender": "Varie"
+    },
+    {
+      "id": "Giant Rat",
+      "name": "Ratti Giganti",
+      "description": "<section id=\"secret-YKv2jV3fetoEvF1C\" class=\"secret\"><pI ratti sono ovunque, specie nelle città. Più una regione è popolosa, più ratti ci saranno e questo è un grosso problema dato che sono vettori di malattie. Di solito sono piccoli, ma possono crescere fino a dimensioni mostruose. Secondo alcuni rapporti, sotto Altdorf ve ne sono di grossi come un Umano o più. Di solito vengono tenuti sotto controllo dagli Acchiappatopi.</p></section>",
+      "species": "Ratto",
+      "gender": "Varie"
+    },
+    {
+      "id": "Giant Spider",
+      "name": "Ragni Giganti",
+      "description": "<section id=\"secret-4zOoWWzKvxCdyQBR\" class=\"secret\"><p>I ragni giganti si nascondono nel folto delle foreste e nelle caverne, ma possono vivere ovunque, comprese soffitte polverose e cantine buie. Di solito, intrappolano la preda con robuste ragnatele prima di inocularle del veleno. La maggioranza è delle dimensioni di un grosso ratto, ma alcuni raggiungono taglie davvero spaventose. I Goblin delle Foreste catturano i più grossi per usarli come cavalcature.</p></section>",
+      "species": "Ragno",
+      "gender": "Varie"
+    },
+    {
+      "id": "Goblin",
+      "name": "Goblin",
+      "description": "<section id=\"secret-E2Z0jegOrNEyLilA\" class=\"secret\"><blockquote><p>‘Goblins, signore, a migliaia!’</p><p style=\"text-align: right\"><em>– Tenente Bromkopf, 24esima Fanteria del Reikland</em></p></blockquote><p> </p><p>Magri, agili, intelligenti e pieni d’odio, i Goblin hanno un istinto di autoconservazione da non sottovalutare. Sono codardi e si riuniscono rapidamente in bande per ottenere un enorme vantaggio numerico. Spesso si uniscono agli esercito degli @UUID[Compendium.wfrp4e-core.actors.E7BiDqsB55BrOQut]{Orchi} — non sempre di propria volontà – per rubare il bottino, più che per combattere.</p></section>",
+      "species": "Goblin",
+      "gender": "???"
+    },
+    {
+      "id": "Gor",
+      "name": "Gor",
+      "description": "<section id=\"secret-1fmdbB41OA1FbT2r\" class=\"secret\"><p>I Gor sono la varietà più comune di Uominibestia, diffusi in quasi tutte le foreste del Vecchio Mondo. Sono di aspetto molto vario, ma combinano sempre elementi Umani e animali, di solito testa e gambe di una capra con torso e braccia umane. L’unico tratto comune a tutti sono le corna – che più sono grandi più conferiscono prestigio – che li distinguono da @UUID[Compendium.wfrp4e-core.actors.vrYs3cbxvXtre6rv]{Nogor} e Mutapelle. Gli esemplari più grossi della specie sono detti Bestigor.</p></section>",
+      "species": "Gor",
+      "gender": "Varie"
+    },
+    {
+      "id": "Griffon",
+      "name": "Grifoni",
+      "description": "<section id=\"secret-idJ9qUex4SNJsvUT\" class=\"secret\"><p>Con la metà anteriore di un’aquila e quella posteriore di un grande felino, i Grifoni sono creature eleganti, fiere e regali. Fanno il nido sui picchi più alti dei confini dell’Impero e sono assassini rapidi ed efficienti, non distruttivi come @UUID[Compendium.wfrp4e-core.actors.XtVkAVgZRIIgrBXb]{Manticore} e @UUID[Compendium.wfrp4e-core.actors.RiXpMLex8SZf6gaQ]{Ippogrifi}. A causa di questa apparente nobiltà, il grifone è divenuto un simbolo molto diffuso nell’araldica e nell’iconografia religiosa, fino a essere riprodotto sulla bandiera dell’Impero. Se viene catturato relativamente giovane e addestrato correttamente, un Grifone sarà incredibilmente leale e capace di comprendere molti comandi. Sono tanto ricercati che molti cacciatori rischiano la vita per trovarne le uova. Il più celebre Grifone del Reikland è Granfiamorte, ospitato al |Imperial Zoo| di |Altdorf|, e proprietà del Principe del Reikland. Secondo la leggenda il suo uovo venne covato dall’Imperatore Karl-Franz in persona… cosa che ha dato spunto per numerose vignette oscene e sediziose.</p></section>",
+      "species": "Grifone",
+      "gender": "Varie"
+    },
+    {
+      "id": "Halfling",
+      "name": "Halfling",
+      "description": "<section id=\"secret-d1ADsyWS6KDQFxDE\" class=\"secret\"><p>@UUID[JournalEntry.IQ0PgoJihQltCBUU.JournalEntryPage.l0f11ypRjH9sR48Q#halflings]{Halfling}</p></section>",
+      "species": "Halfling",
+      "gender": "Varie"
+    },
+    {
+      "id": "High Elf",
+      "name": "Alto Elfo",
+      "description": "<section id=\"secret-1iA2MDDwFn6grbL6\" class=\"secret\"><p>@UUID[JournalEntry.IQ0PgoJihQltCBUU.JournalEntryPage.l0f11ypRjH9sR48Q#high-elves]{Alti Elfi}</p></section>",
+      "species": "Alto Elfo",
+      "gender": "Varie"
+    },
+    {
+      "id": "Hippogryph",
+      "name": "Ippogrifi",
+      "description": "<section id=\"secret-KHQFu97XTyUsvDjI\" class=\"secret\"><p>Incredibilmente feroci e territoriali, gli Ippogrifi hanno la metà frontale di un’aquila e quella posteriore di un cavallo e, di solito provengono da @UUID[JournalEntry.ozE2DMCMK64eE5pD.JournalEntryPage.w0YfGxsBuLoODCgc]{le Montagne Grigie}. Attaccano senza provocazione, con la furia di un folle, facendo a brani la carne prima di mangiarla. Sono tanto feroci che uno solo può sterminare un’intera mandria, per poi nutrirsi solo dei pezzi migliori e lasciare il resto ai corvi. Essendo poco intelligenti, tendono a uccidere tutto ciò che vedono e a credere che ciò che non vedono sia morto. Questo fa sì che ci siano relativamente poche vittime, dato che basta un buon nascondiglio per salvarsi.</p></section>",
+      "species": "Ippogrifo",
+      "gender": "Varie"
+    },
+    {
+      "id": "Horse",
+      "name": "Cavalli",
+      "description": "<section id=\"secret-KVVskb3Id1ELGbjT\" class=\"secret\"><p>I cavalli vengono selezionati per numerosi compiti, rapidi per i messaggeri, robusti per i cavalieri e vigorosi per i contadini. Sono tanto fondamentali che, nel Reikland, il commercio di cavalli è quasi uno sport. Alcuni cozzoni (venditori di cavalli) poco scrupolosi sfruttano l’ignoranza degli acquirenti per far soldi, tinteggiando e limando i denti di vecchi esemplari o infilando stoppa nel naso di quelli malati per assorbire il muco.</p></section>",
+      "species": "Cavallo",
+      "gender": "Varie"
+    },
+    {
+      "id": "Human",
+      "name": "Umano",
+      "description": "<section id=\"secret-vD5MVV7CgllMC91b\" class=\"secret\"><p>@UUID[JournalEntry.IQ0PgoJihQltCBUU.JournalEntryPage.l0f11ypRjH9sR48Q#humans-(reiklander)]{Umani (Reiklander)}</p></section>",
+      "species": "Umano",
+      "gender": "Varie"
+    },
+    {
+      "id": "Hydra",
+      "name": "Idre",
+      "description": "<section id=\"secret-y3bSlbe8NGBkeQXt\" class=\"secret\"><p>Le Idre sono rettili con molte teste, sorrette da un dedalo di colli uniti a un corpo massiccio, capaci sia di soffiare fuoco e fumo sia di azzannare. Sono creature sorprendentemente tenaci e furtive, in grado di inseguire una preda per miglia. Di solito, però, perdono la pazienza e caricano ruggendo...</p></section>",
+      "species": "Idra",
+      "gender": "Varie"
+    },
+    {
+      "id": "Jabberslythe",
+      "name": "Jabberslythe",
+      "description": "<section id=\"secret-ZoRnOiMJetjmYnjP\" class=\"secret\"><p>Il Jabberslythe è un’antica creatura del Caos che si nasconde tra le ombre delle foreste più buie e profonde. È un disgustoso miscuglio di rospo, draco delle melme e insetto, ricolmo di sangue nero e corrosivo, che sprizza anche dalle più piccole ferite.</p>\n<p>&nbsp;</p>\n<p>Chi lo vede impazzisce e inizia a blaterare in rima e a ridere in modo folle, mentre cerca di strapparsi gli occhi, cosa che lo rende una facile preda per il mostro.</p></section>",
+      "gender": "Varie"
+    },
+    {
+      "id": "Kastor Erichson",
+      "name": "Kastor Erichson",
+      "description": "",
+      "gender": "Maschio",
+      "gmnotes": "<p>I sentieri della Foresta de @UUID[JournalEntry.ozE2DMCMK64eE5pD.JournalEntryPage.UqeZNqbpV8uocCUN]{il Reikwald} sono oscuri e perigliosi. Pochi si avventurano a cuor leggero sotto le sue fronde e quelli che lo fanno hanno una volontà di ferro o una totale mancanza di immaginazione. Quest’ultima è pericolosa, perché porta a popolare ogni antro di spauracchi e orrori inimmaginabili. Sfortunatamente, Kastor ha un’immaginazione piuttosto fervida. Per placare le sue paure sussurra fervidamente preghiere a Taal e, quando i suoi nervi iniziano a cedere, cerca il coraggio in una fiaschetta di cuoio.</p><p>Nonostante i molti pericoli della foresta, sia reali che immaginari, Erichson spesso preferisce stare lì piuttosto che trascorrere del tempo tra la gente. Questo perché nella sua mente i “cattivi” della foresta sono piuttosto chiari: banditi, uominibestia e “demoni”. In città, invece, deve affrontare un nemico molto più insidioso: le streghe. Queste, come afferma quando è ubriaco, sono ovunque. Tuttavia, poche streghe “sembrano” tali: è questo il vero problema.</p><p>Si nascondono tra gli altri timorati degli Dei per tramare in segreto i loro oscuri piani. Tenere d’occhio le streghe in città è estenuante, perciò Erichson ritiene che sia molto meglio rimanere nella foresta, dove i nemici sono chiari. Le sue Motivazioni lo hanno spinto a perfezionare il suo mestiere, nel quale è decisamente bravo.</p><h4>Occhi Vigili</h4><p>Dopo un evento che coinvolge i Personaggi, nel quale è stata usata magia di qualsiasi tipo, Erichson si convince che uno o più di loro siano alleati delle “streghe nascoste”, anche (specialmente!) se qualcuno è un Mago Imperiale. Sebbene possa sembrare solo un cacciatore pazzo, i suoi accalorati discorsi sui “veri pericoli” del mondo hanno un certo seguito: se i Personaggi dovessero fare qualcosa di sospetto, potrebbe benissimo far sì che altri ascoltino i suoi discorsi, specialmente quelli contraddistinti dall’intolleranza tipica dei cacciatori di streghe.</p><p>Si mormora che Kastor sia sopravvissuto allo scontro con un temibile @Compendium[wfrp4e-core.actors.cHVOdcEkuatqjYV1]{Sciamano Berciante} degli Uominibestia poiché gli incantesimi gli rimbalzavano addosso. Erichson crede in molte superstizioni, per questo indossa strani ciondoli tra cui piccole sacchette di cuoio che contengono miscele di resina di pino, bacche rare ed erbe benedette da un sacerdote di Taal. Uno o più dei suoi strani talismani potrebbero davvero funzionare, cosa occorrerebbe per convincerlo a condividere le sue conoscenze con i Personaggi?</p>"
+    },
+    {
+      "id": "Manticore",
+      "name": "Manticore",
+      "description": "<section id=\"secret-F7nAtWNkv1I7DC2i\" class=\"secret\"><p><em>Quando viaggiavo con gli Elfi verso l’Ulthuan ho visto un sacco di cose che stupirebbero i miei comp atrioti. Una volta avvistai una Manticora che aveva un gran volto d’Elfo proprio al centro della criniera! Immagino si possa definire una Mantelfa....’</em></p>\n<p> Adhemar Fitztancred, Guardiano Grigio, Cantastorie e Bugiardo</p>\n<p>Le – fortuna vuole – rare Manticore sono implacabili, feroci e hanno l’istinto di spazzare via, con enorme brutalità, ogni altro predatore nel proprio territorio. I cadaveri di altri mostri sparpagliati sulle alture marcano senza dubbi queste zone. Una Manticora ha la testa deforme di un grande felino (a volte con un aspetto fin troppo umano), ali da pipistrello e una temibile coda spinata.</p></section>",
+      "gender": "Varie"
+    },
+    {
+      "id": "Minotaur",
+      "name": "Minotauri",
+      "description": "<section id=\"secret-rgCbHIibGUe2g7ZT\" class=\"secret\"><p>Gli enormi Minotauri superano in altezza persino i più grandi Bestigor. I branchi che ne hanno un grande contingente si considerano particolarmente favoriti dagli Dei Oscuri. Gli Uominibestia si riuniscono attorno ai Minotauri, perché la loro imponente presenza dà coraggio ai più piccoli.</p></section>",
+      "species": "Minotauro",
+      "gender": "Varie"
+    },
+    {
+      "id": "Mutant",
+      "name": "Mutanti",
+      "description": "<section id=\"secret-RCtLjQDm9fZUQznl\" class=\"secret\"><p>Uno dei destini più tragici per un Umano è soccombere all’influenza mutagena del Caos. Accade senza motivo apparente e persino un neonato può essere mutato. A volte, i genitori non hanno il cuore di ucciderlo e decidono di abbandonarlo nei boschi, dove morirà o sarà raccolto da altri Mutanti o dagli Uominibestia. Tutti i Mutanti, non importa quanto siano innocenti, sono oggetto delle paure del volgo e, amareggiati e abbandonati, molti finiscono tra le braccia degli Dei Oscuri.</p></section>"
+    },
+    {
+      "id": "Ogre",
+      "name": "Ogri",
+      "description": "<section id=\"secret-H6gOCFUUwgl4V5bb\" class=\"secret\"><blockquote><p><span class=\"fontstyle0\">‘Sì, li ho chiamati perché mi servivano rinforzi. Sì, lo so che si stanno mangiando il vostro miglior bestiame. Sì, so che gli Ogri hanno enormi appetiti. Ho messo un avviso presso la milizia, offrendo una ricompensa a chiunque abbia il nerbo per farli sl oggiare. Dovrebbe essere sufficiente.’ </span></span></em></p>\n<p><span class=\"fontstyle0\"><span class=\"fontstyle0\" style=\"font-size: 10pt;\">– Augustus von Raushvel,  Barone di Valle Raush</span> &nbsp;<br style=\"font-variant-numeric: normal; font-variant-east-asian: normal; line-height: normal; text-align: -webkit-auto; text-size-adjust: auto;\"></span></p>\n<p>&nbsp;</p>\n<p><span class=\"fontstyle0\">Grandi, grossi, brutali ed estremamente violenti, gli Ogri sono guidati solo dal bisogno di riempire i loro ventri muscolosi. Non hanno l’intelletto per farlo in modo astuto e si affidano quasi sempre alla forza bruta. Sono originari dell’estremo oriente, ma amano viaggiare e li si incontra in tutto il Vecchio Mondo, sempre alla ricerca di nuovi manicaretti. Durante queste escursioni culinarie lunghe decenni, fanno del proprio meglio per integrarsi, adottando abiti e costumi locali, almeno quelli che comprendono, perché ciò rende più facile ottenere un pasto.</span></p>\n<p><span class=\"fontstyle0\"><br>Nell’Impero, gli Ogri servono spesso negli Eserciti Provinciali e sono comuni nelle metropoli, dove lavorano come picchiatori prezzolati. In molte città, la Gilda degli Scaricatori Halfling (imprenditori edili) ha praticamente monopolizzato questa economica forza lavoro, con grande rabbia della concorrenza.</span></p>\n<p>&nbsp;</p>\n<h3>Halfling e Ogri</h3>\n<p><span class=\"fontstyle0\">Nessuno sa perché Halfling e Ogri vadano tanto d’accordo. Molti anziani dei clan Halfling hanno un paio di guardie del corpo Ogri e pare che l’Anziano della Contrada non viaggi mai senza il suo vecchio amico Zorath Mordigamba, un Ogre peloso che vive nell’Impero da quasi un secolo. Inoltre, molte bande di Ogri mercenari assumono cuochi Halfling. Questi rapporti, però, non sono sempre felici, come nel caso di Golgfag Mangiauomini, capitano dei famigerati Ogri di Golgfag, che impiegava un intero clan di Halfling… finché non scoprì che i cuochi avevano un sapore migliore del cibo che servivano.</span></p></blockquote></section>",
+      "gender": "Varie"
+    },
+    {
+      "id": "Orc",
+      "name": "Orchi",
+      "description": "<section id=\"secret-Fkkw0kiOwXuiWN3G\" class=\"secret\"><blockquote><p>‘Noi è meglio. Noi no è pikkolo Gobbo o ztupido Troll, noi è tozti! E se kualkuno dice ke no è, noi lo pikkiamo zulla tezta.’</p>\n<p>–  Gurkk Spikkatezki, Capo Orco</p></blockquote><p> </p><p>Gli Orchi sono cattivi, brutali, bellicosi e quasi immuni al dolore. Hanno corpi enormi e muscolosi, con spalle robuste, e non lasciano che dettagli come un braccio mancante li fermino. Sono nati per la guerra e la amano sopra ogni altra cosa. Quando non hanno nemici, si battono con altre tribù Pelleverde, se non ce ne sono si scannano tra loro. Sono meno numerosi dei @UUID[Compendium.wfrp4e-core.actors.zzdOpKqBC28J66Mn]{Goblin}, ma più grossi e forti e non perdono occasione di dimostrarlo. Alcuni crescono fino a dimensioni prodigiose e questo li rende più forti, robusti e aggressivi, cosa che conferisce prestigio, poiché nella loro società il più forte ha sempre ragione. Alcuni cavalcano enormi cinghiali: spaventoso a vedersi.</p></section>",
+      "species": "Orco",
+      "gender": "???"
+    },
+    {
+      "id": "Pegasus",
+      "name": "Pegasi",
+      "description": "<section id=\"secret-5kEjANcNIwA5N8HX\" class=\"secret\"><p>I Pegasi sono magnifici cavalli bianchi con grandi ali da cigno. Volano, ostinati e instancabili, in grandi stormi sulle montagne e sembrano divertirsi a scendere in picchiata e risalire usando le correnti termiche. Ovviamente, sono cavalcature molto ricercate e numerosi guerrieri ed esploratori hanno tentato di catturarne uno. Sono molto intelligenti e c’è chi è convinto che si lascino catturare soltanto quando lo desiderano, cosa che ha portato a infinite leggende sulla virtù dei prescelti.</p></section>",
+      "species": "Pegaso",
+      "gender": "Varie"
+    },
+    {
+      "id": "Pigeon",
+      "name": "Piccioni",
+      "description": "<section id=\"secret-Xfobvpz375Ivv2Vq\" class=\"secret\"><p>Nel Reikland i piccioni vengono allevati per portare messaggi di ogni genere. Di recente sono stati impiegati per trasportare carichi molto più letali, dato che gli Ingegneri hanno utilizzato questi uccelli tanto numerosi per sganciare le cosiddette ‘bombe piccione’ con successi alterni.</p></section>",
+      "species": "Piccione",
+      "gender": "Varie"
+    },
+    {
+      "id": "Pol Dankels",
+      "name": "Pol Dankels",
+      "description": "<section id=\"secret-GH764CZAlWZYVjyB\" class=\"secret\"><p>Pol pensava che avrebbe seguito le orme dei suoi genitori, gestendo la Beata Bertram Bakery a Tahme, ma gli dei avevano un altro piano. Fu il giorno del suo ventitreesimo compleanno, il giorno in cui sua moglie scoprì che era andato a letto con sua sorella e aveva cercato di prendere i loro tre figli, che qualcosa si spezzò. Gli spettatori hanno affermato che i suoi occhi brillavano di giallo e fiamme arancioni sono esplose dalle sue mani. Per quanto riguardava Pol, il mondo era diventato rosso mentre la panetteria bruciava. È stato sette mesi fa. Da allora Pol è in viaggio con i suoi tre figli, fuggendo disperatamente dai cacciatori di streghe e dagli agenti di sua moglie. Non sarà catturato. I suoi figli hanno bisogno di lui.</p></section>",
+      "gender": "Maschio"
+    },
+    {
+      "id": "Rat Ogre",
+      "name": "Rattogri",
+      "description": "<section id=\"secret-3UMUO87tTablqd9e\" class=\"secret\"><p>I Rattogri sono colossali bruti creati nelle caverne più oscure dell’Impero Sotterraneo dai folli Capimuta del Clan Moulder. Sono stupidi, ma sotto la guida dei propri padroni divengono temerari e implacabili. È raro incontrarli da soli e spesso fanno da guardie del corpo ai Veggenti Grigi e ad altri Skaven di rango elevato.</p></section>",
+      "gender": "Maschio"
+    },
+    {
+      "id": "Skeleton",
+      "name": "Scheletri",
+      "description": "<section id=\"secret-6jYDpHebVUxzqTcU\" class=\"secret\"><p>Gli Scheletri sono le ossa prive di carne dei defunti più antichi, rianimati con la magia nera per camminare di nuovo sulla terra. Chi non viene sepolto secondo i riti di @UUID[JournalEntry.NcH9OhleJFfaUdon.JournalEntryPage.HfmrIexylrgxIz2x]{Morr, Il Dio della Morte}, può venire fatto risorgere da un Necromante abbastanza potente. Gli Scheletri sono privi di mente e combattono finché non sono ridotti in briciole. Non provano né coraggio né paura, ed essendo già morti non possono essere uccisi.&nbsp;</p>\n<h3>Opzione: Pelle e Ossa</h3>\n<p>Per simulare la natura ossuta degli Scheletri, si possono ridurre di -1 le Ferite causate da armi senza la Qualità <em>Percuotere</em>.</p></section>",
+      "species": "Nonmorto",
+      "gender": "???"
+    },
+    {
+      "id": "Slenderthigh Whiptongue",
+      "name": "Slenderthigh Whiptongue",
+      "description": "<p>Principe Demone di Slaanesh. L’obiettivo di tutti i campioni del Caos è l’apoteosi, l’ascensione al rango di Principe Demone per poter servire il proprio padrone in eterno nel Reame del Caos. Queste creature di enorme potere sono avversari terribili persino per i più grandi eroi dell’Impero.</p>",
+      "species": "Principe Demone",
+      "gender": "???"
+    },
+    {
+      "id": "Snake",
+      "name": "Serpenti",
+      "description": "<section id=\"secret-tj8CFhFF60AgqJKX\" class=\"secret\"><p>I serpenti sono diffusi in tutto l’Impero, specie nel folto delle foreste. Molti sono innocui, ma alcuni hanno un veleno letale o sono costrittori che soffocano le prede. Come molte creature del Vecchio Mondo possono raggiungere dimensioni enormi – come il colossale Verme delle Paludi – che li rendono pericolosi anche per i veterani più forti.</p></section>",
+      "species": "Serpente",
+      "gender": "Varie"
+    },
+    {
+      "id": "Snotling",
+      "name": "Sgorbi",
+      "description": "<section id=\"secret-BqvRpOU9iDidxoBa\" class=\"secret\"><p>Questi esseri dal cervello di gallina si comportano come cuccioli entusiasti e senza controllo. Sono spazzini che raccolgono ossa e oggetti lucenti e imitano le azioni di tutte le creature che incontrano. Quando @UUID[Compendium.wfrp4e-core.actors.zzdOpKqBC28J66Mn]{Goblin} e @UUID[Compendium.wfrp4e-core.actors.E7BiDqsB55BrOQut]{Orchi} li coinvolgono in un conflitto, si battono in gruppi puzzolenti, nel tentativo di vincere grazie al sovrannumero. Impiegano ogni genere di sostanze nocive, dai funghi velenosi agli escrementi, che scagliano contro i nemici.</p></section>",
+      "species": "Pelleverde",
+      "gender": "???"
+    },
+    {
+      "id": "Stellemar",
+      "name": "Stellemar",
+      "description": "",
+      "gender": "Maschio",
+      "gmnotes": "<p>Si dice che Stellemar, un tempo soldato, subì una grave ferita alla testa durante una battaglia combattuta per l’Impero. Nonostante il suo tremendo infortunio, in qualche modo riuscì a sopravvivere, ritrovando la strada di casa. Lui non ricorda come, ma in fondo non ha molti ricordi di quei giorni. Però è indiscutibilmente certo di una cosa: lui è un segugio. Stellemar è assolutamente convinto di essere un cane da caccia e nessuna prova potrà mai convincerlo del contrario. Quando gli viene chiesto del suo aspetto, afferma che “non tutti i cani si assomigliano”. Alla domanda sul perché possa parlare, fa notare allegramente che a molti cani intelligenti può essere insegnato.</p>\n<p>La gente ha accettato l’illusione di Stellemar per pietà per il vecchio soldato, ma soprattutto perché si è rivelato utile: fa le commissioni in cambio di dolcetti (gli piace portare le cose), non si fa problemi a sorvegliare le greggi (gli piace proteggere le pecore) e porta gratuitamente la legna da bruciare (gli piace davvero riportare i bastoni). Il denaro non gli interessa particolarmente, lo accetta per “buon senso”. Di tanto in tanto spende qualche moneta per sostituire la sua spada, Zanna, con una nuova lama, che chiamerà Zanna.</p>\n<h4>Tutti i Cani Hanno il Loro Momento</h4>\n<p>Molti trattano Stellemar come un “vecchio pazzo” al quale piace ululare alla luna e gli prestano poca attenzione, a parte alzare gli occhi al cielo o scuotere il capo per pietà, un grave errore di giudizio. Stellemar è felice della sua sorte e la sua convinzione gli conferisce una strana ma grande nobiltà. Nonostante le apparenze, è un vero cane fedele e sincero, che protegge senza paura coloro che ama. Se i Personaggi lo trattassero bene, un giorno potrebbe rimanere al loro fianco quando tutti gli altri fuggiranno terrorizzati.</p>\n<p>Un raccapricciante omicidio sotto la luna piena, nel quale la vittima è stata selvaggiamente dilaniata “come da una bestia”, fa sospettare di Stellemar. Dal momento che lui è sempre introvabile durante le notti nelle quali Mannslieb è piena, viene accusato di licantropia. I Personaggi aiuteranno il vecchio cane da caccia, trovando il vero colpevole che potrebbe essere davvero più lupo che uomo?</p>\n<p>&nbsp;</p>"
+    },
+    {
+      "id": "Stormvermin",
+      "name": "Ratti d'Assalto",
+      "description": "<section id=\"secret-1mHIdKmXK0Gpzm7P\" class=\"secret\"><p>I Ratti d’Assalto sono l’élite militare degli Skaven: più grossi, forti, robusti e disciplinati rispetto ai @UUID[Compendium.wfrp4e-core.actors.F1vAZZcmVKkRw8xn]{Ratti del Clan}. Sono il cuore di ogni grande offensiva e le guardie del corpo di Skaven importanti. Di solito sono ben corazzati e portano le migliori armi tra quelle preferite dal loro clan.</p></section>"
+    },
+    {
+      "id": "Tomb Banshee",
+      "name": "Banshee delle Tombe",
+      "description": "<section id=\"secret-wmQDClJDzh3hfRuX\" class=\"secret\"><p>Le Banshee sono i resti spettrali di potenti streghe ammantate delle fetide energie di <em>Dhar</em>. Sono tormentate dall’amarezza e dal senso di perdita, un vuoto nelle loro anime che le spinge a lanciare urla tanto potenti da portare coloro che le odono alla follia e fermarne il cuore.</p></section>",
+      "species": "Nonmorto",
+      "gender": "???"
+    },
+    {
+      "id": "Troll",
+      "name": "Troll",
+      "description": "<section id=\"secret-6aymVnM91tQxg16V\" class=\"secret\"><p>I Troll sono creature lerce e puzzolenti che infestano ogni angolo del Vecchio Mondo. Sono capaci di adattarsi a qualsiasi ambiente e ciò ha prodotto molte specie, tutte enormi e spaventose. Sono stupidi e guidati dalla fame, ma amano accumulare oggetti nei propri covi, che sono miniere di tesori… e degli orridi resti dei loro pasti. Nonostante le differenze, tutte le specie condividono alcuni tratti: l’estrema stupidità, che rende facile imbrogliarli; la capacità di rigenerarsi, che li rende difficili da uccidere; e l’abilità di rigurgitare a comando, vomitando fino a grande distanza i resti dell’ultimo pasto misti a bile acida. Detestano usare quest’ultima capacità, poiché li rende ancora più affamati.</p></section>",
+      "gender": "Varie"
+    },
+    {
+      "id": "Ungor",
+      "name": "Nogor",
+      "description": "<section id=\"secret-hOrEyZdCdR6bSlAT\" class=\"secret\"><p>I Nogor hanno corna piccole e vestigiali e perciò sono a malapena considerati ‘Gor’ all’interno dei branchi. Alcuni hanno volti quasi umani, che permettono loro di infiltrarsi, ma li rendono anche vittime di scherno. Vengono maltrattati dai @UUID[Compendium.wfrp4e-core.actors.R37OtN5gmPWCYOP3]{Gor}e sono spesso rachitici e malnutriti a confronto dei loro simili dalla grandi corna. Per questo sono amareggiati e sfogano la propria gelosia sul prossimo.</p></section>",
+      "species": "Nogor",
+      "gender": "Varie"
+    },
+    {
+      "id": "Vampire",
+      "name": "Vampiri",
+      "description": "<section id=\"secret-psHPfMEeNxOmbpwn\" class=\"secret\"><p>I Vampiri si considerano i signori della notte. Molti possono apparire Umani e nascondersi per lunghi periodi tra i viventi. Nonostante queste apparenze, i loro cuori non battono sotto la pelle pallida e hanno sete di sangue invece che normali appetiti. Tutti i Vampiri del Vecchio Mondo discendono da linee di sangue nate millenni fa nel lontano Sud. Molti sono fieri del proprio retaggio, dei tratti e delle tradizioni che li rendono unici. I Vampiri di diverse linee di sangue sono spesso rivali, ma abbastanza astuti da collaborare contro nemici comuni.</p></section>",
+      "species": "Nonmorto",
+      "gender": "Varie"
+    },
+    {
+      "id": "Varghulf",
+      "name": "Varghulf",
+      "description": "<section id=\"secret-f8TGSacwlNZd26YU\" class=\"secret\"><p>Molti vampiri nascondono il proprio desiderio di sangue sotto una vernice di civiltà e buone maniere, dandosi arie da aristocratici dei Nonmorti. Alcuni, però, rigettano la propria apparenza umana e abbracciano la bestia interiore. Questi Varghulf sono creature selvagge, prive di raffinatezza, che si abbandonano alla gratificazione animalesca. Somigliano a enormi pipistrelli e godono del proprio desiderio di sangue.</p></section>",
+      "species": "Nonmorto",
+      "gender": "???"
+    },
+    {
+      "id": "Wolf",
+      "name": "Lupi",
+      "description": "<section id=\"secret-wJXgxaCwSmFphyyH\" class=\"secret\"><p>I lupi cacciano in branco e hanno fama di essere molto tenaci, capaci di inseguire la preda per decine di chilometri senza mai rallentare. Per il Reikland si aggirano diverse specie, compresi i feroci Lupi Giganti, catturati e allevati dai @UUID[Compendium.wfrp4e-core.actors.zzdOpKqBC28J66Mn]{Goblin} come cavalcature e sentinelle.</p></section>",
+      "species": "Lupo",
+      "gender": "Varie"
+    },
+    {
+      "id": "Wood Elf",
+      "name": "Elfo Silvano",
+      "description": "<section id=\"secret-HaVbfBaaBSzWZbNX\" class=\"secret\"><p>@UUID[JournalEntry.IQ0PgoJihQltCBUU.JournalEntryPage.l0f11ypRjH9sR48Q#wood-elves]{Elfi Silvani}</p></section>",
+      "species": "Elfo Silvano",
+      "gender": "Varie"
+    },
+    {
+      "id": "Wyvern",
+      "name": "Viverne",
+      "description": "<section id=\"secret-cyNfNjzSosW7sqqJ\" class=\"secret\"><p>Spesso scambiate dagli ignoranti per @UUID[Compendium.wfrp4e-core.actors.LZttdCIxmFr1sGsS]{Draghi}, in realtà, le puzzolenti viverne hanno solo un’apparente somiglianza con quelle grandi creature. Sono spazzini codardi, con una pessima vista, che si nutrono di creature indifese – spesso capre e pecore – ed evitano lo scontro, se possibile. A differenza di altri mostri montani, non sono affatto territoriali e tendono ad andarsene se il loro habitat viene violato.</p></section>",
+      "species": "Viverna",
+      "gender": "Varie"
+    },
+    {
+      "id": "Zombie",
+      "name": "Zombi",
+      "description": "<section id=\"secret-E4HqcQ4lwXPfIFHB\" class=\"secret\"><p>Come gli @UUID[Compendium.wfrp4e-core.actors.Mt5JAoOSaEH1PdcP]{Scheletri}, gli Zombi sono creature rianimate con turpi magie. Sono, però, creati da cadaveri recenti, dove la carne putrida ricopre organi rigonfi e pieni di vermi. Mentre combattono, questi organi sciabordano e rilasciano un fetore nauseante capace di far rivoltare lo stomaco anche ai soldati più induriti.</p></section>",
+      "species": "Nonmorto",
+      "gender": "???"
+    }
+  ]
+}
