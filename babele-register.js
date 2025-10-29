@@ -1422,4 +1422,39 @@ Hooks.on("renderItemSheet", (app, html, data) => {
   }
 });
 
+// Non toccare i dati: cambia SOLO il testo mostrato nel pannello specie
+Hooks.on("renderSpeciesStage", (app, html) => {
+  // Mappa: valore inglese mostrato dal sistema -> chiave specie
+  const reverse = Object.entries(CONFIG.WFRP4E.species)
+    .reduce((m, [key, val]) => { m[val] = key; return m; }, {});
+
+  // Localizza se esiste una chiave nel tuo it.json, altrimenti lascia l'inglese
+  const loc = (en) => {
+    const key = reverse[en];
+    const tr = key ? game.i18n.localize(`WFRP4E.Species.${key}`) : en;
+    return (tr && tr !== `WFRP4E.Species.${key}`) ? tr : en;
+  };
+
+  // Sostituisce le voci nella lista a sinistra
+  html.find("li").each((_, li) => {
+    // di solito il testo visibile è il primo text node del <li>
+    const node = [...li.childNodes].find(n => n.nodeType === Node.TEXT_NODE);
+    if (!node) return;
+    const en = node.nodeValue.trim();
+    if (reverse[en]) node.nodeValue = " " + loc(en);
+  });
+
+  // Sostituisce la specie mostrata nella riga "Tiro: X - Human" se presente
+  html.find("*").contents().each(function () {
+    if (this.nodeType === Node.TEXT_NODE) {
+      const txt = this.nodeValue;
+      Object.values(CONFIG.WFRP4E.species).forEach(en => {
+        if (txt.includes(en)) {
+          this.nodeValue = txt.replace(en, loc(en));
+        }
+      });
+    }
+  });
+});
+
 
