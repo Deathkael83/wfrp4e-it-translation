@@ -1,0 +1,366 @@
+{
+  "mapping": {
+    "gmnotes": "system.details.gmnotes.value",
+    "gmbiography": "system.details.biography.value"
+  },
+  "entries": [
+    {
+      "id": "njohRTHP8jMyApA9",
+      "name": "Amris Bracecadente",
+      "type": "character",
+      "gmbiography": "<h4><strong>Citazioni</strong></h4>\n<p><em>Vivete qui? In questo… tugurio? Cielo, siete coraggioso.’</em></p>\n<p><em>‘Com’è il Cothique? Caliethar. Ebbene, è meno… disordinata.’</em></p>\n<p><em>‘Ma, quell’edificio è stato costruito solamente dieci anni fa!’</em></p>\n<p><em>‘Caledorianathys Aqshinthia!’</em></p>\n<h4><strong>Chi è Amris?</strong></h4>\n<p>Il padre di Amris è un Principe Mercante del Cothique e desidera che il figlio segua le sue orme. Questi, però, non ha alcun desiderio di farlo, perché si è innamorato… dell’Umanità. Dopo appena vent’anni ad Altdorf, è rimasto sconcertato e deliziato di quanto sia cambiata. L’Impero è una mutevole e caotica fonte di assoluto stupore, ed Amris lo adora. L’anno scorso, strinse un patto con Sali: lei lo avrebbe fatto evadere dalla proprietà paterna, se lui l’avesse aiutata a rubare una spilla al suo stesso cugino. Tutto questo sembrava troppo emozionante per dire di no. Certo, ora Amris è in fuga e il padre considera Sali una ladra e una rapitrice; ma è davvero possibile dire che non sia così?</p>\n<h4><strong>Che tipo è?</strong></h4>\n<p>Giovane, ingenuo e spaventosamente intelligente.</p>\n<h4><strong>Perché giocare Amris?</strong></h4>\n<p>Amris è un Elfo dotato di una mente acuta e di un passato misterioso.</p>\n<p>Sceglilo se:</p>\n<p>&bull; Vuoi giocare un Personaggio decisamente diverso ed estraneo rispetto al resto del gruppo.</p>\n<p>&bull; Ti piace l’idea di un Personaggio tuttofare, che si basa più sulle abilità che sulla fortuna.</p>\n<p>&bull; Hai una propensione per gli Elfi.</p>\n<p>&nbsp;</p>\n<h3><strong>Dettagli del Personaggio</strong></h3>\n<h4><strong>Madre: </strong>Principessa Imryth Bracecadente</h4>\n<h4><strong>Padre: </strong>Alantha Stemmadoro</h4>\n<h4><strong>Fratelli e Sorelle:</strong> 1 Sorella</h4>\n<h4><strong>Compagni: </strong>Nessuno</h4>\n<h4><strong>Luogo di Nascita: </strong>Avethir, Caledor</h4>\n<p>&nbsp;</p>\n<h3><strong>Motivazione</strong></h3>\n<p>Scegli una tra le seguenti tre frasi come motivazione:</p>\n<ul>\n<li>Scoprire fatti nuovi e affascinanti sull’Umanità.</li>\n<li>Scovare un nuovo volume di tradizione esoterica Umana.</li>\n<li>Sfuggire ai servitori al soldo di tuo padre.</li>\n</ul>\n<p>&nbsp;</p>\n<h3><strong>Legami</strong></h3>\n<p><em>Scegli uno o più tra i seguenti legami con il resto del gruppo per definire la personalità di Amris.</em></p>\n<ul>\n<li>Sei affascinato dalla dedizione e dall’umore mutevole di Salundra.</li>\n<li>Ami Molli come si ama una sorellina e lei ne è parecchio contenta.</li>\n<li>Gunnar è alquanto triste e vorresti che fosse felice. Devi impegnarti di più a questo scopo.</li>\n<li>Ferdinand è come un bambino che scrive sulla sabbia: un soggetto assolutamente interessante.</li>\n<li>Else è così fredda e chiusa che trovi difficile comunicare con lei.</li>\n</ul>\n<p>&nbsp;</p>\n<h3><strong>Segreti</strong></h3>\n<p><em>Scegli uno o più tra i seguenti segreti. Ognuno ti darà [[/r 1d10]] Scellini d'Argento in più all’inizio della partita.</em></p>\n<ul>\n<li>Tua madre, una principessa del Caledor, è gravemente malata e tu ne sei l’erede.</li>\n<li>In realtà, ti importa poco dell’Umanità: la tua è tutta finzione. Ottieni +3 Corruzione.</li>\n<li>Sei affascinato dagli Asrai, gli Elfi Silvani, e vorresti studiarli a fondo.</li>\n<li>In realtà, sei una spia di tua madre, incaricato di tenere d’occhio gli Umani.</li>\n<li>Sei affascinato dal fuoco e devi superare una Prova di Freddezza per non fissarlo.</li>\n</ul>\n<p>&nbsp;</p>\n<h3><strong>Denaro Iniziale</strong></h3>\n<p><em>Inizi la partita con [[/r 1d10]] scellini d’argento, più un altro [[/r 1d10]] per ogni segreto che hai scelto.</em></p>"
+    },
+    {
+      "id": "L0oHLYZcGQHDWKMo",
+      "name": "Andrea Pfeffer",
+      "type": "npc",
+      "gmnotes": "<p>La capitana Pfeffer ha una folta capigliatura rosso acceso e occhi blu scuro, gelidi come l’acciaio. Ha circa venticinque anni: è molto giovane per un comando così difficile, ma chi conosce la sua famiglia non ne è sorpreso; i Pfeffer hanno combattuto in prima linea negli eserciti dell’Impero per secoli. La Capitana è schietta e ha il tetro umorismo del militare. Non le piacciono le scuse, ma si rende conto che alcune situazioni richiedano una certa “sottigliezza tattica”; così, lascia correre di fronte ai buoni risultati. Chiunque porti discredito alla Milizia, la renderà esageratamente irritata.</p>"
+    },
+    {
+      "id": "zERScZmW5GTpuJjW",
+      "name": "Barlin Barbadargento",
+      "type": "npc",
+      "gmnotes": "<p>Barlin Barbadargento si finge un tranquillo e ricco mercante Nano. Gestisce le sue operazioni da un agglomerato di stanze vendutegli dal @UUID[JournalEntry.TSyoR9nSk7cehypG.JournalEntryPage.sTFp4j7DXF96VNvG]{clan Harataki} decenni prima (<strong>Ubersreik</strong>, pag. 23). La sua banda è composta da Nani esiliati in cerca di fortuna. È molto attento a limitare i propri furti ed estorsioni a coloro che non sono Nani.</p>"
+    },
+    {
+      "id": "pqXdP14EWc9KcAhU",
+      "name": "Berthilda Hebamme",
+      "type": "creature",
+      "gmbiography": "<section id=\"secret-iogBfhfJiOnp59oc\" class=\"secret\"><p>@UUID[JournalEntry.HUQGe1nm81Hfslkv.JournalEntryPage.R8mef1YsRiGbIzR0]{Memorie di Sangue}</p></section>"
+    },
+    {
+      "id": "octRyafIOk1ZNiLL",
+      "name": "Blaue Augen",
+      "type": "creature",
+      "gmbiography": "<section id=\"secret-pUNJr2Z92QaKlPVU\" class=\"secret\"><p>@UUID[JournalEntry.HUQGe1nm81Hfslkv.JournalEntryPage.Z66OFj3cWrkR7aca]{Il Vecchio Occhi Azzurri è Tornato!}</p><p><p>Gli Spettri dei Tumuli sono spiriti particolarmente potenti, anime di aspiranti Necromanti che hanno tentato di prolungare la propria vita con la magia nera. La grande e malevola forza di volontà che avevano in vita li spinge ora a vendicarsi delle anime dei viventi. Molti infestano i tumuli avvolti dalla nebbia che punteggiano certe zone dell’Impero, come gli infami @UUID[JournalEntry.ozE2DMCMK64eE5pD.JournalEntryPage.mdjl1WxjZLeuSWAN]{Hägercrybs}.</p></section>"
+    },
+    {
+      "id": "Ys5UBwxxIVQiEUmH",
+      "name": "Brandt",
+      "type": "npc",
+      "gmnotes": "<p>@UUID[JournalEntry.TSyoR9nSk7cehypG.JournalEntryPage.yJlaZDmJgb5rIkHM]{Le Fogne}</p><p>Brandt il Doppelganger ha fatto delle fogne di Ubersreik la sua dimora. È in grado di assumere le fattezze di altre creature, e preferisce divorare chi imita in modo da non essere scoperto. Nella sua forma naturale, Brandt è orribile, simile a un Umano scorticato con viscere, muscoli e ossa in bella mostra.</p><p><strong>Nota</strong>: Sebbene sia generalmente immune alla Psicologia, Brandt è @UUID[Compendium.wfrp4e-core.traits.4CMKeDTDrRQZbPIJ]{Spaventato} del fuoco, e chi lo osserva potrebbe accorgersi che tende a stare lontano dalle fiamme.</p>"
+    },
+    {
+      "id": "7QQKx2Mp5OxhWinJ",
+      "name": "Orda di Rivoltosi",
+      "type": "creature",
+      "gmbiography": "<section id=\"secret-uYelTHs9gqcPrDGS\" class=\"secret\"><p>Queste statistiche rappresentano la folla di persone che agitano i pugni. Fortunatamente per i PG, esse sono per lo più disarmate e relativamente innocue.</p>\n<p>Tutti i rivoltosi sono Umani in abiti civili, in divise da soldati o con i costumi dai colori sgargianti che indicano la loro appartenenza alla Cavalcata.</p></section>"
+    },
+    {
+      "id": "jeCgW4SNgCu7d9dR",
+      "name": "Squadra di Carmello",
+      "type": "creature",
+      "gmbiography": "<section id=\"secret-3Mnz9ywQqxKySyQS\" class=\"secret\"><p>@UUID[JournalEntry.HUQGe1nm81Hfslkv.JournalEntryPage.r7kE5srdshGq5B6D]{Fiamme alla Luna Rossa}</p><p>Carmello Esposito e la sua squadra lavorano per la Marchesa Generosa Caramanici dei Principati di Confine. Fu Lohner a mettere i Portarancori al servizio di Lord Carl Svensson, vecchio rivale della Marchesa; è per questo che deve morire lentamente.</p></section>"
+    },
+    {
+      "id": "w9ioCI51pC174bq5",
+      "name": "Acrobati della Cavalcata",
+      "type": "creature"
+    },
+    {
+      "id": "f0uVcGYu3m1wDMN9",
+      "name": "Bambino Demone",
+      "type": "creature",
+      "gmbiography": "<section id=\"secret-okLTGImbyXH9X2tE\" class=\"secret\"><p>@UUID[JournalEntry.HUQGe1nm81Hfslkv.JournalEntryPage.Rc7LoFNKLnhdQpAF]{Unioni & Riunioni}</p></section>"
+    },
+    {
+      "id": "Q89Gj2QfksawqmnT",
+      "name": "Diebold Bedrohung",
+      "type": "creature",
+      "gmbiography": "<section id=\"secret-3Or2DcjPF9jF7NzG\" class=\"secret\"><p>@UUID[JournalEntry.d8nvgs2H5MmtKhdM.JournalEntryPage.L5gV9pgaWXB3floP#the-shifting-grasp]{La Stretta Mutevole}</p><p>Bedrohung è bello grosso, con la pelle chiazzata di un colore simile al bronzo opaco ed enormi occhi da gufo. Quando viene ferito, “sanguina” ottone fuso. Attacca con una spada affilata, chiedendo ripetutamente a @UUID[Actor.eKsyvPwY0dDMpO27]{Maurer} perché non voglia unirsi ai suoi ‘fratelli’ allo scopo di sterminare la Milizia che intende giustiziarlo.</p></section>"
+    },
+    {
+      "id": "nzjn043to6q9JRQh",
+      "name": "Edmund Streissen",
+      "type": "creature",
+      "gmbiography": "<section id=\"secret-mYZo3blEeNFmEd1R\" class=\"secret\"><p>@UUID[JournalEntry.HUQGe1nm81Hfslkv.JournalEntryPage.zO40ibFP502ujeEs]{Due Torti Fanno Una Ragione}</p></section>"
+    },
+    {
+      "id": "85VYonGWBcHJReZc",
+      "name": "Einauge Spaltmann",
+      "type": "npc",
+      "gmnotes": "<p>Spaltmann è un criminale su commissione, le cui elucubrazioni sono divenute di recente via via più oscure. Ha scoperto di riuscire a vedere – e non ha idea del perché – attraverso il suo occhio lattiginoso fuori uso, persino in luoghi privi di luce. Spaltmann ha con sé un’elaborata balestra pesante con un doppio sistema di corde che gli permette di scoccare due volte prima di dover ricaricare.</p>"
+    },
+    {
+      "id": "xRYhcgSoGiUKqdo2",
+      "name": "Eisfange",
+      "type": "npc",
+      "gmnotes": "<p>@UUID[Actor.c6aJd9hIoNxzAqLl]{Reikhardt Gestaltenstark}</p>"
+    },
+    {
+      "id": "2UdufyQ0BauhQz5T",
+      "name": "Else Sigloben",
+      "type": "character",
+      "gmbiography": "<h4><strong>Citazioni</strong></h4>\n<p><em>‘Nel nome di Sigmar, vi siete rivelato indegno.’</em></p>\n<p><em>‘Che cosa? No, no. Non stavo fissando Amris.’</em></p>\n<p><em>‘Servirò l’Impero, come mia madre prima di me.’</em></p>\n<p><em>‘HE SIGMAR CI PROTEGGA!’</em></p>\n<h4><strong>Chi è Else?</strong></h4>\n<p>Else è devota a Sigmar. Questo è quanto. La madre era una Cacciatrice di Streghe e la istruì personalmente sull’importanza di questo mestiere. Else non dimenticherà mai i roghi a cui assistette da bambina… e le urla che essi scatenavano. Farà qualsiasi cosa per impedire che quel suono diventi comune. Per questo, condanna i deboli affinché l’Impero si preservi; e perché è devota a Sigmar. Questo è quanto.</p>\n<h4><strong>Che tipo è?</strong></h4>\n<p>Silenziosa, devota e con una volontà di ferro.</p>\n<h4><strong>Perché giocare Else?</strong></h4>\n<p>Else risolve una quantità di problemi facendo fuoco e invocando a gran voce il nome di Sigmar, dio dell’Impero. Sceglila se:</p>\n<p>• Vuoi giocare un Personaggio risoluto che non si tira mai indietro.</p>\n<p>• i piace l’idea di risolvere ogni problema con le tue, dispendiose, pistole, nel nome di Sigmar.</p>\n<p>• Ti piacciono i personaggi tuttofare con un ascendente per le gravi complicazioni emotive.</p>\n<p>&nbsp;</p>\n<h3><strong>Dettagli del Personaggio</strong></h3>\n<h4><strong>Madre: </strong>Gerlinde Sigloben</h4>\n<h4><strong>Padre: </strong>Zenechar Trott</h4>\n<h4><strong>Fratelli e Sorelle: </strong>8 tra Fratellastri e Sorellastre</h4>\n<h4><strong>Compagni: </strong>Nessuno</h4>\n<h4><strong>Luogo di Nascita: </strong>Havelfurt, Reikland</h4>\n<p>&nbsp;</p>\n<h3><strong>Motivazione</strong></h3>\n<p>Scegli una tra le seguenti tre frasi come motivazione:</p>\n<ul>\n<li>Distruggere gli eretici.</li>\n<li>Trovare l’amore.</li>\n<li>Riunire le genti dell’Impero in qualcosa di più grande.</li>\n</ul>\n<p>&nbsp;</p>\n<h3><strong>Legami</strong></h3>\n<p><em>Scegli uno o più tra i seguenti legami con il resto del gruppo per definire la personalità di Else.</em></p>\n<ul>\n<li>Rispetti Salundra per il suo sangue nobile e per i nobili motivi… non solo per quanto regge l’alcol.</li>\n<li>Come i Nani furono alleati di Sigmar, tu vuoi essere la migliore alleata di Gunnar.</li>\n<li>Molli è abile. È l’unica cosa positiva che puoi dire di lei.</li>\n<li>Ferdinand è un fattucchiere e bisogna sempre tenerlo d’occhio per i segni di corruzione.</li>\n<li>Amris è il tuo punto debole. Ti sei innamorata cotta di lui e questo ti sta distruggendo.</li>\n</ul>\n<p>&nbsp;</p>\n<h3><strong>Segreti</strong></h3>\n<p><em>Scegli uno o più tra i seguenti segreti. Ognuno ti darà [[/r 1d10]] scellini in più all’inizio della partita.</em></p>\n<ul>\n<li>Hai incominciato a fustigarti per scacciare i pensieri impuri. Inizi ogni giornata con 1 Affaticato che dura 2 ore.</li>\n<li>Ogni notte sogni di Amris in modo sempre più ossessivo. Ottieni +3 Corruzione.</li>\n<li>Non aggredirai mai un Elfo. Ti sei troppo affezionata a loro.</li>\n<li>Ti piace un po’ troppo uccidere gli eretici. Ottieni +3 Corruzione.</li>\n<li>Sei un’inscalfibile devota. Doni il 10% di tutto il tuo denaro ai templi di Sigmar.</li>\n</ul>\n<p>&nbsp;</p>\n<h3><strong>Denaro Iniziale</strong></h3>\n<p><em>Inizi la partita con [[/r 1d10]] scellini d’argento, più un altro [[/r 1d10]] per ogni segreto che hai scelto.</em></p>"
+    },
+    {
+      "id": "3B4Gg44VHfCuiP4x",
+      "name": "Emilia Lochland",
+      "type": "creature",
+      "gmbiography": "<section id=\"secret-NgPrp8eC5QQb7xkx\" class=\"secret\"><p>@UUID[JournalEntry.HUQGe1nm81Hfslkv.JournalEntryPage.cr2NTTBvmuBf38Cm]{La Pikkolizzima WAAAGH!}</p><p>Emilia Lochland Originaria della mitica isola di Albione, la Lochland è avvezza a eludere domande scomode e sguardi indiscreti… il che va a suo vantaggio, visto che è una strega. In ogni piega del suo abito multicolore a strati, nasconde erbe dall’odore pungente, amuleti di pietra e resti essiccati di animali… cose troppo strane finanche per l’Impero.</p></section>"
+    },
+    {
+      "id": "VdDotfA5zyWYdtwc",
+      "name": "Ferdinand Gruber",
+      "type": "character",
+      "gmbiography": "<h4><strong>Citazioni</strong></h4>\n<p><em>&lsquo;&hellip;&rsquo;</em></p>\n<p><em>&lsquo;Muori.&rsquo;</em></p>\n<p><em>&lsquo;Sistemeremo ogni cosa.&rsquo;</em></p>\n<p><em>&lsquo;Parlo poco? Non me n’ero accorto.&rsquo;</em></p>\n<h4><strong>Chi è Ferdinand?</strong></h4>\n<p>Gruber è il figlio maggiore del Barone di Weissbruck, ma essendo un mago non può ereditare secondo legge; pertanto il suo fratello scioperato, Bartolini, è ora Baronetto. In passato, questo lo infastidiva, ma si è rassegnato dopo i quindici anni passati ad addestrarsi come Mago d’Ametista e, ad oggi, è l’epitome della calma. Sua madre era un’acrobata della celebre famiglia Cuppolalinni, di Tilea. Quel matrimonio non fu ben visto a corte, lasciando Ferdinand con una pessima opinione dei cortigiani.</p>\n<h4><strong>Che tipo è?</strong></h4>\n<p>Scorbutico, fedele e spesso sarcastico.</p>\n<h4><strong>Perché giocare Ferdinand?</strong></h4>\n<p>Ferdinand è un mago, pertanto è temuto dalla maggior parte dei cittadini dell’Impero. Sceglilo se:</p>\n<p>&bull; Non ti senti a tuo agio nell’interpretare troppo e preferisci un personaggio piuttosto silenzioso.</p>\n<p>&bull; Vuoi essere sempre calmo sotto pressione e capace di gestire con stile le molte avventure.</p>\n<p>&bull; Ma, soprattutto: Ferdinand ha poteri magici!</p>\n<p>&nbsp;</p>\n<h3><strong>Dettagli del Personaggio</strong></h3>\n<h4><strong>Madre: </strong>Dolores Gruber</h4>\n<h4><strong>Padre: </strong>Barhold Gruber</h4>\n<h4><strong>Fratelli e Sorelle: </strong>2 Fratelli, 1 Sorella</h4>\n<h4><strong>Compagni:</strong> Nessuno</h4>\n<h4><strong>Luogo di Nascita: </strong>Weissbruck, Reikland</h4>\n<p>&nbsp;</p>\n<h3><strong>Motivazione</strong></h3>\n<p>Scegli una tra le seguenti tre frasi come motivazione:</p>\n<ul>\n<li>Proteggere Salundra.</li>\n<li>Placare gli animi con l’umorismo.</li>\n<li>Fermare i Nonmorti.</li>\n</ul>\n<p>&nbsp;</p>\n<h3><strong>Legami</strong></h3>\n<p><em>Scegli uno o più tra i seguenti legami con il resto del gruppo per definire la personalità di Ferdinand:</em></p>\n<ul>\n<li>Proteggerai Salundra a ogni costo, perfino con la tua stessa vita.</li>\n<li>Ti piace dormire (soltanto dormire) con Molli. Trovi i suoi abbracci confortanti.</li>\n<li>Ti piace goderti un bicchiere in silenzio insieme a Gunnar.</li>\n<li>Amris ti affascina. Vorresti conoscere tutto sulla sua patria.</li>\n<li>Else è affidabile e forte. La apprezzi molto e ti fidi del suo giudizio.</li>\n</ul>\n<p>&nbsp;</p>\n<h3><strong>Segreti</strong></h3>\n<p><em>Scegli uno o più tra i seguenti segreti. Ognuno ti darà [[/r 1d10]] scellini in più all’inizio della partita.</em></p>\n<ul>\n<li>Sei stato assunto dal padre di Salundra per proteggerla.</li>\n<li>Ratti, topi e altri animaletti ti causano Paura (a discrezione del GM).</li>\n<li>Detesti davvero i cortigiani (a parte Sali, ovviamente).</li>\n<li>Ti rifiuti di provocare danni agli Intrattenitori (era la professione di tua madre).</li>\n<li>La magia ha reclamato il suo prezzo sulla tua anima. Ottieni +3 Corruzione.</li>\n</ul>\n<p>&nbsp;</p>\n<h3><strong>Denaro Iniziale</strong></h3>\n<p><em>Inizi la partita con [[/r 1d10]] scellini d’argento, più un altro [[/r 1d10]] per ogni segreto che hai scelto.</em></p>"
+    },
+    {
+      "id": "zOLFN5jyCuh7pFh5",
+      "name": "Orso da Combattimento",
+      "type": "creature",
+      "gmbiography": "<section id=\"secret-5qOnjSiKoayoJGHo\" class=\"secret\"><p>@UUID[JournalEntry.TSyoR9nSk7cehypG.JournalEntryPage.U2JMbu5g9oyCT4eH]{Allo Sperone di Latta}</p><p>Nella maggior parte dei giorni ci sarà un singolo orso rinchiuso dentro l’arena. Durante le feste e le fiere, ce ne saranno molti di più.</p></section>"
+    },
+    {
+      "id": "aZsA9tS9nYWiC8Ft",
+      "name": "Cane da Combattimento",
+      "type": "creature",
+      "gmbiography": "<section id=\"secret-59A5TUY0RDdR1ZDi\" class=\"secret\"><p>@UUID[JournalEntry.TSyoR9nSk7cehypG.JournalEntryPage.U2JMbu5g9oyCT4eH]{Allo Sperone di Latta}</p><p>Nella maggior parte dei giorni ci saranno [[/r 1d10]] cani rinchiusi dentro l’arena. Durante le feste e le fiere, ce ne saranno molti di più.</p></section>"
+    },
+    {
+      "id": "k7qn4SFIygpbL5GS",
+      "name": "Franz Lohner",
+      "type": "npc",
+      "gmnotes": "<p>@UUID[JournalEntry.HUQGe1nm81Hfslkv.JournalEntryPage.r7kE5srdshGq5B6D]{Fiamme Alla Luna Rossa}</p><p>@UUID[JournalEntry.TSyoR9nSk7cehypG.JournalEntryPage.ddQoNatt6T4Fd2ZY]{Locanda Della Luna Rossa}</p><blockquote class=\"foundry-note\"><p>Le statistiche fornite per questo Personaggio non rappresentano fedelmente il personaggio e sono da considerarsi \"vuote\"</p></blockquote>"
+    },
+    {
+      "id": "MRtQM75DZK9SQ2lp",
+      "name": "Frederich Gewinnguter",
+      "type": "npc",
+      "gmnotes": "<p>@UUID[JournalEntry.TSyoR9nSk7cehypG.JournalEntryPage.3v2cA4Cmw328xVfB]{Orfanotrofio di San Bastian}</p><p>Un affascinante uomo di mezza età che vive al suo interno con la moglie Hilde, la quale gli fa da assistente.</p><p>All’insaputa dei suoi datori di lavoro, e della moglie, Gewinnguter è un demonologo. Di sera, mentre finge di consultare i libri mastri dell’orfanotrofio, sfoglia diligentemente il suo grimorio arcano, evocando demoni minori che vincola nel mezzo di un ottacolo. Nonostante si diletti nelle arti oscure, non è ancora schiavo dei Poteri Perniciosi e sta sfruttando le conoscenze ottenute da tali demoni per ricattare i numerosi rivali e accumulare ricchezza personale con impassibile flemma.</p>"
+    },
+    {
+      "id": "5JmWGqkcGHukUcUQ",
+      "name": "Gaenefys Manofatata",
+      "type": "creature",
+      "gmbiography": "<section id=\"secret-NF0TjunrRTmfQD1w\" class=\"secret\"><p>@UUID[JournalEntry.HUQGe1nm81Hfslkv.JournalEntryPage.cr2NTTBvmuBf38Cm]{La Pikkolizzima WAAAGH!}</p><p>Gli stessi membri della sua compagnia hanno imparato a non interferire con Manofatata, che è possente come un leone di montagna. Piuttosto, lei agisce quando, dove e come più le aggrada. È nell’interesse dei suoi compagni capire come trarne il massimo beneficio invece di rischiare la sua collera.</p></section>"
+    },
+    {
+      "id": "2fJ0BYzpLrcGfVks",
+      "name": "Giordano Impiegato",
+      "type": "creature",
+      "gmbiography": "<section id=\"secret-mQUnO2QPKsP7Ybsw\" class=\"secret\"><p>@UUID[JournalEntry.HUQGe1nm81Hfslkv.JournalEntryPage.cr2NTTBvmuBf38Cm]{La Pikkolizzima WAAAGH!}</p><p>Impiegato non si presta a dare aiuto, ma per il suo stesso bene è fin troppo astuto e intelligente. È scappato dalla città-stato Tileana di Miragliano quando un Principe Mercante si accorse che Impiegato viveva nell’opulenza senza sganciare mai un soldo, grazie a un cavillo nella sua dichiarazione delle tasse. È ben considerato dai suoi compagni, perché fa in modo che vengano pagati assai meglio di quanto possano sperare di ottenere da soli (anche se, ovviamente, Impiegato prende molto più della parte che gli spetterebbe).</p></section>"
+    },
+    {
+      "id": "IwH6I63zwMcaKrui",
+      "name": "Goblin della Lingua di Letame",
+      "type": "creature",
+      "gmbiography": "<section id=\"secret-RJL4oivKAse33ZMx\" class=\"secret\"><p>@UUID[JournalEntry.HUQGe1nm81Hfslkv.JournalEntryPage.cr2NTTBvmuBf38Cm]{La Pikkolizzima WAAAGH!}</p><p>Puzzobastone Linguadiletame si crede un profeta di Gork e Mork, il più grande Goblin che sia mai esistito! Avendo incontrato solo i Goblin della sua pietosa tribù, si crede nel giusto… dal suo punto di vista. </p></section>"
+    },
+    {
+      "id": "rlm60LyBWkTIpOWr",
+      "name": "Mastro della Gilda Wahlund",
+      "type": "npc",
+      "gmnotes": "<p>@UUID[JournalEntry.TSyoR9nSk7cehypG.JournalEntryPage.B0LbHpx74tQkIdtH]{Acchiappatopi di Wahlund}</p><p>Il Mastro della Gilda Wahlund è un Fognaiolo veterano coperto di cicatrici che viene dal nord. All’insaputa della maggior parte degli Ubersreiker, è anche un Alto Sacerdote di Stromfels, Dio dei Naufragatori e dei Pirati, proscritto nell’Impero. Lui e i suoi tre compatrioti sono tutto ciò che rimane di un culto segreto, spazzato via da un assalto degli Skaven alcuni anni or sono. Al momento viaggiano per l’Impero, massacrando topi, alla ricerca del Veggente Grigio Rasknitt, autore della distruzione del loro culto.</p><p>Hanno seguito le tracce di Rasknitt fino a Ubersreik e, fondando la nuova @UUID[JournalEntry.TSyoR9nSk7cehypG.JournalEntryPage.B0LbHpx74tQkIdtH]{Gilda degli Acchiappatopi}, Wahlund ha anche creato un piccolo santuario segreto dedicato a Stromfels nel seminterrato, accanto alle fogne.</p>"
+    },
+    {
+      "id": "qbWReZE7UL1p6JXG",
+      "name": "Gunnar Hrolfsson",
+      "type": "character",
+      "gmbiography": "<h4><strong>Citazioni</strong></h4>\n<p><em>‘Per la Barba di Grimnir!’</em></p>\n<p><em>‘Non ne vale la pena; ambisco a una morte onorevole!’</em></p>\n<p><em>‘L’ho già detto prima: c’è una taverna laggiù.’ </em></p>\n<p><em>‘</em><em>AZGARAZ!’</em></p>\n<h4><strong>Chi è Gunnar?</strong></h4>\n<p>Prima di perdere una figlia femmina e due maschi in una tragedia, Gunnar era un gioielliere. Pronunciò immediatamente il Giuramento dello Sventratore per poi pentirsene, anche se non lo ammetterebbe mai. Ora è alla ricerca della morte più onorevole possibile; ma viene spesso colto dalla melanconia e allora beve, se fallisce l’obiettivo; la qual cosa gli è d’ostacolo. Quattro anni fa, incontrò Salundra durante una notte di bevute a Ubersreik e la turbolenta capitana, pur se un’Umana, gli piacque molto. Visto che la sua vita non ha grande valore e che lei sembrava destinata a finire nei guai, decise di seguirla, diventando alquanto protettivo nei suoi confronti, trattandola più come una figlia che come una compagna d’armi.</p>\n<h4><strong>Che tipo è?</strong></h4>\n<p>Arrabbiato, inquieto e bellicoso.</p>\n<h4><strong>Perché giocare Gunnar?</strong></h4>\n<p>Gunnar è forte, robusto, resiliente e intrepido, oltre che alla disperata ricerca di un nemico degno di lui.</p>\n<ul>\n<li>Trattandosi di uno Sventratore, deciso a cancellare una macchia sul suo onore, i più gli stanno alla larga.</li>\n<li>Gunnar è il Personaggio più robusto, ma non indossa armatura, quindi bisogna fare attenzione.</li>\n<li>Gunnar è un Nano piuttosto onorevole, ma crede d’averlo perso, il proprio onore; il che lo rende interessante da interpretare.</li>\n</ul>\n<p>&nbsp;</p>\n<h3><strong>Dettagli del Personaggio</strong></h3>\n<h4><strong>Madre: </strong>Ulnva Harinsdotr</h4>\n<h4><strong>Padre: </strong>Hrolf il Paziente</h4>\n<h4><strong>Fratelli e Sorelle: </strong>1 Fratello</h4>\n<h4><strong>Compagna: </strong>vedovo</h4>\n<h4><strong>Luogo di Nascita</strong>: Karak Angaraz, Monti Grigi</h4>\n<p>&nbsp;</p>\n<h3><strong>Motivazione</strong></h3>\n<p>Scegli una tra le seguenti tre frasi come motivazione:</p>\n<ul>\n<li>Uccidere un nemico spaventoso.</li>\n<li>Farsi una bella bevuta dopo un duro scontro.</li>\n<li>Dimostrare il proprio onore.</li>\n</ul>\n<p>&nbsp;</p>\n<h3><strong>Legami</strong></h3>\n<p><em>Scegli uno o più tra i seguenti legami con il resto del gruppo per definire la personalità di Gunnar.</em></p>\n<ul>\n<li>Sei pronto a proteggere Salundra con la vita, non importa contro chi.</li>\n<li>Sei molto affezionato a Molli e fai di tutto per tenerla al sicuro.</li>\n<li>Forse perché si tratta di un fattucchiere, ma non ti fidi di Ferdinand.</li>\n<li>Per quel che t’importa, Amris può gettarsi da un ponte. È irritante.</li>\n<li>Else è il tuo tipo di Umana: determinata, devota e forte.</li>\n</ul>\n<p>&nbsp;</p>\n<h3><strong>Segreti</strong></h3>\n<p><em>Scegli uno o più tra i seguenti segreti. Ognuno ti darà [[/r 1d10]] scellini in più all’inizio della partita.</em></p>\n<ul>\n<li>Soffri tremendamente il solletico e adori che te lo facciano, ma non lo ammetteresti mai.</li>\n<li>Ami le battutacce e devi superare una Prova di Freddezza per non fartene scappare una nel momento sbagliato.</li>\n<li>Soffri di problemi alla schiena. Subisci uno Stordito quando ti colpiscono al Torso.</li>\n<li>Detesti gli artigiani di ogni genere, ti ricordano il passato.</li>\n<li>Non lasci correre alcun insulto sul tuo onore. Li sistemi sempre tutti.</li>\n</ul>\n<p>&nbsp;</p>\n<h3><strong>Denaro Iniziale</strong></h3>\n<p><em>Inizi la partita con [[/r 1d10]] scellini d’argento, più un altro [[/r 1d10]] per ogni segreto che hai scelto.</em></p>"
+    },
+    {
+      "id": "Je9bENZeEyEaQR9p",
+      "name": "Hellin Karstadt-Stampf",
+      "type": "npc",
+      "gmnotes": "<p>@UUID[JournalEntry.TSyoR9nSk7cehypG.JournalEntryPage.hKYVOZhK3VE53P87]{Tenuta Karstadt}</p><p>Hellin Karstadt-Stampf è una bella donna di cinquant’anni. Porta sempre un paio di piccoli occhiali da lettura con una catenella d’oro. Acconcia i capelli in modo elegante – una crocchia alla moda – e indossa sempre elaborati abiti neri e dorati con costosi gioielli. Chi invidia la sua ricchezza spesso la definisce boriosa e vanitosa.</p><p>È una donna d’affari accorta, la più ricca di Ubersreik, assolutamente spietata ma fedele ai suoi consanguinei, che tendono ad essere più scorbutici. È pronta a tutto pur di proteggere i figli e il loro buon nome.</p>"
+    },
+    {
+      "id": "YZLxn2alTuWjX721",
+      "name": "Heske Glazer",
+      "type": "npc",
+      "gmnotes": "<p>Da giovane, Heske Glazer lavorava nei campi della @UUID[JournalEntry.70sJnVPsNmeNnqdC.JournalEntryPage.MQUgehvMI8ye8NQ7]{Valle della Dama}. Il suo destino cambiò da cima a fondo quando un colpo di pistola le portò via l’occhio sinistro. Il @UUID[JournalEntry.70sJnVPsNmeNnqdC.JournalEntryPage.i5oKhDottkJmwCzj]{Duca Brynich Aschaffenberg}, il responsabile del gesto, sembrò avere pietà della ragazza, pagandole le cure e la sostituzione dell’occhio perduto. Mentre guariva, Heske trascorse lunghe ore accanto a Kassandra Glazer, l’anziana soffiatrice di vetro che era stata incaricata di crearle il nuovo bulbo oculare. L’artigiana la introdusse alle meraviglie del suo mestiere ed Heske ne rimase completamente affascinata. A sua volta, la vecchia fu colpita dall’intelligenza e dall’entusiasmo della ragazza e, alla fine, si offrì di prenderla come apprendista. Heske non si guardò mai indietro.</p><p>Dopo molti anni, l’abilità di Heske nella soffiatura del vetro è nota al punto che alcuni mastri artigiani di @UUID[JournalEntry.TSyoR9nSk7cehypG.JournalEntryPage.A4x3cKwa1h875OlK]{Dawihafen}, il quartiere dei Nani di Ubersreik, la consultano. In effetti, è talmente brava che la maggior parte delle lanterne realizzate dai Nani in città annovera i vetri di Heske e alcune sue opere vengono vendute finanche nelle profondità dei Monti Grigi. Pur se tale riconoscimento è concesso raramente agli Umani, la fama e il rispetto che le sono derivati non sembrano aver avuto alcun impatto su Heske, che è disponibile e affabile come sempre. In effetti, tutti a Ubersreik la stimano e nessuno ne parla male. Ciò la pone in una posizione unica e, con l’unico occhio buono, riesce a osservare più di quanto ci si aspetterebbe. I più resterebbero sorpresi dallo scoprire che agisce per conto di un potente mecenate e che, molto presto, sarà sua responsabilità condurre i Personaggi all’attenzione di questo misterioso individuo.</p>"
+    },
+    {
+      "id": "eKsyvPwY0dDMpO27",
+      "name": "Holger Maurer",
+      "type": "creature",
+      "gmbiography": "<section id=\"secret-99RJRI1tnXc2m1Eb\" class=\"secret\"><p>Maurer è un uomo sui vent’anni dal fisico scultoreo. Ha capelli scuri e corti e i suoi grandi occhi verdi sono sconcertanti: non pare quasi mai battere le palpebre e possiede uno sguardo penetrante. La sua voce è profonda, ma vellutata. Sembra terribilmente stanco e scavato, con la barba corta e trasandata.</p></section>"
+    },
+    {
+      "id": "W2NJRGhinA8bn835",
+      "name": "Ibrido",
+      "type": "npc",
+      "gmnotes": "<p>@UUID[Actor.c6aJd9hIoNxzAqLl]{Reikhardt Gestaltenstark}</p>"
+    },
+    {
+      "id": "5nUNhvoRVnaBE4hw",
+      "name": "Ilse Fassenwütend",
+      "type": "npc",
+      "gmnotes": "<p>Fassenwütend ha vissuto una vita dura. I capelli, una volta color del bronzo, ora sono striati di bianco e il suo volto reca una cicatrice curva che va dall’occhio destro alla mascella. Abitualmente sorseggia da una vecchia fiaschetta. Tutto ciò che indossa è logoro e disordinato, tranne le sue pistole perfettamente conservate. Il legno lucido dei calci e l’acciaio meticolosamente oliato indicano che le armi sono pronte a sparare in qualsiasi frangente.</p>"
+    },
+    {
+      "id": "b7SY081CpP0aQndx",
+      "name": "Josef Specht",
+      "type": "npc",
+      "gmnotes": "<p>@UUID[JournalEntry.TSyoR9nSk7cehypG.JournalEntryPage.hKYVOZhK3VE53P87]{Tenuta Karstadt}</p><p>Josef Specht è il contabile dei @UUID[Actor.Je9bENZeEyEaQR9p]{Karstadt-Stampf}. Ha un buon carattere ed è un padre e un marito amorevole. È d’aspetto privo di significato, con occhi e capelli castani e un contegno innocuo; appare sempre impeccabile e porta i colori della sua signora: nero e oro.</p><p>Nonostante le apparenze, è un killer spietato. Rimasto orfano e con un’infanzia traumatica, è divenuto un adoratore di Khaine, la divinità fuorilegge dell’omicidio. È entrato al servizio di Lady Karstadt-Stampf dopo aver visto con i propri occhi quanto fosse devota ai figli. Lei, a sua volta, ne riconosce le capacità. Specht è assolutamente fedele alla donna e ai suoi figli ed è pronto a tutto per proteggerli o per vendicarli. Tiene un santuario segreto di Khaine nella soffitta della @UUID[JournalEntry.TSyoR9nSk7cehypG.JournalEntryPage.hKYVOZhK3VE53P87]{Tenuta Karstadt}.</p>"
+    },
+    {
+      "id": "5Ddr1e3STy9bpr3r",
+      "name": "Kurlass Meingot",
+      "type": "npc",
+      "gmnotes": "<p>Kurlass è un uomo piccolo, con un sorriso affascinante, ed è sempre il primo a fare battute e a buttarla in caciara. Il suo umorismo tende all’autoironia e sostiene, per sé, di non valere due penny. Questo rispecchia abbastanza il vero, eccetto per il fatto che è molto abile a convincere gli altri a investire in progetti apparentemente redditizi, per poi risultare completamente innocente una volta che il denaro viene “perso” in qualche imprevista traversia. L’unica cosa a cui è fedele è @UUID[JournalEntry.NcH9OhleJFfaUdon.JournalEntryPage.vrUN2NZ9t9d37J6V]{Ranald, Dio dei Ladri e dell’Inganno}. l mercante “Kurlass Meingot” è una falsa identità che gli torna utile a organizzare truffe a Ubersreik; egli in realtà si chiama Werner Sperren, eppure nessuno in città ne è a conoscenza.</p>"
+    },
+    {
+      "id": "08otYmy2EeLkq4aM",
+      "name": "Leif Vilsson",
+      "type": "creature",
+      "gmbiography": "<section id=\"secret-hG47mGOTrzREVV2B\" class=\"secret\"><p>@UUID[JournalEntry.HUQGe1nm81Hfslkv.JournalEntryPage.cr2NTTBvmuBf38Cm]{La Pikkolizzima WAAAGH!}</p><p>Vilsson è nato nella Norsca e ha viaggiato fino al Reik in giovane età. Lo sguardo, i discorsi e la propensione a rispondere al più piccolo insulto con un’ascia ben piantata in mezzo agli occhi rivelano le sue origini. È lesto all’ira e lento a dimenticare, anche se ha la tendenza ad andarci piano con i compagni di bevute (ha preferenze per gli strani liquori cremosi dell’Ostland). Nonostante il temperamento focoso, è fanaticamente fedele agli amici.</p></section>"
+    },
+    {
+      "id": "xgNRRPBnkRvMoAOp",
+      "name": "Maglyn Blanck",
+      "type": "creature",
+      "gmbiography": "<section id=\"secret-J00b85WLRT7LCUe8\" class=\"secret\"><p>@UUID[JournalEntry.HUQGe1nm81Hfslkv.JournalEntryPage.zO40ibFP502ujeEs]{Due Torti Fanno Una Ragione}</p></section>"
+    },
+    {
+      "id": "1hzmNCEEYNDPNHoY",
+      "name": "Ruffiani della Marktplatz",
+      "type": "creature"
+    },
+    {
+      "id": "HnEqymUdTW67MCq9",
+      "name": "Melina Heilbronn",
+      "type": "npc",
+      "gmnotes": "<p>@UUID[JournalEntry.TSyoR9nSk7cehypG.JournalEntryPage.B0LbHpx74tQkIdtH]{Acchiappatopi di Wahlund}</p><p>Melina Heilbronn Per anni, Melina Heilbronn è stata l’unica Fognaiola professionista di Ubersreik. Arruolata soldato all’età di quattordici anni, ha sviluppato una profonda avversione per gli Uominibestia che infestano il Reikwald. Si è ritirata a trent’anni e ha deciso di pattugliare le fogne della sua città natale, convinta che alcuni Uominibestia simili a roditori si aggirino laggiù. È una combattente robusta ed esperta, tanto che gli altri acchiappatopi la tengono in grande considerazione. Da quando è arrivata la compagnia di @UUID[Actor.rlm60LyBWkTIpOWr]{Wahlund} è stata in qualche modo emarginata. Non ha né talento né interesse per la politica e non si fida nemmeno di quegli stranieri che non le permettono di farsi accompagnare, nonostante la sua ben nota abilità. È una donna robusta, dalle spalle larghe, con una miriade di lentiggini sul naso tozzo e una cicatrice irregolare sul mento, ricordo di un Uomobestia che affrontò tanti anni fa. Non ha tempo per gli sciocchi o i perdigiorno ed è straordinariamente diretta nel parlare. In effetti, se gli sguardi potessero uccidere, Melina avrebbe già trucidato molti di coloro che la incrociano.</p>"
+    },
+    {
+      "id": "SgK4YI7emNao6k0J",
+      "name": "Guardiano Runico Modificato",
+      "type": "creature",
+      "gmbiography": "<section class=\"secret\" id=\"secret-nFZInAqiGfHTDBH3\"><p>@UUID[JournalEntry.HUQGe1nm81Hfslkv.JournalEntryPage.GQ77OX7qajaS8FnK]{L’Enigma Dell’Argento}</p></section>"
+    },
+    {
+      "id": "NH9yZnUFgSzMTKjz",
+      "name": "Morlella Doppiobrandy",
+      "type": "character",
+      "gmbiography": "<h4><strong>Citazioni</strong></h4>\n<p><em>‘Va bene, capisco, ma i miei abbracci hanno il potere di guarire. Aspetta e vedrai!’ </em></p>\n<p><em>‘Non l’ho rubato; l’ho preso dopo che qualcuno l’aveva dimenticato in giro!’ </em></p>\n<p><em>‘Chi è che chiami bambina? Sono stata sposata e ho dei figli!’ ‘Prendi questo, stupido spilungone!’</em></p>\n<h4><strong>Chi è Molli?</strong></h4>\n<p>Cresciuta in una casa di una sola stanza con un’enorme famiglia allargata, Molli è allegra, amichevole, divertente e assolutamente scombussolata dalla moralità Umana e dall’idea di proprietà. Questo la mette spesso nei guai… ‘ma il mio sorriso vincente mi salverà!’ Salundra la colse in fallo proprio mentre le stava rubando il cavallo (una lunga storia) e, da allora, Molli ha seguito la giovane soldatessa. Molli e Sali sono molto amiche, anche se la Halfling lo è un po’ di tutti.</p>\n<h4><strong>Che tipo è?</strong></h4>\n<p>Assolutamente gioiosa, irrefrenabile e allegra.</p>\n<h4><strong>Perché giocare Molli?</strong></h4>\n<p>Molli è semplicemente un amore, uno splendente raggio di sole in un mondo tetro e periglioso:</p>\n<ul></li>\n<li>È un’Halfling libera e felice, senza alcuna preoccupazione al mondo.</li>\n<li>Le sue abilità di Scassinare, Affascinare e Intuizione possono facilmente toglierla, ma anche farsi calamitare, dai guai.</li>\n<li>Ogni gruppo ha bisogno di un paciere e di qualcuno che spartisca abbracci.</li>\n</ul>\n<p>&nbsp;</p>\n<h3><strong>Dettagli del Personaggio</strong></h3>\n<h4><strong>Madre: </strong>Halarnella Doppiobrandy</h4>\n<h4><strong>Padre:</strong> Fartomeous Doppiobrandy</h4>\n<h4><strong>Fratelli e Sorelle: </strong>6 sorelle (compresa una gemella)</h4>\n<h4><strong>Compagni: </strong>3  ex-mariti o mogli</h4>\n<h4><strong>Luogo di Nascita: </strong>Altdorf, Reikland</h4>\n<p>&nbsp;</p>\n<h3><strong>Motivazione</strong></h3>\n<p>Scegli una tra le seguenti tre frasi come motivazione:</p>\n<ul>\n<li>Passarla liscia dopo aver fatto un torto.</li>\n<li>Far sorridere gli scorbutici.</li>\n<li>Trovare un nuovo amante.</li>\n</ul>\n<p>&nbsp;</p>\n<h3><strong>Legami</strong></h3>\n<p><em>Scegli uno o più tra i seguenti legami con il resto del gruppo per definire la personalità di Molli.</em></p>\n<ul>\n<li>Adori Sali.</li>\n<li>Gunnar è troppo musone e ha chiaramente bisogno di ricevere un po’ di solletico.</li>\n<li>Il tuo obiettivo personale è spingere Ferdinand a parlare di più.</li>\n<li>Amris è davvero strano. Non riesci a evitare di fissarlo… sempre.</li>\n<li>Else ha bisogno di visitare un bordello e di rilassarsi. Sei sicura che, prima o poi, riuscirai a convincerla.</li>\n</ul>\n<p>&nbsp;</p>\n<h3><strong>Segreti</strong></h3>\n<p><em>Scegli uno o più tra i seguenti segreti. Ognuno ti darà [[/r 1d10]] scellini in più all’inizio della partita.</em></p>\n<ul>\n<li>Hai paura di nebbia e foschia e subisci 1 Affaticato quando ne sei avvolta.</li>\n<li>Se riuscissi a capire come convincere Sali a sposarti non ci penseresti due volte.</li>\n<li>Detesti dormire da sola. Se lo fai, subisci 1 Affaticato per le due ore successive al risveglio.</li>\n<li>Non sopporti la maleducazione (secondo il modo in cui la concepisci) e lo fai sempre notare.</li>\n<li>Ami le truffe, quelle ben fatte, e non le consideri affatto un crimine.</li>\n</ul>\n<p>&nbsp;</p>\n<h3><strong>Denaro Iniziale</strong></h3>\n<p><em>Inizi la partita con [[/r 1d10]] scellini d’argento, più un altro [[/r 1d10]] per ogni segreto che hai scelto.</em></p>"
+    },
+    {
+      "id": "ZvthiqduALEhSmwK",
+      "name": "Narbe Ditwin",
+      "type": "npc",
+      "gmnotes": "<p>Narbe Ditwin è un uomo esile con una particolare cicatrice che gli attraversa l’occhio destro. Ha il braccio sinistro gravemente ustionato.</p>"
+    },
+    {
+      "id": "aUTBY5s6vCJhZsZp",
+      "name": "Osanna Winandus",
+      "type": "npc",
+      "gmnotes": "<p>Osanna, un’abile giureconsulta di trent’anni, ha capelli biondi e occhi grigi. Indossa una lussuosa toga da avvocato, tappezzata di gufi elegantemente ricamati a filo d’oro. È brillante, intelligente e molto abile nella sua professione.</p><p>È una devota seguace di @UUID[JournalEntry.NcH9OhleJFfaUdon.JournalEntryPage.9bWE0Ayt5XGQf50r]{Verena} e crede fermamente che le leggi giuste siano le leggi migliori. Occasionalmente, ha bisogno di persone qualificate per indagare su certi fatti o per aiutarla a garantire una “giustizia” che molti tribunali imperiali non approverebbero.</p><blockquote class=\"foundry-note\"><p>Le statistiche fornite per questo PNG non sono ufficiali e dovrebbero essere considerate fan-made</p></blockquote>"
+    },
+    {
+      "id": "c6aJd9hIoNxzAqLl",
+      "name": "Reikhardt Gestaltenstark",
+      "type": "npc",
+      "gmnotes": "<p>@UUID[JournalEntry.HUQGe1nm81Hfslkv.JournalEntryPage.pm2aRyZSsey8WeQa]{Sangue & Neve}</p><p>Reikhardt è un giovane fanatico dalla testa calda che ha da poco compiuto diciotto anni. Crede fortemente che l’Impero funzionerebbe meglio senza il Culto di Sigmar, che intende annientare e sostituire con quello di Ulric. Porta al collo un medaglione con dipinta sopra una bellissima donna dalla chioma bionda. L’iscrizione sul retro recita: ‘Con affetto, tua madre Magdelena’. Di fronte a una vera minaccia – e solo nel caso in cui i suoi piani vengano sventati – Gestaltenstark getta la maschera, tramutandosi nella sua terrificante forma ibrida, una fusione tra uomo e lupo. Odia assumere questo aspetto, poiché crede sia essa a dare credito alle menzogne diffuse dai Sigmariti sulla crudeltà e bestialità delle vie di Ulric. Tuttavia, non è affatto uno stolto ed è pronto a sfruttare qualsiasi strumento a sua disposizione.</p><p>Reikhardt può cambiare forma usando la propria Azione. Ogni vestito che indossa cade a terra o viene ridotto a brandelli.</p><p>@UUID[Actor.W2NJRGhinA8bn835]{Ibrido}</p><p>@UUID[Actor.xRYhcgSoGiUKqdo2]{Eisfange}</p>"
+    },
+    {
+      "id": "xiyFua5KmhBnskjG",
+      "name": "Rudi Klumpenklug",
+      "type": "npc",
+      "gmnotes": "<p>Klumpenklug è un massiccio veterano di quasi sessant’anni, brizzolato e con una gran barba grigia e trasandata, da cui spesso emerge un grande sorriso di denti giallastri. È un maestro nel dissimulare, inducendo gli altri a considerarlo innocuo e, pure, tirchio, quando, in realtà, è un astuto bastardo con zero moralità.</p><p>Per molti anni, è stato un convinto sostenitore degli Jungfreud, svolgendo per loro incarichi sporchi pur curando i propri interessi, facendo sempre attenzione a non far trapelare nulla.</p><p>Quando si è accorto che il vento della politica stava cambiando, è stato uno dei primi a denunciare gli Jungfreud, definendoli imbroglioni e cialtroni. Ha aiutato gli Altdorfer a scovare i lealisti, cosa in cui è davvero abile. Non c’è da stupirsi, dato che conosceva personalmente la maggior parte di loro.</p><blockquote class=\"foundry-note\"><p>Le statistiche fornite per questo PNG non sono ufficiali e dovrebbero essere considerate fan-made</p></blockquote>"
+    },
+    {
+      "id": "Z5D8INeGdPo4esse",
+      "name": "Salundra von Drakenburg",
+      "type": "character",
+      "gmbiography": "<h4><strong>Citazioni</strong></h4>\n<p style=\"font-size: 14px;\"><em>&lsquo;Non preoccuparti, sistemeremo tutto.&rsquo;</em></p>\n<p style=\"font-size: 14px;\"><em>&lsquo;Morr arriva per tutti quanti noi, tanto vale farsi un bicchierino!&rsquo; </em></p>\n<p style=\"font-size: 14px;\"><em>&lsquo;</em><em>Una promessa fatta è una promessa mantenuta.&rsquo;</em></p>\n<p style=\"font-size: 14px;\"><em>&lsquo;PER DRAKENBURG!&rsquo;</em></p>\n<h4><strong>Chi è Salundra?</strong></h4>\n<p style=\"font-size: 14px;\">Salundra è la figlia ribelle del potente Duca von Drakenburg. È cresciuta nell’esercito e ora va in cerca di fortuna. Possiede un carattere pragmatico e razionale, ma quando beve troppo torna ad essere la soldatessa sregolata che è stata in gioventù. Gli amici la chiamano ‘Sali’, ma ne ha davvero pochi poiché teme i voltafaccia. I veri legami, però, dureranno per lei per tutta la vita.</p>\n<h4><strong>Che tipo è?</strong></h4>\n<p style=\"font-size: 14px;\">Sicura di sé e capace, anche se a volte emotiva.</p>\n<h4><strong>Perché giocare Salundra?</strong></h4>\n<p style=\"font-size: 14px;\">Salundra è la leader naturale del gruppo e possiede numerosi vantaggi, tra cui:</p>\n<ul style=\"font-size: 14px;\">\n<li>Essendo una nobile è benvenuta in taluni ambienti di Ubersreik proibiti agli altri Personaggi.</li>\n<li>Si è addestrata a tirare di spada sin da quando è stata abbastanza forte da sollevarne una, questo la rende molto abile nel combattimento all’arma bianca.</li>\n<li>Ha un forte senso di giustizia e lotta per ciò che ritiene giusto.</li>\n</ul>\n<p>&nbsp;</p>\n<h3><strong>Dettagli del Personaggio</strong></h3>\n<h4><strong>Madre</strong>: Duchessa Anya von Drakenburg</h4>\n<h4><strong> Padre</strong>: Duca Konstantin von Drakenburg</h4>\n<h4><strong>Fratelli e Sorelle</strong>: 2 Fratelli</h4>\n<h4><strong>Compagni</strong>: Nessuno</h4>\n<h4><strong>Luogo di Nascita</strong>: Drakenburg, Reikland</h4>\n<p>&nbsp;</p>\n<h3><strong>Motivazione</strong></h3>\n<p>Scegli una tra le seguenti tre frasi come motivazione:</p>\n<ul>\n<li>Prendere il comando in situazioni pericolose.</li>\n<li>Aiutare i meno fortunati.</li>\n<li>Sgominare i corrotti.</li>\n</ul>\n<p>&nbsp;</p>\n<h3><strong>Legami</strong></h3>\n<p><em>Scegli uno o più tra i seguenti legami con il resto del gruppo per definire la personalità di Salundra.</em></p>\n<ul>\n<li>Andresti volentieri a bere con Gunnar fino a che Mannslieb non cadrà dal cielo.</li>\n<li>Molli è la tua migliore amica e faresti di tutto per proteggerla.</li>\n<li>Sei giunta a fidarti tacitamente di Ferdinand.</li>\n<li>Ti senti personalmente responsabile della sicurezza di Amris.</li>\n<li>È importante aiutare Else a capire che nella vita c’è molto più di Sigmar.</li>\n</ul>\n<p>&nbsp;</p>\n<h3><strong>Segreti</strong></h3>\n<p><em>Scegli uno o più tra i seguenti segreti. Ognuno ti farà avere [[/r 1d10]] scellini in più all’inizio della partita.</em></p>\n<ul>\n<li>Hai combattuto contro il Caos e non ne sei uscita pulita. Ottieni +3 Corruzione.</li>\n<li>Sei un’ubriacona. Devi superare una Prova di Freddezza per trattenerti.</li>\n<li>Hai un figlio illegittimo di sei anni che sta crescendo accanto al padre, il Graf Jungfreud.</li>\n<li>Detesti gli avvocati e non parli con loro senza superare una Prova di Freddezza.</li>\n<li>Un individuo misterioso ti ha pagato per tenere Amris lontano da suo padre.</li>\n</ul>\n<p>&nbsp;</p>\n<h3><strong>Denaro Iniziale</strong></h3>\n<p><em>Inizi la partita conh [[/r 1d10]] scellini d’argento, più un altro [[/r 1d10]] per ogni segreto che hai scelto.</em></p>"
+    },
+    {
+      "id": "iIntWLH5K7u7nF8W",
+      "name": "Cultisti Mutanti della Stretta Mutevole",
+      "type": "creature",
+      "gmbiography": "<section id=\"secret-tErV41pH7SzhHCTv\" class=\"secret\"><p>@UUID[JournalEntry.d8nvgs2H5MmtKhdM.JournalEntryPage.L5gV9pgaWXB3floP#the-shifting-grasp]{La Stretta Mutevole}</p></section>"
+    },
+    {
+      "id": "vDyDfvkHTQ7JX8if",
+      "name": "Shrinq Squarciaombre",
+      "type": "creature",
+      "gmbiography": "<section id=\"secret-qumezpb8tryenGxx\" class=\"secret\"><p>@UUID[JournalEntry.HUQGe1nm81Hfslkv.JournalEntryPage.r7kE5srdshGq5B6D]{Fiamme alla Luna Rossa}</p><p>Squarciaombre vuole la testa del locandiere, poiché, quando Lohner faceva parte dei Portarancori in Tilea, si rivelò una spina nel fianco per gli Uomini Ratto. I loro presagi enunciano che ora è il momento della vendetta.</p></section>"
+    },
+    {
+      "id": "h5l5gOwuMlsDX8oG",
+      "name": "Sgherri di Barbadargento",
+      "type": "creature",
+      "gmbiography": "<section id=\"secret-knqWIHuodgTANvya\" class=\"secret\"><p>@UUID[Actor.zERScZmW5GTpuJjW]{Barlin Barbadargento}</p></section>"
+    },
+    {
+      "id": "eQ0YuMXfmPnUU4UI",
+      "name": "Sorella Habercorn",
+      "type": "creature",
+      "gmbiography": "<section id=\"secret-ondQqOxO6gyM9zFi\" class=\"secret\"><p>@UUID[JournalEntry.TSyoR9nSk7cehypG.JournalEntryPage.fXCf8wLZzVIDGpVG]{Cappella di Sant’Arnold}</p><p>Sorella Habercorn Il passato di Grethe Habercorn sembra tutto meno che quello di un confessore di un’antica famiglia nobile del Reikland. Ex-malavitosa e membro di una gang, trovò la fede solo in età adulta. Sorella Habercorn non parla del proprio passato, eccetto quando allude, in un sorriso triste, alla sua gioventù bruciata. Porta ancora i segni di quegli anni: un occhio sfregiato, seppure funzionale, e il tatuaggio di un coltello e una lacrima sul volto. Nonostante l’espressione generalmente cupa, è molto affabile, ma quando si infuria diventa davvero feroce.</p></section>"
+    },
+    {
+      "id": "lDizGNnhMbMdtTRI",
+      "name": "Sciame di Ratti Giganti degli Skaven",
+      "type": "creature",
+      "gmbiography": "<section id=\"secret-JMaDFds6XnnjnMuF\" class=\"secret\"><p>@UUID[JournalEntry.TSyoR9nSk7cehypG.JournalEntryPage.yJlaZDmJgb5rIkHM]{Le Fogne}</p><p>Nelle fogne del Reikland, i ratti sono un problema continuo. Gli Skaven li sfruttano, riunendoli in grandi colonie e guidandoli contro i loro nemici. Anche se individualmente sono deboli, quando attaccano in massa possono essere sorprendentemente distruttivi. </p></section>"
+    },
+    {
+      "id": "xRNhtsO9EEWqTA8C",
+      "name": "Ratti dei Vicoli Skaven",
+      "type": "creature",
+      "gmbiography": "<section id=\"secret-KbebbQOlQtkvMtAq\" class=\"secret\"><p>@UUID[JournalEntry.TSyoR9nSk7cehypG.JournalEntryPage.yJlaZDmJgb5rIkHM]{Le Fogne}</p><p>I Ratti dei Vicoli del Clan Eshin sono abili incursori e assassini. Indossano abiti scuri, si muovono silenziosamente attraverso buie fogne, fino a raggiungere vicoli e tetti nelle notti senza luna. Molti di loro parlano un rozzo Reikspiel (la lingua dell’Impero) e, a volte, trattano con quegli Umani che potrebbero rivelarsi utili.</p></section>"
+    },
+    {
+      "id": "5DdSxKm6aifmXn9d",
+      "name": "Puzzobastone Linguadiletame",
+      "type": "creature",
+      "gmbiography": "<section id=\"secret-r9sNJVr4MlLpOAtE\" class=\"secret\"><p>@UUID[JournalEntry.HUQGe1nm81Hfslkv.JournalEntryPage.cr2NTTBvmuBf38Cm]{La Pikkolizzima WAAAGH!}</p><p>Puzzobastone Linguadiletame si crede un profeta di Gork e Mork, il più grande Goblin che sia mai esistito! Avendo incontrato solo i Goblin della sua pietosa tribù, si crede nel giusto… dal suo punto di vista. </p></section>"
+    },
+    {
+      "id": "Dfb1YdBY1Vgs2Y79",
+      "name": "Tah-Ra Mentuhr",
+      "type": "creature",
+      "gmbiography": "<section id=\"secret-kLVnXouUDhb53lqf\" class=\"secret\"><p>@UUID[JournalEntry.HUQGe1nm81Hfslkv.JournalEntryPage.r7kE5srdshGq5B6D]{Fiammme alla Luna Rossa}</p><p>Questa antica creatura è emersa dalle nebbie del tempo. Intende possedere il corpo di Lohner per infiltrarsi tra i Portarancori e ucciderne il comandante, prima che egli possa sventare i piani del suo padrone.</p></section>"
+    },
+    {
+      "id": "QRwasUALpkuwthhS",
+      "name": "Il Barone",
+      "type": "creature",
+      "gmbiography": "<section id=\"secret-8vVE1D7LNKZ89Lyd\" class=\"secret\"><p>@UUID[JournalEntry.TSyoR9nSk7cehypG.JournalEntryPage.yY5DUbAdKg2MhDva]{Ponte di Ubersreik}</p><p>Katerine Eule ha passato la vita a truffare. Cresciuta nei bassifondi dell’ @UUID[Compendium.wfrp4e-altdorf.altdorf-journals.4YsFyNKWos4jMltD]{East End di Altdorf}, ha dovuto lottare per ottenere qualunque cosa e nella capitale la competizione fu spietata. Quando le truppe marciarono verso sud, intravvide un’opportunità e seguì l’esercito, pronta a sfruttare un eventuale vuoto di potere. La sua sfolgorante ascesa sotto il ponte è frutto di grinta e abilità. Porta alcune cicatrici, ricordo dei nemici che ha affrontato lungo la strada; non molte: ne è sempre uscita vincitrice. Eule ha adottato lo pseudonimo “Il Barone”, in modo da creare un alone di mistero e seminare la paura tra i criminali di Ubersreik.</p></section>"
+    },
+    {
+      "id": "2hPRWLIhwFR203T5",
+      "name": "Sgherri del Barone",
+      "type": "creature",
+      "gmbiography": "<section id=\"secret-ibnftuJSOJ2I4yZs\" class=\"secret\"><p>@UUID[Actor.QRwasUALpkuwthhS]{Il Barone}</p></section>"
+    },
+    {
+      "id": "LB1Qv7lfSY0b02HH",
+      "name": "Il Re della Palude",
+      "type": "creature",
+      "gmbiography": "<section id=\"secret-BLM1CbS1ythIuWEs\" class=\"secret\"><p>@UUID[JournalEntry.d8nvgs2H5MmtKhdM.JournalEntryPage.L5gV9pgaWXB3floP#the-cult-of-the-bog-king]{Il Culto del Re della Palude}</p><p>Il Re della Palude è davvero spaventoso. Il suo cervello molle è largo quasi cinque metri e pulsa di una luce interna propria; i tentacoli raggiungono i 100 metri e in cima possiedonograppoli di occhi grandemente mobili, simili a vesciche; il becco appuntito è sufficientemente grande da fare a pezzi un carro. È una creatura sorprendentemente agile, in grado di procedere attraverso tubature larghe appena trenta centimetri, cosa che lo rende pressoché impossibile da localizzare.</p><p>se i PG incorrono nell’ira del Re della Palude mentre sono in superficie, questi attaccherà allungando un singolo tentacolo attraverso una conduttura o un tombino. Il GM può usare il profilo indicato sopra, ma per un solo tentacolo. Se il Re della Palude subisce almeno 20 Ferite, ritirerà a sé il tentacolo con uno spaventoso fragore. Se il gruppo si avventura sotto le strade di Ubersreik, potrebbe imbattersi in tutta la sua potenza (usare le regole complete). </p></section>"
+    },
+    {
+      "id": "itvpbprrrMzX6oD6",
+      "name": "L’Anguilla",
+      "type": "creature",
+      "gmbiography": "<section id=\"secret-NFBEFYhwzKvAPFo7\" class=\"secret\"><p>@UUID[JournalEntry.TSyoR9nSk7cehypG.JournalEntryPage.yY5DUbAdKg2MhDva]{Ponte di Ubersreik}</p><p>Il mendicante noto in città come “Anguilla” si chiamava Klaus Schleimischer, pesce piccolo di una ricca famiglia di costruttori di barche. Negli anni è diventato un corriere di fiume, che contrabbandava merci evitando le autorità, finché non entrò in contatto con i cultisti della @UUID[JournalEntry.d8nvgs2H5MmtKhdM.JournalEntryPage.L5gV9pgaWXB3floP#the-shifting-grasp]{Stretta Mutevole}. Mentre contrabbandava Warpietra per il culto, ricevette una “benedizione”, una mutazione. La sua pelle è diventata via via scivolosa, rendendogli impossibile lavorare come contrabbandiere, perciò passa il tempo a mendicare lungo i @UUID[JournalEntry.TSyoR9nSk7cehypG.JournalEntryPage.BQA04SKWoMFPjb7T]{moli di Ubersreik}, tenendo occhi e orecchie aperte per conto dei capi del culto.</p></section>"
+    },
+    {
+      "id": "22a2dbRVvo7bFk8u",
+      "name": "Il Terrore del Teufel",
+      "type": "creature",
+      "gmbiography": "<section id=\"secret-rKgq0PkKl8LxHCny\" class=\"secret\"><p>@UUID[JournalEntry.1nxjKAYE9G3Nyk0o.JournalEntryPage.z8MAOtmZvkgFOsEH#without-a-trace]{Senza Traccia}</p></section>"
+    },
+    {
+      "id": "rpIcUXefVyxO8aML",
+      "name": "Thikad Urgolsson",
+      "type": "creature",
+      "gmbiography": "<section id=\"secret-36fYhI6u2BCoKPgM\" class=\"secret\"><p>@UUID[JournalEntry.HUQGe1nm81Hfslkv.JournalEntryPage.r7kE5srdshGq5B6D]{Fiamme alla Luna Rossa}</p><p>Thikad Urgolsson – Sventratore Nano Urgolsson ha pronunciato il giuramento dello Sventratore dopo aver perduto un cimelio di famiglia – la spada runica Portarancore – al gioco delle Dita di Ranald. Ora si è convinto di essere stato imbrogliato da Lohner e non si fermerà finché il locandiere non sarà morto.</p></section>"
+    },
+    {
+      "id": "K57y8T7OKCJl2uEX",
+      "name": "Nogor",
+      "type": "creature",
+      "gmbiography": "<section id=\"secret-IJYybEvnYgH87qhk\" class=\"secret\"><p>I Nogor hanno corna piccole e vestigiali e perciò sono a malapena considerati ‘Gor’ all’interno dei branchi. Alcuni hanno volti quasi umani, che permettono loro di infiltrarsi, ma li rendono anche vittime di scherno. Vengono maltrattati dai Gor e sono spesso rachitici e malnutriti a confronto dei loro simili dalla grandi corna. Per questo sono amareggiati e sfogano la propria gelosia sul prossimo.</p></section>"
+    },
+    {
+      "id": "TKM7T6dQMde2jUWJ",
+      "name": "Wendelin von Jungfreud",
+      "type": "npc",
+      "gmnotes": "<p>@UUID[JournalEntry.TSyoR9nSk7cehypG.JournalEntryPage.fXCf8wLZzVIDGpVG]{Cappella di Sant'Arnold}</p><p>Wendelin è un ragazzo teso, con i nervi a fior di pelle, di appena 12 estati, poco avvezzo a difficoltà o a intrighi. Considerato una costante delusione dal suo severo e intransigente padre, il @UUID[Compendium.wfrp4e-ua2.ua2-actors.KHU4UeFIP5yokI6u]{Graf Sigismund von Jungfreud}, Wendelin cercò rifugio negli studi. Amante della natura, passava ogni ora di luce nei grandi giardini del @UUID[JournalEntry.TSyoR9nSk7cehypG.JournalEntryPage.Nhd3vUOVqhDhtRty]{Castello Roccia Nera}, illustrando fiori e farfalle, osservando le abitudini degli insetti o la crescita di muschi e licheni. È inutile dire che l’ansia delle ultime ottimane, per non parlare dell’essere confinato nel tunnel sotto la @UUID[JournalEntry.TSyoR9nSk7cehypG.JournalEntryPage.fXCf8wLZzVIDGpVG]{cappella}, lo hanno portato allo stremo.</p>"
+    }
+  ]
+}
