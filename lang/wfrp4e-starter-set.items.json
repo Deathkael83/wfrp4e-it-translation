@@ -1,0 +1,194 @@
+{
+  "label": "Articoli Vari (Starter Set)",
+  "mapping": {
+    "effects": "effects",
+    "gmdescription": "system.gmdescription.value",
+    "symptoms": "system.symptoms.value",
+    "contraction": "system.contraction.value",
+    "permanent": "system.permanent.value",
+    "incubation": "system.incubation.value",
+    "range": "system.range.value",
+    "duration": "system.duration.value",
+    "target": "system.target.value",
+    "wounds": "system.wounds.value",
+    "modifier": "system.modifier.value"
+  },
+  "entries": [
+    {
+      "id": "6cojY1IRxvJev8kt",
+      "name": "Squarcio",
+      "description": "<p>Causa 1 @Condition[Sanguinante]</p>"
+    },
+    {
+      "id": "vj8VdUbOpT1vepsL",
+      "name": "Colpo al Ventre",
+      "description": "<p>Causa 1 @Condition[Stordito]</p>"
+    },
+    {
+      "id": "HPszYSWoB4ObYOBM",
+      "name": "Colpo Basso!",
+      "description": "<p>Causa 1 @Condition[Stordito] e richiede una <strong>Prova Ardua (-20) di Tempra</strong> per non subire altri 2 Stordito.</p>"
+    },
+    {
+      "id": "JxCMVZYWoLpaMiWR",
+      "name": "Fiato Mozzo",
+      "description": "<p>Causa 2 @Condition[Stordito] e richiede una <strong>Prova Media (+20) di Tempra</strong> per non cadere @Condition[Prono]. Il Movimento del Personaggio è dimezzato per [[/r 1d10]] Round, finchè non riprende fiato.</p>"
+    },
+    {
+      "id": "h3gFDi7hULlP2TJX",
+      "name": "Livido",
+      "description": "<p>Tutte le <strong>Prove di Agilità</strong> subiscono -10 per [[/r 1d10]] giorni.</p>"
+    },
+    {
+      "id": "7u2XsoTaIdEMsnzG",
+      "name": "Lacerazione",
+      "description": "<p>Causa 2 @Condition[Sanguinante]</p>"
+    },
+    {
+      "id": "vcM1EnJXXM02anIi",
+      "name": "Osso Incrinato",
+      "description": "<p>Causa 1 @Condition[Stordito] e tutte le Prove subiscono –10 finchè non ricevono adeguate cure con una <strong>Prova di Guarire</strong>.</p>"
+    },
+    {
+      "id": "pmggfvcdKxjfsgLF",
+      "name": "Ferita Aperta",
+      "description": "<p>Causa 3 @Condition[Sanguinante] e, per un'ottimana, ogni ulteriore colpo ricevuto alla Locazione fa riaprire la ferita causando 1 Sanguinante.</p><blockquote class=\"foundry-note\"><p>Lo script Active Effect per questo elemento richiede il tuo contributo. Una volta applicato a un Personaggio, sostituisci <span style=\"font-family: Courier\">QUESTA LOCAZIONE</span> con <span style=\"font-family: Courier New\">Testa</span>, <span style=\"font-family: Courier New\">Torso</span>, <span style=\"font-family: Courier\">Braccio Sinistro</span>, <span style=\"font-family: Courier\">Braccio Destro</span>, <span style=\"font-family: Courier\">Gamba Sinistra</span>, o <span style=\"font-family: Courier\">Gamba Destra,</span> corrispondente a quale posizione è stata colpita</p></blockquote>"
+    },
+    {
+      "id": "Vj7jkZ1ZtJKXKYmu",
+      "name": "Taglio Doloroso",
+      "description": "<p>Causa 2 @Condition[Sanguinante], 1 @Condition[Stordito] e richiede una <strong>Prova Ardua (–20) di Tempra</strong> per non finire @Condition[Privo di Sensi] per il dolore</p>"
+    },
+    {
+      "id": "SdB0sthOSurZWqYe",
+      "name": "Osso Fratturato",
+      "description": "<p>Causa 1 @Condition[Stordito] e richiede una <strong>Prova Impegnativa (+0) di Tempra</strong> per non cadere @Condition[Prono]. inoltre, tutte le Prove subiscono –10 per le quattro ottimane seguenti.</p>"
+    },
+    {
+      "id": "CsnWW8GohpZyEAYG",
+      "name": "Muscolo Strappato",
+      "description": "<p>Causa 4 @Condition[Sanguinante] e, per quattro ottimane, ogni ulteriore colpo ricevuto alla Locazione fa riaprire la ferita causando 2 Sanguinante.</p><blockquote class=\"foundry-note\"><p>Lo script Active Effect per questo elemento richiede il tuo contributo. Una volta applicato a un Personaggio, sostituisci <span style=\"font-family: Courier\">QUESTA LOCAZIONE</span> con <span style=\"font-family: Courier New\">Testa</span>, <span style=\"font-family: Courier New\">Torso</span>, <span style=\"font-family: Courier\">Braccio Sinistro</span>, <span style=\"font-family: Courier\">Braccio Destro</span>, <span style=\"font-family: Courier\">Gamba Sinistra</span>, o <span style=\"font-family: Courier\">Gamba Destra,</span> corrispondente a quale posizione è stata colpita</p></blockquote>"
+    },
+    {
+      "id": "xtJXTEjOQtn3pods",
+      "name": "Tendine Lesionato",
+      "description": "<p>Causa @Condition[Prono] che può essere rimosso solo con una <strong>Prova Impegnativa (+0) di Guarire</strong>. Inoltre, tutte le Prove subiscono –20 finchè non si ricevono cure mediche e si passa un'intera ottimana a letto.</p>"
+    },
+    {
+      "id": "9re1DIxquRgCswc2",
+      "name": "Osso Polverizzato",
+      "description": "<p>Causa @Condition[Stordito] che può essere rimosso solo con una <strong>Prova Impegnativa (+0) di Guarire</strong>. Inoltre, tutte le Prove subiscono –20 finchè non si ricevono cure mediche e si passa un'intera ottimana a letto.</p>"
+    },
+    {
+      "id": "M181psxcR6fA3wNB",
+      "name": "Distrutto",
+      "description": "<p>Causa @Condition[Privo di Sensi] che può essere rimosso solo con una <strong>Prova Impegnativa (+0) di Guarire</strong>. La Locazione colpitaè inservibile finchè non si passa almeno un mese a letto.</p>"
+    },
+    {
+      "id": "ULUNwr1srKJhCYKi",
+      "name": "Smembrato",
+      "description": "<p>Il Personaggio viene tagliato in due. La metà superiore cade a [[/r 1d10]]x30 cm di distanza e tutti i presenti vengono insozzati di sangue.</p>",
+      "wounds": "Morte"
+    },
+    {
+      "id": "vUGt1d6vzu3kuMYu",
+      "name": "Elisir Migliorativo",
+      "description": "",
+      "gmdescription": "<p>Questa misteriosa pozione contiene Radice stramba: è densa, terrosa e provoca un senso di euforia e piacevoli allucinazioni. Fornisce un bonus di +10 alle Prove di Volontà, ma una penalita di -10 a quelle di Agilita, Iniziativa e Intelligenza.</p><p><strong>Durata: </strong>[[/r 1d10 * 10]] minuti.</p>"
+    },
+    {
+      "id": "cCMhuudYsHlP1t56",
+      "name": "Bile Nefasta di Basilisco",
+      "description": "<p>Questo veleno è creato dalla combinazione dei fluidi oculari e delle sacche velenifere di un Basilisco appena ucciso. E' un veleno dal sapore disgustoso e chiunque ingerisca cibo o bevande contaminati con la Bile Nefasta di Basilisco deve effettuare una<strong> Prova Facile (+40) di Percepire</strong>. Un Successo indica che la persona si accorge della contaminazione prima di subire gli effetti del veleno, ma ottiene una Condizione @Condition[Stordito] per un Round mentre lo vomita. Se ingerito, l’intruglio infligge 2 Condizioni @Condition[Avvelenato] contrastabili con una <strong>Prova Difficile (-10) di Tempra</strong>. Se il bersaglio non riesce a resistere alle Condizioni @Condition[Avvelenato], viene permanentemente tramutato in pietra.</p>"
+    },
+    {
+      "id": "lTsRQp3AmDBcXg9L",
+      "name": "Filtro della Concentrazione",
+      "description": "",
+      "gmdescription": "<p>Un sorso di questo filtro, scuro e amabile, acuisce la mente e aiuta la concentrazione. Fornisce un bonus di +20 alle Prove d’Intelligenza e di Tempra. Quando i suoi effetti si esauriscono, nondimeno, provoca 1 @Condition[Affaticato] che dura almeno un giorno. </p><p><span style=\"font-family: Calibri\"><strong>Durata: </strong></span>[[/r 1d10]] ore. </p>"
+    },
+    {
+      "id": "D8jml7l6GANTVwXn",
+      "name": "Cordiale di Katya",
+      "description": "",
+      "gmdescription": "<p>Si tratta di un’emulsione profumata, di un rosa opalescente e dal sapore piccante. Questa pozione rende il bevitore leggermente più affascinante, ma a un prezzo. Mentre è sotto la sua influenza, il bevitore ottiene benefici del Talento @Compendium[wfrp4e-core.talents.6l3jvIAvrKxt0lA9]{Attraente} ,ma al termine subirà una penalita di -20 a tutte le Prove di Socialità per [[/r 1d10]]&nbsp;giorni, mentre secernerà un fluido giallastro e maleodorante dalla pelle e dagli occhi.&nbsp;</p>\n<p>Durata:&nbsp;[[/r 1d10]] ore&nbsp;</p>"
+    },
+    {
+      "id": "bycar0CfYqx6OOft",
+      "name": "Liquore della Fortuna",
+      "description": "",
+      "gmdescription": "<p>Questo liquido blu brillante odora leggermente di liquirizia. Consumato, fornisce +1 Punto Fortuna. Inoltre, quando chi è sotto il suo effetto usa un Punto Fortuna, deve lanciare&nbsp;[[/r 1d100]]. ISe ottiene un doppio, recupera subito il punto speso. Quando l’effetto svanisce, tuttavia, perderà tutti i propri Punti Fortuna e subirà 1&nbsp;@Condition[Affaticato]&nbsp;della durata di almeno un giorno.&nbsp;</p>\n<p>Durata:&nbsp;[[/r 1d10]] minuti.</p>"
+    },
+    {
+      "id": "mZHMUtVLsASroIQH",
+      "name": "Ricostuente Reazionario",
+      "description": "",
+      "gmdescription": "<p>Questo liquido rosso sangue, molto denso e dal sapore sgradevole, migliora i tempi di reazione di fronte al pericolo. Chi è sotto i suoi effetti non subisce mai la Condizione Sorpreso. Quando l’effetto svanisce, però, subirà 1 Affaticato che durerà almeno un’intera giornata.&nbsp;</p>\n<p><strong>Durata</strong>: [[/r 1d10]] ore.</p>"
+    },
+    {
+      "id": "9xOhhmZzKTPS2SnO",
+      "name": "La Meravigliosa Mistura Medicinale",
+      "description": "",
+      "gmdescription": "<p>Chiunque desideri mandar giù questo liquido dolciastro dall’olezzo di pesce, deve superare una <strong>Prova Media (+20) di Freddezza</strong>. Una volta fatto, riceverà 1 Affaticato che non potrà essere sanato senza una buona notte di sonno. La pozione ha altri effetti ma, a causa del terribile sapore, i clienti di von Holzenauer rimangono convinti della sua efficacia nel curare qualsiasi malanno.</p>"
+    },
+    {
+      "id": "AulAEeUVTGuCmQPX",
+      "name": "Tonico della Vista Oltre la Vista",
+      "description": "",
+      "gmdescription": "<p>L’etichetta di questo liquido verde scuro mostra un grande occhio rosso e promette di migliorare la vista del bevitore. Berla conferisce i benefici di uno o più Talenti come di seguito ([[/r 1d10]]):</p>\n<p>1-2: @Compendium[wfrp4e-core.talents.9h82z72XGo9tfgQS]{Senso Acuto (Vista)};</p>\n<p>3-4: @Compendium[wfrp4e-core.talents.Nj3tC8A5fZ3zEdMR]{Visioni Mistiche};</p>\n<p>5-6: @Compendium[wfrp4e-core.talents.6w30u0VPsAicrqb5]{Senso Magico};</p>\n<p>7-8: @Compendium[wfrp4e-core.talents.OEjUvJKi0xmBwbS2]{Seconda Vista};</p>\n<p>9-10: Tutto quanto descritto sopra.&nbsp;</p>\n<p>Durata:&nbsp;[[/r 1d10]]minuti.</p>"
+    },
+    {
+      "id": "BBYmXJ5jiRUk93IJ",
+      "name": "Febbre del Bronzo",
+      "description": "<p>La Febbre del Bronzo è piu diffusa nel Sud del Vecchio Mondo, in climi caldi e umidi, dove si diffonde attraverso le punture d’insetto. Molti degli afflitti si riprendono in pochi giorni, ma in alcuni casi si manifestano complicazioni che possono condurre addirittura alla morte</p>",
+      "symptoms": "Febbre, Malessere, Nausea, Persistenza (Facile)",
+      "contraction": "fallire una Prova Media (+20) di Tempra dopo essere stato morso da una zanzara infetta. Se viene iniettato o bevuto del sangue infetto, il contagio e automatico"
+    },
+    {
+      "id": "TQDlbIGPOPNDF9uB",
+      "name": "Doppelganger",
+      "description": "<p>Il PNG puo assumere la forma di qualsiasi creatura umanoide di Taglia Media. Una volta ottenuti almeno 5 LS in una <strong>Prova Prolungata di Percepire</strong> per esaminare il bersaglio, può trasformarsi in esso, cosa che gli richiede 2 Round. Abiti e piccoli oggetti vengono duplicati, ma sono parte della creatura e non possono essere rimossi. Gli Averi di grandi dimensioni, come spade o zaini, non possono essere copiati. Quando una persona che conosce bene la vittima incontra il Doppelganger, deve effettuare una <strong>Prova Difficile (−20) di Intuire</strong>. Se la supera, nota che qualcosa non va, altrimenti rimane convinto che la creatura sia esattamente la persona conosciuta.</p>"
+    },
+    {
+      "id": "rIBB37yMATXRnFbp",
+      "name": "Saif al-Janub",
+      "description": "<p>Questa lama ricurva, donata a Lohner per aver preso parte all’azione decisiva nella difesa di Sudenburg contro i Nonmorti nel 2498 C.I., fù realizzata dal famoso filosofo-artigiano Hataq al-Kundi nel 1445 C.I. E' un oggetto straordinario e in Arabia varrebbe dieci volte il prezzo indicato.</p>"
+    },
+    {
+      "id": "iBS0fYHCX9VHdyVR",
+      "name": "Grappolo d'Occhi",
+      "description": "<p>Bolle e cisti si agitano sotto il derma del Personaggio, fino a dischiudersi dolorosamente, rivelando grappoli di orridi nuovi bulbi oculari.</p><p>Lanciare @Table[hitloc]{Locazione} per determinare la Locazione di questi nuovi occhi. Il Personaggio può vedere attraverso di essi e la sua Iniziativa aumenta di [[/r 1d10]]. Se non possiede tale punteggio, ottiene altri [[/r 2d10]]. Tutti i colpi contro la Locazione dei bulbi oculari causano anche 1 @Condition[Accecato].</p>"
+    },
+    {
+      "id": "ox7tLcnA1HMxhyBF",
+      "name": "Enorme Intelletto",
+      "description": "<p>Sangue caldo, frammenti d’osso e pelle suppliziata si riversano da ogni oriizio del Personaggio, mentre vomita il suo vecchio cervello. Lentamente, nel corso delle settimane, gliene cresce uno nuovo, luminoso e rigonfio, che gli dilata, dolorosamente, la testa rendendola una membrana traslucida.</p><p>La sua Intelligenza aumenta di [[/r 2d10]]. Se non possiede tale punteggio, ottiene altri [[/r 2d10]]. Tutti i colpi diretti alla Testa causano automaticamente una @Table[crithead]{Ferita Critica} (se non sono già Critici).</p>"
+    },
+    {
+      "id": "IPrHvStaZ2hw3Q8z",
+      "name": "Pelle Scivolosa",
+      "description": "<p>Il Personaggio trasuda in continuazione, producendo un sottile strato di viscido muco, simile a quello che secerne un’anguilla. Non solo il muco è disgustoso al tatto, ma permea i suoi vestiti nel giro di un paio d’ore e rende la sua presa incerta.</p><p>Il Personaggio subisce una penalità di -20 a tutte le prove che richiedono di impugnare qualcosa (come un’arma) e quelle appropriate di Socialità. Tuttavia, riesce a sfuggire a qualsiasi presa, caso in cui può decidere se usare il normale LS o il valore del dado delle unità. Per esempio, un risultato di 28 potrebbe essere usato come +8 LS.</p>",
+      "modifier": "-20 sui Test che coinvolgono il tenere cose, -20 Socialità"
+    },
+    {
+      "id": "6clrmh4DXUJgzJqc",
+      "name": "Telepatia",
+      "description": "<p>La mente del Personaggio si svincola dalla sua catena materiale e balbetta di gioia nel tempo in cui scopre come imporsi sulle menti altrui.</p><p>Con una <strong>Prova Semplice di Volontà</strong>, il Personaggio può comunicare telepaticamente con qualsiasi creatura senziente visibile entro un numero di metri pari alla propria Volontà. Questo effetto dura un numero di minuti pari alla sua Iniziativa. Inoltre può leggere le menti di tutti coloro con cui comunica sensorialmente, superando una <strong>Prova Contrapposta di Volontà</strong>. Se fallisce, non può piu leggere la mente di quella creatura per [[/r 1d10]] giorni. Quando utilizza questo potere, le pupille del Personaggio luccicano in modo spettrale. Ogni volta che ottiene di nuovo questa mutazione, il raggio d’azione viene raddoppiato.</p><p> </p><p> </p>"
+    },
+    {
+      "id": "j43uKlFEckLe70LP",
+      "name": "Fastidio Pruriginoso",
+      "description": "<p>Lo sciamano agita le dita, lanciando dalle punte delle piccole spore fungine pruriginose, che si insinuano nelle zone più sensibili del bersaglio. Qui vi prosperano rapidamente, causando un prurito insopportabile. La vittima subisce un -10 a tutte le Prove e dimezza il proprio Movimento per la durata dell’effetto.</p>",
+      "range": "Volontà metri",
+      "duration": "Bonus Volontà Round"
+    },
+    {
+      "id": "PQr8MOz38M0TXlga",
+      "name": "Pugnalata Subdola",
+      "description": "<p>Lo sciamano incanta le lame dei propri alleati, così che riescano a colpire i punti deboli delle armature nemiche. I bersagli ottengono +1 Vantaggio e, finché lo conservano, i loro attacchi guadagnano la Qualità delle Armi Penetranti.</p>",
+      "range": "Volontà metri",
+      "duration": "Speciale",
+      "target": "Bonus Socialità Goblin"
+    }
+  ]
+}
