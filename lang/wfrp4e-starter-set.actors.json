@@ -1,4 +1,5 @@
 {
+  "label": "PNG (Starter Set)",
   "mapping": {
     "gmnotes": "system.details.gmnotes.value",
     "gmbiography": "system.details.biography.value"
