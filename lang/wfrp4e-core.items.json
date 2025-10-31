@@ -28,6 +28,7 @@
     "target": "system.target.value",
     "tests": "system.tests.value",
     "rollable": "system.rollable.skill"
+    "lore@": "normalizeLore"
   },
 
   "entries": [
