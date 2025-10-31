@@ -3,7 +3,7 @@
   "name": "wfrp4e-it-translation",
   "title": "WFRP4e Italian Translation",
   "description": "Traduzione italiana aggiornata del sistema Warhammer Fantasy Roleplay 4ª Edizione per Foundry VTT.",
-  "version": "2.0.5",
+  "version": "2.0.6",
   "compatibility": {
     "minimum": "12",
     "verified": "13",
