@@ -4708,6 +4708,7 @@
       "target": "Sè stessi"
     },
     {
+      "_id": "QmjYLCaEn3YKHxdv"
       "id": "Bolt",
       "name": "Strale",
       "description": "<p>Il Mago concentra la magia in un dardo fatato. È un proiettile magico con Danno +4.</p>",
@@ -5508,6 +5509,7 @@
       "target": "Sè stessi"
     },
     {
+      "_id": "T8nErqWnkqdvcNVz"
       "id": "Dart",
       "name": "Dardo",
       "description": "<p>Il Mago scaglia un piccolo dardo di energia magica dalle dita. È un <em>proiettile magico</em> con Danno +0.</p><p>\n\n <b>Sapere:</b> Nessuno<p>",
@@ -9269,6 +9271,7 @@
       "description": "<p></p>"
     },
     {
+      "_id": "kFROfGFdExfyJTg9"
       "id": "Bolt",
       "name": "Quadrelli",
       "description": "<p></p>"
@@ -9484,6 +9487,7 @@
       "description": "<p></p>"
     },
     {
+      "_id": "ddXgrDWZXSM3nXaf"
       "id": "Dart",
       "name": "Dardo",
       "description": "<p></p>"
