@@ -1153,62 +1153,72 @@ var trappings = {
 };
 
 Hooks.once('init', () => {
-	if (typeof Babele !== 'undefined') {
-		Babele.get().register({
-			module: 'wfrp4e-it-translation',
-			lang: 'it',
-			dir: 'lang',
-		});
+  if (typeof Babele === 'undefined') return;
 
-    const loreToId = {
-      "Minore": "petty",
-      "Bestie": "beasts",
-      "Morte": "death",
-      "Fuoco": "fire",
-      "Cieli": "heavens",
-      "Metallo": "metal",
-      "Vita": "life",
-      "Luce": "light",
-      "Ombra": "shadow",
-      "Soglia": "hedgecraft",
-      "Stregoneria": "witchcraft",
-      "Demonologia": "daemonology",
-      "Negromanzia": "necromancy",
-      "Indiviso": "undivided",
-      "Nurgle": "nurgle",
-      "Slaanesh": "slaanesh",
-      "Tzeentch": "tzeentch"
-    };
+  // 1) Registra dove stanno i JSON dei compendium
+  Babele.get().register({
+    module: 'wfrp4e-it-translation',
+    lang: 'it',
+    dir: 'compendium',   // <— NON 'lang'
+  });
 
-		Babele.get().registerConverters({
-			normalizeLore: (v) => loreToId[v] || v,
-      			
-			convertSkills: (values) => {
-				let data = [];
-				values.map((skill) => {
-					data.push(skills[skill] ? skills[skill] : skill);
-				});
-				return data;
-			},
-			convertTalents: (values) => {
-				let data = [];
-				values.map((talent) => {
-					data.push(talents[talent] ? talents[talent] : talent);
-				});
-				return data;
-			},
-			convertTrappings: (values) => {
-				let data = [];
-				values.map((trapping) => {
-					data.push(
-						trappings[trapping] ? trappings[trapping] : trapping
-					);
-				});
-				return data;
-			},
-		});
-	}
+  // 2) Converter robusto per 'lore'
+  const loreToId = {
+    "minore": "petty",
+    "bestie": "beasts",
+    "morte": "death",
+    "fuoco": "fire",
+    "cieli": "heavens",
+    "metallo": "metal",
+    "vita": "life",
+    "luce": "light",
+    "ombra": "shadow",
+    "soglia": "hedgecraft",
+    "stregoneria": "witchcraft",
+    "demonologia": "daemonology",
+    "negromanzia": "necromancy",
+    "indiviso": "undivided",
+    "nurgle": "nurgle",
+    "slaanesh": "slaanesh",
+    "tzeentch": "tzeentch",
+    // Se per caso nelle entry hai già gli ID inglesi, li lasciamo passare invariati:
+    "petty": "petty",
+    "beasts": "beasts",
+    "death": "death",
+    "fire": "fire",
+    "heavens": "heavens",
+    "metal": "metal",
+    "life": "life",
+    "light": "light",
+    "shadow": "shadow",
+    "hedgecraft": "hedgecraft",
+    "witchcraft": "witchcraft",
+    "daemonology": "daemonology",
+    "necromancy": "necromancy",
+    "undivided": "undivided"
+  };
+
+  let loggedOnce = false;
+  const normalizeLore = (v) => {
+    if (typeof v !== "string") return v;
+    const key = v.trim().toLowerCase();
+    const out = loreToId[key] || v;
+    if (!loggedOnce) {
+      console.debug("Babele normalizeLore attivo. Esempio:", v, "→", out);
+      loggedOnce = true;
+    }
+    return out;
+  };
+
+  // 3) Converter registrati (lascia pure i tuoi già presenti)
+  Babele.get().registerConverters({
+    normalizeLore,
+    convertSkills: (values) => values.map(s => skills[s] ?? s),
+    convertTalents: (values) => values.map(t => talents[t] ?? t),
+    convertTrappings: (values) => values.map(tr => trappings[tr] ?? tr),
+  });
 });
+
 
 Hooks.once('setup', () => {
 	// Species
