@@ -1160,6 +1160,30 @@ Hooks.once('init', () => {
 			dir: 'lang',
 		});
 
+    const loreToId = {
+      "Minore": "petty",
+      "Bestie": "beasts",
+      "Morte": "death",
+      "Fuoco": "fire",
+      "Cieli": "heavens",
+      "Metallo": "metal",
+      "Vita": "life",
+      "Luce": "light",
+      "Ombra": "shadow",
+      "Soglia": "hedgecraft",
+      "Stregoneria": "witchcraft",
+      "Demonologia": "daemonology",
+      "Negromanzia": "necromancy",
+      "Indiviso": "undivided",
+      "Nurgle": "nurgle",
+      "Slaanesh": "slaanesh",
+      "Tzeentch": "tzeentch"
+    };
+
+    Babele.get().registerConverters({
+      normalizeLore: (v) => loreToId[v] || v,
+      // ...i tuoi altri converters (skills/talents/trappings)...
+    });
 		Babele.get().registerConverters({
 			convertSkills: (values) => {
 				let data = [];
