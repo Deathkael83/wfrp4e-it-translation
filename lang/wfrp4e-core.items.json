@@ -26,7 +26,7 @@
     "duration": "system.duration.value",
     "target": "system.target.value",
     "tests": "system.tests.value",
-    "rollable": "system.rollable.skill",
+    "rollable": "system.rollable.skill"
   },
 
   "entries": [
