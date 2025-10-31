@@ -5520,7 +5520,6 @@
       "id": "Dazzle",
       "name": "Abbagliare",
       "description": "<p>Il bersaglio subisce 1 @Condition[Accecato]più un altro all’inizio di ogni Round per la durata dell’effetto.</p><p>\n\n <b>Sapere:</b> Nessuno<p>",
-      "lore": "Minore",
       "range": "Tocco",
       "duration": "Bonus Volontà Round"
     },
