@@ -1159,7 +1159,7 @@ Hooks.once('init', () => {
   Babele.get().register({
     module: 'wfrp4e-it-translation',
     lang: 'it',
-    dir: 'compendium',   // <— NON 'lang'
+    dir: 'lang',
   });
 
   // 2) Converter robusto per 'lore'
