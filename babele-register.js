@@ -1180,11 +1180,9 @@ Hooks.once('init', () => {
       "Tzeentch": "tzeentch"
     };
 
-    Babele.get().registerConverters({
-      normalizeLore: (v) => loreToId[v] || v,
-      // ...i tuoi altri converters (skills/talents/trappings)...
-    });
 		Babele.get().registerConverters({
+			normalizeLore: (v) => loreToId[v] || v,
+      			
 			convertSkills: (values) => {
 				let data = [];
 				values.map((skill) => {
