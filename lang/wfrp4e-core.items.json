@@ -26,7 +26,8 @@
     "duration": "system.duration.value",
     "target": "system.target.value",
     "tests": "system.tests.value",
-    "rollable": "system.rollable.skill"
+    "rollable": "system.rollable.skill",
+    "damage": "system.damage.value"
   },
 
   "entries": [
@@ -4737,12 +4738,13 @@
       "duration": "Istantanea"
     },
     {
-      "id": "Breath",
+      "id": "cfvdViThaoOHyuSk",//soffio
       "name": "Soffio",
       "description": "<p>Il Mago effettua un attacco a Soffio, come se avesse speso 2 Vantaggi per attivare il Tratto @Compendium[wfrp4e-core.items.Item.uqGxFOEqeurwkAO3]{Soffio}. È un <em>proiettile magico</em> con Danno pari al suo Bonus Resistenza. Il GM decide che tipo di soffio sia più adatto in base al Talento <em>Magia Arcana</em> dell’incantatore.</p>",
       "range": "1 m",
       "duration": "Istantanea",
       "target": "Speciale"
+      "damage:" "Bonus Resistenza"
     },
     {
       "id": "Breath (Beasts)",
@@ -4750,7 +4752,8 @@
       "description": "<p>Il Mago effettua un attacco a Soffio, come se avesse speso 2 Vantaggi per attivare il Tratto @Compendium[wfrp4e-core.items.Item.uqGxFOEqeurwkAO3]{Soffio}. È un <em>proiettile magico</em> con Danno pari al suo Bonus Resistenza. Il GM decide che tipo di soffio sia più adatto in base al Talento <em>Magia Arcana</em> dell’incantatore.</p><p>\n\n <b>Sapere:</b> Ogni volta che un Mago lancia con successo un Incantesimo del Sapere delle Bestie ottiene anche il Tratto @Compendium[wfrp4e-core.items.Item.pTorrE0l3VybAbtn]{Spaventoso (1)} per i prossimi [[/r 1d10]] Round.<p>",
       "range": "1 m",
       "duration": "Istantanea",
-      "target": "Speciale"
+      "target": "Speciale",
+      "damage:" "Bonus Resistenza"
     },
     {
       "id": "Breath (Daemonology)",
@@ -4758,7 +4761,8 @@
       "description": "<p>Il Mago effettua un attacco a Soffio, come se avesse speso 2 Vantaggi per attivare il Tratto @Compendium[wfrp4e-core.items.Item.uqGxFOEqeurwkAO3]{Soffio}. È un <em>proiettile magico</em> con Danno pari al suo Bonus Resistenza. Il GM decide che tipo di soffio sia più adatto in base al Talento <em>Magia Arcana</em> dell’incantatore.</p>",
       "range": "1 m",
       "duration": "Istantanea",
-      "target": "Speciale"
+      "target": "Speciale",
+      "damage:" "Bonus Resistenza"
     },
     {
       "id": "Breath (Death)",
@@ -4766,7 +4770,8 @@
       "description": "<p>Il Mago effettua un attacco a Soffio, come se avesse speso 2 Vantaggi per attivare il Tratto @Compendium[wfrp4e-core.items.Item.uqGxFOEqeurwkAO3]{Soffio}. È un <em>proiettile magico</em> con Danno pari al suo Bonus Resistenza. Il GM decide che tipo di soffio sia più adatto in base al Talento <em>Magia Arcana</em> dell’incantatore.</p><p>\n\n <b>Sapere:</b> Chi viene colpito da un Incantesimo del Sapere della Morte è prosciugato della vita; il Mago può assegnare a piacere 1 @Condition[Affaticato] a ogni bersaglio vivente affetto dagli Incantesimi di questo Sapere. E' possibile accumulare solo un <em>Affaticato</em> alla volta in questo modo.<p>",
       "range": "1 m",
       "duration": "Istantanea",
-      "target": "Speciale"
+      "target": "Speciale",
+      "damage:" "Bonus Resistenza"
     },
     {
       "id": "Breath (Fire)",
@@ -4774,7 +4779,8 @@
       "description": "<p>Il Mago effettua un attacco a Soffio, come se avesse speso 2 Vantaggi per attivare il Tratto @Compendium[wfrp4e-core.items.Item.uqGxFOEqeurwkAO3]{Soffio}. È un <em>proiettile magico</em> con Danno pari al suo Bonus Resistenza. Il GM decide che tipo di soffio sia più adatto in base al Talento <em>Magia Arcana</em> dell’incantatore.</p><p>\n\n <b>Sapere:</b> Il Mago può causare, a piacere, 1 @Condition[In Fiamme] a tutti i bersagli, a meno che non possiedano a propria volta il Talento <em>Magia Arcana (Fuoco)</em>. Inoltre, ogni condizione <em>In Fiamme</em> entro un numero di metri pari al suo Bonus Volontà dal Mago gli conferisce +10 alle Prove di Lancio o Incanalare legate ad <em>Aqshy</em>.<p>",
       "range": "1 m",
       "duration": "Istantanea",
-      "target": "Speciale"
+      "target": "Speciale",
+      "damage:" "Bonus Resistenza"
     },
     {
       "id": "Breath (Heavens)",
@@ -4782,7 +4788,8 @@
       "description": "<p>Il Mago effettua un attacco a Soffio, come se avesse speso 2 Vantaggi per attivare il Tratto @Compendium[wfrp4e-core.items.Item.uqGxFOEqeurwkAO3]{Soffio}. È un <em>proiettile magico</em> con Danno pari al suo Bonus Resistenza. Il GM decide che tipo di soffio sia più adatto in base al Talento <em>Magia Arcana</em> dell’incantatore.</p><p>\n\n <b>Sapere:</b> Gli Incantesimi che causano Danni ignorano le armature metalliche e si scaricano contro tutti i bersagli entro 2m, eccetto chi possiede il Talento <em>Magia Arcana (Empireo)</em>,causando Danni pari al Bonus Volontà, come un <em>proiettile magico</em>.<p>",
       "range": "1 m",
       "duration": "Istantanea",
-      "target": "Speciale"
+      "target": "Speciale",
+      "damage:" "Bonus Resistenza"
     },
     {
       "id": "Breath (Hedgecraft)",
@@ -4790,7 +4797,8 @@
       "description": "<p>Il Mago effettua un attacco a Soffio, come se avesse speso 2 Vantaggi per attivare il Tratto @Compendium[wfrp4e-core.items.Item.uqGxFOEqeurwkAO3]{Soffio}. È un <em>proiettile magico</em> con Danno pari al suo Bonus Resistenza. Il GM decide che tipo di soffio sia più adatto in base al Talento <em>Magia Arcana</em> dell’incantatore.</p><p>\n\n <b>Sapere:</b> Questi Incantesimi, a causa delle antiche tradizioni e delle credenze a essi collegate, non possono essere lanciati senza ingredienti, che sono parte essenziale del procedimento.<br><br>Per fortuna, si tratta, di solito, di erbe e piante facili da trovare ai margini degli insediamenti. Effettuando una Prova di Conoscenza (Erbe) per trovare erbe e piante, il Mago ottiene 1+LS ingredienti, oppure può acquistarli a 5 penny l’uno.<p>",
       "range": "1 m",
       "duration": "Istantanea",
-      "target": "Speciale"
+      "target": "Speciale",
+      "damage:" "Bonus Resistenza"
     },
     {
       "id": "Breath (Life)",
@@ -4798,7 +4806,8 @@
       "description": "<p>Il Mago effettua un attacco a Soffio, come se avesse speso 2 Vantaggi per attivare il Tratto @Compendium[wfrp4e-core.items.Item.uqGxFOEqeurwkAO3]{Soffio}. È un <em>proiettile magico</em> con Danno pari al suo Bonus Resistenza. Il GM decide che tipo di soffio sia più adatto in base al Talento <em>Magia Arcana</em> dell’incantatore.</p><p>\n\n <b>Sapere:</b> Un Druido riceve +10 alle Prove di Lancio e Incanalare quando si trova in un ambiente selvaggio. I bersagli viventi - come quelli privi dei tratti @Compendium[wfrp4e-core.items.Item.v3uzEthcq0JRar0J]{Demoniaco} o @Compendium[wfrp4e-core.items.Item.PFTD9gDvRWW9uh5g]{Nonmorto} — di un Incantesimo della Vita rimuovono tutte le Condizioni @Condition[Affaticato] e @Condition[Sanguinante] mentre la forza vitale li avvolge. I @Compendium[wfrp4e-core.items.Item.PFTD9gDvRWW9uh5g]{Nonmorto}, invece, subiscono Danni aggiuntivi pari al Bonus Volontà del Mago, ignorando il Bonus Resistenza e l’Armatura.<p>",
       "range": "1 m",
       "duration": "Istantanea",
-      "target": "Speciale"
+      "target": "Speciale",
+      "damage:" "Bonus Resistenza"
     },
     {
       "id": "Breath (Light)",
@@ -4806,7 +4815,8 @@
       "description": "<p>Il Mago effettua un attacco a Soffio, come se avesse speso 2 Vantaggi per attivare il Tratto @Compendium[wfrp4e-core.items.Item.uqGxFOEqeurwkAO3]{Soffio}. È un <em>proiettile magico</em> con Danno pari al suo Bonus Resistenza. Il GM decide che tipo di soffio sia più adatto in base al Talento <em>Magia Arcana</em> dell’incantatore.</p><p>\n\n <b>Sapere:</b> Il Mago può infliggere a piacere 1 @Condition[Accecato] a uno o più bersagli, che non possiedano il Talento <em>Magia Arcana (Luce)</em>. I bersagli con i Tratti @Compendium[wfrp4e-core.items.Item.v3uzEthcq0JRar0J]{Demoniaco} o @Compendium[wfrp4e-core.items.Item.PFTD9gDvRWW9uh5g]{Nonmorto} subiscono Danni aggiuntivi pari al Bonus Intelligenza del Mago, ignorando il Bonus Resistenza e l’Armatura.<p>",
       "range": "1 m",
       "duration": "Istantanea",
-      "target": "Speciale"
+      "target": "Speciale",
+      "damage:" "Bonus Resistenza"
     },
     {
       "id": "Breath (Metal)",
@@ -4814,7 +4824,8 @@
       "description": "<p>Il Mago effettua un attacco a Soffio, come se avesse speso 2 Vantaggi per attivare il Tratto @Compendium[wfrp4e-core.items.Item.uqGxFOEqeurwkAO3]{Soffio}. È un <em>proiettile magico</em> con Danno pari al suo Bonus Resistenza. Il GM decide che tipo di soffio sia più adatto in base al Talento <em>Magia Arcana</em> dell’incantatore.</p><p>\n\n <b>Sapere:</b> Gli effetti che causano Danno ignorano le armature metalliche e provocano Danni aggiuntivi pari ai Punti Armatura metallici della Locazione. Per esempio, se un braccio protetto da 2 PA di maglia di ferro venisse colpito subirebbe +2 Danni, ignorando la protezione.<p>",
       "range": "1 m",
       "duration": "Istantanea",
-      "target": "Speciale"
+      "target": "Speciale",
+      "damage:" "Bonus Resistenza"
     },
     {
       "id": "Breath (Necromancy)",
@@ -4822,7 +4833,8 @@
       "description": "<p>Il Mago effettua un attacco a Soffio, come se avesse speso 2 Vantaggi per attivare il Tratto @Compendium[wfrp4e-core.items.Item.uqGxFOEqeurwkAO3]{Soffio}. È un <em>proiettile magico</em> con Danno pari al suo Bonus Resistenza. Il GM decide che tipo di soffio sia più adatto in base al Talento <em>Magia Arcana</em> dell’incantatore.</p>",
       "range": "1 m",
       "duration": "Istantanea",
-      "target": "Speciale"
+      "target": "Speciale",
+      "damage:" "Bonus Resistenza"
     },
     {
       "id": "Breath (Shadow)",
@@ -4830,7 +4842,8 @@
       "description": "<p>Il Mago effettua un attacco a Soffio, come se avesse speso 2 Vantaggi per attivare il Tratto @Compendium[wfrp4e-core.items.Item.uqGxFOEqeurwkAO3]{Soffio}. È un <em>proiettile magico</em> con Danno pari al suo Bonus Resistenza. Il GM decide che tipo di soffio sia più adatto in base al Talento <em>Magia Arcana</em> dell’incantatore.</p><p>\n\n <b>Sapere:</b> Tutti gli effetti che infliggono Danno ignorano i punti Armatura non magici.<p>",
       "range": "1 m",
       "duration": "Istantanea",
-      "target": "Speciale"
+      "target": "Speciale",
+      "damage:" "Bonus Resistenza"
     },
     {
       "id": "Breath (Witchcraft)",
@@ -4838,7 +4851,8 @@
       "description": "<p>Il Mago effettua un attacco a Soffio, come se avesse speso 2 Vantaggi per attivare il Tratto @Compendium[wfrp4e-core.items.Item.uqGxFOEqeurwkAO3]{Soffio}. È un <em>proiettile magico</em> con Danno pari al suo Bonus Resistenza. Il GM decide che tipo di soffio sia più adatto in base al Talento <em>Magia Arcana</em> dell’incantatore.</p><p>\n\n <b>Sapere:</b> Ogni volta che un praticante di Stregoneria tira sulla Tabella degli Incidenti Magici ottiene anche 1 Punto Corruzione. D’altro canto può causare 1 @Condition[Sanguinante] a chiunque sia bersaglio di un Incantesimo di questo Sapere. Infine, ogni tentativo di Lanciare o Incanalare questi Incantesimi senza usare ingredienti richiede un tiro sulla @Table[minormis]{Tabella Incidenti Magici Minori}, ma l’ingrediente non fornirà alcuna protezione in caso di un Disastro. Per fortuna, questi materiali sono comuni ed economici, di solito pezzi di piccoli animali. Il prezzo è il VL dell’Incantesimo in penny (invece che in scellini). In alternativa, una Strega può usare l’Abilità Sopravvivere per ottenere 1+LS ingredienti (vedere Raccogliere Cibo ed Erbe, pag. 129).<p>",
       "range": "1 m",
       "duration": "Istantanea",
-      "target": "Speciale"
+      "target": "Speciale",
+      "damage:" "Bonus Resistenza"
     },
     {
       "id": "Bridge",
@@ -4973,7 +4987,8 @@
       "description": "<p>Il Mago si rinchiude in una gabbia protettiva di <em>Azyr</em> e fulmini crepitanti. Ottiene Punti Armatura pari al LS a tutte le Locazioni contro gli attacchi in mischia. Se l’avversario usa un’arma metallica – come pugnali, spade e lance con la punta di ferro – subirà Danni pari al Bonus Volontà.</p><p>\n\n <b>Sapere:</b> Gli Incantesimi che causano Danni ignorano le armature metalliche e si scaricano contro tutti i bersagli entro 2m, eccetto chi possiede il Talento <em>Magia Arcana (Empireo)</em>,causando Danni pari al Bonus Volontà, come un <em>proiettile magico</em>.<p>",
       "range": "Sè stessi",
       "duration": "Bonus Volontà Round",
-      "target": "Sè stessi"
+      "target": "Sè stessi",
+      "damage": "Bonus Volontà"
     },
     {
       "id": "Chain Attack",
@@ -5964,7 +5979,8 @@
       "description": "<p>Incanalando un’ardente scia di <em>Aqshy</em>, il Mago crea un muro di fiamme della lunghezza in metri pari al suo Bonus Volontà e spessore 1m. Per ogni +2 LS può allungarlo un numero di metri pari al suo Bonus Volontà. Chiunque lo attraversi subisce 1 <em>In Fiamme</em> e un numero di Danni pari al Bonus Volontà del Mago, gestiti come un <em>proiettile magico</em>.</p><p>\n\n <b>Sapere:</b> Il Mago può causare, a piacere, 1 @Condition[In Fiamme] a tutti i bersagli, a meno che non possiedano a propria volta il Talento <em>Magia Arcana (Fuoco)</em>. Inoltre, ogni condizione <em>In Fiamme</em> entro un numero di metri pari al suo Bonus Volontà dal Mago gli conferisce +10 alle Prove di Lancio o Incanalare legate ad <em>Aqshy</em>.<p>",
       "range": "Volontà metri",
       "duration": "Bonus Volontà Round",
-      "target": "Speciale"
+      "target": "Speciale",
+      "damage:" "Bonus Volontà"
     },
     {
       "id": "Flaming Hearts",
@@ -6816,7 +6832,8 @@
       "description": "<p>Il Mago sbraita la formula magica e un grande teschio nero ricoperto di fiamme verdi e purpuree appare di fronte a lui, ridendo e urlando. Il teschio si muove in linea retta fino alla Gittata massima, seguendo il terreno e oltrepassando gli ostacoli. È un proiettile magico che colpisce solo le creature prive del Tratto @Compendium[wfrp4e-core.items.Item.PFTD9gDvRWW9uh5g]{Nonmorto} causando Danni pari al Bonus Volontà del Mago. Chi subisce Ferite deve superare una <strong>Prova Impegnativa (+0) di Freddezza</strong> per non subire anche 1 @Condition[Atterrito].</p>",
       "range": "Volontà metri",
       "duration": "Istantanea",
-      "target": "Speciale"
+      "target": "Speciale",
+      "damage:" "Bonus Volontà"
     },
     {
       "id": "Scythe of Shyish",
@@ -6922,7 +6939,8 @@
       "description": "<p>La mandibola del Mago si allunga in modo orrendo, prima di vomitare un flusso di malattia e terrore. Il Mago effettua un attacco con il <em>Soffio</em>, come se avesse speso 2 Vantaggi per attivare il Tratto @Compendium[wfrp4e-core.items.Item.uqGxFOEqeurwkAO3]{Soffio}. È un <em>proiettile magico</em> con Danno pari al Bonus Resistenza del Mago che ignora i Punti Armatura e ha i Tratti <em>Corrosivo</em> e <em>Veleno</em>. Chi subisce più Ferite del proprio Bonus Resistenza deve superare una <strong>Prova Impegnativa (+0) di Tempra</strong> o contrarre il @Compendium[wfrp4e-core.diseases.M8XyRs9DN12XsFTQ]{Sangue Marcio}. Per ogni +2 LS si può incrementare il Danno di +2.</p>",
       "range": "Speciale",
       "duration": "Istantanea",
-      "target": "Speciale"
+      "target": "Speciale",
+      "damage": "Bonus Resistenza"
     },
     {
       "id": "Swift Passing",
@@ -7193,7 +7211,8 @@
       "description": "<p>Il Mago strappa <em>Chamon</em> dalla terra e dagli oggetti indossati dai propri nemici, per trasformare le loro carni in metallo. È un <em>proiettile magico</em> che colpisce tutto ciò che si trova nell’Area d’Effetto. Causa Danni pari al Bonus Volontà del Mago, ignorando il Bonus Resistenza, e 1 <em>Accecato</em>, 1 <em>Assordato</em> e 1 <em>Stordito</em>, che durano fino alla fine dell’Incantesimo. Tutti i bersagli sono ricoperti d’oro, il che conferisce +1 Punto Armatura in tutte le Locazioni, ma essi iniziano a <em>Soffocare</em> (pag. 181). Chi muore a causa di questo effetto viene intrappolato per sempre in un guscio metallico, tetro memento dei pericoli della magia.</p><p>\n\n <b>Sapere:</b> Gli effetti che causano Danno ignorano le armature metalliche e provocano Danni aggiuntivi pari ai Punti Armatura metallici della Locazione. Per esempio, se un braccio protetto da 2 PA di maglia di ferro venisse colpito subirebbe +2 Danni, ignorando la protezione.<p>",
       "range": "Volontà metri",
       "duration": "Bonus Volontà Round",
-      "target": "Bonus Volontà metri"
+      "target": "Bonus Volontà metri",
+      "damage:" "Bonus Volontà"
     },
     {
       "id": "Treason of Tzeentch",
@@ -8364,7 +8383,8 @@
       "id": "Breath",
       "name": "Soffio",
       "description": "<p>Il soffio della creatura è un’arma micidiale. Nel proprio Turno, il mostro può spendere 2 Vantaggi per attivare il <em>Soffio</em> come Attacco Gratuito. Può scegliere un Bersaglio entro entro un numero di metri pari al suo Bonus Resistenza + 20 e colpirà tutti coloro che si trovano entro Bonus Forza metri da esso così come tutti quelli che si trovano tra la creatura e il Bersaglio. La creatura effettua una <strong>Prova Contrapposta Abilità Balistica/Schivare</strong> contro tutti i bersagli (il mostro tira una sola volta e confronta il risultato con quello di ogni avversario). Le vittime che falliscono subiscono Danno pari al Grado dell’attacco e uno dei seguenti effetti in base al Tipo (se indicato).</p>\n<p>• <strong>Corrosivo:</strong> tutte le armi e armature del Bersaglio subiscono 1 Danno.</p>\n <p>• <strong>Elettrico: </strong> le Ferite ignorano i Punti Armatura e il Bersaglio subisce 1 <em>Stordito</em>.</p>\n<p>• <strong>Freddo: </strong> il Bersaglio subisce 1 <em>Stordito</em> per ogni 5 Ferite causate dal Soffio (minimo 1).</p>\n<p>• <strong>Fuoco: </strong> le Ferite ignorano i Punti Armatura e il Bersaglio subisce 1 In <em>Fiamme</em>.</p>\n<p>• <strong>Fumo: </strong> l’area d’effetto si riempie di fumo che blocca le Linee di Vista per un numero di Round pari al suo Bonus Resistenza.</p>\n<p>• <strong>Veleno: </strong> le Ferite ignorano i Punti Armatura e il Bersaglio subisce 1 <em>Avvelenato</em>.</p>\n<p>La creatura è immune al proprio Soffio, che viene inoltre considerato un attacco <em>Magico</em>.</p>",
-      "specification": "# (Tipo)"
+      "specification": "# (Tipo)",
+      "damage": "Bonus Resistenza"
     },
     {
       "id": "Breath (Acid)",
