@@ -4743,7 +4743,7 @@
       "description": "<p>Il Mago effettua un attacco a Soffio, come se avesse speso 2 Vantaggi per attivare il Tratto @Compendium[wfrp4e-core.items.Item.uqGxFOEqeurwkAO3]{Soffio}. È un <em>proiettile magico</em> con Danno pari al suo Bonus Resistenza. Il GM decide che tipo di soffio sia più adatto in base al Talento <em>Magia Arcana</em> dell’incantatore.</p>",
       "range": "1 m",
       "duration": "Istantanea",
-      "target": "Speciale"
+      "target": "Speciale",
       "damage": "Bonus Resistenza"
     },
     {
