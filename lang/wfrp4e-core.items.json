@@ -4744,7 +4744,7 @@
       "range": "1 m",
       "duration": "Istantanea",
       "target": "Speciale"
-      "damage:" "Bonus Resistenza"
+      "damage": "Bonus Resistenza"
     },
     {
       "id": "Breath (Beasts)",
@@ -4753,7 +4753,7 @@
       "range": "1 m",
       "duration": "Istantanea",
       "target": "Speciale",
-      "damage:" "Bonus Resistenza"
+      "damage": "Bonus Resistenza"
     },
     {
       "id": "Breath (Daemonology)",
@@ -4762,7 +4762,7 @@
       "range": "1 m",
       "duration": "Istantanea",
       "target": "Speciale",
-      "damage:" "Bonus Resistenza"
+      "damage": "Bonus Resistenza"
     },
     {
       "id": "Breath (Death)",
@@ -4771,7 +4771,7 @@
       "range": "1 m",
       "duration": "Istantanea",
       "target": "Speciale",
-      "damage:" "Bonus Resistenza"
+      "damage": "Bonus Resistenza"
     },
     {
       "id": "Breath (Fire)",
@@ -4780,7 +4780,7 @@
       "range": "1 m",
       "duration": "Istantanea",
       "target": "Speciale",
-      "damage:" "Bonus Resistenza"
+      "damage": "Bonus Resistenza"
     },
     {
       "id": "Breath (Heavens)",
@@ -4789,7 +4789,7 @@
       "range": "1 m",
       "duration": "Istantanea",
       "target": "Speciale",
-      "damage:" "Bonus Resistenza"
+      "damage": "Bonus Resistenza"
     },
     {
       "id": "Breath (Hedgecraft)",
@@ -4798,7 +4798,7 @@
       "range": "1 m",
       "duration": "Istantanea",
       "target": "Speciale",
-      "damage:" "Bonus Resistenza"
+      "damage": "Bonus Resistenza"
     },
     {
       "id": "Breath (Life)",
@@ -4807,7 +4807,7 @@
       "range": "1 m",
       "duration": "Istantanea",
       "target": "Speciale",
-      "damage:" "Bonus Resistenza"
+      "damage": "Bonus Resistenza"
     },
     {
       "id": "Breath (Light)",
@@ -4816,7 +4816,7 @@
       "range": "1 m",
       "duration": "Istantanea",
       "target": "Speciale",
-      "damage:" "Bonus Resistenza"
+      "damage": "Bonus Resistenza"
     },
     {
       "id": "Breath (Metal)",
@@ -4825,7 +4825,7 @@
       "range": "1 m",
       "duration": "Istantanea",
       "target": "Speciale",
-      "damage:" "Bonus Resistenza"
+      "damage": "Bonus Resistenza"
     },
     {
       "id": "Breath (Necromancy)",
@@ -4834,7 +4834,7 @@
       "range": "1 m",
       "duration": "Istantanea",
       "target": "Speciale",
-      "damage:" "Bonus Resistenza"
+      "damage": "Bonus Resistenza"
     },
     {
       "id": "Breath (Shadow)",
@@ -4843,7 +4843,7 @@
       "range": "1 m",
       "duration": "Istantanea",
       "target": "Speciale",
-      "damage:" "Bonus Resistenza"
+      "damage": "Bonus Resistenza"
     },
     {
       "id": "Breath (Witchcraft)",
@@ -4852,7 +4852,7 @@
       "range": "1 m",
       "duration": "Istantanea",
       "target": "Speciale",
-      "damage:" "Bonus Resistenza"
+      "damage": "Bonus Resistenza"
     },
     {
       "id": "Bridge",
@@ -5980,7 +5980,7 @@
       "range": "Volontà metri",
       "duration": "Bonus Volontà Round",
       "target": "Speciale",
-      "damage:" "Bonus Volontà"
+      "damage": "Bonus Volontà"
     },
     {
       "id": "Flaming Hearts",
@@ -6833,7 +6833,7 @@
       "range": "Volontà metri",
       "duration": "Istantanea",
       "target": "Speciale",
-      "damage:" "Bonus Volontà"
+      "damage": "Bonus Volontà"
     },
     {
       "id": "Scythe of Shyish",
@@ -7212,7 +7212,7 @@
       "range": "Volontà metri",
       "duration": "Bonus Volontà Round",
       "target": "Bonus Volontà metri",
-      "damage:" "Bonus Volontà"
+      "damage": "Bonus Volontà"
     },
     {
       "id": "Treason of Tzeentch",
