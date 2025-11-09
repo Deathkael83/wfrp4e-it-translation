@@ -10074,13 +10074,13 @@
       "name": "Zweihander",
       "description": "<p></p>"
     },
-    
-    "Language (Any)":
-    { "name": "Linguaggio (Qualsiasi)" },
+    {
+    "Language (Any)": { "name": "Linguaggio (Qualsiasi)" },
     "Lore (Any)": { "name": "Conoscenza (Qualsiasi)" },
     "Perform (Any)": { "name": "Intrattenere (Qualsiasi)" },
     "Play (Any)": { "name": "Suonare (Qualsiasi)" },
     "Trade (Any)": { "name": "Mestiere (Qualsiasi)" },
+    }
 
   ]
 }
