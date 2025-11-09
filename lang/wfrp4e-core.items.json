@@ -5,7 +5,7 @@
     "system": {
       "tests": { "value@": "normalizeAnyTokens" },
       "lore@": "normalizeLore"
-    };
+    },
     "class": "system.class.value",
     "careergroup": "system.careergroup.value",
     "skills": {
