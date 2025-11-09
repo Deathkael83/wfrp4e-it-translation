@@ -7554,7 +7554,7 @@
     },
     {
       "id": "Craftsman",
-      "name": "Artigiano (Mestiere)",
+      "name": "Artigiano (Qualsiasi)",
       "description": "<p>Il Personaggio ha un vero talento. Aggiunge l’Abilità Mestiere scelta a tutte le Carriere in cui entra; se questa è già presente ha uno sconto di 5 PE su ogni Avanzamento.</p>",
       "tests": "Mestiere (qualsiasi)"
     },
@@ -7853,7 +7853,7 @@
     },
     {
       "id": "Master Tradesman",
-      "name": "Mastro Artigiano (Mestiere)",
+      "name": "Mastro Artigiano (Qualsiasi)",
       "description": "<p>Il Personaggio è molto abile nella propria professione. Può sottrarre il grado di questo Talento dal LS richiesto dalle Prove Prolungate di Mestiere. </p>",
       "tests": "Prove Prolungate del Mestiere scelto"
     },
@@ -10075,9 +10075,8 @@
       "description": "<p></p>"
     },
     
-    "Craftsman": { "name": "Artigiano (Qualsiasi)", "description": "…" },
-    "Master Tradesman": { "name": "Mastro Artigiano (Qualsiasi)" },
-    "Language (Any)": { "name": "Linguaggio (Qualsiasi)" },
+    "Language (Any)":
+    { "name": "Linguaggio (Qualsiasi)" },
     "Lore (Any)": { "name": "Conoscenza (Qualsiasi)" },
     "Perform (Any)": { "name": "Intrattenere (Qualsiasi)" },
     "Play (Any)": { "name": "Suonare (Qualsiasi)" },
