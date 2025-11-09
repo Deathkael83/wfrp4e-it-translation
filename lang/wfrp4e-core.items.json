@@ -1,6 +1,11 @@
 {
   "label": "Item (Core)",
   "mapping": {
+    "name@": "normalizeAnyTokens",
+    "system": {
+      "tests": { "value@": "normalizeAnyTokens" },
+      "lore@": "normalizeLore"
+    };
     "class": "system.class.value",
     "careergroup": "system.careergroup.value",
     "skills": {
@@ -10068,7 +10073,15 @@
       "id": "Zweihander",
       "name": "Zweihander",
       "description": "<p></p>"
-    }
+    },
+    
+    "Craftsman": { "name": "Artigiano (Qualsiasi)", "description": "…" },
+    "Master Tradesman": { "name": "Mastro Artigiano (Qualsiasi)" },
+    "Language (Any)": { "name": "Linguaggio (Qualsiasi)" },
+    "Lore (Any)": { "name": "Conoscenza (Qualsiasi)" },
+    "Perform (Any)": { "name": "Intrattenere (Qualsiasi)" },
+    "Play (Any)": { "name": "Suonare (Qualsiasi)" },
+    "Trade (Any)": { "name": "Mestiere (Qualsiasi)" };
 
   ]
 }
