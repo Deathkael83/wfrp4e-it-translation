@@ -1182,6 +1182,14 @@ Hooks.once('init', () => {
 
 		Babele.get().registerConverters({
 			normalizeLore: (v) => loreToId[v] || v,
+			normalizeAnyTokens: (v) => {
+            if (typeof v !== "string") return v;
+            return v
+				.replace(/\(\s*Qualsiasi\s*\)/gi, "(Any)")
+				.replace(/\bqualunque\b/gi, "any one")
+				.replace(/\bqualsiasi\b/gi, "any one");
+			},
+
       			
 			convertSkills: (values) => {
 				let data = [];
