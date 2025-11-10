@@ -422,7 +422,6 @@ var talents = {
 	'Old Salt': 'Lupo di Mare',
 	Orientation: "Senso dell'Orientamento",
 	Panhandle: 'Mendicare',
-	'Passo Lungo (Deserts)': 'Passo Lungo (Deserto)',
 	'Perfect Pitch': 'Tono Perfetto',
 	'Petty Magic': 'Magia Minore',
 	Pharmacist: 'Farmacista',
