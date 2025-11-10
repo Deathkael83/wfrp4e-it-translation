@@ -3908,7 +3908,7 @@
     {
       "id": "Rhya's Succour",
       "name": "Soccorso di Rhya",
-      "description": "<p> Il Benedetto intona il canto rivitalizzante di Rhya. Tutti i bersagli rimuovono una Condizione; se così facendo non ne hanno più nessuna sono rinfrancati come se si fossero appena svegliati da una notte di sonno e ottengono un bonus di +10 a qualsiasi Prova tentino nel Turno seguente.</p>",
+      "description": "<p> Il Benedetto intona il canto rivitalizzante di Rhya. Tutti i bersagli rimuovono una Condizione; se così facendo non ne hanno più nessuna sono rinfrancati come se si fossero appena svegliati da una notte di sonno e ottengono un bonus di +10 a  Prova tentino nel Turno seguente.</p>",
       "range": "Socialità metri",
       "duration": "Istantanea"
     },
@@ -4252,7 +4252,7 @@
     {
       "id": "Aethyric Arms",
       "name": "Arma Aethyrica",
-      "description": "<p>Il Mago crea un’arma da mischia con Danno pari al proprio Bonus Volontà. L’Arma può avere qualsiasi forma, viene brandita con l’Abilità Mischia appropriata e conta come Magica.</p>",
+      "description": "<p>Il Mago crea un’arma da mischia con Danno pari al proprio Bonus Volontà. L’Arma può avere  forma, viene brandita con l’Abilità Mischia appropriata e conta come Magica.</p>",
       "range": "Sè stessi",
       "duration": "Bonus Volontà Round",
       "target": "Sè stessi"
@@ -4260,7 +4260,7 @@
     {
       "id": "Aethyric Arms (Beasts)",
       "name": "Arma Aethyrica (Bestie)",
-      "description": "<p>Il Mago crea un’arma da mischia con Danno pari al proprio Bonus Volontà. L’Arma può avere qualsiasi forma, viene brandita con l’Abilità Mischia appropriata e conta come Magica.</p><p>\n\n <b>Sapere:</b> Ogni volta che un Mago lancia con successo un Incantesimo del Sapere delle Bestie ottiene anche il Tratto @Compendium[wfrp4e-core.items.Item.pTorrE0l3VybAbtn]{Spaventoso (1)} per i prossimi [[/r 1d10]] Round.<p>",
+      "description": "<p>Il Mago crea un’arma da mischia con Danno pari al proprio Bonus Volontà. L’Arma può avere  forma, viene brandita con l’Abilità Mischia appropriata e conta come Magica.</p><p>\n\n <b>Sapere:</b> Ogni volta che un Mago lancia con successo un Incantesimo del Sapere delle Bestie ottiene anche il Tratto @Compendium[wfrp4e-core.items.Item.pTorrE0l3VybAbtn]{Spaventoso (1)} per i prossimi [[/r 1d10]] Round.<p>",
       "range": "Sè stessi",
       "duration": "Bonus Volontà Round",
       "target": "Sè stessi"
@@ -4268,7 +4268,7 @@
     {
       "id": "Aethyric Arms (Daemonology)",
       "name": "Arma Aethyrica (Demonologia)",
-      "description": "<p>Il Mago crea un’arma da mischia con Danno pari al proprio Bonus Volontà. L’Arma può avere qualsiasi forma, viene brandita con l’Abilità Mischia appropriata e conta come Magica.</p>",
+      "description": "<p>Il Mago crea un’arma da mischia con Danno pari al proprio Bonus Volontà. L’Arma può avere  forma, viene brandita con l’Abilità Mischia appropriata e conta come Magica.</p>",
       "range": "Sè stessi",
       "duration": "Bonus Volontà Round",
       "target": "Sè stessi"
@@ -4276,7 +4276,7 @@
     {
       "id": "Aethyric Arms (Death)",
       "name": "Arma Aethyrica (Morte)",
-      "description": "<p>Il Mago crea un’arma da mischia con Danno pari al proprio Bonus Volontà. L’Arma può avere qualsiasi forma, viene brandita con l’Abilità Mischia appropriata e conta come Magica.</p><p>\n\n <b>Sapere:</b> Chi viene colpito da un Incantesimo del Sapere della Morte è prosciugato della vita; il Mago può assegnare a piacere 1 @Condition[Affaticato] a ogni bersaglio vivente affetto dagli Incantesimi di questo Sapere. E' possibile accumulare solo un <em>Affaticato</em> alla volta in questo modo.<p>",
+      "description": "<p>Il Mago crea un’arma da mischia con Danno pari al proprio Bonus Volontà. L’Arma può avere  forma, viene brandita con l’Abilità Mischia appropriata e conta come Magica.</p><p>\n\n <b>Sapere:</b> Chi viene colpito da un Incantesimo del Sapere della Morte è prosciugato della vita; il Mago può assegnare a piacere 1 @Condition[Affaticato] a ogni bersaglio vivente affetto dagli Incantesimi di questo Sapere. E' possibile accumulare solo un <em>Affaticato</em> alla volta in questo modo.<p>",
       "range": "Sè stessi",
       "duration": "Bonus Volontà Round",
       "target": "Sè stessi"
@@ -4284,7 +4284,7 @@
     {
       "id": "Aethyric Arms (Fire)",
       "name": "Arma Aethyrica (Fuoco)",
-      "description": "<p>Il Mago crea un’arma da mischia con Danno pari al proprio Bonus Volontà. L’Arma può avere qualsiasi forma, viene brandita con l’Abilità Mischia appropriata e conta come Magica.</p><p>\n\n <b>Sapere:</b> Il Mago può causare, a piacere, 1 @Condition[In Fiamme] a tutti i bersagli, a meno che non possiedano a propria volta il Talento <em>Magia Arcana (Fuoco)</em>. Inoltre, ogni condizione <em>In Fiamme</em> entro un numero di metri pari al suo Bonus Volontà dal Mago gli conferisce +10 alle Prove di Lancio o Incanalare legate ad <em>Aqshy</em>.<p>",
+      "description": "<p>Il Mago crea un’arma da mischia con Danno pari al proprio Bonus Volontà. L’Arma può avere  forma, viene brandita con l’Abilità Mischia appropriata e conta come Magica.</p><p>\n\n <b>Sapere:</b> Il Mago può causare, a piacere, 1 @Condition[In Fiamme] a tutti i bersagli, a meno che non possiedano a propria volta il Talento <em>Magia Arcana (Fuoco)</em>. Inoltre, ogni condizione <em>In Fiamme</em> entro un numero di metri pari al suo Bonus Volontà dal Mago gli conferisce +10 alle Prove di Lancio o Incanalare legate ad <em>Aqshy</em>.<p>",
       "range": "Sè stessi",
       "duration": "Bonus Volontà Round",
       "target": "Sè stessi"
@@ -4292,7 +4292,7 @@
     {
       "id": "Aethyric Arms (Heavens)",
       "name": "Arma Aethyrica (Empireo)",
-      "description": "<p>Il Mago crea un’arma da mischia con Danno pari al proprio Bonus Volontà. L’Arma può avere qualsiasi forma, viene brandita con l’Abilità Mischia appropriata e conta come Magica.</p><p>\n\n <b>Sapere:</b> Gli Incantesimi che causano Danni ignorano le armature metalliche e si scaricano contro tutti i bersagli entro 2m, eccetto chi possiede il Talento <em>Magia Arcana (Empireo)</em>,causando Danni pari al Bonus Volontà, come un <em>proiettile magico</em>.<p>",
+      "description": "<p>Il Mago crea un’arma da mischia con Danno pari al proprio Bonus Volontà. L’Arma può avere  forma, viene brandita con l’Abilità Mischia appropriata e conta come Magica.</p><p>\n\n <b>Sapere:</b> Gli Incantesimi che causano Danni ignorano le armature metalliche e si scaricano contro tutti i bersagli entro 2m, eccetto chi possiede il Talento <em>Magia Arcana (Empireo)</em>,causando Danni pari al Bonus Volontà, come un <em>proiettile magico</em>.<p>",
       "range": "Sè stessi",
       "duration": "Bonus Volontà Round",
       "target": "Sè stessi"
@@ -4300,7 +4300,7 @@
     {
       "id": "Aethyric Arms (Hedgecraft)",
       "name": "Arma Aethyrica (Soglia)",
-      "description": "<p>Il Mago crea un’arma da mischia con Danno pari al proprio Bonus Volontà. L’Arma può avere qualsiasi forma, viene brandita con l’Abilità Mischia appropriata e conta come Magica.</p><p>\n\n <b>Sapere:</b> Questi Incantesimi, a causa delle antiche tradizioni e delle credenze a essi collegate, non possono essere lanciati senza ingredienti, che sono parte essenziale del procedimento.<br><br>Per fortuna, si tratta, di solito, di erbe e piante facili da trovare ai margini degli insediamenti. Effettuando una Prova di Conoscenza (Erbe) per trovare erbe e piante, il Mago ottiene 1+LS ingredienti, oppure può acquistarli a 5 penny l’uno.<p>",
+      "description": "<p>Il Mago crea un’arma da mischia con Danno pari al proprio Bonus Volontà. L’Arma può avere  forma, viene brandita con l’Abilità Mischia appropriata e conta come Magica.</p><p>\n\n <b>Sapere:</b> Questi Incantesimi, a causa delle antiche tradizioni e delle credenze a essi collegate, non possono essere lanciati senza ingredienti, che sono parte essenziale del procedimento.<br><br>Per fortuna, si tratta, di solito, di erbe e piante facili da trovare ai margini degli insediamenti. Effettuando una Prova di Conoscenza (Erbe) per trovare erbe e piante, il Mago ottiene 1+LS ingredienti, oppure può acquistarli a 5 penny l’uno.<p>",
       "range": "Sè stessi",
       "duration": "Bonus Volontà Round",
       "target": "Sè stessi"
@@ -4308,7 +4308,7 @@
     {
       "id": "Aethyric Arms (Life)",
       "name": "Arma Aethyrica (Vita)",
-      "description": "<p>Il Mago crea un’arma da mischia con Danno pari al proprio Bonus Volontà. L’Arma può avere qualsiasi forma, viene brandita con l’Abilità Mischia appropriata e conta come Magica.</p><p>\n\n <b>Sapere:</b> Un Druido riceve +10 alle Prove di Lancio e Incanalare quando si trova in un ambiente selvaggio. I bersagli viventi - come quelli privi dei tratti @Compendium[wfrp4e-core.items.Item.v3uzEthcq0JRar0J]{Demoniaco} o @Compendium[wfrp4e-core.items.Item.PFTD9gDvRWW9uh5g]{Nonmorto} — di un Incantesimo della Vita rimuovono tutte le Condizioni @Condition[Affaticato] e @Condition[Sanguinante] mentre la forza vitale li avvolge. I @Compendium[wfrp4e-core.items.Item.PFTD9gDvRWW9uh5g]{Nonmorto}, invece, subiscono Danni aggiuntivi pari al Bonus Volontà del Mago, ignorando il Bonus Resistenza e l’Armatura.<p>",
+      "description": "<p>Il Mago crea un’arma da mischia con Danno pari al proprio Bonus Volontà. L’Arma può avere  forma, viene brandita con l’Abilità Mischia appropriata e conta come Magica.</p><p>\n\n <b>Sapere:</b> Un Druido riceve +10 alle Prove di Lancio e Incanalare quando si trova in un ambiente selvaggio. I bersagli viventi - come quelli privi dei tratti @Compendium[wfrp4e-core.items.Item.v3uzEthcq0JRar0J]{Demoniaco} o @Compendium[wfrp4e-core.items.Item.PFTD9gDvRWW9uh5g]{Nonmorto} — di un Incantesimo della Vita rimuovono tutte le Condizioni @Condition[Affaticato] e @Condition[Sanguinante] mentre la forza vitale li avvolge. I @Compendium[wfrp4e-core.items.Item.PFTD9gDvRWW9uh5g]{Nonmorto}, invece, subiscono Danni aggiuntivi pari al Bonus Volontà del Mago, ignorando il Bonus Resistenza e l’Armatura.<p>",
       "range": "Sè stessi",
       "duration": "Bonus Volontà Round",
       "target": "Sè stessi"
@@ -4316,7 +4316,7 @@
     {
       "id": "Aethyric Arms (Light)",
       "name": "Arma Aethyrica (Luce)",
-      "description": "<p>Il Mago crea un’arma da mischia con Danno pari al proprio Bonus Volontà. L’Arma può avere qualsiasi forma, viene brandita con l’Abilità Mischia appropriata e conta come Magica.</p><p>\n\n <b>Sapere:</b> Il Mago può infliggere a piacere 1 @Condition[Accecato] a uno o più bersagli, che non possiedano il Talento <em>Magia Arcana (Luce)</em>. I bersagli con i Tratti @Compendium[wfrp4e-core.items.Item.v3uzEthcq0JRar0J]{Demoniaco} o @Compendium[wfrp4e-core.items.Item.PFTD9gDvRWW9uh5g]{Nonmorto} subiscono Danni aggiuntivi pari al Bonus Intelligenza del Mago, ignorando il Bonus Resistenza e l’Armatura.<p>",
+      "description": "<p>Il Mago crea un’arma da mischia con Danno pari al proprio Bonus Volontà. L’Arma può avere  forma, viene brandita con l’Abilità Mischia appropriata e conta come Magica.</p><p>\n\n <b>Sapere:</b> Il Mago può infliggere a piacere 1 @Condition[Accecato] a uno o più bersagli, che non possiedano il Talento <em>Magia Arcana (Luce)</em>. I bersagli con i Tratti @Compendium[wfrp4e-core.items.Item.v3uzEthcq0JRar0J]{Demoniaco} o @Compendium[wfrp4e-core.items.Item.PFTD9gDvRWW9uh5g]{Nonmorto} subiscono Danni aggiuntivi pari al Bonus Intelligenza del Mago, ignorando il Bonus Resistenza e l’Armatura.<p>",
       "range": "Sè stessi",
       "duration": "Bonus Volontà Round",
       "target": "Sè stessi"
@@ -4324,7 +4324,7 @@
     {
       "id": "Aethyric Arms (Metal)",
       "name": "Arma Aethyrica (Metallo)",
-      "description": "<p>Il Mago crea un’arma da mischia con Danno pari al proprio Bonus Volontà. L’Arma può avere qualsiasi forma, viene brandita con l’Abilità Mischia appropriata e conta come Magica.</p><p>\n\n <b>Sapere:</b> Gli effetti che causano Danno ignorano le armature metalliche e provocano Danni aggiuntivi pari ai Punti Armatura metallici della Locazione. Per esempio, se un braccio protetto da 2 PA di maglia di ferro venisse colpito subirebbe +2 Danni, ignorando la protezione.<p>",
+      "description": "<p>Il Mago crea un’arma da mischia con Danno pari al proprio Bonus Volontà. L’Arma può avere  forma, viene brandita con l’Abilità Mischia appropriata e conta come Magica.</p><p>\n\n <b>Sapere:</b> Gli effetti che causano Danno ignorano le armature metalliche e provocano Danni aggiuntivi pari ai Punti Armatura metallici della Locazione. Per esempio, se un braccio protetto da 2 PA di maglia di ferro venisse colpito subirebbe +2 Danni, ignorando la protezione.<p>",
       "range": "Sè stessi",
       "duration": "Bonus Volontà Round",
       "target": "Sè stessi"
@@ -4332,7 +4332,7 @@
     {
       "id": "Aethyric Arms (Necromancy)",
       "name": "Arma Aethyrica (Necromanzia)",
-      "description": "<p>Il Mago crea un’arma da mischia con Danno pari al proprio Bonus Volontà. L’Arma può avere qualsiasi forma, viene brandita con l’Abilità Mischia appropriata e conta come Magica.</p>",
+      "description": "<p>Il Mago crea un’arma da mischia con Danno pari al proprio Bonus Volontà. L’Arma può avere  forma, viene brandita con l’Abilità Mischia appropriata e conta come Magica.</p>",
       "range": "Sè stessi",
       "duration": "Bonus Volontà Round",
       "target": "Sè stessi"
@@ -4340,7 +4340,7 @@
     {
       "id": "Aethyric Arms (Shadow)",
       "name": "Arma Aethyrica (Ombre)",
-      "description": "<p>Il Mago crea un’arma da mischia con Danno pari al proprio Bonus Volontà. L’Arma può avere qualsiasi forma, viene brandita con l’Abilità Mischia appropriata e conta come Magica.</p><p>\n\n <b>Sapere:</b> Tutti gli effetti che infliggono Danno ignorano i punti Armatura non magici.<p>",
+      "description": "<p>Il Mago crea un’arma da mischia con Danno pari al proprio Bonus Volontà. L’Arma può avere  forma, viene brandita con l’Abilità Mischia appropriata e conta come Magica.</p><p>\n\n <b>Sapere:</b> Tutti gli effetti che infliggono Danno ignorano i punti Armatura non magici.<p>",
       "range": "Sè stessi",
       "duration": "Bonus Volontà Round",
       "target": "Sè stessi"
@@ -4348,7 +4348,7 @@
     {
       "id": "Aethyric Arms (Witchcraft)",
       "name": "Arma Aethyrica (Stregoneria)",
-      "description": "<p>Il Mago crea un’arma da mischia con Danno pari al proprio Bonus Volontà. L’Arma può avere qualsiasi forma, viene brandita con l’Abilità Mischia appropriata e conta come Magica.</p><p>\n\n <b>Sapere:</b> Ogni volta che un praticante di Stregoneria tira sulla Tabella degli Incidenti Magici ottiene anche 1 Punto Corruzione. D’altro canto può causare 1 @Condition[Sanguinante] a chiunque sia bersaglio di un Incantesimo di questo Sapere. Infine, ogni tentativo di Lanciare o Incanalare questi Incantesimi senza usare ingredienti richiede un tiro sulla @Table[minormis]{Tabella Incidenti Magici Minori}, ma l’ingrediente non fornirà alcuna protezione in caso di un Disastro. Per fortuna, questi materiali sono comuni ed economici, di solito pezzi di piccoli animali. Il prezzo è il VL dell’Incantesimo in penny (invece che in scellini). In alternativa, una Strega può usare l’Abilità Sopravvivere per ottenere 1+LS ingredienti (vedere Raccogliere Cibo ed Erbe, pag. 129).<p>",
+      "description": "<p>Il Mago crea un’arma da mischia con Danno pari al proprio Bonus Volontà. L’Arma può avere  forma, viene brandita con l’Abilità Mischia appropriata e conta come Magica.</p><p>\n\n <b>Sapere:</b> Ogni volta che un praticante di Stregoneria tira sulla Tabella degli Incidenti Magici ottiene anche 1 Punto Corruzione. D’altro canto può causare 1 @Condition[Sanguinante] a chiunque sia bersaglio di un Incantesimo di questo Sapere. Infine, ogni tentativo di Lanciare o Incanalare questi Incantesimi senza usare ingredienti richiede un tiro sulla @Table[minormis]{Tabella Incidenti Magici Minori}, ma l’ingrediente non fornirà alcuna protezione in caso di un Disastro. Per fortuna, questi materiali sono comuni ed economici, di solito pezzi di piccoli animali. Il prezzo è il VL dell’Incantesimo in penny (invece che in scellini). In alternativa, una Strega può usare l’Abilità Sopravvivere per ottenere 1+LS ingredienti (vedere Raccogliere Cibo ed Erbe, pag. 129).<p>",
       "range": "Sè stessi",
       "duration": "Bonus Volontà Round",
       "target": "Sè stessi"
@@ -6342,7 +6342,7 @@
     {
       "id": "Marsh Lights",
       "name": "Fuochi Fatui",
-      "description": "<p>Il Mago crea una serie di luminescenze fluttuanti, pari al suo Bonus Intelligenza, che somigliano a torce o lanterne cieche. Finché restano in linea di vista, può usare la sua Azione per dirigerle in qualsiasi direzione, superando una <strong>Prova Media (+20) d’Incanalare</strong>. Lasciate a sé stesse, le luci si spostano in linea retta a velocità di camminata, passando attraverso cose e persone.</p><p>\n\n <b>Sapere:</b> Nessuno<p>",
+      "description": "<p>Il Mago crea una serie di luminescenze fluttuanti, pari al suo Bonus Intelligenza, che somigliano a torce o lanterne cieche. Finché restano in linea di vista, può usare la sua Azione per dirigerle in  direzione, superando una <strong>Prova Media (+20) d’Incanalare</strong>. Lasciate a sé stesse, le luci si spostano in linea retta a velocità di camminata, passando attraverso cose e persone.</p><p>\n\n <b>Sapere:</b> Nessuno<p>",
       "range": "Volontà metri",
       "duration": "Volontà minuti",
       "target": "Speciale"
@@ -7447,7 +7447,7 @@
     },
     {
       "id": "Bless",
-      "name": "Benedizione (Sapere Divino)",
+      "name": "Benedizione",
       "description": "<p>Il Personaggio è protetto da una divinità, che concede potere alle sue preghiere e gli dà accesso alle proprie Benedizioni, elencate nel <strong>Capitolo 7: Religione e Fede</strong>. In circostanze normali si può conoscere una sola Sapere Divino con questo Talento.</p>"
     },
     {
@@ -7549,9 +7549,9 @@
     },
     {
       "id": "Craftsman",
-      "name": "Artigiano (Qualsiasi)",
+      "name": "Artigiano (Any)",
       "description": "<p>Il Personaggio ha un vero talento. Aggiunge l’Abilità Mestiere scelta a tutte le Carriere in cui entra; se questa è già presente ha uno sconto di 5 PE su ogni Avanzamento.</p>",
-      "tests": "Mestiere (qualsiasi)"
+      "tests": "Mestiere (any one)"
     },
     {
       "id": "Criminal",
@@ -7630,9 +7630,9 @@
     },
     {
       "id": "Etiquette",
-      "name": "Etichetta (Gruppo)",
+      "name": "Etichetta",
       "description": "<p>Il Personaggio sa mescolarsi a un certo gruppo, purché indossi abiti adeguati. Alcuni possibili gruppi includono: Accademici, Criminali, Fedeli, Gilde, Nobili, Servitori e Soldati. Chi non ha questo Talento sarà chiaramente in imbarazzo in un ambiente poco familiare. Questo effetto è prima di tutto legato all’interpretazione ma, a discrezione del GM, può fornire bonus alle Prove di Socialità.</p>",
-      "tests": "Affascinare e Pettegolezzi (limitati al gruppo scelto)"
+      "tests": "Affascinare e Pettegolezzi (limitati al gruppo scelto) (Social Group)"
     },
     {
       "id": "Fast Hands",
@@ -7848,7 +7848,7 @@
     },
     {
       "id": "Master Tradesman",
-      "name": "Mastro Artigiano (Qualsiasi)",
+      "name": "Mastro Artigiano",
       "description": "<p>Il Personaggio è molto abile nella propria professione. Può sottrarre il grado di questo Talento dal LS richiesto dalle Prove Prolungate di Mestiere. </p>",
       "tests": "Prove Prolungate del Mestiere scelto"
     },
@@ -8019,7 +8019,7 @@
     },
     {
       "id": "Savant",
-      "name": "Genio (conoscenza)",
+      "name": "Genio",
       "description": "<p>Il Personaggio è eccezionalmente colto e possiede grande esperienza in un particolare campo. In questioni legate alla materia scelta, può ricordare un numero di informazioni corrette pari al grado di questo Talento senza bisogno di Prove. Come sempre, tirare può fornire ulteriori informazioni, a discrezione del GM.</p>",
       "tests": "Conoscenza (materia scelta)"
     },
@@ -8140,7 +8140,7 @@
     },
     {
       "id": "Strider",
-      "name": "Passo Lungo (Terreno)",
+      "name": "Passo Lungo",
       "description": "<p>Il Personaggio è abile ad attraversare terreni difficili. Ignora tutte le penalità quando si muove nell’ambiente prescelto. Tipiche specializzazioni includono: Coste, Deserti, Paludi, Monti, Tundra e Foreste.</p>",
       "tests": "Atletica per attraversare il terreno scelto"
     },
