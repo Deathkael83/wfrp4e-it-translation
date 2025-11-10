@@ -1444,3 +1444,45 @@ Hooks.on("renderItemSheet", (app, html, data) => {
     console.warn("Effect label localization preview failed:", e);
   }
 });
+
+// === SOLO DISPLAY: (Any) -> (Qualsiasi) e "any one" -> "Qualsiasi" ===
+const _displayAny = s =>
+  String(s ?? "")
+    .replace(/\((?:Any|any)\)/g, "(Qualsiasi)")
+    .replace(/\bany one\b/gi, "Qualsiasi");
+
+// Utility che applica la sostituzione su testo/valore di un selettore
+function _swapText(html, selector) {
+  html.find(selector).each((_, el) => {
+    if ("value" in el && typeof el.value === "string") el.value = _displayAny(el.value);
+    else if (el.textContent) el.textContent = _displayAny(el.textContent);
+  });
+}
+
+// Item sheet (talenti, abilità, ecc.)
+Hooks.on("renderItemSheet", (app, html) => {
+  _swapText(html, ".window-title");
+  _swapText(html, 'input[name="name"]');
+  _swapText(html, ".item-name, .effect-name, .tag, .entry-title");
+});
+
+// Actor sheet: liste abilità/talenti/equip
+Hooks.on("renderActorSheet", (app, html) => {
+  _swapText(html, ".item-name, .skill-name, .talent-name, .inventory .item .name");
+});
+
+// Chat message (prove, tiri, effetti)
+Hooks.on("renderChatMessage", (msg, html) => {
+  const node = html.find(".message-content")[0];
+  if (node) node.innerHTML = _displayAny(node.innerHTML);
+});
+
+// Dialog di selezione (es. Skill Specialisation, ItemDialog)
+Hooks.on("renderApplication", (app, html) => {
+  // Limita ai dialog dove compaiono liste di Item
+  const title = String(app?.options?.title || "");
+  if (/Skill|Specialis|Item/i.test(title)) {
+    _swapText(html, ".item-name, .name, .entry-name, .label");
+  }
+});
+
