@@ -479,7 +479,7 @@ var talents = {
 	'Stone Soup': 'Zuppa di Sasso',
 	'Stout-hearted': 'Cuore Impavido',
 	Strider: 'Passo Lungo',
-	'Strider (any)': 'Passo Lungo (Any)',
+	'Strider (any)': 'Passo Lungo',
 	'Strider (Coastal)': 'Passo Lungo (Coste)',
 	'Strider (Woodlands)': 'Passo Lungo (Boschi)',
 	'Strider (Marshes)': 'Passo Lungo (Paludi)',
