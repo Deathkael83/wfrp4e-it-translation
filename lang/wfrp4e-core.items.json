@@ -7959,7 +7959,7 @@
       "id": "Reaction Strike",
       "name": "Colpo Reattivo",
       "description": "<p>I riflessi del Personaggio gli permettono di uccidere molti nemici prima che possano colpirlo. Quando è vittima di una Carica, può effettuare una <strong>Prova Impegnativa (+0) d’Iniziativa</strong> per eseguire un Attacco Gratuito immediato, fuori del normale Ordine d’Iniziativa, con l’arma che stringe nella mano dominante. Durante un Round, questo Talento può essere usato una volta per grado, ma solo una contro ogni avversario.</p>",
-      "tests": "Iniziativa relativa a questo Colpo Reattivo"
+      "tests": "Iniziativa relativa a Colpo Reattivo"
     },
     {
       "id": "Read/Write",
@@ -8090,7 +8090,7 @@
       "id": "Sixth Sense",
       "name": "Sesto Senso",
       "description": "<p>Quando il Personaggio è in pericolo ha una sorta di presentimento e può reagire di conseguenza. Il GM – di solito dopo una Prova d’Intuire segreta – lo avviserà di minacce incombenti. Inoltre, può ignorare la Sorpresa superando una Prova d’Intuire.</p>",
-      "tests": "Intuire legate a questo Sesto Senso"
+      "tests": "Intuire legate a Sesto Senso"
     },
     {
       "id": "Slayer",
@@ -8124,7 +8124,7 @@
       "id": "Step Aside",
       "name": "Farsi da Parte",
       "description": "<p>Il Personaggio è abile nell’evitare i colpi nemici. Quando usa con successo Schivare per difendersi può spostarsi di 2m e non è più considerato Ingaggiato. Nessun avversario ottiene Attacchi Gratuiti in questa circostanza.</p>",
-      "tests": "Schivare relativo a questo Farsi da Parte"
+      "tests": "Schivare relativo a Farsi da Parte"
     },
     {
       "id": "Stone Soup",
