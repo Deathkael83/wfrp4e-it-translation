@@ -8141,8 +8141,8 @@
     {
       "id": "Strider",
       "name": "Passo Lungo",
-      "description": "<p>Il Personaggio è abile ad attraversare terreni difficili. Ignora tutte le penalità quando si muove nell’ambiente prescelto. Tipiche specializzazioni includono: Coste, Deserti, Paludi, Monti, Tundra e Foreste.</p>",
-      "tests": "Atletica per attraversare (the Terrain)"
+      "description": "<p>Il Personaggio è abile ad attraversare terreni difficili. Ignora tutte le penalità quando si muove nell’ambiente prescelto. Tipiche specializzazioni includono: Coste (Coastal), Deserti (Deserts), Paludi (Marshes), Monti (Rocky), Tundra (Tundra) e Foreste (Woodlands).</p>",
+      "tests": "Atletica per attraversare: the Terrain"
     },
     {
       "id": "Strike Mighty Blow",
