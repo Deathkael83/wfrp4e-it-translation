@@ -1642,7 +1642,7 @@
       "class": "Gente di città"
     },
     {
-      "id": "Trapper",
+      "id": "LYBKDZ0AhutYewfD",
       "name": "Bracconiere",
       "description": "<p>@UUID[Compendium.wfrp4e-core.journals.wczCPcuHT4VQDLpL.JournalEntryPage.T6c9MttfG0Fj4nDm]{Cacciatore}</p>",
       "careergroup": "Cacciatore",
@@ -8234,7 +8234,7 @@
       "description": "<p>Questa tecnica di memorizzazione è stata diffusa dal Culto di Verena, ma si ritiene che derivi dalla tradizione Elfica dei Maestri del Sapere di Hoeth. Torre di Memorie permette di memorizzare perfettamente una sequenza di eventi immagazzinandoli in un palazzo immaginario. È possibile ricordare un numero di eventi pari alla propria Intelligenza senza bisogno di Prove. Per ogni 10 elementi in eccesso è necessario superare una <strong>Prova d’Intelligenza</strong> con Difficoltà crescente: fino a 10 è <strong>Molto Facile (+60)</strong>, fino a 20 è <strong>Facile (+40)</strong>, fino a 30 è <strong>Media (+20)</strong> e così via. Oltre all’ovvia utilità nei giochi d’azzardo (dove aggiunge un bonus da +20 a +60 a seconda di quanto sia utile ricordare le mani precedenti), il GM può conferire bonus in base alle circostanze. È possibile memorizzare una sequenza di eventi per grado, senza dimenticare una delle precedenti.</p>"
     },
     {
-      "id": "Trapper",
+      "id": "a7v422EZcOUUC20X",
       "name": "Esperto in Trappole",
       "description": "<p>Il Personaggio è abile nel piazzare e localizzare trappole. Ha diritto a una Prova di Percepire per individuarle anche se non ha dichiarato al GM di essere all’erta. Alcuni GM preferiscono fare questa Prova in segreto.</p>",
       "tests": "Percepire per individuare trappole, Piazzare Trappole"
