@@ -7425,7 +7425,7 @@
       "id": "Beat Blade",
       "name": "Botta",
       "description": "<p>Il Personaggio è addestrato a dare colpi controllati all’arma dell’avversario per creare aperture o deflettere attacchi. Come Azione, prima di tirare, può decidere di eseguire una Botta, ossia una Prova di Abilità di Combattimento, non Contrapposta. In caso di successo l’avversario perde 1 Vantaggio, più un altro per LS. Questo Talento non ha effetto se il nemico è disarmato o di Taglia superiore (vedere pag. 342).</p>",
-      "tests": "Abilità di Combattimento per usare questo Botta"
+      "tests": "Abilità di Combattimento per usare Botta"
     },
     {
       "id": "Beneath Notice",
@@ -7620,7 +7620,7 @@
       "id": "Embezzle",
       "name": "Intascare",
       "description": "<p>Il Personaggio è abile nel sottrarre denaro ai propri padroni senza farsi notare. Ogni volta che ottiene un Guadagno (durante il gioco o con l’Impresa <em>Profitto</em>), può effettuare una <strong>Prova Contrapposta d’Intelligenza</strong> contro il proprio datore di lavoro. Se vince intasca 2d10+LS penny, 1d10+LS scellini o 1+LS corone (a seconda del volume d’affari deciso dal GM). Se il datore di lavoro ottiene almeno 6 LS, il Personaggio sottrae il denaro, ma l’ammanco viene scoperto. Ogni altro risultato è un semplice fallimento.</p>",
-      "tests": "Intelligenza per usare questo Intascare"
+      "tests": "Intelligenza per usare Intascare"
     },
     {
       "id": "Enclosed Fighter",
@@ -7644,7 +7644,7 @@
       "id": "Fast Shot",
       "name": "Tiro Rapido",
       "description": "<p>Quando ha un’arma a distanza carica, il Personaggio può sparare prima che gli avversari reagiscano nel Round seguente, ignorando l’Ordine d’Iniziativa. <em>Tiro Rapido</em> è soggetto a tutti i normali modificatori e consuma sia Azione che Manovra del Turno successivo. Se due Personaggi hanno questo Talento, chi ha più gradi spara per primo, in caso di pareggio il tiro è simultaneo.</p>",
-      "tests": "Mira per usare questo Tiro Rapido"
+      "tests": "Mira per usare Tiro Rapido"
     },
     {
       "id": "Fearless",
@@ -8038,7 +8038,7 @@
       "id": "Schemer",
       "name": "Cospiratore",
       "description": "<p>Il Personaggio è un politicante nato e vede cospirazioni dietro ogni angolo. Una volta per sessione, può porre al GM una domanda sulla situazione politica o i legami sociali. Il GM effettua una Prova d’Intelligenza segreta e fornisce informazioni in base al LS.</p>",
-      "tests": "Intelligenza per usare questo Cospiratore"
+      "tests": "Intelligenza per usare Cospiratore"
     },
     {
       "id": "Sea Legs",
