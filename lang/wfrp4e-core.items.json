@@ -7425,7 +7425,7 @@
       "id": "Beat Blade",
       "name": "Botta",
       "description": "<p>Il Personaggio è addestrato a dare colpi controllati all’arma dell’avversario per creare aperture o deflettere attacchi. Come Azione, prima di tirare, può decidere di eseguire una Botta, ossia una Prova di Abilità di Combattimento, non Contrapposta. In caso di successo l’avversario perde 1 Vantaggio, più un altro per LS. Questo Talento non ha effetto se il nemico è disarmato o di Taglia superiore (vedere pag. 342).</p>",
-      "tests": "Abilità di Combattimento per usare questo Talento"
+      "tests": "Abilità di Combattimento per usare questo Botta"
     },
     {
       "id": "Beneath Notice",
@@ -7443,7 +7443,7 @@
       "id": "Blather",
       "name": "Blaterare",
       "description": "<p>Nel Nordland si dice ‘aprire la bocca per farle prendere aria’, nell’Ostland ‘dire idiozie’. Blaterare comporta di parlare rapidamente o a lungo, usando non-sense per confondere l’interlocutore. Per farlo si effettua una <strong>Prova Contrapposta di Affascinare/Intelligenza</strong>. Un successo causa all’avversario una Condizione <em>Stordito</em>, più un’altra per grado di questo Talento. La vittima resta senza parole e con gli occhi sbarrati, mentre tenta di capire cosa il Personaggio abbia detto. Quando l’ultimo <em>Stordito</em> viene rimosso, potrà rispondere e potrebbe non apprezzare di essere stata preso per i fondelli. Se il Personaggio smette di parlate tutti gli <em>Stordito</em> provocati da questo Talento vengono subito rimossi. In generale, si può usare Blaterare solo una volta per scena – o più a lungo a discrezione del GM – per avversario, dato che dopo un po’ questi si renderà conto dei trucchi del Personaggio.</p>\n<p>&nbsp;</p>",
-      "tests": "Affascinare per usare questo Talento"
+      "tests": "Affascinare per usare Blaterare"
     },
     {
       "id": "Bless",
@@ -7620,7 +7620,7 @@
       "id": "Embezzle",
       "name": "Intascare",
       "description": "<p>Il Personaggio è abile nel sottrarre denaro ai propri padroni senza farsi notare. Ogni volta che ottiene un Guadagno (durante il gioco o con l’Impresa <em>Profitto</em>), può effettuare una <strong>Prova Contrapposta d’Intelligenza</strong> contro il proprio datore di lavoro. Se vince intasca 2d10+LS penny, 1d10+LS scellini o 1+LS corone (a seconda del volume d’affari deciso dal GM). Se il datore di lavoro ottiene almeno 6 LS, il Personaggio sottrae il denaro, ma l’ammanco viene scoperto. Ogni altro risultato è un semplice fallimento.</p>",
-      "tests": "Intelligenza per usare questo Talento"
+      "tests": "Intelligenza per usare questo Intascare"
     },
     {
       "id": "Enclosed Fighter",
@@ -7632,7 +7632,7 @@
       "id": "Etiquette",
       "name": "Etichetta",
       "description": "<p>Il Personaggio sa mescolarsi a un certo gruppo, purché indossi abiti adeguati. Alcuni possibili gruppi includono: Accademici, Criminali, Fedeli, Gilde, Nobili, Servitori e Soldati. Chi non ha questo Talento sarà chiaramente in imbarazzo in un ambiente poco familiare. Questo effetto è prima di tutto legato all’interpretazione ma, a discrezione del GM, può fornire bonus alle Prove di Socialità.</p>",
-      "tests": "Affascinare e Pettegolezzi (limitati al gruppo scelto) (Social Group)"
+      "tests": "Affascinare e Pettegolezzi limitati a (Social Group)"
     },
     {
       "id": "Fast Hands",
@@ -7644,7 +7644,7 @@
       "id": "Fast Shot",
       "name": "Tiro Rapido",
       "description": "<p>Quando ha un’arma a distanza carica, il Personaggio può sparare prima che gli avversari reagiscano nel Round seguente, ignorando l’Ordine d’Iniziativa. <em>Tiro Rapido</em> è soggetto a tutti i normali modificatori e consuma sia Azione che Manovra del Turno successivo. Se due Personaggi hanno questo Talento, chi ha più gradi spara per primo, in caso di pareggio il tiro è simultaneo.</p>",
-      "tests": "Mira per usare questo Talento"
+      "tests": "Mira per usare questo Tiro Rapido"
     },
     {
       "id": "Fearless",
@@ -7721,9 +7721,9 @@
     },
     {
       "id": "Hatred",
-      "name": "Odio (Gruppo)",
+      "name": "Odio",
       "description": "<p>Il Personaggio è consumato dall’Odio nei confronti di qualcuno o qualcosa (vedere pag. 190). Ogni grado di questo Talento permette di aggiungere un nuovo Gruppo. Possibili esempi includono: Uominibestia, Pelleverde, Mostri, Fuorilegge, Sigmariti, Nonmorti e Streghe.</p>",
-      "tests": "Volontà per contrastare il Gruppo scelto"
+      "tests": "Volontà per contrastare: (Resist Group)"
     },
     {
       "id": "Holy Hatred",
@@ -7959,7 +7959,7 @@
       "id": "Reaction Strike",
       "name": "Colpo Reattivo",
       "description": "<p>I riflessi del Personaggio gli permettono di uccidere molti nemici prima che possano colpirlo. Quando è vittima di una Carica, può effettuare una <strong>Prova Impegnativa (+0) d’Iniziativa</strong> per eseguire un Attacco Gratuito immediato, fuori del normale Ordine d’Iniziativa, con l’arma che stringe nella mano dominante. Durante un Round, questo Talento può essere usato una volta per grado, ma solo una contro ogni avversario.</p>",
-      "tests": "Iniziativa relativa a questo Talento"
+      "tests": "Iniziativa relativa a questo Colpo Reattivo"
     },
     {
       "id": "Read/Write",
@@ -7975,7 +7975,7 @@
       "id": "Resistance",
       "name": "Resistente (Minaccia)",
       "description": "<p>La robusta costituzione del Personaggio gli permette di sopravvivere ad alcuni pericoli. In ogni sessione, supera automaticamente la prima Prova per resistere a una determinata minaccia (Magia, Veleni, Malattie, Mutazioni, ecc.). Se il LS è rilevante, sarà considerato pari al suo Bonus Resistenza.</p>",
-      "tests": "Tutte quelle per resistere alla Minaccia scelta"
+      "tests": "Tutte quelle per resistere a: the associated Threat"
     },
     {
       "id": "Resolute",
@@ -7992,7 +7992,7 @@
       "id": "Riposte",
       "name": "Contrattacco",
       "description": "<p>Fedele al principio che ‘la miglior difesa è l’attacco’, il Personaggio risponde a ogni aggressione con rapidi contrattacchi. Quando impugna un’arma Rapida, può causare Danno in difesa come se fosse il suo Turno. Durante un Round, questo Talento può essere usato un numero di volte pari al suo grado.</p>",
-      "tests": "Mischia in difesa"
+      "tests": "Mischia in difesa (Contrattacco)"
     },
     {
       "id": "River Guide",
@@ -8038,7 +8038,7 @@
       "id": "Schemer",
       "name": "Cospiratore",
       "description": "<p>Il Personaggio è un politicante nato e vede cospirazioni dietro ogni angolo. Una volta per sessione, può porre al GM una domanda sulla situazione politica o i legami sociali. Il GM effettua una Prova d’Intelligenza segreta e fornisce informazioni in base al LS.</p>",
-      "tests": "Intelligenza per usare questo Talento"
+      "tests": "Intelligenza per usare questo Cospiratore"
     },
     {
       "id": "Sea Legs",
@@ -8090,7 +8090,7 @@
       "id": "Sixth Sense",
       "name": "Sesto Senso",
       "description": "<p>Quando il Personaggio è in pericolo ha una sorta di presentimento e può reagire di conseguenza. Il GM – di solito dopo una Prova d’Intuire segreta – lo avviserà di minacce incombenti. Inoltre, può ignorare la Sorpresa superando una Prova d’Intuire.</p>",
-      "tests": "Intuire legate a questo Talento"
+      "tests": "Intuire legate a questo Sesto Senso"
     },
     {
       "id": "Slayer",
@@ -8124,7 +8124,7 @@
       "id": "Step Aside",
       "name": "Farsi da Parte",
       "description": "<p>Il Personaggio è abile nell’evitare i colpi nemici. Quando usa con successo Schivare per difendersi può spostarsi di 2m e non è più considerato Ingaggiato. Nessun avversario ottiene Attacchi Gratuiti in questa circostanza.</p>",
-      "tests": "Schivare relative a questo Talento"
+      "tests": "Schivare relativo a questo Farsi da Parte"
     },
     {
       "id": "Stone Soup",
