@@ -1363,14 +1363,14 @@ Hooks.once('setup', () => {
 			0,
 		],
 		halfling: [
-			'Senso Acuto (Gusto)',
+			'Senso Acuto (Taste)',
 			'Vista Notturna',
 			'Resistente (Caos)',
 			'Piccolo',
 			2,
 		],
 		helf: [
-			'Senso Acuto (Vista)',
+			'Senso Acuto (Sight)',
 			'Razionale, Buon Senso',
 			'Vista Notturna',
 			'Seconda Vista, Sesto Senso',
@@ -1378,7 +1378,7 @@ Hooks.once('setup', () => {
 			0,
 		],
 		welf: [
-			'Senso Acuto (Vista)',
+			'Senso Acuto (Sight)',
 			'Gagliardo, Seconda Vista',
 			'Vista Notturna',
 			'Leggere/Scrivere, Saldo',
