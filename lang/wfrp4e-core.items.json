@@ -7973,7 +7973,7 @@
     },
     {
       "id": "Resistance",
-      "name": "Resistente (Minaccia)",
+      "name": "Resistente",
       "description": "<p>La robusta costituzione del Personaggio gli permette di sopravvivere ad alcuni pericoli. In ogni sessione, supera automaticamente la prima Prova per resistere a una determinata minaccia (Magia, Veleni, Malattie, Mutazioni, ecc.). Se il LS è rilevante, sarà considerato pari al suo Bonus Resistenza.</p>",
       "tests": "Tutte quelle per resistere a: the associated Threat"
     },
