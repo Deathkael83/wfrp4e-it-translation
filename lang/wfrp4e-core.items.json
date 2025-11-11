@@ -7821,7 +7821,7 @@
       "description": "<p>Dicono che quando il Personaggio è nato Ranald gli abbia sorriso. Il suo massimale di Punti Fortuna è pari al suo Fato più il grado di questo Talento.</p>"
     },
     {
-      "id": "Magic Resistance",
+      "id": "eowbsW6oHGSNJmxV",
       "name": "Resistente alla Magia",
       "description": "<p>Il Personaggio è resistente alla magia e riduce il LS di ogni incantesimo che lo colpisce di 2 per grado di questo Talento (gli effetti ad area vengono ridotti del LS più alto tra i bersagli). Questo Talento preclude <em>Benedizione, Invocazione, Magia Arcana, Magia Minore e Strega!</em></p>"
     },
@@ -8587,7 +8587,7 @@
       "description": "<p>La creatura è un abile condottiero. Ottiene +10 a Volontà e Socialità. \r\r<strong>Nota:</strong> questo Tratto non può essere conferito a esseri <em>Bestiali</em>.</p>"
     },
     {
-      "id": "Magic Resistance",
+      "id": "yrkI7ATjqLPDTFmZ",
       "name": "Resistente alla Magia",
       "description": "<p>La magia ha un effetto ridotto sulla creatura. Il LS di ogni incantesimo che la colpisce è ridotto del Grado (per esempio, Resistente alla Magia 2 riduce il LS di 2 punti).</p>"
     },
