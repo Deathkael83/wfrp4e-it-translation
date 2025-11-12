@@ -7366,7 +7366,7 @@
     {
       "id": "Acute Sense",
       "name": "Senso Acuto",
-      "description": "<p>Uno dei cinque sensi del Personaggio è molto sviluppato e gli permette di notare cose che altri non percepiscono. A discrezione del GM, può effettuare Prove di Percepire per notare dettagli impercettibili con il senso associato (per esempio: un’aquila che vola alta nel cielo, un veleno quasi inodore, il respiro di un topo oltre un muro, un’incisione ormai erosa o due birre dello stesso produttore che provengono da botti diverse).<b> <p>\n\n Sapere:</b> Sight = Vista, Taste = Gusto, Smell = Olfatto, Hearing = Udito, Touch = Tatto. </p>",
+      "description": "<p>Uno dei cinque sensi del Personaggio è molto sviluppato e gli permette di notare cose che altri non percepiscono. A discrezione del GM, può effettuare Prove di Percepire per notare dettagli impercettibili con il senso associato (per esempio: un’aquila che vola alta nel cielo, un veleno quasi inodore, il respiro di un topo oltre un muro, un’incisione ormai erosa o due birre dello stesso produttore che provengono da botti diverse).<b> <p>\n\n Riferimenti:</b> Sight = Vista, Taste = Gusto, Smell = Olfatto, Hearing = Udito, Touch = Tatto. </p>",
       "tests": "Percepire (Sense)"
     },
     {
