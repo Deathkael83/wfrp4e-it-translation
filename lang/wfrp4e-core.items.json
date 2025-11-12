@@ -8021,7 +8021,7 @@
       "id": "Savant",
       "name": "Genio",
       "description": "<p>Il Personaggio è eccezionalmente colto e possiede grande esperienza in un particolare campo. In questioni legate alla materia scelta, può ricordare un numero di informazioni corrette pari al grado di questo Talento senza bisogno di Prove. Come sempre, tirare può fornire ulteriori informazioni, a discrezione del GM.</p>",
-      "tests": "Conoscenza (materia scelta)"
+      "tests": "Conoscenza (chosen Lore)"
     },
     {
       "id": "Savvy",
