@@ -7723,7 +7723,7 @@
       "id": "Hatred",
       "name": "Odio",
       "description": "<p>Il Personaggio è consumato dall’Odio nei confronti di qualcuno o qualcosa (vedere pag. 190). Ogni grado di questo Talento permette di aggiungere un nuovo Gruppo. Possibili esempi includono: Uominibestia, Pelleverde, Mostri, Fuorilegge, Sigmariti, Nonmorti e Streghe.</p>",
-      "tests": "Volontà per contrastare: (Resist Group)"
+      "tests": "Volontà per contrastare: (Resistere a Group)"
     },
     {
       "id": "Holy Hatred",
