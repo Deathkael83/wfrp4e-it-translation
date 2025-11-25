@@ -1,0 +1,102 @@
+{
+  "label": "Tabelle (Rough Nights & Hard Days)",
+  "entries": [
+    {
+      "id": "TVYWHR9YRIpZNBbB",
+      "name": "Carriera - Gnomo",
+      "description": "",
+      "results": {
+        "1-1": "Apotecario",
+        "2-2": "Avvocato",
+        "3-4": "Medico",
+        "5-5": "Prete",
+        "6-7": "Studioso",
+        "8-14": "Mago",
+        "15-15": "Agitatore",
+        "16-17": "Artigiano",
+        "18-18": "Mendicante",
+        "19-19": "Investigatore",
+        "20-21": "Mercante",
+        "22-22": "Acchiappatopi",
+        "23-28": "Borghese",
+        "29-29": "Miliziano",
+        "30-30": "Consigliere",
+        "31-31": "Artista",
+        "32-32": "Legato",
+        "33-33": "Nobile",
+        "34-35": "Servitore",
+        "36-40": "Spia",
+        "41-42": "Gastaldo",
+        "43-43": "Balivo",
+        "44-44": "Erborista",
+        "45-46": "Cacciatore",
+        "47-54": "Minatore",
+        "55-58": "Scout",
+        "59-62": "Villico",
+        "63-63": "Cacciatore di Taglie",
+        "64-68": "Intrattenitore",
+        "69-69": "Messaggero",
+        "70-75": "Venditore Ambulante",
+        "76-76": "Barcaiolo",
+        "77-80": "Guardafiume",
+        "81-83": "Contrabbandiere",
+        "84-85": "Ruffiano",
+        "86-90": "Ciarlatano",
+        "91-91": "Ricettatore",
+        "92-92": "Fuorilegge",
+        "93-94": "Malavitoso",
+        "95-97": "Ladro",
+        "98-98": "Guardia",
+        "99-99": "Soldato",
+        "100-100": "Prete Guerriero"
+      }
+    },
+    {
+      "id": "aZ485TmhGW2YdysY",
+      "name": "Colore degli Occhi - Gnomo",
+      "description": "",
+      "results": {
+        "2-2": "Celeste",
+        "3-3": "Azzurro",
+        "4-4": "Blu scuro",
+        "5-7": "Turchese",
+        "8-11": "Verde pallido",
+        "12-14": "Nocciola",
+        "15-17": "Marrone pallido",
+        "18-18": "Marrone",
+        "19-19": "Marrone scuro",
+        "20-20": "Viola"
+      }
+    },
+    {
+      "id": "wcTrhkXPbhVTkOBW",
+      "name": "Colore dei Capelli - Gnomo",
+      "description": "",
+      "results": {
+        "2-2": "Nero",
+        "3-3": "Castano scuro",
+        "4-4": "Biondo ramato",
+        "5-7": "Castano",
+        "8-11": "Castano chiaro",
+        "12-14": "Rosso",
+        "15-17": "Biondo rosso",
+        "18-18": "Biondo oro",
+        "19-19": "Biondo cenere",
+        "20-20": "Bianco"
+      }
+    },
+    {
+      "id": "pdAbJyxsHNAMaSKZ",
+      "name": "Specie (Rough Nights & Hard Days)",
+      "description": "",
+      "results": {
+        "1-89": "Umano",
+        "90-93": "Halfling",
+        "94-97": "Nano",
+        "98-98": "Gnomo",
+        "99-99": "Alto Elfo",
+        "100-100": "Elfo Silvano"
+      }
+    }
+  ]
+}

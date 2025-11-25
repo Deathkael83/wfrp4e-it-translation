@@ -1,0 +1,33 @@
+{
+  "label": "Articoli Vari (Notti Brave & Giorni Duri)",
+  "mapping": {
+    "effects": "effects",
+    "gmdescription": "system.gmdescription.value",
+    "symptoms": "system.symptoms.value",
+    "contraction": "system.contraction.value",
+    "permanent": "system.permanent.value",
+    "incubation": "system.incubation.value",
+    "range": "system.range.value",
+    "duration": "system.duration.value",
+    "target": "system.target.value",
+    "wounds": "system.wounds.value",
+    "modifier": "system.modifier.value",
+    "tests": "system.tests.value"
+  },
+  "entries": [
+    {
+      "id": "vofOA5XiwV4qimbt",
+      "name": "Rivelare la Bellezza Interiore",
+      "description": "<p>Il Mago fa deteriorare rapidamente un oggetto o un individuo toccato. Se inorganico, questo Incantesimo rende l’oggetto fragile e inadatto all’uso. Se organico, il soggetto matura rapidamente fino a quando non inizia a guastarsi, spaccandosi e riversando il suo contenuto puzzolente ovunque. Un essere vivente deve effettuare una <strong>Prova Difficile (+0) di Resistenza</strong> per resistere a questo Incantesimo. In caso di fallimento, il bersaglio invecchia di [[/r 2d10]] anni e perde permanentemente -[[/r 1d10]]% delle seguenti Caratteristiche: Abilità in Combattimento, Abilità Balistica, Forza, Resistenza, Agilità e Destrezza.</p>",
+      "range": "Tocco",
+      "duration": "Istantanea",
+      "target": "Speciale"
+    },
+    {
+      "id": "BTl4iFl6jEaZedrq",
+      "name": "Soffuso di Ulgu",
+      "description": "<p>Il Personaggio è permeato dal Vento Grigio della Magia. Chi è dotato di Seconda Vista scorge una sorta di nebbia illusoria e mutevole che s’irradia dal suo corpo.</p>\n<p>Può scegliere di utilizzare l’Abilità Incanalare (<em>Ulgu</em>) al posto dell’Abilità Nascondersi nelle Prove relative.</p>\n<p>Inoltre, ogni tentativo riuscito di lanciare incantesimi della Sfera delle Ombre nel raggio di 7 metri fa guadagnare un LS. Questo bonus può essere reclamato una sola volta, indipendentemente da quanti Personaggi <em>Soffusi di Ulgu</em> si trovano vicini all’incantatore.</p>",
+      "tests": "Incanalare (Ulgu) per Nascondersi; qualsiasi incantesimo Ombra lanciato entro 8 metri guadagna +1 LS"
+    }
+  ]
+}
