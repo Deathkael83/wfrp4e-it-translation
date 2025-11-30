@@ -5404,7 +5404,7 @@
       "target": "Speciale"
     },
     {
-      "id": "Distracting",
+      "id": "tNMQQhBYzHoRq7AD",
       "name": "Distrazione",
       "description": "<p>Il Mago si ricopre di magia, che vortica distraendo i nemici. Ottiene il Tratto @Compendium[wfrp4e-core.items.Item.MVI0lXcg6vvtooAF]{Distraente}.</p>\n<p>&nbsp;</p>",
       "range": "Sè stessi",
@@ -8485,7 +8485,7 @@
       "specification": "Tipo"
     },
     {
-      "id": "Distracting",
+      "id": "MVI0lXcg6vvtooAF",
       "name": "Distraente",
       "description": "<p>Questa creatura distrae o confonde i nemici grazie a un muschio soporifero, un tanfo nauseante o un aspetto bizzarro e orrendo. Tutti gli esseri viventi entro un numero di metri pari al suo Bonus Resistenza subiscono -20 a tutte le Prove. Questa penalità non è cumulativa se sono presenti più creature con questo Tratto.</p>"
     },
