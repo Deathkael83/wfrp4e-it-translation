@@ -574,7 +574,7 @@
   "CHARGEN.Attributes.Rearrange": "(1) Riorganizza",
   "CHARGEN.Attributes.Allocation": "Assegnazione",
   "CHARGEN.Attributes.NotHappy": "Non sei contento di questi numeri?",
-  "CHARGEN.Attributes.Instructions": "<b>(1) Riorganizza</b>  le statistiche spostando tra loro i valori tirati  (ma ricevi 25 PE in meno). Oppure <b>(2) Ritira</b> senza ricevere PE. In alternativa, <b>(3) Distribuisci</b> 100 punti come desideri (per nessun PE).",
+  "CHARGEN.Attributes.Instructions": "(1)RIORGANIZZA  le statistiche spostando tra loro i valori tirati  (ma ricevi 25 PE in meno). Oppure (2) RITIRA senza ricevere PE. In alternativa, (3) DISTRIBUISCI 100 punti come desideri (nessun PE).",
   "CHARGEN.Attributes.AllocationPoints": "(*) Distribuisci 100 Punti tra le caratteristiche (min. 4, max: 18)",
   "CHARGEN.Attributes.AllocationSpent": "Hai speso {spent}",
   "CHARGEN.Attributes.ExtraPoints": "Assegna punti extra ({points} rimanenti)",
